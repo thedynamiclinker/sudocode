@@ -46,6 +46,6 @@ Go to job.
 
 - Code: Do it.
 - Tests: Check if we did it.
-- PR: Give to friends, get hi-fives.
+- PR: Give gift to friends. Get hi-fives.
 
 Love code again.
