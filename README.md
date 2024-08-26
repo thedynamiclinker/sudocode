@@ -1,8 +1,10 @@
+<span style="display: block; text-align: center; font-style: italic;">The Book of Skills</span>
 ![[sudo-code.png]]
 
 > _Company. (noun)._
-> _The fact or condition of being with others,_
-> _especially in a way that provides friendship and enjoyment._
+> 
+> _The fact or condition of being with others, especially in a way that provides friendship and enjoyment._
+> 
 > _e.g. "We kept each other company, so we wouldn't be alone."_
 
 ---
