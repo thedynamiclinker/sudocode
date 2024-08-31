@@ -1,5 +1,6 @@
-<span style="display: block; text-align: center; font-style: italic;">The Book of Skills</span>
+
 ![[sudo-code.png]]
+<span style="display: block; text-align: center; font-style: italic;">The Book of Tech</span>
 
 > _Company. (noun)._
 > 
@@ -9,9 +10,9 @@
 
 ---
 
-Welcome to the company handbook.
+Hi there,
 
-You're here because you're a developer.
+This book is for developers.
 
 That's what we are too.
 
