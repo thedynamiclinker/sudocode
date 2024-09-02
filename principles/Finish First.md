@@ -1,3 +1,8 @@
+Or: First Finish, Then Improve
+Or: First Finish It, Then Improve It
+
+---
+
 You want to plan 100 steps.
 ## How to finish last
 
@@ -16,5 +21,12 @@ You want to plan 100 steps.
     ...
 100. Improve
 
-Large systems that work come from small systems that work. Don't scale first. Finish first. Then scale.
+Large systems that work come from small systems that work.
 
+Don't scale first.
+
+Finish first.
+
+Before anything else.
+
+Then scale.

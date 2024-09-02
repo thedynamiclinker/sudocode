@@ -1,6 +1,9 @@
+Or: The fine line between domain general and domain specific approaches.
+Or: Why problem solving is the opposite of system building.
 Or: Why leetcode is the opposite of software development.
 Or: Why mathematics education is the opposite of mathematics.
-Or: Why problem solving is the opposite of system building.
+
+---
 
 Unlike homework problems, real world problems have flexible problem statements.
 
