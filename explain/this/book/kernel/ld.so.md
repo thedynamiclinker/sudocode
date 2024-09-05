@@ -2,4 +2,4 @@ ld. (noun)
 1. the linker of archives, searcher of libraries, and resolver of references, whose job is to unite many unix related objects into one.
 2. the name chosen by the authors of this book to describe themselves and their purpose.
 
-goto: [[explain/this/book/kernel/Makefile]]
+goto: [[vmunix]]
