@@ -1,4 +1,4 @@
-A property of systems arising from an attempt to implement "separation of concerns" without first ensuring the components responsible for handling those separate concerns are useful and some more general purpose than the specific function they serve in that particular machine when it is operating perfectly.
+A property of systems arising from an attempt to implement "separation of concerns" without first ensuring the components responsible for handling those separate concerns are useful for some more general purpose than the specific function they serve in that particular machine when it is operating perfectly.
 
 Leads to system that immediately breaks whenever any small component fails.
 
