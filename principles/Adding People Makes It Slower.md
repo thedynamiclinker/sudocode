@@ -34,3 +34,7 @@ This is the origin of Brooks' Law.
 Software development requires a higher density of creative output than painting, poetry, pottery, or prose.
 
 For these artists do not have a "for loop" at their fingertips that is capable of automating any task they find repetitive.
+
+For disciplines with these properties, when it comes time to plan work and coordinate a group of humans, "engineering" is the least effective metaphor.
+
+For disciplines with the properties, don't plan like "engineering." Instead, [Plan Like War](https://social.thedynamiclinker.com).

@@ -17,7 +17,7 @@ is less strong in the OO world than it is in the world of ELF binaries.
 
 The closest analogue to shared libraries in OO is probably the concept of a mixin class.
 
-But mixins do not generally have follow the name prefixing convention that prevents name collisions in languages like C.
+But mixins do not generally have to follow the name prefixing convention that prevents name collisions in languages like C.
 
 As a result, while code re-use via subclassing feels nice when imagined, in practice it leads to an uncomfortable uncertainty about whether and when the shared names will collide.
 

@@ -29,3 +29,4 @@ That means:
 - Whenever possible, avoid binary data formats.
 - Storing data in non-human-readable binary formats like databases is almost always a form of premature optimization.
 - Until you're absolutely certain that your application is IO bound and rate limited by access time to a specific type of data, it is premature to put that data into a non-human-readable format.
+- Optimize for humans first. Only once you're absolutely sure you're machine bound, then sacrifice human readability to optimization for the machine.

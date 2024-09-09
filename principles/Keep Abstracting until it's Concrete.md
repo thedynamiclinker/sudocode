@@ -1,6 +1,8 @@
 Once you reduce your problem to a sufficiently abstract form, you reach a point where you begin to see countless concrete examples of the same problem structure in other fields.
 
-Suppose you're on a tech team. Person A wrote some code that reads a small static file, say 20kb, and ships that file in the code repository, pushing the result to the main branch of version control. Person B sees this design pattern and reacts in disgust. Data shouldn't be in the codebase, B says. The Right Thing, B claims, is to put it in a central database. This is scalable, says B, and everyone nods in agreement, including A.
+Suppose you're on a tech team. Person A wrote some code that reads a small static file, say 20kb, and ships that file in the code repository, pushing the result to the main branch of version control. 
+
+Person B sees this design pattern and reacts in disgust. Data shouldn't be in the codebase, B says. The Right Thing, B claims, is to put it in a central database. This is scalable, says B, and everyone nods in agreement, including A.
 
 What just happened? 
 
@@ -8,7 +10,7 @@ Todo:
 Walk through the examples of:
 - A course syllabus (Distributed to everyone.)
 - A personal bookshelf. (Each person owns different books, but they're always nearby).
-- A public library. (A large central location, a few miles from your house. Absurd to store your daily todo list or your personal bookshelf here is absurd. The only reason this is centralized is because making copies of it all is hard.)
+- A public library. (A large central location, a few miles from your house. To store your daily todo list or your personal bookshelf here is absurd. The only reason this is centralized is because making copies of it all is hard.)
 
 Programmers generally agree that the root of all evil is shared mutable state.
 
