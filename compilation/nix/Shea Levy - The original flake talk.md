@@ -18,10 +18,3 @@ end = 5:30
 ### Open sourcing things in this model is extremely difficult because general functionality that you want to make open source is all tied up with the functionality of your private package sets
 start = 5:20
 end = 6:00
-
-### 
-start = 
-end = 
-
-``
-
