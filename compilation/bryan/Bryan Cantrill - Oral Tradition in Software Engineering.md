@@ -23,6 +23,18 @@ end = 18:46
 start = 18:46
 end = 25:15
 
+### Every source base is awash in narrative
+start = 31:12
+end = 34:12
+
+### The story of roff, troff, and nroff - The untimely death of Joe Ossanna - The ghost of Joe Ossanna - The easier to write than to read principle
+start = 34:12
+end = 35:52
+
+### On the lack of vowels in the ancient texts
+start = 36:05
+end = 37:20
+
 ### The Most Famous Comment in Computing
 start = 35:52
 end = 37:16
@@ -30,3 +42,7 @@ end = 37:16
 ### On Dennis Ritchie - You Can Ask the Lord?
 start = 37:17
 end = 41:54
+
+### Metacommentary solves everything - The Reader will want to understand what you The Author were thinking and what you meant
+start = 40:00
+end = 42:00
