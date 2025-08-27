@@ -78,4 +78,4 @@ A: The bible data storage format is based on the principle that a database of ti
 
 Q: Who the hell are you people?
 
-A: Glad you asked. We're the [[AUTHORS]].
+A: Glad you asked. We're the [[Authors]].
