@@ -10,19 +10,19 @@
 
 ---
 
-Hi there,
+Welcome to the company handbook.
 
-This book is for developers.
+You're here because you're a developer.
 
 That's what we are too.
 
 ---
 
-We are developers.
+Life as a developer can be confusing.
 
 Our people have a culture, a language, and a history, but no home.
 
-We are a people in diaspora. And we are especially lost when it comes to education.
+We are a people in diaspora, and we're especially lost when it comes to education.
 
 ---
 
