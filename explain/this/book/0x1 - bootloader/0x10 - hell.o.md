@@ -6,7 +6,7 @@ section .text
 He||.o
  W||ld
  |OR       月
- 山           ⁱ
+ ||          ⁱ
  三二一   φ @ l u x   曰
  .      .     ₙ
  .    .    日
@@ -15,15 +15,12 @@ He||.o
 L||D
  && it was good;
 
-    曰
-So sayeth the L||D.
-       曰    н
-  z   н   e   n
-  咱 a  m 們 e  n
+// So sayeth the L||D.
 
-goto links
+cmp || OR
+
+je _start
 ```
-
 
 **⚠️ WARNING**
 **⚠️ YOU MISSED A GOTO**
@@ -37,6 +34,6 @@ goto links
 **⚠️ LD**
 
 ```
-links:
+_start:
 ```
-goto: [[wor.ld]]
+goto: [[0x11 - wor.ld]]
