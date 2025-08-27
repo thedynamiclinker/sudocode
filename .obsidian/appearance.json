@@ -4,5 +4,10 @@
   "cssTheme": "Everforest",
   "enabledCssSnippets": [
     "ld"
-  ]
+  ],
+  "textFontFamily": "FiraMono Nerd Font",
+  "interfaceFontFamily": "",
+  "monospaceFontFamily": "",
+  "baseFontSize": 16,
+  "baseFontSizeAction": true
 }
