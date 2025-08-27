@@ -9,7 +9,7 @@
 goto: [[0x01 - gen.sys|0x01]]
 
 
-[^1]: [The beginning](https://thedynamiclinker.com/explain/this/book/firmware/logo.s)
+[^1]: [The beginning](https://thedynamiclinker.com/boot/this/book/firmware/logo.s)
 [^2]: [The logos](https://en.wikipedia.org/wiki/Logos)
 [^3]: [The book](https://thedynamiclinker.com)
 [^4]: [The John](https://biblehub.com/mace/john/1.htm)
