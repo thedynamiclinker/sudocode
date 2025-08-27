@@ -41,7 +41,6 @@ Also known as The UNIX Philosophy.
 - Simplicity is not allowed to overly reduce completeness.
 
 ## Benefits
-- [[Unix POC took 3 weeks]]
 - [[Brian Kernighan - Lex Fridman Short]]
 
 ## Sources 
