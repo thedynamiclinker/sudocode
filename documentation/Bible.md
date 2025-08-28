@@ -1,3 +1,8 @@
+> _Every code base is awash in narrative: of origin, of struggle, of conflict, of rewrite, of success and of failure. These narratives ultimately convey not only the history of a code base, but also its values._
+> -Bryan Cantrill
+
+---
+
 Bible. (noun).
 
 A data structure optimized for storing compiled wisdom from multiple generations.

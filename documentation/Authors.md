@@ -31,4 +31,4 @@ Whether you're here to stay or just visiting, we're glad to have you in the comm
 Love always,
 -LD
 
-See you in the [[0|root]].
+See you in [[0|user space]].
