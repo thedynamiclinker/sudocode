@@ -1,1 +1,0 @@
-See: [[Bryan Cantrill - Fork Yeah - IllumOS#Organizations don't innovate, people do - These technologies did not come from management, or marketeers, or table stakes on a requirements document, the projects reflect the people|Bryan Cantrill]] on the principle that projects reflect the people who made them, and why organizations don't innovate.
