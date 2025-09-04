@@ -1,5 +1,5 @@
 ## Link
-https://youtu.be/WVTWCPoUt8w?si=S8DHeOlp8a_AysmR
+https://www.youtube.com/watch?v=WVTWCPoUt8w
 
 ## Clips
 
@@ -7,3 +7,6 @@ https://youtu.be/WVTWCPoUt8w?si=S8DHeOlp8a_AysmR
 start = 19:46
 end = 20:37
 
+### Documentation always lags reality
+start = 1:03:20
+end = 1:04:06
