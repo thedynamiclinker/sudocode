@@ -274,9 +274,9 @@ echo Hello world
 
 1: I give up. This is ridiculous.
 
-0: Here, I'll give you a hint. Suppose I didn't have write access to those places. I would do this:
+0: Here, I'll give you a hint. If I didn't have write access to those places, I would do this:
 
-```
+```sh
 f=$HOME/bin/hello
 
 cat > $f << EOF
