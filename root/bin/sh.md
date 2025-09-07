@@ -500,7 +500,7 @@ useradd -m -s /bin/sh user
 
 0: That's ok. You will soon.
 
-1: Are you sure.
+1: Are you sure?
 
 0: Of course I am. Follow me.
 
