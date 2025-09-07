@@ -11,7 +11,7 @@
 
 0: Great, then you shouldn't have any problem writing me a hello world.
 
-1: The the shell?
+1: In the shell?
 
 0: In the shell.
 
