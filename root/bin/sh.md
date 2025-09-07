@@ -192,13 +192,13 @@ _(Narrator: 1 pauses, as if waiting for a response from 0.)_
 
 1: What was your orig---
 
-![[0s-first-question.jpg]]
+![[0s-first-question.png]]
 
-1: Oh. What would I do after this.
+1: Oh. What would I do after this?
 
 0: Exactly.
 
-(Narrator: 1 thinks for awhile.)
+_(Narrator: 1 thinks for awhile.)_
 
 1: I don't know what you're looking for.
 
