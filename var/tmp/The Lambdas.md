@@ -4,10 +4,6 @@ Cover Nix in and Eelco in this thread.
 
 What are the "threads" in the FHS model? Clearly user directories. Where to put them?
 
-Need to incorporate this somehow, it's too funny not to.
-
-![[Screenshot_20250909_073250_Reddit.jpg]]
-
 Cover the Y combinator.
 
 Church and Kleene.
