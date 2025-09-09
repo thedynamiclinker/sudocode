@@ -44,6 +44,8 @@
 
 ## The Lambdas
 
+### Cover
+
 Need to cover SPJ, Wadler, the catedgral, Church, and how they went off into the woods for about 90 years and now everyone's very suddenly realizing they were right about almost everything.
 
 Cover Nix in and Eelco in this thread.
@@ -66,3 +68,24 @@ Church and Kleene not even believing you could implement "minus one" in lambda c
 
 The big surprise: Computation is universal. Discovered not invented.
 
+Cover Lean here.
+
+## The Turings
+
+_Still feel like these should be called the Mus!_
+
+Descendants of Turing.
+
+The Turings / The Godels / The Turtles / The Goerings.
+
+The engineers.
+
+The half of early computing that split to build to von Neumann architecture.
+
+Down to earth, pragmatic.
+
+Ancestors of C.
+
+### Cover
+
+Unix, C, standard computing. These guys were orders of magnitude more important from immediately after Church Turing to very recently when things started to switch under the burden of massive modern complexity.
