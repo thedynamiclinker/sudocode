@@ -1,10 +1,3 @@
-## Questions
-
-- How are The Root Enterprise and Hello Corporation and The Dynamic Linker and Doubleunix fit into the narrative of Sudocode?
-
-- Where does the bulk of the narrative go? We can't be jumping around to different directories every single time. Or maybe we can?
-
-- Where do the principles go? `/root/bin` would be good, since that's "sudo code." But 1 is writing too, which doesn't square with 1 not having write access to /root in general. Everything should "work," without it ever needing to be stated explicitly.
 
 ## /
 
