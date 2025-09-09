@@ -9,9 +9,9 @@ section .data
 section .text
 
 _start:
-    lea rdi, [rel path]
-    lea rsi, [rel argv]
-    lea rdx, [rel envp]
+    lea rdi, [path]
+    lea rsi, [argv]
+    lea rdx, [envp]
     mov rax, 59
     syscall
 ```

@@ -38,7 +38,7 @@ Hello world
 
 0: Hello world.
 
-1: I... don't think there's anything left to do if our goal is Hello world.
+1: I... don't think there's anything left to do.
 
 0: Exactly my point. Everyone's wrong about everything, especially this. Well not especially this, everyone's equally wrong or more wrong about other things. But they're most certainly wrong about this.
 
@@ -70,9 +70,9 @@ Hello world
 
 0: You enjoy working on problems you already understand?
 
-1: No, I mean, not entirely. It's nice to understand things, but it's more challenging to work on a problem one doesn't entirely understand.
+1: No, I mean, not entirely. It's nice to understand things, but it's more challenging to work on a problem one doesn't entirely understand. So I suppose I prefer working on harder, more challenging problems. At least more challenging than hello world.
 
-0: So you like a good challenge?
+0: So you prefer hard things over easy things?
 
 1: Of course.
 
@@ -110,7 +110,7 @@ _(Narrator: 1 pauses, as if waiting for a response from 0.)_
 
 0: You didn't give one.
 
-1: Oh. Right. Well as I was saying, it's good to understand things but not too much. And it's good to be challenged but not too much. And yes to be honest I chose this job because it's fun.
+1: Oh. Right. Well as I was saying, it's good to understand things but not too much. And it's good to be challenged but not too much. And yes to be honest I chose this career because it's fun.
 
 0: So what's the point of programming?
 
@@ -206,7 +206,7 @@ _(Narrator: 1 thinks for awhile.)_
 
 1: Hey!
 
-0: When you want to run `cat` or `ls` or `grep`, do you start by opening an editor and reimplementing them from scratch?
+0: When you want to run `cat` or `ls` or `grep`, do you start by opening an editor and reimplementing those programs from scratch?
 
 1: Of course not.
 
@@ -234,7 +234,7 @@ _(Narrator: 1 thinks for awhile.)_
 
 1: I wouldn't actually mind having to write it again.
 
-0: Valid point. But imagine this code was something less brief and not entirely pleasant to write.
+0: Valid point. Imagine this code was something less brief and not entirely pleasant to write.
 
 1: I can't say this has been brief or entirely pleasant.
 
@@ -330,7 +330,7 @@ sh: hello: command not found
 /bin:/usr/bin:/usr/local/bin
 ```
 
-1: There's the problem. I don't have `/root/bin` in my `PATH`.
+1: I don't have `/root/bin` in my `PATH`.
 
 0: Neither do I.
 
@@ -346,7 +346,7 @@ sh: hello: command not found
 
 0: You may want to consider that these "riddles" are designed to help.
 
-(Narrator: 1 frowns at the terminal for a while.)
+_(Narrator: 1 frowns at the terminal for a while.)_
 
 1: Can you run this for me: `cat ~/.bashrc`
 
