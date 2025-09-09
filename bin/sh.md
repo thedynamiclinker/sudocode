@@ -265,11 +265,6 @@ echo Hello world
 
 1: I just said I don't. And then you said you do. And since it's becoming clear that the whole point of this rather lengthy and trivial exercise is to get me to install hello world, could you please install this code for me somewhere in the PATH?
 
-```sh
-#!/bin/sh
-echo Hello world
-```
-
 0: No.
 
 1: I give up. This is ridiculous.
