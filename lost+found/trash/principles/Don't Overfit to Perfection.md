@@ -6,4 +6,4 @@ This leads to a top-down design that feels modular, but in practice leads to [[A
 
 The resulting designs are overfit to perfection, in the sense that the whole system only works when every part is working perfectly.
 
-Todo: Parable of the Hi Tech Washing Machine
+Todo: Parable of the Hi Tech Washing Machine.

@@ -7,4 +7,4 @@
 4. foundations
 5. a unicode character, pronounced in modern mandarin as [gen](https://en.wiktionary.org/wiki/%E6%A0%B9), and in the oldest known versions of the language as [ken](https://doc.cat-v.org/bell_labs/utf-8_history).
 
-goto: [[0x20 - initrd]]
+goto: [[0x20-initrd]]

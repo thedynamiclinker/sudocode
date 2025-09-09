@@ -1,5 +1,5 @@
 See: [[Reading is harder than Writing]]
-See: [[Simplicity is the Ultimate Value]]
+See: [[Simplicity is the Ultimate Sophistication]]
 See: [[Worse is Better]]
 
 The ultimate reason to avoid closed source software is this timeless truth that all the best developers understand.

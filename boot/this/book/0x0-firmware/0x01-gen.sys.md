@@ -9,4 +9,4 @@
     - Topic: creation
 - Genre: pseudo code
 
-goto: [[0x10 - hell.o]]
+goto: [[0x10-hell.o]]

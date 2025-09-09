@@ -4,7 +4,7 @@ Hard requirements are low dimensional.
 
 Any hard requirement must not only fit in words, it is constrained by the attributes the author thought of at the time of writing.
 
-Since most [[Technical Affordances are Implicit]], hard requirements miss most of what makes a system pleasant or unpleasant, an approach efficient or wasteful, an implementation elegant or a kludge.
+Since most [[Most Affordances are Implicit]], hard requirements miss most of what makes a system pleasant or unpleasant, an approach efficient or wasteful, an implementation elegant or a kludge.
 
 When you want to discourage something in a team of developers, don't forbid it, disincentivize it.
 

@@ -10,3 +10,6 @@
 - Add a constructivism directory with some talks by Andrej Bauer.
 
 - Format Escaping the Ivory Tower.
+
+- Make the book markdown standard compliant. This may take some work, but it'll be worth it. We need to be able to display the exact text of the core book on lots of different platforms.
+

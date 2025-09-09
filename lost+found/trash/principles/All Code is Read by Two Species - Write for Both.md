@@ -1,3 +1,19 @@
+Or: Be human readable and machine readable
+
+Or:
+
+Kingdom: Silicon
+Phylum: Von-Neumann
+Class: Laptop
+Order: x84_64
+Family: Linux
+Genus: NixOS
+Species: $(hostname)
+
+Or something like that.
+
+---
+
 All writing is for communication.
 
 1. With machines.

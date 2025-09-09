@@ -6,7 +6,7 @@
 
 ---
 
-goto: [[0x01 - gen.sys|0x01]]
+goto: [[0x01-gen.sys|0x01]]
 
 
 [^1]: [The beginning](https://thedynamiclinker.com/boot/this/book/firmware/logo.s)

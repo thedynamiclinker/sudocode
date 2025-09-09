@@ -1,2 +1,2 @@
-See: [[Use Tests as Executable Documentation]]
+See: [[Write Executable Documentation]]
 See: [[Reading is harder than Writing]]

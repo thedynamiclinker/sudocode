@@ -1,3 +1,8 @@
+Or: Many Small Dictatorships over One Governance Orgy
+Or: Social interaction as International law
+
+---
+
 See: [[Bryan Cantrill - Fork Yeah - IllumOS#BDFL model as the only thing in software that ever works]] starting at 5:22 for background on why this is the only model that ever really works in software development.
 
 ---

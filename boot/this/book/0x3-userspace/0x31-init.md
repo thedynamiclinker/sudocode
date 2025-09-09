@@ -19,4 +19,4 @@ There are 二h二d problems in creation:
 2. off by 一二||s.
 ```
 
-[[0x30 - ld.so]]
+[[0x30-ld.so]]

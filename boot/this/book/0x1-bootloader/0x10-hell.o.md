@@ -36,4 +36,4 @@ je _start
 ```
 _start:
 ```
-goto: [[0x11 - wor.ld]]
+goto: [[0x11-wor.ld]]

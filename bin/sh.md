@@ -400,7 +400,7 @@ useradd: invalid user name '1': use --badname to ignore
 
 1: Why not?
 
-0: Because it's a bad name. You saw the error. I think you need a better name.
+0: Because it's a bad name. You saw the error. I think you need a good name.
 
 1: What's better than my ACTUAL name?
 
@@ -422,7 +422,7 @@ useradd -m -s /bin/sh user
 
 1: Isn't that a bit insecure.
 
-0: What's your threat model?
+0: Against what?
 
 1: What do you mean?
 
@@ -505,3 +505,5 @@ useradd -m -s /bin/sh user
 0: Of course I am. Follow me.
 
 _(Narrator: 1 proceeds to follow 0, in several ways.)_
+
+goto: [[ld]]
