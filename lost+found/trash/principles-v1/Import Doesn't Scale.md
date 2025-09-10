@@ -1,0 +1,3 @@
+- Import is a within-process method of code re-use.
+- It does not work between processes, except via `fork()`.
+- Because [[Concurrency Primitives are Broken]], `fork()` often can't be mixed with threads.

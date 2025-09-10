@@ -1,5 +1,3 @@
-#!/bin/sh
-
 The most beautiful grep of all time.
 
 Shows everywhere in the python ecosystem where hard-coded version ranges fuck things up, despite frequent claims that doing so is somehow a "best practice."
