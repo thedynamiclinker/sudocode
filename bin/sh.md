@@ -624,9 +624,33 @@ _(Narrator: 1's sudden return seems to have surprised 0, triggering history expa
 
 1: Exactly what?
 
-0: That's how they're wrong about hello world.
+0: That's how they're wrong about hello world. They never finish.
 
 1: I'm not entirely following.
+
+0: That's a very important thing to learn!
+
+1: What am I supposed to have learned from that?
+
+0: How to finish hello world.
+
+1: Can you stop and explain?
+
+0: Of course, head over with me to `/etc/principles`.
+
+_(Narrator: Our characters head over to [[01 - Finish Hello World|/etc/principles]], where 0 makes a new file.)_
+
+## First Principles
+
+1: What's the L||D?
+
+0: Lord, here we go.
+
+1: What?
+
+0: Here we go.
+
+1: I'm still not entirely following.
 
 0: That's ok. You will soon.
 

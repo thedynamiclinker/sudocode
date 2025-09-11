@@ -1,1 +1,1 @@
-NEXT: The "Foundation People" dialogue.
+The "Foundational People" dialogue.
