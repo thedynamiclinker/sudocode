@@ -1,7 +1,43 @@
 
 ~ #
 
-0: Write me a hello world in the shell.
+## There
+
+0: Write me a hello world.
+
+1: In what language?
+
+0: Here.
+
+1: That's not a language.
+
+0: Where are we?
+
+1: 
+```sh
+~ $ pwd
+/bin/sh
+```
+
+1: We're in the shell.
+
+0: So write me a hello world.
+
+1: In what language.
+
+0: Where are we?
+
+1: Did you not see my `pwd`?
+
+0: Write me a Hello world in `$(pwd)` in `$(pwd)`
+
+1: Write you a Hello world in the shell _in the shell?_
+
+0: Yes obviously.
+
+1: Oh ok I feel dumb now.
+
+0: Good.
 
 1: Is this a trick question?
 
@@ -23,7 +59,7 @@ _(Narrator: 1 looks around suspiciously, expecting this is some kind of trick.)_
 
 1: 
 
-```
+```sh
 ~ $ echo Hello world
 Hello world
 ```
@@ -40,11 +76,7 @@ Hello world
 
 1: I... don't think there's anything left to do.
 
-0: Exactly my point. Everyone's wrong about everything, especially this. Well not especially this, everyone's equally wrong or more wrong about other things. But they're most certainly wrong about this.
-
-1: About what?
-
-0: Hello world.
+0: Exactly my point. Everyone's wrong about everything, especially this.
 
 1: Expl---
 
@@ -68,23 +100,27 @@ Hello world
 
 1: Well I suppose it's nice to understand things.
 
-0: You enjoy working on problems you already understand?
+0: Absolutely. So do you prefer working on problems you already understand?
 
 1: No, I mean, not entirely. It's nice to understand things, but it's more challenging to work on a problem one doesn't entirely understand. So I suppose I prefer working on harder, more challenging problems. At least more challenging than hello world.
 
-0: So you prefer hard things over easy things?
+0: Would you say you prefer hard things over easy things?
 
-1: Of course.
+1: Of course!
 
 0: Well in that case I don't think you'll enjoy working under me.
 
 1: What?
 
-0: There are plenty of other places where you can learn about hard things, but this isn't one of them. I only believe in teaching about easy things.
+0: There are plenty of other places where you can learn about hard things, but this isn't one of them. I only teach the best bits. The easy bits.
 
-1: Well it hasn't exactly been easy so fa---
+1: You know you have kind of a reputation for being an extremely hard teac--
 
-0: And you're already out of your depth! If you can't get past hello world then I'm afraid the bits after this are only going to get harder.
+0: I only teach the best bits. And I only teach them about the easy bits. If they happen to find it hard, well that just goes to show why they're the best. But everything we do should be easy, in a fundamental sense. In a foundational sense.
+
+1: Well this hasn't exactly been easy so fa---
+
+0: If you can't get past hello world then I'm afraid the bits after this are only going to get harder.
 
 1: I thought you said you only taught easy thi---
 
@@ -110,7 +146,7 @@ _(Narrator: 1 pauses, as if waiting for a response from 0.)_
 
 0: You didn't give one.
 
-1: Oh. Right. Well as I was saying, it's good to understand things but not too much. And it's good to be challenged but not too much. And yes to be honest I chose this career because it's fun.
+1: Oh. Right. Well as I was saying, it's good to understand things but so much that you're bored. And it's good to be challenged but not too much. And yes to be honest I chose this career because it's fun.
 
 0: So what's the point of programming?
 
@@ -124,7 +160,7 @@ _(Narrator: 1 pauses, as if waiting for a response from 0.)_
 
 1: Elephants.
 
-0: That's an answer.
+0: That's not a terrible answer.
 
 1: It's not a good answer though.
 
@@ -148,13 +184,51 @@ _(Narrator: 1 pauses, as if waiting for a response from 0.)_
 
 1: Exactly what?
 
-0: Well as you so eloquently put it, "Of all the things we sometimes find ourselves doing as programmers," this would be one of "those things" that "is definitely not the point of why we're programming to begin with" right?
+0: Well as you so eloquently put it: `!?definitely not`
 
-1: ...Yes
+1: Um... what was that?
 
-0: So why do we do programming in the first place?
+0: It's a [[Bash]] thing.
 
-1: I don't know. But it's certainly not to write the same program we just wrote a few minutes ago.
+1: What kind of Bash thing?
+
+0: You didn't read the link did you.
+
+1: No.
+
+0: Understandable. I didn't think it would be an important conversation either, but it turned out to pretty important be once we got down in there. We made plans. Important ones. So go read it and add the plans to your todo list. I'll meet you back here when you're done. Here, I'll set the conversation's registers back to what they were before the link. _(ahem)_
+
+```sh
+cat << EOF
+
+1: Exactly what?
+
+0: Well as you so eloquently put it: !?definitely not
+
+1: Um... what was that?
+
+EOF
+```
+
+goto: [[/root/src/bugs/Bash]]
+
+## Here
+
+0: Why do we do programming in the first place?
+
+1: Uh...
+
+0: Exactly. I asked that question and you didn't know. So then I asked "What's NOT the point of programming?"
+
+1: I don't know.
+
+0: Suppose I told you to write me a hello world in the shell right now.
+
+1: But I just did that.
+
+0: Exactly. So what's NOT the point of programming?
+
+1: Well it's certainly not to write the same program we just wrote a few minutes ago.
 
 0: What if it's been a few hours?
 
@@ -182,7 +256,7 @@ _(Narrator: 1 pauses, as if waiting for a response from 0.)_
 
 0: Why?
 
-1: Because storage is infinitely cheaper than time and programs don't take up much space anyway.
+1: Because storage is infinitely cheaper than developer time these days, plus programs don't take up much space anyway.
 
 0: So..
 
@@ -192,7 +266,22 @@ _(Narrator: 1 pauses, as if waiting for a response from 0.)_
 
 1: What was your orig---
 
-![[0s-first-question.png]]
+0:
+
+> _(Narrator: 1 looks around suspiciously, expecting this is some kind of trick.)_
+> 
+> 0: Well get on with it.
+> 
+> 1: ~ $ echo Hello world
+>
+> Hello world
+> 
+> 0: Keep going.
+> 
+> 1: I think I'm done.
+> 
+> 0: Suppose I claimed you were not done. What would you do next?
+
 
 1: Oh. What would I do after this?
 
@@ -228,15 +317,15 @@ _(Narrator: 1 thinks for awhile.)_
 
 0: Is there anything special about `/bin`?
 
-1: Well not inherently. But the `PATH` environment variable is generally a colon separated list that includes `/bin` as one of its components, so the shell knows to look in there to find the programs whose names we type at the shell.
+1: Well not inherently. But usually `/bin` is in `PATH`, so the shell knows to look in there to find the programs whose names we type at the shell.
 
 0: Perfect! So how can you make sure you never have to write this particular hello world program again?
 
 1: I wouldn't actually mind having to write it again.
 
-0: Valid point. Imagine this code was something less brief and not entirely pleasant to write.
+0: Valid point. Imagine it was some much larger piece of code. Something less brief and not as entirely pleasant as this.
 
-1: I can't say this has been brief or entirely pleasant.
+1: I can't say this experience has been brief or entirely pleasant.
 
 0: Where would you put it?
 
