@@ -492,7 +492,11 @@ useradd: invalid user name '1': use --badname to ignore
 
 1: That does have a nice ring to it.
 
-0: I thought so too. So naturally I'll run the following on my end, for you:
+0: I thought so too.
+
+1: Now what?
+
+0: Well you're going to need a home directory. So naturally I'll run the following on my end, for you:
 
 ```sh
 useradd -m -s /bin/sh user
@@ -514,15 +518,36 @@ useradd -m -s /bin/sh user
 
 1: ...
 
-`(Narrator: 1 attempts to log in and figure this out once and for all.)`
+_(Narrator: 1 attempts to log in and figure this out once and for all.)_
 
-1: I know how to log in!
+1: I know how to log in!!
 
-`(Narrator: Time passes.)`
+```
+1: I know how to log inecho '_(Narrator: 1 attempts to log in and figure this out once and for all.)_'
+bash: 1:: command not found
+```
 
-1: Ok, `cd` into `$HOME`, `mkdir bin`, put the code in `bin/hello`, add `export PATH="$HOME/bin:$PATH"` to `~/.bashrc`. Why isn't it... Oh, source `~/.bashrc`, log out and back in just to make absolutely sure it still works. Got it.
+1: What just happened?
 
-`(Narrator: As 1 returns to /root, to show 0, 0 seems to be focused on something else`)`.
+0: Sorry, history expansion again. It's really an awful feature. We need to fix that bug in bash as soon as possible.
+
+1: Looking forward to it. :)
+
+0: In this case though it was your fault. You need to put single quotes around those `'!!'` if you know what I mean, before you echo them. Otherwise history expansion shows up and ruins everything. That's not our bug. That's just how it works.
+
+1: I'm gonna go log in as myself now. Be right back.
+
+_(Narrator: 1 attempts to log in and figure this out once and for all.)_
+
+1: I know how to log in'!!'
+
+0: Much better.
+
+_(Narrator: Time passes, as 1 works on logging in and finally finishing hello world.)_
+
+1: _(Talking to 1self)._ Ok, `cd` into `$HOME`, `mkdir bin`, put the code in `bin/hello`, add `export PATH="$HOME/bin:$PATH"` to `~/.bashrc`. Why isn't it... Oh, source `~/.bashrc`, log out and back in just to make absolutely sure it still works. Got it.
+
+_(Narrator: As 1 returns to /root to show 0, 0 seems to be focused on something else.)_
 
 0: Oh that's good.
 
@@ -534,15 +559,36 @@ useradd -m -s /bin/sh user
 
 1: Um, 0?
 
-0: Oh 0! I didn't see you there.
+0: Oh 0!! I didn't see you there.
 
-1: What are you looking at?
+```sh
+0: Oh, 0echo 1: Um, 0? I didn't see you there.
+>>
+```
 
-0: It's nothing. Just an old joke.
+_(Narrator: 1's sudden return seems to have surprised 0, triggering history expansion, before 0 then tripped over 0self by using a single quote. (Our characters now seem to be stuck at $PS2. Here, let's help them out.)..)..._
+
+```sh
+'
+```
+
+0: `bash: 0:: command not found`
+
+1: What?
+
+0: Nothing.
+
+1: What were you looking at?
+
+0: Nothing. It's nothing. Just an old joke.
 
 1: ...Are you sure?
 
-0: Of course. And a very good joke at that.
+0: Of course.
+
+1: ...
+
+0: And a very good joke at that\\!\\!
 
 1: ...
 
