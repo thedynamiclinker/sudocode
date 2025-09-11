@@ -39,3 +39,6 @@ end = 22:51
 start = 34:56
 end = 36:25
 
+### Production is war and war is hell do not romanticize production
+start = 38:29
+end = 39:17

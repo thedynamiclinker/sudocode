@@ -39,11 +39,22 @@ end = 16:40
 start = 16:40
 end = 18:16
 
+### Organizations dont innovate people do
+start = 16:45
+end = 18:12
+
 ### Sun was about more than just products, it was about advancing the state of the art
 start = 19:22
 end = 21:40
 
+### If only we had open sourced
+start = 20:14
+end = 21:10
+
+### Encourage forks or else you end up with governance
+start = 26:40
+end = 27:54
+
 ### God I love you Unix
 start = 54:20
 end = 54:43
-

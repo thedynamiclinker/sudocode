@@ -3,10 +3,6 @@ https://youtu.be/MShbP3OpASA?si=V18T84VSp1Etg6nX
 
 ## Clips
 
-### Startups and open source
-start = 59:30
-end = 1:00:28
-
 ### Forced to dogfood his own tools
 start = 5:04
 end = 7:46
@@ -74,6 +70,10 @@ end = 57:30
 ### Vision vs passion
 start = 57:15
 end = 57:30
+
+### Startups and open source
+start = 59:30
+end = 1:00:28
 
 ### Startups and open source
 start = 59:30
