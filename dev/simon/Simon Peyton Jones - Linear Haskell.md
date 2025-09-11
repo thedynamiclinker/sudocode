@@ -19,6 +19,7 @@ end = 3:10
 start = 3:00
 end = 3:30
 
-### Main intuition - Linearity on the arrow - The logic of resources
+### Main intuition - Linearity on the arrow - The logic of consumable resources
 start = 4:25
-end = 
+end = 8:13
+
