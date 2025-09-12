@@ -151,7 +151,7 @@ end = 40:15
 start = 40:15
 end = 42:30
 
-### Single point of truth - To add a command to Toybox, you add one file - To add a command to BusyBox when he left, you had to touch five
+### Single point of truth - To add a command to Toybox, you add one file - To add a command to BusyBox when he left, you had to touch five five files
 start = 42:30
 end = 44:30
 

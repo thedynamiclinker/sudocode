@@ -642,7 +642,11 @@ _(Narrator: Our characters head over to [[01 - Finish Hello World|/etc/principle
 
 ## First Principles
 
-1: What's the L||D?
+1: What was that bit at the end?
+
+0: What bit?
+
+1: The So sayeth and Amen and all that. Who's the L||D?
 
 0: Lord, here we go.
 

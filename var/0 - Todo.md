@@ -1,11 +1,19 @@
 
 ## /
 
-- /home/user/bin/hello: Refactor this. It's not pleasant to read, so it's not good sudo code. This part should be less chaotic, and more direct. Be didactic here, not just socratic. Then at the end of it, add a principle to `/etc/principles/00-finish-hello-world`.
+### /lib/ld.so
 
-- /lib/ld.so: Write the "We are the foundational people" dialogue. This is how the foundations book becomes sudocode. At the end, add a principle: `/etc/principles/01-we-are-the-foundational-people`.
+The "Foundational People" dialogue.
 
-- /bin/sh:  This should really be all about the shell. The "languages are a scam" bit belongs here. Talk about the Thompson shell, the Bourne shell, then Bash, and how Bash has been neglected and really has no "community." This also needs a principle at the end, like `/etc/principles/02-learn-to-love-the-shell`.
+Possibly Cover:
+
+- [L||D](https://en.wikipedia.org/w/index.php?title=Names_of_God_in_Judaism#Erasing_the_name_of_God:~:text=The%20words%20God%20and%20Lord%20are%20written%20by%20some%20Jews%20as%20G%2Dd%20and%20L%2Drd%20as%20a%20way%20of%20avoiding%20writing%20any%20name%20of%20God%20out%20in%20full.). Oh are you religious? What no read the link again. "...as a way of avoiding writing any name of God out in full." Yeah that's why I asked. Asked what. Are you religious? I don't see the connection. Why else would you avoid writing out the name of God in full? ...To save keystrokes. To save keystrokes? Why does anyone avoid typing anything in full? Because it's long. This is an ancient principle among our people. Who's our people? Unix. Well, not really. But they're the closest thing to our people's modern representatives. Cover no vowels. Cover ld as "dynamic linker" and writing backwards. Cover the logo. 
+- The "jews are like unix" & "christians are like windows xp" dialogue, mention conflicting views saying unix is the protestants & include all the images of people mentioning unix along with genesis from the include directory.
+- Well there's a lot of stuff in life that never makes sense unless you know how the original authors wrote. Show Bill Joy's vi keyboard with the arrows on the letter keys.
+- Start to get into "our history."
+- https://en.wikipedia.org/wiki/Names_of_God_in_Judaism
+- https://en.wikipedia.org/wiki/Sacred_Name_Movement
+- https://en.wikipedia.org/wiki/Sacred_Name_Bible
 
 ### /dev
 
