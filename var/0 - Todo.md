@@ -1,6 +1,17 @@
 
 ## /
 
+### @world
+
+Contact Chet Ramey, explain that you've found a bug, and would like to include it in a book. The book is called "sudo code", and it's a series of technical dialogues between two characters, 0 and 1. The 0 character is a sort of teacher figure, 1 is younger and more in touch with modern side of computing, but less aware of our shared history (Unix, C, GNU, and important things like who Chet Ramey is.)
+
+I'm a former Basic Books author and I've already published a book that was translated into 6 languages by various publishers around the world, so I know enough of the process that I think the project is pretty realistic and within the achievable range given my personal set of skills && flaws, the latter of which is a larger set than the former, but at least I know enough of computing to write a book that might plausibly be something unique.
+
+I'm sure you're busy so I don't want to bother you unnecessarily, but I'm also reasonably confident that you don't have a TON of requests coming in asking if you'd like to be involved in a dialogue with two abstract characters named 0 and 1 about the history of computing, so I feel confident enough to gently nudge you in the direction of saying "Hey Chet, do this."
+
+Hey Chet, do this.
+
+
 ### /lib/ld.so
 
 The "Foundational People" dialogue.

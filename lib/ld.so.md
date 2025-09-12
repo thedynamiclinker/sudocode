@@ -1,4 +1,4 @@
-## So. .. ...
+## So
 
 1: Dammit this file has the same name as the last one! Don't tell me we're only halfway done with this lecture. Wait why are we in `lib`? Is this a trick? Zero!
 
@@ -172,7 +172,10 @@ _(Narrator: A brief silence elapses, before1 realizes the question is not rhetor
 
 1: Down. I know down.
 
-0: And the moment it first hits us there's so much capital-T Truth we can't breath. My god. It explodes all at once into our ambient attention once we're down there. It takes every moment of our daily foreground and background thought. Propositional. Predicate. Completeness - Gödel - Henkin & Syntax smuggled into Semantics as a hack. Skolem-Lowenheim. Upward Downward. How the fuck is this not a paradox? Why the hell aren't there more people down here at this wild ass zoo? A real numbers object that's countable from outside but proves itself uncountable from in here? Absolutely melted. Mind rewritten. This is everything I need. (Keep Kerouac'ing with Formal Number Theory Robinson Arithmetic Incompleteness and eventually turn to finite trees as infinite ordinals Kirby Paris Hydras and Computability, do Kleene 1952 the blue bible, then eventually Reverse Mathematics and the nihilism, and why we turn away. Then back up because 1 is just following along wide eyes and doesn't know what any o )
+0: And the moment it first hits us there's so much capital-T Truth we can't breath. My god. It explodes all at once into our ambient attention once we're down there. It takes every moment of our daily foreground and background thought. Propositional. Predicate. Completeness - Gödel - Henkin & Syntax smuggled into Semantics as a hack. Skolem-Lowenheim. Upward Downward. How the fuck is this not a paradox? Why the hell aren't there more people down here at this wild ass zoo? A real numbers object that's countable from outside but proves itself uncountable from in here? Absolutely melted. Mind rewritten. This is everything I need.
 
----
+Continue.
 
+%%
+(Keep Kerouac'ing with Formal Number Theory Robinson Arithmetic Incompleteness and eventually turn to finite trees as infinite ordinals Kirby Paris Hydras and Computability, do Kleene 1952 the blue bible, then eventually Reverse Mathematics and the nihilism, and why we turn away. Then back up because 1 is just following along wide eyes and doesn't know what any of this means.)
+%%
