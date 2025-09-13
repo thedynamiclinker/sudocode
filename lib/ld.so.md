@@ -219,9 +219,13 @@ _(Narrator: At this point, 0's manic rant about \[topic-still-unclear\] has reac
 
 1: The Foundational People. There was all this build-up and then you just sort of went off into a hole about that book.
 
-0: Fair point. That was some pretty shit teaching on my part. It's hard for me to cover this particular stuff. It's tied up with a lot of personal baggae I guess. But I owe you a proper expanation of what all that was about. A slow one, at your level. Now that that's out of my system. I promise I'm not always like this. Foundations is special.
+0: Fair point. That was some pretty shit teaching on my part. It's hard for me to cover this particular stuff. It's tied up with a lot of personal baggage I guess. But I owe you a proper expanation of what all that was about. A slow one, at your level. I think I needed to get that out of my system, but please don't think of that as "teaching." I promise I'm not always like this. Foundations is special.
 
-1: I can see that. I mean that was a nice performance or whatever. But I'm not sure I've actually learned anything yet.
+1: I can see that.
+
+0: Did that make sense?
+
+1: I mean sure that was a nice performance or whatever. But I'm not sure I've actually learned anything yet.
 
 0: True. Ok. Let's back up.
 
