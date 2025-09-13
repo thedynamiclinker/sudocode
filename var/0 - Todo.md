@@ -1,6 +1,18 @@
 
 ## /
 
+### /opt/art
+
+- [ ] Make this more of a complete dialogue.
+
+- Explain eventually:
+- This is the "arithmetic run time" file.
+- To be explained once we get to the man dialogue and see brt1 and brt2 in early Unix.
+- Then explain crt1.o, crti.o, crtn.o, and finally why this file was called art.
+- The crt files live in /lib. The brt files lived in /etc. No one seems to know where to put these, so the "a" files go in /opt.
+
+![[man-001.png]]
+
 ### @world
 
 Contact Chet Ramey, explain that you've found a bug, and would like to include it in a book. The book is called "sudo code", and it's a series of technical dialogues between two characters, 0 and 1. The 0 character is a sort of teacher figure, 1 is younger and more in touch with modern side of computing, but less aware of our shared history (Unix, C, GNU, and important things like who Chet Ramey is.)

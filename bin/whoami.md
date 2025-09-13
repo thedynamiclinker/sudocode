@@ -75,15 +75,15 @@
 
 0: Well, that was about machines.
 
-1: Is that wrong?
+1: So?
 
-0: No.
+0: Are you a machine person?
 
-1: Good. Because it seemed like you were---
+1: What's a machine person?
 
-0: Might be wrong. It's not up to me to say. I'm asking you.
+0: I mean is that the thing you've always been drawn to? The thing you've always loved more than anything. Some people in the world are _definitely_ "machine people." It's not a bad thing. I'm just asking: is that you?
 
-1: Asking me what?
+1: What kind of answer are you looking for?
 
 0: Does that sound like you?
 
@@ -113,11 +113,11 @@
 
 1: In what way?
 
-0: Jacard Loom. Babbage's Difference engine. Babbage's Analytical engine. Quevedo's Electro-mechanical calculator. Lord Kelvin's third tide predicting machine. Konrad Zuse's Z3. Colossus. ENIAC. Ferranti Mark 1. Manchester Baby.
+0: Jacard Loom. Charles Babbage. Difference engine. Analytical engine. Quevedo's Electro-mechanical calculator. Lord Kelvin's third tide predicting machine. Konrad Zuse's Z3. Colossus. ENIAC. Ferranti Mark 1. Manchester Baby.
 
 1: Manchester Baby?
 
-0: Manchester Baby. First computer with software. Stored its instructions in its memory instead of in hardware or physical switches. Heard about it?
+0: Manchester Baby. First computer with software. Stored its instructions in something a bit more like memory than past machines, which all stored their code in hardware or physical switches. Heard about it?
 
 1: No.
 
@@ -125,7 +125,11 @@
 
 1: Then how did you---
 
-0: The Manchester Mark 1. The Ferranti Mark 1.
+0: The Manchester Mark 1.
+
+1: What?
+
+0: The Ferranti Mark 1.
 
 1: Are you just gonna list all the comput---
 
@@ -153,11 +157,11 @@
 
 1: No?
 
-0: Really? Ok that should have changed then.
+0: Really? Ok that line should have felt different.
 
 1: How exactly?
 
-0: Just adding a mental todo item. Something we'll need to fix in your education.
+0: Just adding a mental note of something we need to cover later. Lots of thing we need to fix in your education.
 
 1: Can I have a hint?
 
@@ -179,7 +183,7 @@
 
 0: Intel 80386, x86-64.
 
-1: I know that last one.
+1: I know that last one!
 
 0: How do you feel?
 
@@ -215,7 +219,7 @@
 
 0: Those things were Computers. Isn't that the field you chose, as a career, because you love it?
 
-1: No. I mean yes. But no, not like that. I mean when I think about the history of our field, I don't think about "The Fistem Incorporated Four Sixty Twelve dash Sleventy" or whatever. I don't go home and read about that stuff. And I don't care about it. Or know it. That's what I mean. I'm a programmer.
+1: No. I mean yes. But no. Not like that. I mean when I think about the history of our field, I don't think about "The Fistem Incorporated Four Sixty Twelve dash Sleventy" or whatever. I don't go home and read about that stuff. And I don't care about it. Or know it. That's what I mean. I'm a programmer.
 
 0: There are people who love that stuff. What's the difference?
 
@@ -227,11 +231,131 @@
 
 0: So who are we?
 
-1: Do you think I'm gonna suddenly have the answer? You've asked like twelve tim---
+1: I don't know.
 
-0: Are we "machine people"?
+0: Are we mathematicians?
 
-1: Machine people...
+1: I mean I enjoyed some parts of math. Hated others. It's complicated. But I know a lot of computer science eventually goes back to math.
+
+0: Does it?
+
+1: I thought so.
+
+0: How?
+
+1: ... Ok I didn't expect to be interrogated.
+
+0: Here, let's try this.
+
+1: Try wh---
+
+0: _(ahem)_
+- Abstract Algebra
+- Analysis
+- Analytic Geometry
+
+1: Oh my god are we back to listing things again?
+
+0:
+- Calculus
+
+1: That one's fun! I mean I hated it in school but there's this one book I really l--
+
+0:
+- Clifford Algebra
+- Cohomology
+- Combinatorics
+- Complex analysis
+- Complex manifolds
+- Cryptography
+
+1: I kinda feel like Cryptography's ours.
+
+0: 
+- Differential equations
+- Differential geometry
+- Discrete mathematics
+- Euclidean Geometry
+- Functional analysis
+- Galois Theory
+- Geometric Algebra
+- Geometric Flows
+- Geometric Langlands
+- Graph theory
+- Homology
+- Linear algebra
+
+1: Linear algebra was ok but I kinda felt like I was missing something.
+
+0:
+- Manifolds
+- Metric spaces
+- Non-standard analysis
+
+1: Ooh what's that?
+
+0:
+- Number theory
+
+1: Ugh stop it zero.
+
+0:
+- Probability theory
+- Real analysis
+- Riemannian manifolds
+- Riemannian metrics
+- Riemann surfaces
+- Topology
+- Topological Manifolds
+- Universal Algebra
+
+1: That one sounds cool.
+
+0:
+- Variational methods
+- Wiener measures
+
+1: BAHAHAAHHAHAH THAT CANNOT BE A THING
+
+0: How do you feel?
+
+1: Well my stomach hurts from laughing, Universal Algebra and Non-standard analysis sound cool but I don't know what they are.
+
+0: So how do you feel?
+
+1: Still not sure what you're looking for.
+
+0: Ever find yourself procrastinating from what you're "supposed" to be doing because you're in some book or site or paper reading about those things?
+
+1: No. Not these days. Once or twice--
+
+0: If you had a fully paid scholarship for four years of study and that list was your curriculum, would you be excited to learn it?
+
+1: I don't know. Maybe once I got there?
+
+0: Yes or no.
+
+1: Probably not.
+
+0: Are we mathematicians?
+
+1: No. At least I'm not.
+
+0: So who are we?
+
+1: Do you think I'm gonna suddenly have the answer? You've asked like ten tim---
+
+0: What would your parents say about you?
+
+1: Is this therapy now? I thought we were su---
+
+0: Would they say you're a mathematical type?
+
+1: Maybe. I think they think computing is a math thing. We don't talk about it much.
+
+0: Would they say "Ever since 1 was little, all 1 ever loved was puzzles and numbers and geometric---"
+
+1: No.
 
 0: Would your parents say "Ever since 1 was little, all 1 ever loved was machines of every kind. The washing machine. The toaster. Tractors, bulldozers, every kind of machine big or small."
 
@@ -281,7 +405,7 @@
 
 1: What?
 
-0: In "Computer science," you prefer the science. In "Scientific computing," you prefer the computing.
+0: In "Computer science," you prefer the science. In "Scientific computing," you prefer the computing. Those are the no---
 
 1: I'm not in love with nouns don't be dumb.
 
@@ -301,143 +425,4 @@
 
 1: Who are we?
 
-0: Not just us.
-
-1: What?
-
-0: Our people. A lot of them are lost.
-
-1: Who is "our people"?
-
-0: Not one of us in a hundred knows our roots. But we're everywhere.
-
-1: What's our roots?
-
-0: Some of us are in math departments. But we're not mathematicians.
-
-1: I have mixed feelings about math.
-
-0: Some of us chose physics and spent as many years in academia as we could, before leaving with a masters or PhD.
-
-1: I always wanted to learn how that quantum stuff works, ooh and relativ---
-
-0: Some of us are in neuroscience or cognitive psychology. These days, a lot of us ended up in machine learning of AI.
-
-1: Omg have you used @2 yet it's incredi---
-
-0: Most of us have found computing in some way or another.
-
-1: Sometimes I feel like I'm just talking to myself here. Hhellooooo I'm 1 is anyone listeni---
-
-0: But nearly all of our people are lost.
-
-1: How can an entire group of people ALL end up lost?
-
-0: The jews.
-
-1: We're JEWS?? Sorry that shouldn't have been all caps. Nothing against jews but I was kind of expecting all this waiting to end at a different climax than that. How exactly are we j---
-
-0: No no. I mean diaspora. It's possible for an entire group of people to be... a word... that means something like lost.
-
-1: What's diaspora? 
-
-0: It's a word that means something like lost.
-
-1: _(Reading)_
-	di·as·po·ra.
-	(noun.)
-	pron: /dīˈasp(ə)rə/
-	1. the dispersion or spread of a people from their original homeland.
-	etymology: Late 17th century (with reference to the Jewish diaspora): Greek, from _diaspeirein_ 'disperse', from _dia_  'across' + _speirein_ ‘scatter’. The term originated in the Septuagint (Deuteronomy 28:25) in the phrase _esē diaspora en pasais basileias tēs gēs_ 'thou shalt be a dispersion in all kingdoms of the earth'.
-
-0: That's us.
-
-1: Is this anti-semitic? I can't tell.
-
-0: Hah, no.
-
-1: Is it radically pro-semitic? Because I hear that's regarded with suspicion these days too.
-
-0: It's nothing to do with the Jews.
-
-1: Oh.
-
-0: It's just a surprisingly good analogy, in surprisingly many details.
-
-1: So who are we?
-
-0: We don't have a name.
-
-1: Well that's anti-climactic.
-
-0: At least not one that all of us recognize.
-
-1: Is this a cop out?
-
-0: But it's perfectly easy to give us one.
-
-1: So?...
-
-_(Narrator: 0 sits in silence for a bit longer than usual.)_
-
-1: Hells bells man spit it out.
-
-0: I've never said it before, out loud.
-
-1: Oh bullshit, you have a lot of students, I know this is all an act.
-
-0: How do you know you aren't special to me?
-
-1: Because we just met.
-
-0: And?
-
-1: And so far mostly you've just interrup---
-
-0: True.
-
-1: _(After a pause)_ ...ted me.
-
-0: You talk too much.
-
-1: YOU talk too mu---
-
-0: But there's something about you.
-
-1: _(Preening)_ Yeeeah, people tend to say tha--
-
-0: No they don't.
-
-1: Ouch.
-
-0: Yes I have plenty of students.
-
-1: Is it always one at a time or---
-
-0: _(To self)_ It's what, the second lecture?
-
-1: Y'know what? I'll shut up and let you finish.
-
-0: _(To self)_ Yeah, I've never talked about this. Not even by the end. Let alone as soon as this.
-
-1: _(Sits quietly, eyes almost sarcastically wide.)_
-
-0: Hah... Ready for me to finish this file?
-
-1: _(Nods silently, sporting an over exaggerated smile.)_
-
-0: Happy to.
-
-1: _(Silently listening, smile now comically manic.)_
-
-0: We don't have a name but it's easy to give us one, and it's easy to know that it's the correct name once one has heard it. Our people are scattered across the world. You're not special in that sense. We're in mathematics departments, physics departments, most of us are now in industry, in positions that go under the broad label of "computing." We can tell each other at a distance, when we encounter one who's one of us. Sometimes we find one another. But all of us are lost.
-
-1: _(Silently waiting, in anticipation, face now back to normal.)_
-
-0: You can say it one more tim---
-
-1: Who are we?
-
-0: We're the Foundational People.
-
-goto: [[lib/ld.so]]
+goto: [[ld]]
