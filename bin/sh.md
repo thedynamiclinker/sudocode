@@ -664,4 +664,4 @@ _(Narrator: Our characters head over to [[01 - Finish Hello World|/etc/principle
 
 _(Narrator: 1 proceeds to follow 0, in several ways.)_
 
-goto: [[ld]]
+goto: [[whoami|/bin/whoami]]

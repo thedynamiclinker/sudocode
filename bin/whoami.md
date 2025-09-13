@@ -63,7 +63,7 @@
 
 0: ...
 
-1: Ok so I actually really like this history stuff. Not that I'm an expert. But I like learning about when things were simpler. Even though everything was also a lot harder back then. I mean punch cards? I can't imagine. But before punch cards there were vacuum tubes and this big machine called ENIAC, I don't know much about that era, but during WWII the Germans had Enigma and Alan Turing made the Bombe which I guess was sort of a computer. The textbooks usually go all the way back to Charles Babbage. He had this thing called the Analytical Engine, I think he had two versions. I forget if he ever finished them. I think he ran out of money or something. And of course everyone knows Ada Lovelace was way ahead of everyone else, but she never gets the credit, as usual, so I guess that's where the field started.
+1: Ok so I actually really like this history stuff. Not that I'm an expert. But I like learning about when things were simpler. Even though everything was a lot harder back then. I mean punch cards? I can't imagine. But before punch cards there were vacuum tubes and this big machine called ENIAC, I don't know much about that era, but during WWII the Germans had Enigma and Alan Turing made the Bombe which I guess was sort of a computer. The textbooks usually go all the way back to Charles Babbage. He had this thing called the Analytical Engine, I think he had two versions. I forget if he ever finished them. And of course everyone knows Ada Lovelace was way ahead of everyone else, but she never gets the credit, as usual, so I guess that's where the field started.
 
 0: So that's us?
 

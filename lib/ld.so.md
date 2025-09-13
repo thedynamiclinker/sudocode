@@ -1,13 +1,13 @@
 
 ## TODO
+- [x] Move ld into here.
+- [ ] Move the "first code ever" to /lib/art (arithmetic runtime.)
 - [ ] Remove manic rant on pre-PA logic stuff. It accomplishes nothing.
 - [ ] Move the anti-gist of the "first code ever" section back from /opt.
 - [ ] Make "first code ever" a dialogue.
 - [ ] Add /dev/zero directory and add "The Reminisences of Logicians."
 
 ---
-
-_(Narrator: Most of what follows would probably be removed. But in times like this, it was necessary to say too much, so that one (or rather zero) could find the right words to delete. Deletion, it was often said, is more important than writing. At least that's the saying, among those interested in creation.)_
 
 ## So
 
@@ -240,8 +240,6 @@ _(Narrator: At this point, 0's manic rant about \[topic-still-unclear\] has reac
 _(ahem)_
 
 _(Narrator: 0 clears 0's throat.)_
-
-0: Once upon a time...
 
 ---
 
