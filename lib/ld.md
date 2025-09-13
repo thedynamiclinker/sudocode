@@ -1,1 +1,0 @@
-The "Foundational People" dialogue.

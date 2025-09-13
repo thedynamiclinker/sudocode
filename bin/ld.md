@@ -440,4 +440,4 @@ _(Narrator: 0 sits in silence for a bit longer than usual.)_
 
 0: We're the Foundational People.
 
-goto: [[ld.so]]
+goto: [[lib/ld.so]]
