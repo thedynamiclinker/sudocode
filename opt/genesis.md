@@ -61,7 +61,11 @@
 
 0: You're right. They don't tend to use those words. But that's what comprehension is. Usually when it happens, it sounds more like this:
 
-_Let S be the set defined as follows:_
+_Let S be defined as follows:_
+
+or
+
+_Consider the following set:_
 
 $$S = \{ \; x \; | \; p(x) \; \}$$
 
