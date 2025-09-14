@@ -9,4 +9,4 @@ Unlike homework problems, real world problems have flexible problem statements.
 
 Simpler solutions are often best in real life because they automatically avoid overfitting to the artificially precise problem statements we grow accustomed to in artificial situations like homework, leetcode, and "olympiads" of all forms.
 
-In practice, [[Worse is Better]].
+In practice, [[var/trash/principles-v2/Worse is Better]].

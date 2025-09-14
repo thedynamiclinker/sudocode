@@ -4,4 +4,4 @@
 - Documentation communicates to (1) but not (2).
 - Ideal documentation communicates to both equally well.
 - Therefore, tests are an executable form of documentation.
-- The only thing worth testing is the public interface, so [[Don't Test Internals]].
+- The only thing worth testing is the public interface, so [[var/trash/principles-v1/Don't Test Internals]].

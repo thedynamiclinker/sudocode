@@ -5,4 +5,4 @@ Or: Imagine Each Word Costs a Dollar.
 
 See: [[Simplicity is the Ultimate Sophistication]]
 See: [[Code is a Liability not an Asset]]
-See: [[Reading is harder than Writing]]
+See: [[var/trash/principles-v2/Reading is harder than Writing]]

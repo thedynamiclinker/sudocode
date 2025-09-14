@@ -1,6 +1,6 @@
-See: [[Reading is harder than Writing]]
+See: [[var/trash/principles-v2/Reading is harder than Writing]]
 See: [[Simplicity is the Ultimate Sophistication]]
-See: [[Worse is Better]]
+See: [[var/trash/principles-v2/Worse is Better]]
 
 The ultimate reason to avoid closed source software is this timeless truth that all the best developers understand.
 

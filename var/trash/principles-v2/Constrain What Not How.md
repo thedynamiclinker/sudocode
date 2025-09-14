@@ -12,5 +12,5 @@ In practice, seek out smaller versions of the large problem you want to solve, u
 
 See: [[Don't Overfit to Perfection]]
 See: [[Avoid Top Down Control]]
-See: [[Loss functions over Hard Requirements]]
+See: [[var/trash/principles-v2/Loss functions over Hard Requirements]]
 See [[Ignore Techniques Overfit to the Problem Statement]]

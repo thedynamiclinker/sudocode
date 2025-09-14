@@ -1,15 +1,76 @@
 
 ## /
 
+### Antigist
+
+1: What was the point of showing me all that code I didn't understand back in /opt/art? And why was it in a file calle---
+
+0: Antigist.
+
+1: What?
+
+0: That's why I showed you. It's important in our field to give the Antigist of things whenever possible.
+
+1: The... an---
+
+0: Antigist. Exactly.
+
+1: Is that like the opposite of Tigist?
+
+0: What? No. Why would it be that?
+
+1: You know, like anaerobic, anemia, anarchy. The "an" means "opposite."
+
+0: ...Not here.
+
+1: So it's not the opposite of Tigist?
+
+0: What's Tigist?
+
+1: I dunno.
+
+0: Anti-gist.
+
+1: Oh!
+
+0: The opposite of gist.
+
+1: Why would that be a good thing?
+
+0: Are you kidding? It's a great thing! Especially important in our field. 
+
+1: But wait, "gist" is like... the only part you need to understand, right?
+
+0: Absolutely not.
+
+1: You don't like the "gist" of things?
+
+0: I never said that. I love "gist." The gist of things is usually the most important part.
+
+1: I'm so confused. Isn't that what I said?
+
+0: Not even a little.
+
+1: Explain?
+
+### visit databases as a location of a file system and be like this is a f****** abomination 
+
+
 ### /opt/art
 
-- [ ] Make this more of a complete dialogue.
+- [ ] Need to explain eventually that:
 
-- Explain eventually:
-- This is the "arithmetic run time" file.
+- The art means "arithmetic run time."
+
 - To be explained once we get to the man dialogue and see brt1 and brt2 in early Unix.
-- Then explain crt1.o, crti.o, crtn.o, and finally why this file was called art.
+
+- Need to explain crt1.o, crti.o, crtn.o too.
+
 - The crt files live in /lib. The brt files lived in /etc. No one seems to know where to put these, so the "a" files go in /opt.
+
+- A good time to explain the crt files is probably somewhere around the babel dialogue. There we can cover the original hope of cross language code sharing at the object file and linker level, and show what happens if we do it naively.
+- Much like crt gets linked into every C program, formal Arithmetic (and incompleteness) gets linked into any formal system strong enough to express Arithmetic.
+
 
 ![[man-001.png]]
 

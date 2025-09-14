@@ -9,7 +9,7 @@ They will tell you all data belongs in a database, a distributed object store, o
 
 Instead:
 
-Learn to love the filesystem, and default to [[Standardize on Plain Text|plain text]].
+Learn to love the filesystem, and default to [[var/trash/principles-v2/Standardize on Plain Text|plain text]].
 
 It was an experiment in filesystems that gave us Unix.
 
