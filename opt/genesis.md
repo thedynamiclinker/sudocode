@@ -68,6 +68,6 @@ $$S = \{ \; x \; | \; p(x) \; \}$$
 
 TODO: Later in this file.
 
-- On comprehension: It's the logos principle. In the beginning was the word. Every mathematician believes that words are what creates things. At least mathematical things. In fact the idea that for something to exist you have to "construct" it is widely regarded with suspicion in standard mathematics. There's a whole group called the "constructivists" that's entirely defined by the fact that they're weirdos who believe \[that\].
+- On comprehension: It's the logos principle. In the beginning was the word. "Let there be." "Let M be a manifold." "Let S be the set of all sets that don't contain themselves." Every mathematician believes that words are what creates things. At least mathematical things. In fact the idea that for something to exist you have to "construct" it is widely regarded with suspicion in standard mathematics. There's a whole group called the "constructivists" that's entirely defined by the fact that they're weirdos who believe \[that\].
 
 - "So in the beginning, everyone realized they might be wrong about everything."
