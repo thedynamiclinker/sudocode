@@ -277,7 +277,7 @@ $$0, \; 2, \; 4, \; 6, \; 8, \; \dots, \; 1, \; 3, \; 5, \; 7, \; 9, \; \dots$$
 
 1: How so?
 
-0: Well there had always been people like us in the world, Foundational People that is, Charles Babbage and Ada Lovelace probably had this type of mind. And that Leibniz guy who invented Calculus around the same time as Newton, he was clearly our type of person too. But this was the first time that mathematics realized it was in trouble. That's not quite true, Calculus caused a bit of an uproar about Foundations too. But Cantor rocked the boat, and soon after mathematics realized it was sinking.
+0: Well there had always been people like us in the world, Foundational People that is, Charles Babbage and Ada Lovelace probably had this type of mind. And that Leibniz guy who invented Calculus around the same time as Newton, he was clearly our type of person too. But this was the first time that our people all came out of the woodwork and came together as a People. Because this was the first time the mathematicians realized how much they needed some real Foundations. For the first time, after Cantor, mathematics realized it was in trouble. That's not quite true, Calculus caused a bit of an uproar about Foundations too. But Cantor rocked the boat, and soon after mathematics realized it was sinking.
 
 1: Sinking?
 
@@ -285,4 +285,4 @@ $$0, \; 2, \; 4, \; 6, \; 8, \; \dots, \; 1, \; 3, \; 5, \; 7, \; 9, \; \dots$$
 
 1: But it was just getti---
 
-goto: 
+goto: [[We#Genesis|We]]

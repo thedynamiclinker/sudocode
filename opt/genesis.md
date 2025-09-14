@@ -1,5 +1,7 @@
 
-1: Ok, what happened after Cantor?
+0: In the beginning, everyone suddenly realized they might be wrong. About everything.
+
+1: Wait you didn't explain why they're worried yet. What happened after Cantor that made mathematicians start to worry?
 
 0: Well we brushed up against it in [[numbers|/opt/numbers]]. Remember that quote that went like this?
 
