@@ -1,8 +1,31 @@
 
 ## /
 
-### Antigist
+### /use/share/dict
 
+#### The ⟂-docs
+Pronounced "Orthodox." The orthogonal documents. Refers to theoretical computer science, primary computability and complexity as elaborated in the decades since the lambdas and the mus split. Though it appears on the surface to be the same culture, it is mostly orthogonal to the history of our people.
+
+#### The Trinity
+
+The Church:
+- Al
+- Onzo
+
+The Göd:
+- El
+- Kurt
+
+The Martyr:
+- Al
+- an
+
+Word was spread to the masses by:
+
+The Epistolary Apostle:
+- Steve
+- "Kleenelines is next to Gödeliness."
+#### antigist
 1: What was the point of showing me all that code I didn't understand back in /opt/art? And why was it in a file calle---
 
 0: Antigist.
@@ -101,10 +124,4 @@ The man dialogue.
 
 ### /dev
 
-- Now that we found the Sudocode backup from the old pre-refactor, check it carefully to see if we missed any indexing in addition to the Linus ones. Most indexing was before the refactor. This matters!
-
-- Add Phil Wadler directory.
-
 - Add a constructivism directory with some talks by Andrej Bauer.
-
-- Format Simon Peyton Jones - Escaping the Ivory Tower.

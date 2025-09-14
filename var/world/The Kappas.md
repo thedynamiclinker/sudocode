@@ -1,6 +1,6 @@
 It is believed the name "The Kappas" is derived from a slur used by other /etc/groups to describe this group. The slur derives from the [K Programming Language](https://en.wikipedia.org/wiki/K_(programming_language)), an extreme example of this culture that is not widely known within it.
 
-The name used by the group to describe itself remains unknown, as this fact was likely stored in a comment rather than a variable name, or perhaps in the name of a macro that was lost at compile time.
+The name used by the group to describe itself remains unknown, as this fact was likely stored in an integer index used as an offset into a large rectangular array, rather than being stored in a symbolic variable name.
 
 Often called The Rectangle People by other /etc/groups.
 
@@ -23,16 +23,19 @@ A strange and primitive culture.
 - Scilab.
 - Numpy.
 - Pandas.
+- Spreadsheets.
+- Relational databases.
+- Assorted abominations.
 
 ## Believes
 - Everything is a rectangle.
 - Everything is plural.
-- Objects are indices.
 - Adjectives are primary.
+- Nouns are integers.
 - Completely insane.
 
 ## Rumors
-Often traps a low-intelligence member of the Mus and convinces them that the pinnacle of human achievement is:
+Often traps a naive member of the Mus and convinces them that the pinnacle of computation is:
 - The Relational model.
 - Pivot tables.
-- Excel.
+- Microsoft Excel.

@@ -13,9 +13,9 @@ Character: 羊
 
 ## Releated /devs
 
-- Simon & Wadler
+- Simon & Philip.
 - Eelco.
-- Buzzard.
+- Kevin.
 
 ## Related /etc/groups
 
