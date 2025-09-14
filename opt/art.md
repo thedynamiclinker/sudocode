@@ -439,4 +439,4 @@ More than any other reason, I left mathematics and eventually found computing be
 
 )...
 
-goto: [[lib/ld.so#Pop|ld.so]]
+goto: [[lib/ld.so#Pop t'art|ld.so]]

@@ -78,4 +78,4 @@ _(Narrator: The scene. Two abstract caricatures stand together, a long time ago,
 
 0: Pop the stack.
 
-goto: 
+goto: [[We#Numbers|We]]
