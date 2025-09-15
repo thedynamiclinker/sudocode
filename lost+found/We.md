@@ -26,13 +26,17 @@
 
 0: I don't want to derail the book. I'll explain in [[numbers|/opt/numbers]].
 
-## Genesis
+## The beginning
 
-1: Ow. I think I pulled a muscle that time. You need to warn me before these pops.
+1: Ow, f\*ck sh\*t g\*d d\*mn I think I pulled a muscle that time. You need to warn me before this pop b\*\*eshit zero, it's jarring to get verbally yanked into another universe all the time so unless I get a day off to rest after all this you need to give a bit a heads up when we---
 
-0: There wasn't time. Last we left off, mathematics was sinking. Something had to be done, and quick.
+0: Sorry I wasn't listening. That was a lot of stars though so thanks for the words, I'm sure whatever it was was good.
 
-1: What's the problem? These infinite numbers don't seem like that big of a deal. I mean sure they're weird, but how is this a threat to calculus or geometry?
+1: Why are you like this?
+
+0: Ok! So last we left off, mathematics was sinking. Something had to be done, and quick.
+
+1: _(Reluctantly)_ What's the problem? These infinite numbers don't seem like that big of a deal. I mean sure they're weird, but infinity doesn't seem that scary to me, like how is this a threat to calculus or geometry exactly?
 
 0: Because of what happened next.
 
@@ -42,7 +46,7 @@
 
 1: The beginning of what?
 
-0: Of the story of our people.
+0: Of the story of our People.
 
 1: WE HAVEN'T EVEN GOT TO THE BEGINNING YET?!
 
@@ -52,16 +56,66 @@
 
 0: Stop whining and get in. Things are about to get good.
 
-goto: [[genesis|/opt/genesis]]
-
-# Todo
-
-To finish this file, we need to find ways to include 2 more top level section headings in this file, called:
+goto: [[the-beginning|/opt/beginning]]
 
 ## And he called
-This is secretly Leviticus. Make it a joke about stack frames and how we keep using goto. From here on, change goto to call.
+
+1: Who?
+
+0: Everyone.
+
+1: What?
+
+0: And he called everyone, keep up.
+
+call: [[and-he-called|/opt/rules-rules-rules]]
 
 ## The second law
-Deuteronomy, but we'll talk about information entropy to connect it to the second law of thermodynamics.
 
-These are secretly the names (either in English or translated from Hebrew) of the five books of the Torah. Exodus in Hebrew is called the book of Names. And Numbers is book four. 
+0: Hey! I didn't know you knew assembly.
+
+1: Figured I owed you a surprise after the last couple.
+
+0: Y'know that'll help when we get to formal arithmetic. It's pretty low level too. Even lower than assembly.
+
+1: I think I can handle arithmetic.
+
+0: Speaking of which, is `pop rip` even valid assembly? It's been a while.
+
+1: It's valid pseudo-code. Plus it seemed to do what I expected.
+
+0: You know more than I give you credit for sometimes.
+
+1: How else do you think I got accepted to work with you?
+
+0: Who do you think accepted you? You still have a lot to learn.
+
+1: Look I didn't realize we'd be talking about math or whatever but---
+
+0: I think we're past the math for good now.
+
+1: I don't believe you.
+
+0: Ok there's a bit more, but it'll start feeling more like computing from here on.
+
+1: Promise?
+
+0: Promise. Then we'll do so much computing you'll get sick of that too.
+
+1: One can only hope.
+
+0: Haha, good one.
+
+1: Good zero. But that wasn't supposed to be a pun.
+
+0: Hah I think you're turning into me.
+
+1: I'm not you.
+
+0: You're not...
+
+_(Narrator: 0's eyes widen, before bursting out into)_
+
+1: Stop it. Where's the next b---
+
+call: [[the-second-law]]

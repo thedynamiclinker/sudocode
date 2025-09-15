@@ -283,6 +283,6 @@ $$0, \; 2, \; 4, \; 6, \; 8, \; \dots, \; 1, \; 3, \; 5, \; 7, \; 9, \; \dots$$
 
 0: Sinking. Quick, pop the stack.
 
-1: But it was just getti---
+1: But it was just ge---
 
-goto: [[We#Genesis|We]]
+goto: [[We#The beginning|We]]
