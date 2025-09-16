@@ -84,9 +84,9 @@ Hello world
 
 1: It's o---
 
-0: Do we do it for fun?
+0: Do we do it for fun, or is there a more important reason?
 
-1: Of course not. We---
+1: Of course there's a more important reason. We---
 
 0: Wrong.
 
@@ -94,11 +94,19 @@ Hello world
 
 0: We absolutely do it for fun.
 
-1: Oh.
+1: Ok yeah I guess that's---
+
+0: And that's by far the most important reason we do it.
+
+1: It is?
+
+0: Of course. If we weren't here because we loved it, we'd be somewhere else, being something else, like bankers or professional wrestlers or yoga instructors.
+
+1: I don't think anyone loves being a banke---
 
 0: And what makes it fun?
 
-1: Well I suppose it's nice to understand things.
+1: Well I guess it's nice to understand things.
 
 0: Absolutely. So do you prefer working on problems you already understand?
 
@@ -188,9 +196,9 @@ _(Narrator: 1 pauses, as if waiting for a response from 0.)_
 
 1: Um... what was that?
 
-0: It's a [[Bash]] thing.
+0: It's a [[bash]] thing.
 
-1: What kind of Bash thing?
+1: What kind of bash thing?
 
 0: You didn't read the link did you.
 
@@ -210,7 +218,7 @@ cat << EOF
 EOF
 ```
 
-goto: [[/root/src/bugs/Bash]]
+goto: [[bash]]
 
 ## Here
 

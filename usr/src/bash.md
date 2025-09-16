@@ -14,7 +14,7 @@
 
 1: But I thought you just said y---
 
-0: I find bugs in major projects all the time. Then I learn enough about the project to understand how to fix the bug. Then I work until I fix it. Then I go figure out all the requirements to contribute the patch to the upstream maintainers. Then I write up a nice patch according to those requirements. At that point there's a nice finished patch sitting in my home directory. Then I go do something else.
+0: I find bugs in major projects all the time. Then I learn enough about the project to understand how to fix the bug. Then I work until I fix it. Then I go figure out all the requirements to contribute the patch to the upstream maintainers. Then I write up a nice patch according to those requirements. At that point there's a nice finished patch sitting in my home directory. Then I leave it there and go do something else.
 
 1: What?! Why do all that work just to stop right before the end?
 
@@ -22,7 +22,7 @@
 
 1: Which is?...
 
-0: Learning how to fix bugs in major projects and how to contribute them, so I can teach my students about it.
+0: Learning how to fix bugs in major projects and how to contribute them, so I can teach you about how to do it.
 
 1: So why not... DO it?
 

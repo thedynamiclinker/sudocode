@@ -1,16 +1,11 @@
 ```
 global _start
-```
 
-1: Didn't we already pass `_start`?
+section .data
+    path db "/bin/init", 0
+    argv dq path, 0
+    envp dq 0
 
-0: That was in the bootloader.
-
-1: So?
-
-0: Different namespace. Ok now, don't jump past this code. This time just stay still and let it run. We need it.
-
-```
 section .text
 
 _start:
@@ -19,11 +14,6 @@ _start:
     lea rdx, [envp]
     mov rax, 59
     syscall
-
-section .data
-    path db "/bin/init", 0
-    argv dq path, 0
-    envp dq 0
 ```
 
 goto: [[0x30-init]]

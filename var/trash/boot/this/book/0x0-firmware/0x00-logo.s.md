@@ -6,18 +6,6 @@
 
 ---
 
-1: What are we doing in here?
-
-0: What we aren't doing here.
-
-1: What?
-
-0: I just explained one frame up, before we came to this file. I said our field is lost because we have no guidance. No timeless principles. No origin story. No bibles. You were skeptical, and you asked me what it means to write a bible. We came in here so I could show you what we're _not_ doing here.
-
-1: What we're not doing where?
-
-0: In this book. This part of the book is about the things we won't be doing in this book.
-
 goto: [[0x01-gen.sys|0x01]]
 
 

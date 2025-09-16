@@ -104,18 +104,14 @@ call: [[and-he-called|/opt/rules-rules-rules]]
 
 1: One can only hope.
 
-0: Haha, good one.
+0: Good one.
 
-1: Good zero. But that wasn't supposed to be a pun.
+1: That wasn't supposed to be a pun.
 
-0: Hah I think you're turning into me.
+0: Well it was. Semantics is tricky.
 
-1: I'm not you.
+1: How so?
 
-0: You're not...
-
-_(Narrator: 0's eyes widen, before bursting out into)_
-
-1: Stop it. Where's the next b---
+0: Follow me.
 
 call: [[the-second-law]]
