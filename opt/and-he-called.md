@@ -4,7 +4,7 @@
 
 1: _(Nauseous)_ What?
 
-0: Mathematics was sick. They needed a doctor. So they called this guy.
+0: They needed a doctor. Mathematics was sick. So they called this guy.
 
 ![[david-hilbert.jpg]]
 

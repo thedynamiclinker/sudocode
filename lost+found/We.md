@@ -68,6 +68,10 @@ goto: [[the-beginning|/opt/beginning]]
 
 0: And he called everyone, keep up.
 
+1: I'm feeling sick from all this context switching. 
+
+0: What context switching? It's all one story. C'mon.
+
 call: [[and-he-called|/opt/rules-rules-rules]]
 
 ## The second law
