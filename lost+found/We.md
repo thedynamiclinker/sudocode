@@ -4,7 +4,7 @@
 
 0: I don't think so. What do you mean?
 
-1: I don't want to derail the book. I'll explain in [[names|/opt/names]].
+1: I don't want to derail the book. I'll explain in [[names]].
 
 ## Numbers
 
@@ -24,7 +24,7 @@
 
 1: I'm gonna need an explanation of why this is different from the tribe thing.
 
-0: I don't want to derail the book. I'll explain in [[numbers|/opt/numbers]].
+0: I don't want to derail the book. I'll explain in [[numbers]].
 
 ## The beginning
 
@@ -56,7 +56,7 @@
 
 0: Stop whining and get in. Things are about to get good.
 
-goto: [[the-beginning|/opt/beginning]]
+goto: [[beginning]]
 
 ## And he called
 
@@ -72,7 +72,7 @@ goto: [[the-beginning|/opt/beginning]]
 
 0: What context switching? It's all one story. C'mon.
 
-call: [[and-he-called|/opt/rules-rules-rules]]
+call: [[and-he-called]]
 
 ## The second law
 

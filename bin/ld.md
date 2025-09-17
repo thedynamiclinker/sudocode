@@ -141,4 +141,4 @@ _(Narrator: 0 sits in silence for a bit longer than usual.)_
 
 1: Who are we?
 
-goto: [[lib/ld.so]]
+goto: [[ld.so|/lib/ld.so]]
