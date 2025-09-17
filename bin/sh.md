@@ -654,9 +654,13 @@ _(Narrator: Our characters head over to [[01 - Finish Hello World|/etc/principle
 
 0: What bit?
 
-1: The So sayeth and EOF and all that. Who's the L||D?
+1: The So sayeth and all that. Who's the L||D?
 
-0: Well || is "OR", so that's the Lord.
+0: Well || is "OR".
+
+1: So it's L or D?
+
+0: Exactly. Like the Lord or whatever.
 
 1: What?
 
@@ -664,32 +668,40 @@ _(Narrator: Our characters head over to [[01 - Finish Hello World|/etc/principle
 
 1: Explain?
 
-0: Or the loader.
+0: Or the loader. Same thing in a way.
 
 1: I have no idea what you're talking about.
 
-0: Sure you do. `ld`. The dynamic linker. Or dynamic loader.
+0: Sure you do! The dynamic linker. Or dynamic loader. Also known as `ld`. 
 
 1: Why's the abbreviation backwards?
 
-0: It's not.
+0: How do you mean?
 
-1: Shouldn't "dynamic linker" be `dl`, not `ld`?
+1: Shouldn't "dynamic linker" or "dynamic loader" be `dl`, not `ld`?
 
-0: That's how they used to write.
+0: Well no that's not what it stands for, so it's not backwards.
+
+1: You just said---
+
+0: But even if it was backwards, it still wouldn't be backwards.
+
+1: You're making zero sense.
+
+0: That's how they used to write!
 
 1: That's how who used to write?
 
-0: The authors. Of the old books.
+0: The authors. Of the old code.
 
-1: I'm still not entirely following.
+1: Still not following.
 
 0: That's ok. You will soon.
 
-1: Are you sure?
+1: You sure about tha---
 
-0: Of course I am. Follow me.
+0: Of course, follow me.
 
 _(Narrator: 1 proceeds to follow 0, in several ways.)_
 
-goto: [[git-blame|/bin/babel]]
+goto: [[babel|/bin/babel]]

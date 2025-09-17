@@ -1,4 +1,10 @@
 
+TODO: Continue where the babel dialogue left off, explaining the "git blame" below and how the bible is more like a code base than any other genre. Also mention that the boring parts are mostly by the bureaucrat (priestly source.) Same as codebases.
+
+Then at the end, have 1 say this is fun and all, but I'd prefer a true history. Then switch to /bin/whoami and the history of computing from the early days of foundations and Church/Godel/Turing.
+
+Then at some point we need to submit our bugfix to bash and make Chet Ramey a character.
+
 
 ![[bible-git-blame-00.jpg]]
 
