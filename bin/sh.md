@@ -654,7 +654,7 @@ _(Narrator: Our characters head over to [[01 - Finish Hello World|/etc/principle
 
 0: What bit?
 
-1: The So sayeth and Amen and all that. Who's the L||D?
+1: The So sayeth and EOF and all that. Who's the L||D?
 
 0: Lord, here we go.
 

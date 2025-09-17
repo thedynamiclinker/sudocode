@@ -1,27 +1,9 @@
 
 ## /
 
-### We
-- During ld.so when the conversation moves into `/opt/art`, that should really be in `the-second-law` or something linked to it.
-- Move this content later, so that we can more quickly get to the three members of the trinity, or what we'll call `/dev/zero`
-- That is, the 0th developers:
-	- (a) Alonzo Church, with the Lambda Calculus
-	- (b) Kurt Godel, with general recursive functions, and
-	- (c) Alan Turing, with Turing machines.
-	- Stephen Kleene is the most central figure to showing that all these definitions are equivalent, and in many ways he was the first developer not including the language designers. He was the one implementing things in early lambda calculus that even Church didn't think were possible. Show the screenshots in `/var/include` where the Hirst book mentions that Kleene's book is only for those "with a frighteningly technical bent." Then show what that frighteningly technical bent is, and that it's essentially just doing something simple in a system where you can't skip steps: make the case that this is early programming. Programming isn't about machines, it's about systems that are sufficiently well-defined that their interpretation does not require a human mind. Mathematics is not this. It has never been this, even in the books devoted to its formalization and axiom systems, which have a persistent habit of _not working within those systems._ The reason for working within these systems is not the lack of intuition in the user, but the desire to create something that can be interpreted mechanically, and therefore can transcend the boundaries between minds, between species, and even between the living and non-living: computing machines or human minds can read the same code and execute the same sequence of steps, without the need for a high level undocumented mind to use outside knowledge about the world to fill in the missing pieces. In other words, programming is what mathematics becomes in the extremely rare cases when that mathematics is well defined.
 
 ### babel
-- Immediately after hello world, do babel.
-- Finish hello world is the first principle.
-- Emphasize that creation is not finished when the code is written.
-- Creation is not finished without the word.
-- What's the word?
-- The name. A new word in our lexicon. The word that will be used to call the code we just wrote. It's the first hard problem in computing for a reason. Until the hello world is in a file named `hello` in `~/bin`, and until `~/bin` is a location in the PATH that will be searched any time we type the word `hello`, we're not finished. There are many false moralities in computing. Often a good thing, like tests, is elevated to the ultimate value. We move from tests to test driven development. There is only one law in computing.
-- What?
-- The word.
-- How is that a law?
-- Code is ready for the world when it has a name. If you then find in practice that you never speak that word, and never use that code, you've learned something. If the name can be forgotten, then the code can be forgotten.
-- The first law of computing is "In the beginning is the word." Code needs a name before it begins to exist. Other code can reference it, other developers can reference it. The first user of all code is yourself in the future.
+
 
 At this point, having emphasized the Optimize for Sharing principle, we begin the babel puzzle.
 
@@ -42,6 +24,16 @@ At this point, having emphasized the Optimize for Sharing principle, we begin th
 - Two LDs, one is the elder LD from the babel story, the other is the Second Order LD, the loader, that performs a similar function to the elder LD at runtime, but does so to support a more humble and powerful method of code sharing: exec.
 
 - Once we get exec, the babel puzzle is complete. We immediately start Genesis 12, which is a long begat list that leads to Abraham (aka Ken.)
+
+
+### We
+- During ld.so when the conversation moves into `/opt/art`, that should really be in `the-second-law` or something linked to it.
+- Move this content later, so that we can more quickly get to the three members of the trinity, or what we'll call `/dev/zero`
+- That is, the 0th developers:
+	- (a) Alonzo Church, with the Lambda Calculus
+	- (b) Kurt Godel, with general recursive functions, and
+	- (c) Alan Turing, with Turing machines.
+	- Stephen Kleene is the most central figure to showing that all these definitions are equivalent, and in many ways he was the first developer not including the language designers. He was the one implementing things in early lambda calculus that even Church didn't think were possible. Show the screenshots in `/var/include` where the Hirst book mentions that Kleene's book is only for those "with a frighteningly technical bent." Then show what that frighteningly technical bent is, and that it's essentially just doing something simple in a system where you can't skip steps: make the case that this is early programming. Programming isn't about machines, it's about systems that are sufficiently well-defined that their interpretation does not require a human mind. Mathematics is not this. It has never been this, even in the books devoted to its formalization and axiom systems, which have a persistent habit of _not working within those systems._ The reason for working within these systems is not the lack of intuition in the user, but the desire to create something that can be interpreted mechanically, and therefore can transcend the boundaries between minds, between species, and even between the living and non-living: computing machines or human minds can read the same code and execute the same sequence of steps, without the need for a high level undocumented mind to use outside knowledge about the world to fill in the missing pieces. In other words, programming is what mathematics becomes in the extremely rare cases when that mathematics is well defined.
 
 ### /boot
 - The /boot dialogues were good, especially the bit with the binary loader we wrote in C.

@@ -97,13 +97,28 @@
 
 - Before long, nothing will feel "finished" until it's ready for your future self to re-use in whatever ways future you will find most useful.
 
+- Creation is not finished just because the code is finished.
+
+- Creation is not finished without the word.
+
+- The word is a name. A new word in our lexicon. The word that will be used to call the code in the future.
+
+- Naming things is the first hard problem in computing for a reason.
+
+- Until the hello world is in a file named `hello` in `~/bin` or some other location in the `PATH` that will be searched any time we type the word `hello`, we're not finished.
+
+- Code can be ready for the world without tests, without review, without any of the false requirements one often hears.
+
+- Code is ready for the world as soon as it has a name.
+
+- If you then find in practice that you never type that name, and thus never use the code, it doesn't matter if the code is untested, unreviewed, insecure, or otherwise imperfect.
+
+- If the name can be forgotten, then the code can be forgotten.
+
+- Code begins to exist the moment it has a name.
+
+- In the beginning was the word.
+
 - So sayeth the L||D.
 
-- Amen.
-
----
-
-And as always,
-when in doubt
-about where to go next,
-return to [[sh#First Principles|First Principles]].
+- [[sh#First Principles|EOF]].
