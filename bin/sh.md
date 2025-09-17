@@ -656,11 +656,31 @@ _(Narrator: Our characters head over to [[01 - Finish Hello World|/etc/principle
 
 1: The So sayeth and EOF and all that. Who's the L||D?
 
-0: Lord, here we go.
+0: Well || is "OR", so that's the Lord.
 
 1: What?
 
-0: Here we go.
+0: It's also the linker.
+
+1: Explain?
+
+0: Or the loader.
+
+1: I have no idea what you're talking about.
+
+0: Sure you do. `ld`. The dynamic linker. Or dynamic loader.
+
+1: Why's the abbreviation backwards?
+
+0: It's not.
+
+1: Shouldn't "dynamic linker" be `dl`, not `ld`?
+
+0: That's how they used to write.
+
+1: That's how who used to write?
+
+0: The authors. Of the old books.
 
 1: I'm still not entirely following.
 
@@ -672,4 +692,4 @@ _(Narrator: Our characters head over to [[01 - Finish Hello World|/etc/principle
 
 _(Narrator: 1 proceeds to follow 0, in several ways.)_
 
-goto: [[whoami|/bin/whoami]]
+goto: [[git-blame|/bin/babel]]
