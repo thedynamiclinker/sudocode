@@ -1,6 +1,6 @@
 A side effect of top-down design and planning.
 
-Since [[Planning is Pretending]], the mind of the planner focuses primarily on how the system will work when all the pieces are operating as intended.
+Since [[proc/trash/principles/Planning is Pretending]], the mind of the planner focuses primarily on how the system will work when all the pieces are operating as intended.
 
 This leads to a top-down design that feels modular, but in practice leads to [[Avoid Fragile Modularity|Fragile Modularity]].
 

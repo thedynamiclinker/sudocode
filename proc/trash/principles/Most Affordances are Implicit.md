@@ -26,4 +26,4 @@ This is why developers often find that the majority of the features that make co
 The same is true of the features that cause a team of developers to cohere socially, to be productive, and feel intrinsically motivated. Since a developer's job is highly technical, communication is only possible by reference to shared experiences. These experiences can be shared pairwise or as a group, but communication is effectively impossible until a bedrock of shared experience exists.
 
 See: [[var/trash/principles-v2/Eat your own Dogfood]]
-See: [[Planning is Pretending]]
+See: [[proc/trash/principles/Planning is Pretending]]
