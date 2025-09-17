@@ -1,6 +1,15 @@
 
 ## /
 
+### We
+- During ld.so when the conversation moves into `/opt/art`, that should really be in `the-second-law` or something linked to it.
+- Move this content later, so that we can more quickly get to the three members of the trinity, or what we'll call `/dev/zero`
+- That is, the 0th developers:
+	- (a) Alonzo Church, with the Lambda Calculus
+	- (b) Kurt Godel, with general recursive functions, and
+	- (c) Alan Turing, with Turing machines.
+	- Stephen Kleene is the most central figure to showing that all these definitions are equivalent, and in many ways he was the first developer not including the language designers. He was the one implementing things in early lambda calculus that even Church didn't think were possible. Show the screenshots in `/var/include` where the Hirst book mentions that Kleene's book is only for those "with a frighteningly technical bent." Then show what that frighteningly technical bent is, and that it's essentially just doing something simple in a system where you can't skip steps: make the case that this is early programming. Programming isn't about machines, it's about systems that are sufficiently well-defined that their interpretation does not require a human mind. Mathematics is not this. It has never been this, even in the books devoted to its formalization and axiom systems, which have a persistent habit of _not working within those systems._ The reason for working within these systems is not the lack of intuition in the user, but the desire to create something that can be interpreted mechanically, and therefore can transcend the boundaries between minds, between species, and even between the living and non-living: computing machines or human minds can read the same code and execute the same sequence of steps, without the need for a high level undocumented mind to use outside knowledge about the world to fill in the missing pieces. In other words, programming is what mathematics becomes in the extremely rare cases when that mathematics is well defined.
+
 ### babel
 - Immediately after hello world, do babel.
 - Finish hello world is the first principle.
