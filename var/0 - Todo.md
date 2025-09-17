@@ -43,6 +43,10 @@ At this point, having emphasized the Optimize for Sharing principle, we begin th
 
 - Once we get exec, the babel puzzle is complete. We immediately start Genesis 12, which is a long begat list that leads to Abraham (aka Ken.)
 
+### /boot
+- The /boot dialogues were good, especially the bit with the binary loader we wrote in C.
+- Need to find somewhere to put this, because it doesn't quite belong anywhere in the narrative yet.
+
 ### /usr/src/bash
 
 We've got a bug in bash upstream related to "history" that's also somehow about being inside case. The fact that most people don't know bash is maintained by one guy is a different kind bug in our history, and it's also related to being inside case (Chet is at Case western reserve university.) Reach out to Chet, make him a character, have a dialogue where he helps 0 and 1 fix the bug, and make a who's-on-first style dialogue with the history history case case stuff above.
