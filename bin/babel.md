@@ -396,11 +396,11 @@ _(Narrator: 0 continues.)_
 
 0: Such as?
 
-1: Well I'm still confused about the babel code. Also confused about why we're reading the bible. You know I always heard you were some great programming teacher, but now I'm starting to think that was all marketing. We've done basically zero programming except hello world. And babel. I'm still thinking about babel. But then the begats started and I sort of lost focus.
+1: Well I'm still confused about the babel code. Also confused about why we're reading the bible.
 
 0: Did you have a question?
 
-1: You're not gonna explain the babel puzzle are you?
+1: You're not gonna explain either of those things are you.
 
 0: No. Any other questions?
 
@@ -424,4 +424,4 @@ _(Narrator: 0 continues.)_
 
 0: Here, I'll show you.
 
-goto: [[git-blame|git blame]]
+goto: [[bbl1.o]]

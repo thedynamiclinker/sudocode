@@ -1,29 +1,12 @@
 
 ## /
 
-
-### babel
-
-
-At this point, having emphasized the Optimize for Sharing principle, we begin the babel puzzle.
-
-- Change hostname to world.
-- And the whole world was of one language, and of one speech.
-- What language?
-- Machine language.
-- How is that one language? There are plenty of different instruction sets.
-- I said the world not the universe.
-- (Show prompt)
-- See?
-- Oh.
-- Language boundaries are a fiction. To the machine, they're all the same. Simply learn to use LD - the linker - and nothing we imagine will be impossible. We can build a stack to the heavens. Through LD, all things are possible.
-- Never thought of it that way. I don't know much about LD. Teach me!
-- Babel puzzle starts here.
-- The first LD is the linker. The thing that offered the power to make all languages become one, but scattered the languages of the earth and reminded our people to remain humble.
-- Humility leads to the other LD: ld.so. Code sharing through exec, for which ld.so is responsible, and this eventually leads to Unix and pipes.
-- Two LDs, one is the elder LD from the babel story, the other is the Second Order LD, the loader, that performs a similar function to the elder LD at runtime, but does so to support a more humble and powerful method of code sharing: exec.
-
-- Once we get exec, the babel puzzle is complete. We immediately start Genesis 12, which is a long begat list that leads to Abraham (aka Ken.)
+### Before doing anything below this
+- Clean up this file.
+- Nearly everything below has either:
+- Already been done, or
+- Is irrelevant because we did something better, or
+- Is irrelevant because the dialogues decided to go a different way.
 
 
 ### We
@@ -143,6 +126,45 @@ Pronounced "Orthodox." The orthogonal documents. Refers to theoretical computer 
 0: Not even a little.
 
 1: Explain?
+
+
+### babel
+
+
+At this point, having emphasized the Optimize for Sharing principle, we begin the babel puzzle.
+
+- Change hostname to world.
+- And the whole world was of one language, and of one speech.
+- What language?
+- Machine language.
+- How is that one language? There are plenty of different instruction sets.
+- I said the world not the universe.
+- (Show prompt)
+- See?
+- Oh.
+- Language boundaries are a fiction. To the machine, they're all the same. Simply learn to use LD - the linker - and nothing we imagine will be impossible. We can build a stack to the heavens. Through LD, all things are possible.
+- Never thought of it that way. I don't know much about LD. Teach me!
+- Babel puzzle starts here.
+- The first LD is the linker. The thing that offered the power to make all languages become one, but scattered the languages of the earth and reminded our people to remain humble.
+- Humility leads to the other LD: ld.so. Code sharing through exec, for which ld.so is responsible, and this eventually leads to Unix and pipes.
+- Two LDs, one is the elder LD from the babel story, the other is the Second Order LD, the loader, that performs a similar function to the elder LD at runtime, but does so to support a more humble and powerful method of code sharing: exec.
+
+- Once we get exec, the babel puzzle is complete. We immediately start Genesis 12, which is a long begat list that leads to Abraham (aka Ken.)
+
+
+### bbl1.o, bbli.o, bbln.o
+
+TODO:
+- Continue where the babel dialogue left off, explaining the "git blame" below and how the bible is more like a code base than any other genre.
+- Mention that the boring parts are mostly by the bureaucrat (priestly source.) Same as codebases.
+- Then at the end of this file, have 1 say this is fun and all, but I came here to study programming, not bibles.
+- Use this to transition to bbli.o, aka "biblio" aka "bibliography" aka "previous research in computing bibles." In that file we cover PoC || GTFO.
+- After bbli.o, do bbln.o, which explains what we won't be doing. In that file, cover "The Linux Bible," and also say we won't be doing a slavish repetition like for example: Then say "We won't be starting with hello world, and then saying something like The Python was the cleverest of all the creatures, humans acquired knowledge of best practices, this knowledge sentenced them to mortality. Soon after, two sons, Simplicity and Complexity. Complexity kills Simplicity, etc. Then we definitely won't be saying Ok what comes next and finding an excuse to insert something about Babel, and then putting in a begat list that takes us from Babel to Abraham, who is of course the ancestor of our people whose descendants are as numerous as stars in the sky, which is naturally Ken Thompson, then---"
+- 1 says "That sounds like 80% of what we've been doing. Plus the new bits about best practices."
+- 1 says "Look this is nice and all but I'd really prefer a true history."
+- 0 says "Define true."
+- 1 says "Like what actually happened? How was our field actually created? Obviously this stuff about the snake is a parable or something. And saying that complexity killed simplicity doesn't really teach me anything I didn't already know. Plus it's not true."
+- Then switch to /bin/whoami and the history of computing from the early days of foundations and Church/Godel/Turing.
 
 ### visit databases as a location of a file system and be like this is a f****** abomination 
 

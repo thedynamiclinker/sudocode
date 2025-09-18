@@ -15,9 +15,13 @@
 
 1: Which we?
 
-0: We just got done writing the first principle.
+0: Go back to the first principle.
 
-1: Right, I read it. Finish Hello World.
+1: THE first principle? Isn't it usually "first principles"?
+
+0: No I mean _the_ first principle. From earlier. You read it right?
+
+1: Yeah.
 
 0: So you presumably read this part:
 
