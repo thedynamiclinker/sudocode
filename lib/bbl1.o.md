@@ -349,4 +349,4 @@
 
 1: Wait goddam---
 
-goto: [[bbli.o]]
+goto: [[bbln.o]]
