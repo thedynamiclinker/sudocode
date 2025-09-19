@@ -352,4 +352,6 @@ It is the bottom of all things. It is the beginning. The fundamentals. It is the
 
 0: We are the Foundational People.
 
-goto: [[We]]
+---
+
+[[foundational|SYSCALL]]
