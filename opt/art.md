@@ -429,6 +429,10 @@ More than any other reason, I left mathematics and eventually found computing be
 
 1: You used to be in mathematics?
 
+0: Who do you think you're talking to?
+
+1: Oh, haha. Right.
+
 0: Story for another day.
 
 1: You say that about everythi---

@@ -165,7 +165,7 @@
 
 1: How exactly?
 
-0: Just adding a mental note of something we need to cover later. Lots of thing we need to fix in your education.
+0: Just adding a mental note of something we need to cover later. Lots of things we need to fix in your education.
 
 1: Can I have a hint?
 

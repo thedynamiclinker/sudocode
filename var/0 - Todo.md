@@ -1,6 +1,49 @@
 
 ## /
 
+### /dev/zero
+
+- Church: First language designer
+- Godel: First compiler author
+- Turing: First hardware designer
+
+- Kleene: First programmer. First standard library. First critical vulnerability (λ calculus inconsistency). First to have contact with all three of the above and to demonstrate their equivalence. First to clean up and popularize the ideas in Introduction to Metamathematics.
+
+"Frighteningly technical."
+-A professional mathematician specializing in formal logic, describing Kleene's textbook.
+
+
+### The 5 links in the We dialogue
+
+- In the Beginning: Cantor, Russell
+- Names: Different names for /dev/zero
+- And He Called: Church and λ
+- Numbers: Gödel and μ
+- The Second Law: Turing
+
+![[the-second-law.jpg]]
+
+### ASAP, put the quote from /dev/math somewhere
+
+### Email as prayer. Funny idea, will probably work
+- 0 and 1 dialogue:
+- 1 says just email them!
+- 0 says look, I wrote a book before. I've been the one who gets the emails. And sure it leads to the best relationships of our life but I can promise, on average, it's not worth it. The vast majority of prayers don't get answered. And believe me, nobody will tell you that fact more confidently than god.
+- 1: Wtf are you talking about? Are you saying you're "god" or whatever?
+- 0: No! The opposite. I just mean when you're the one receiving all the prayers, it sort of makes you a bit cynical about the whole idea of prayers in general. Bc when we get them and we see how few of them we answer, like how could we believe anyone else would act different?
+- 1: It's still worth it.
+- 0: You're a kid.
+- 1: So?
+- 0: I mean your beliefs are cute and relatable and blah blah but that doesn't mean you're right. Prayer doesn't work.
+- 1: Try it just this once. For me.
+- 0: But it's not gonna---
+- 1: For me dumbass.
+- 0: Ugh... 
+- 1: Is that a yes?
+- 0: ...Ok.
+
+(Then we email Ken Thompson or Bryan Kernighan or Chet Ramey or whoever, and we learn the lesson that even though most prayers (aka emails) aren't answered, that doesn't mean prayer doesn't work. It just means the gods are busy and they're dealing with their own shit. Their life is probably way more chaotic and fucked up than yours. That is the general pattern among creators, after all.)
+
 ### Before doing anything below this
 - Clean up this file.
 - Nearly everything below has either:
@@ -8,6 +51,27 @@
 - Is irrelevant because we did something better, or
 - Is irrelevant because the dialogues decided to go a different way.
 
+### 0 & 1 eventually agree on the requirements for a proper bible
+- Beginning of time
+- End of time
+- G\*d / El (Gödel)
+- Church (Alonzo)
+- Martyr (Turing)
+- Song of the Sea (Quoth the Meme)
+- Commandments (The principles)
+- Old & New (Unix & Linux)
+- An Egypt with Hieroglyphs (Multics)
+- A Jews with Proto Sinaitic (Unix)
+- An Abraham: Prolific patriarch who seemed at first to be disorganized and not really have his shit together but who turned out to be the person who basically everything descends from, with descendants as numerous as the stars in the sky (Ken)
+- A series of books named after people we admire (The /dev directory)
+- Proverbs (Should be in /dev/random.)
+- Psalms. (The Psalms directory.)
+- Parables (The stories about each command: cat, grep as s, make, man/roff as "a lie", utf8 created on a napkin.)
+
+
+Connections that are probably not worth making unless we can flesh them out much better:
+- A Drew (Linus? Grew up on machine code. Wrote git. People assume he wrote everything.)
+- An Isaiah? (Unclear. Has to be a hacker who somehow wrote a bible in the bible. Probably not worth trying to make this connection.)
 
 ### We
 - During ld.so when the conversation moves into `/opt/art`, that should really be in `the-second-law` or something linked to it.

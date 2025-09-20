@@ -138,7 +138,7 @@ s = [list for list in lists if list not in list]
 
 1: Obviously. Wow I feel dumb now.
 
-0: Anyways it turns out in mathematics that causes a LOT of problem. Like a historically relevant amount of problems. Those few lines of code were what Russell's Paradox was about. Data structures that contain themselves. In programming it's no big deal. But it sort of broke mathematics.
+0: Anyways it turns out in mathematics that causes a LOT of problems. Like a historically relevant amount of problems. Those few lines of code were what Russell's Paradox was about. Data structures that contain themselves. In programming it's no big deal. But it sort of broke mathematics.
 
 1: How did it break mathematics?
 

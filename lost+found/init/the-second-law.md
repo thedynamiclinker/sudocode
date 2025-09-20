@@ -3,4 +3,19 @@
 > ever understand each other at all."_
 > -Kurt Gödel
 
-(continue here with godel, church, and turing. none were born when hilbert posed his problems. fast forward to these three characters who together we call /dev/zero, and make the case that each in the zeroth developer. then explain kleene and how his writing ties them all together. then show that he invented regexes and show ken citing him. after that, we need to polish the bash bugfix, write some tests for it, submit it, and meet chet.)
+
+- Church.
+- Godel.
+- Turing.
+
+3 = { 0, 1, 2 }
+
+Kleene is the braces that bind them together into a unit.
+
+> _Kleeneliness is next to Godeliness._
+
+After this, we need a begat list to take us to Unix.
+
+- Kleene invented regexes.
+- Ken Thompson cites Kleene and says we assume you're familiar.
+

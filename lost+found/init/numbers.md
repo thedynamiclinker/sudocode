@@ -28,6 +28,9 @@ _(Narrator: 0 clears 0's throat.)_
 
 ---
 
+> I don't know what predominates in Cantor's theory, philosophy or theology, but I am sure there is no mathematics there.
+> -Leopold Kronecker
+
 1: Was he the first Foundational Person?
 
 0: No no, he's not one of ours. Not to exclude him. He could have used a good hug and some proper friends, and I would have loved to know the guy. But in his heart, Cantor was a mathematician. He thought like a mathematician, and he wanted to be accepted by the mathematicians.
@@ -51,7 +54,7 @@ _(Narrator: 0 clears 0's throat.)_
 
 ---
 
-0: Others people thought Georg was corrupting the youth.
+0: Other people thought Georg was corrupting the youth.
 
 1: C'mon, nobody would actually think infinity is "not suitable for kids."
 

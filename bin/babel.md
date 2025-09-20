@@ -6,7 +6,7 @@
 
 1: Ok got it, programming story.
 
-0: Once hell world had been finished, by giving it a name.
+0: Once hello world had been finished, by giving it a name.
 
 1: Are we gonna do more than just hello world eventu---
 
