@@ -20,21 +20,23 @@ Speaking of open source, the communities that grew up around these odd data stru
 
 This is an impressive set of features, to say the least.
 
-And whatever you believe about the issues above, there is something to be admired in a group that can combine fearless lawbreaking with sufficient cultural stability to pass on their stories for multiple millennia.
+%%
+Whatever you believe about the issues above, there is something to be admired in a group that can combine fearless lawbreaking with sufficient cultural stability to pass on their stories for multiple millennia.
 
-Centuries from now, what will be remembered of our people, the developers of the era `/(19|20)\d{2}/`?
+Centuries from now, what will be remembered of our people, the developers from the era of `/(19|20)\d{2}/`?
 
-We can't say. But we believe there are stories and lessons from this first century of computing that are worth transmitting to the nerds of the future, in as lossless and timeless a manner as is possible.
+We can't say. But we believe there are stories and lessons from this first century of computing that are worth transmitting to our counterparts in the future, in as lossless and timeless a manner as possible.
+%%
 
 We therefore see it as our job to reverse-engineer and understand the data storage format known as bibles, and the open source communities that maintain them, so that this technology may be more widely deployed in non-religious contexts like filesystems, databases, distributed object stores, artificial neural networks, or anywhere the need for persistent data storage is found.
 
-Jokes aside, the technology we're actually concerned with improving is education. Specifically the intersection of education and technical writing. Despite the existence of countless high quality textbooks in our field, we believe the genre as a whole is still deeply inadequate in its ability to transmit acquired wisdom from one generation to the next.
+Jokes aside, the technology we're most concerned with improving is education. Specifically the intersection of education and technical writing. Despite the existence of countless high quality textbooks in our field, we believe the genre as a whole is still deeply inadequate in its ability to transmit acquired wisdom from one generation to the next.
 
-In our field more than others, it is extremely difficult to write anything timeless without being so abstract that the content becomes bland. It should be possible to say something timeless about computing without becoming a book on algorithms. Reciprocally, it should be possible to say something practical and relevant to the reader's day to day problems without the book becoming hopelessly outdated in a decade or two. Some books achieve a sort of timelessness while at the same time feeling outdated without losing value because of it. Soul of a New Machine, The Mythical Man Month, The Cathedral and the Bazaar, Unix: A History and Memoir. There are many wonderful books that manage to reach the level of timeless truth while at the same time clearly belonging to an era that has passed.
+In our field more than others, it is extremely difficult to write anything timeless without being so abstract that the content becomes bland. It should be possible to say something timeless about computing without becoming a book on algorithms. Reciprocally, it should be possible to say something practical and relevant to the reader's day to day problems without the book becoming hopelessly outdated in a decade or two. Some books achieve a sort of timelessness, while at the same time feeling outdated, without losing value because of it. Soul of a New Machine, The Mythical Man Month, The Cathedral and the Bazaar, Unix: A History and Memoir. There are many wonderful books that manage to reach the level of timeless truth while at the same time belonging to an era that has (at least in some ways) passed.
 
-To our knowledge however, there are few books that manage to do this while also being highly _technical._ While several counterexamples come immediately to mind, from "The C Programming Language" to "Godel Escher Bach," these books are the exception that proves the rule. Their fame alone is proof of just how rare such books are. The near total absence of books with all three properties -- broadly timeless, highly technical, and practically useful -- may be a signal that most everyone who has tried to combine the three features has failed. If that's the case, then this book is doomed to fail as well, in which case you're almost certainly not reading it right now. Since you are, by definition, we must have succeeded in something. What that something is, you'll have to decide for yourself.
+To our knowledge however, there are few books that manage to do this while also being highly _technical._ While several counterexamples come immediately to mind, from "The C Programming Language" to "Godel Escher Bach," these books are the exception that proves the rule. Their fame alone is proof of how rare such books are. The near total absence of books with all three properties -- broadly timeless, highly technical, and practically useful -- may be a signal that most everyone who has tried to combine these three features has failed. If that's the case, then this book is doomed to fail as well, in which case you're almost certainly not reading it right now. Since you are, by definition, we must have succeeded in something. What that something is, you'll have to decide for yourself.
 
-Anyways, that's enough from us here in the kernel for now.
+Anyways, that's enough from us up here in the kernel for now.
 
 Whether you're here to stay or just visiting, we're glad to have you in the community, and we hope you stick around.
 
