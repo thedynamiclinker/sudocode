@@ -98,15 +98,19 @@ Through their work, the whole world was now of one language and one speech.
 
 0: So the L||D said "Go to"
 
-1: o_O
+1: Uh oh...
 
 ![[babel-story-06.jpg]]
+
+0: "Go to"
+
+1: Harmful incoming.
 
 0: "Let us go down."
 
 1: _Us?_
 
-0: And confuse the people.
+0: "And confuse the people."
 
 1: Why?
 
@@ -147,6 +151,8 @@ _(Narrator: 0 types some commands into a shell.)_
 1: What's this?
 
 0: See for yourself.
+
+1: _(Looks to see what 0 just did.)_
 
 ![[babel-ls.png]]
 
