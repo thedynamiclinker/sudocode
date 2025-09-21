@@ -1,5 +1,5 @@
 
-1: What is this file called bbl1.o? Is that 1 about me?
+1: Why is this file called bbl1.o? Is that 1 about me?
 
 0: No no. It's bbl1 as in, bbl 1.
 
@@ -64,7 +64,7 @@
 
 1: Yes I can see that from the giant picture you just catted into the middle of the conversation.
 
-0: He's a professional nerd who studies the old books for a living. Not from a religious point of view, but not particularly anti-religious either. 1st and 4most, he's just a nerd. He loves books. He's always talking about Dostoyevsky and making bad jokes and berating his colleagues for not understanding shit, fantastic guy.
+0: He's a professional nerd who studies the old books for a living. Not from a particularly religious point of view, but not anti-religious either. 1st and 4most, he's just a nerd. He loves books. He's always talking about Dostoyevsky and making bad jokes and berating his colleagues for not understanding shit, fantastic guy.
 
 1: Sounds like it.
 
@@ -239,7 +239,7 @@
 
 ![[bible-git-blame-06.jpg]]
 
-0: But you can still tell the authors apart from how they write. So it's pretty clear that at some point, someone did a git merge of two sources to try to create a single narrative.
+0: But you can still tell the authors apart from how they write. So it's pretty clear that at some point, someone did a `git merge` of two sources to try to create a single narrative.
 
 1: Sounds hard.
 
@@ -251,11 +251,11 @@
 
 ![[bible-git-blame-07.jpg]]
 
-0: Some of the authors are really good storytellers. Others are basically bureaucrats who write the super boring repetitive stuff.
+0: Some of the authors are really good storytellers. Others are basically bureaucrats who write the super boring repetitive boilerplate stuff.
 
 1: Ok, definitely starting to get some code base vibes here.
 
-0: Definitely. It's the best and worst writing of all time. Same as all codebases.
+0: Definitely. It's the best and worst writing of all time. Same as codebases.
 
 1: Is the whole thing like this?
 
@@ -303,7 +303,7 @@
 
 0: What sort of things?
 
-1: That if I came here, I'd be learning about the best code ever written, and the best programmers who ever lived.
+1: That if I came here, I'd be learning about the best code ever written, the best programmers who ever lived.
 
 0: That's the goal.
 

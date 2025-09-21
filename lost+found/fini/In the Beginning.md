@@ -1,9 +1,10 @@
+## Gen2
 
 0: In the beginning, everyone suddenly realized they might be wrong. About everything.
 
 1: Wait you didn't explain why they're worried yet. What happened after Cantor that made mathematicians start to worry?
 
-0: Well we brushed up against it in [[numbers|/opt/numbers]]. Remember that quote that went like this?
+0: Well we brushed up against it already. Remember that quote that went like this?
 
 > In 1911... Cantor attended \[a thing\], hoping to meet \[some guy\], whose newly published \[book that everyone cites but no one actually reads\] repeatedly cited Cantor's work, but the encounter did not come about.
 > 
@@ -166,4 +167,4 @@ s = [list for list in lists if list not in list]
 
 1: Wai---
 
-goto: [[We#And he called|We]]
+goto: [[lost+found/We#Names|We]]

@@ -140,7 +140,7 @@ We -- our people -- we tend to stumble into at least a few shallow rabbit holes 
 
 0: What kind of people do you think were asking these questions before anyone else, and actually spending careers working to answer them, in serious technical ways, not just philosophy?
 
-_(Narrator: A brief silence elapses, before1 realizes the question is not rhetorical, and blurts out the first answer that comes to mind.)_
+_(Narrator: A brief silence elapses, before 1 realizes the question isn't rhetorical and blurts out the first answer that comes to mind.)_
 
 1: Lawyers!
 
@@ -188,7 +188,7 @@ _(Narrator: A brief silence elapses, before1 realizes the question is not rhetor
 
 1: What subject?
 
-0: Just a few pages later it starts escalating step after step and before long the tame rigor is an absolute acid trip. Now Completeness. Gödel Henkin. Syntax smuggled into Semantics as a hack. Skolem-Löwenheim. Upward Downward. How the hell is that not a paradox? Hey mathematics? Is anyone there? Why aren't there more people down here with me at this wild-ass zoo? A real numbers object that's countable from outside but proves itself uncountable from inside and everyone's like _that's fine_? Absolutely melted. Mind rewritten. This is everything I need.
+0: Just a few pages later it starts escalating step after step and before long the tame rigor is an absolute acid trip. Now Completeness. Gödel Henkin. Syntax smuggled into Semantics as a hack. Skolem-Löwenheim. Upward Downward. How the hell is that not a paradox? Hey mathematics? Is anyone there? Why aren't there more people down here with me at this wild-ass zoo? A real numbers object that's countable from outside but proves itself uncountable from inside and everyone's just like _that's fine_? Absolutely melted. Mind rewritten. This is everything I need.
 
 1: I could use an explanation but I'm totally loving this enthusiasm.
 
@@ -354,4 +354,4 @@ It is the bottom of all things. It is the beginning. The fundamentals. It is the
 
 ---
 
-[[foundational|SYSCALL]]
+[[sys/class/foundational|SYSCALL]]

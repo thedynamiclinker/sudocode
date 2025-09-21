@@ -43,39 +43,22 @@ The Real Members of a field are often more technically capable than the Foundati
 
 The Real Members of a field often ask questions and break new ground on issues that appear by this definition to be foundational as well.
 
+It would be a misunderstanding to confuse the Foundational and their concerns with the single minded desire for "rigor." Some of the least "rigorous" areas of each field are deeply "Foundational."
+
 What sets the Foundational apart is their inability to prevent themselves from winding up at the extremes.
 
 They cannot focus on "things as they conventionally are" without pain.
 
 To the extent that they focus on things as they are, they focus on that which is undocumented, or that which is true but little known, rarely discussed, or (perhaps most often) taboo.
 
-It would be a misunderstanding to confuse the Foundational and their concerns with the single minded desire for "rigor." Some of the least "rigorous" areas of each field are deeply "Foundational."
+In summary: Though the "1" character could not articulate why, it is not surprising for an interest in the lowest-levels of a system to co-occur with a desire that such content is expressed in a way that is (as 1 might say) "silly."
 
-In Mathematics.
-- GH Hardy Divergent Series after meeting Ramanujan.
-- -1/12 as the sum of a divergent series and the senses in which this obviously "wrong" calculation may be seem to be true.
+In other words, it is not odd or quirky for a love of assembly to co-occur with a feeling that the best format for said content is a leather bound bible that often says "fuck."
 
-In Physics.
-- Paul Dirac's discovery of antimatter, not because the prediction was correct, nor because the argument was wrong, but because _the argument was wrong while the prediction was right._
-- Functional integrals in Quantum Field Theory, not only because they're the most common computation in the calculations of fundamental physics, but because such calculations still have no clear rigorous basis, Wick rotation and esoteric special cases in string theory notwithstanding. We can teach functional derivatives to Calculus 1 students, by a straightforward analogy with the standard derivative and partial derivative. It's the same computation, with a slight change of notation. No analogous statement can be made for functional integrals. The Foundational mind cannot believe this is anything but a failure to find the right definitions, notations, and ways of teaching the concepts in question.
+This is a natural consequence of how the Foundational mind works.
 
-In Computing:
-- The lowest levels of the stack, especially those cloaked in secrecy, for instance firmware, system management mode, undocumented instructions, and methods for exploring these hidden systems especially under the assumption that documentation is unavailable or does not exist.
-- Cases in which commonly accepted "best practices" are actively harmful.
-- Cases in which tools or practices that are commonly viewed as less reliable, less maintainable, less professional, or less acceptable in any way are in fact found to be the foundation of some large or well known project that is perceived to be the reverse.
-- Cases in which any X for which "no one was ever fired for using X" kills a product, a company, or (as is common in the history of computing) an entire industry.
-
-In all fields:
-- The belief that academic research is largely a waste of time, and unlikely to be the source of fundamental advances in understanding.
-- The contrary belief that major advances in understanding tend to come from extremely minor changes in the most elementary definitions, notations, or assumptions in a field. For example: 
-- Einstein's resolution of the ether question by abandoning the assumption of absolute time / simultaneity.
-- The derivation of the Feynman path integral formalism in quantum mechanics from the double slit experiment supplemented with the thought experiment of adding screens and drilling holes.
-
-In summary: Though the "1" character in the present book could not articulate why, it is not surprising -- and 1 might argue that it borders on inevitable -- for curiosity about the lowest-levels or most technical aspects of a system to co-occur with a desire that such content is expressed in a way that is (as 1 might say) "silly." In other words, it is not odd or quirky for a love of assembly to co-occur with a feeling that the best format for said content is a leather bound bible that often says fuck.
-
-Remember, in every field, the Foundational mind asks:
+In every field, the Foundational mind asks:
 1. Objectively: How much can I get away with?
-	and
 2. Aspirationally: How else could things be?
 
 ---

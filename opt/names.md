@@ -1,3 +1,4 @@
+
 0: Ok explain. How does every group call themselves "The Foundational People"?
 
 1: Y'know, Tribalism. It's human nature. Like the thing about how all the Native American tribes were named by the tribe next door, but they all call themselves "We."
@@ -78,4 +79,4 @@ _(Narrator: The scene. Two abstract caricatures stand together, a long time ago,
 
 0: Pop the stack.
 
-goto: [[We#Numbers|We]]
+goto: [[lost+found/We#Numbers|We]]

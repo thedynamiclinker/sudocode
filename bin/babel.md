@@ -274,13 +274,13 @@ _(Narrator: 0 types some commands into a shell.)_
 
 0: It does seem like a pretty great way to share code.
 
-1: Pretty great? It's amazing. What's the point of executables. Why not just make everything object files? Download some object files and link it with your thing. I'm starting to see what you mean about languages being a scam. I mean sure it's great to be able to write in your favorite language, but it's all just object files at the end of the day. Y'know I didn't know why you were ranting about the linker before, but this is actually pretty cool. I've already got some ideas of new things I want to try. Do you know any good books about linkers?
+1: Pretty great? It's amazing. What's the point of executables?  Why not just make everything object files? Download some object files and link it with your thing. I'm starting to see what you mean about languages being a scam. I mean sure it's great to be able to write in your favorite language, but it's all just object files at the end of the day. Y'know I didn't know why you were ranting about the linker before, but this is actually pretty cool. I've already got some ideas of new things I want to try. Do you know any good books about linkers?
 
 0: There's one. Maybe two.
 
-1: What? That's insane. These things deserve more credit. It's like a universal google translate for code but without actually requiring you to read stuff in languages you don't know. Ok I definitely get the point of this repo now. Got to admit I was pretty confused at first.
+1: What? That's insane. These things deserve more credit. It's like a universal translator for code but without actually requiring you to read stuff in languages you don't know. Ok I definitely get the point of this repo now. Got to admit I was pretty confused at first.
 
-0: One question. What happens when you pipe the output of one command into `cat`?
+0: One question. What happens when you pipe the output a command into `cat`?
 
 1: What? Why?
 
@@ -324,7 +324,7 @@ _(Narrator: 0 types some commands into a shell.)_
 
 0: No.
 
-1: Promise you're not hiding any tricks in the assemly?
+1: Promise you're not hiding any tricks in the assembly?
 
 0: I promise.
 
@@ -414,7 +414,7 @@ _(Narrator: 0 continues.)_
 
 0: What about them?
 
-1: Well like the genre of this book is totally weird. Like there was this story about all the humans cooperating to build a big thing, then the L||D character went and confused them on purpose which was like "Why exactly?" Then suddenly the book just turns into a spreadsheet about who begat who. Whoever wrote this book must have been schizophrenic or something.
+1: Well like the genre of this book is totally weird. Like there was this story about all the humans cooperating to build a big thing, then the L||D character went and confused them on purpose which was like "Why exactly?" Then without warning the book just suddenly turns into a spreadsheet about who begat who. Whoever wrote this book must have been schizophrenic or something.
 
 0: How do you think a book ends up like that?
 

@@ -1,0 +1,229 @@
+1: Zero
+
+0: _(Unintelligible)_
+
+1: ZERO!
+
+0: _(Startled)_ AH!
+
+1: Sorry.
+
+0: _(Sleepy)_ What's up?
+
+1: I found you in the `/mnt` directory.
+
+0: Why was...
+
+1: I think you fell asleep. You've been working too hard.
+
+0: _(Muffled groan)_
+
+1: Here... I found you with this.
+
+_(Narrator: 1 hands 0 the following image.)_
+
+![[trinity-8-unhinged-explained.png]]
+
+1: No idea what it's all about but it's pretty scary.
+
+0: _(Suddenly energetic)_ Wonderful!
+
+1: Am I supposed to get something out of this?
+
+0: No no, I don't expect it to make sense. I fell asleep halfway through.
+
+1: Should I be worried?
+
+0: Absolutely not!
+
+1: Are you sure?
+
+0: Totally. I know it took us a while to get here, but I finally figured it out.
+
+1: Figured what out?
+
+0: Where to start.
+
+1: And where's that?
+
+0: At the beginning.
+
+1: The very beginning?
+
+0: The very beginning.
+
+1: For real this time?
+
+0: Follow me.
+
+## /dev/zero
+
+0: So, after Cantor.
+
+1: Infinity guy.
+
+0: And Russell.
+
+1: Guy with the paradox.
+
+0: And Hilbert.
+
+1: Guy with the problems.
+
+0: Exactly. Problem 2 was to prove that basic arithmetic is consistent.
+
+1: What was the other one?
+
+0: Problem 10. To come up with _any algorithm_ to solve some specific question about Diophantine something-or-other polynomials. 
+
+1: Sounds boring.
+
+0: Could have been boring! But it turned out to be impossible. And to even get started on proving that _no algorithm whatsoever_ exists that can do X, first you have to figure out a definition of "any algorithm whatsoever."
+
+1: Starting to feel like programming!
+
+0: Exactly. All the pieces are in place for the beginning of a field.
+
+1: Finally.
+
+0: Like I promised, everything after this is gonna be "programming."
+
+1: Get to it!
+
+0: Ok so. After Cantor and Russell, mathematics knows it's in trouble. Hilbert has just made his "call to arms." A rallying cry for everyone in the field to come together and work on the foundations.
+
+1: Enter the foundational people.
+
+0: Yep. The first developers in history. This next part of the story is where Our Story begins.
+
+1: What year is this again?
+
+0: 1900.
+
+1: Got it. So who's the first one?
+
+0: There are three.
+
+1: Three?
+
+0: Yep. Three main characters who are gonna end up creating the field we now call computing.
+
+1: Got it. Three main characters. 1900. What do they do first?
+
+0: Nothing.
+
+1: What?
+
+0: They weren't born yet.
+
+1: WHAT?
+
+0: It's ok, we just need to fast forward a bit.
+
+1: _(On edge)_ Zero...
+
+0: Remember this picture from last time?
+
+![[trinity-1-god-church-martyr.png]]
+
+1: I swear if you go back to bible stuff I'm gonna---
+
+0: That's our three main characters. Here, look.
+
+![[trinity-3-names.png]]
+
+1: Oooh got it! Totally on board!
+
+0: Really? You don't have any objections or questions or snarky remarks?
+
+1: No, I'm just happy we're finally getting to programming.
+
+0: I'm gonna need at least ONE question from you before we go any further.
+
+1: Zeroooo come oooon.
+
+0: I mean I just made a pretty strong claim! You're usually the one who checks me on this stuff.
+
+1: What do you want from me?
+
+0: Have you ever heard anyone else claim that these specific three people are the first developers or the founders of the field we call computing?
+
+1: Well everyone says Turing. The people who like functional programming seem to like Church. And I've never heard anyone say Gödel was one of the first people in computing but we saw that code a while back and I can believe it.
+
+0: Push back a little more.
+
+1: What do you want from me?
+
+0: Why these three people? Why not just two of them? Or four? Or twenty?
+
+1: You want me to ask those questions?
+
+0: At least act a bit skeptical. I've grown kind of accustomed to it.
+
+1: _(Pretending to be skeptical)_ "Why these three people?"
+
+0: Good question!
+
+1: It was your question.
+
+0: Still, it was good.
+
+1: GET TO IT!
+
+0: Ok so, these three people are the best candidates for the founders of our field, because they did the following specific things:
+
+![[trinity-4-firsts.png]]
+
+1: Oooooooh!
+
+0: Or, if you prefer.
+
+![[trinity-5-roles.png]]
+
+0: Because remember, we aren't just "machine people."
+
+1: Definitely.
+
+0: We spend most of our time with the "languages."
+
+1: Programming languages?
+
+0: Yep. Using them. Fighting with them. Learning them.
+
+1: Of course.
+
+0: And like we heard before, the foundational people started as an odd culture -- mostly in math departments, sometimes in philosophy but never fitting in -- who distinguished themselves from their colleagues by being primarily interested in a certain kind of object called a language.
+
+1: Sounds familiar.
+
+0: Artificial languages. But extremely precise. Ones that no one speaks.
+
+1: Get on with it.
+
+0: And that culture pre-dates the existence of physical computing machines.
+
+1: Took you awhile to get here but I'm convinced.
+
+0: Before the machines were physical, the language _was_ the machine. During that era, formal systems were both the programming language and the machine. Formal systems feel as different from "normal mathematics" as computing feels today. Like computing, using a formal system involves convincing a non-human mind. One with much more strict rules than any human mathematician.
+
+1: Is there a point to this? 
+
+0: Yes. That even though we aren't the mathematicians -- culturally speaking -- the beginnings of our culture took place on paper, not in machines.
+
+1: So how did it begin?
+
+0: In three year intervals.
+
+1: What?
+
+0: In 1903, 1906, 1909, 1912, our main characters were born.
+
+1: How can three people have four birthdays?
+
+0: Trinities are known to be full of mysteries. Let's stick to the story and not get sidetracked for now. You've been patient enough.
+
+1: Thank you. So what happened in 1903?
+
+0: A child was born.
+
+goto: [[We#And he called|We]]

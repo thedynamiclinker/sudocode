@@ -17,7 +17,7 @@
 
 ![[mendelson-001.png]]
 
-1: Woah.
+1: What's---
 
 0: You flip back because you missed the definition of EPL or FL or ARGp or EIC or Gd or qt or MP or minus-sign-with-a-dot-on-top or _my god why are there suddenly so many abbreviations?!_
 
@@ -303,11 +303,11 @@ So if there's nothing above "computable," but Q is "mathematically useless," the
 
 1: What?!
 
-0: I won't spoil the story by giving the details now, but I promise most mathematicians don't know the answer to that question of what their field is.
+0: I won't spoil that particular story by giving the details now, but I promise most mathematicians don't know the answer to the question of what their field is.
 
 1: How is mathematics "uncomputable"?
 
-0: That's a story for another day.
+0: Story for another day.
 
 For now, we're almost at our destination.
 
@@ -323,9 +323,9 @@ For now, we're almost at our destination.
 
 Fast forward.
 
-After all, we're not covering this in detail here and now.
+After all, incompleteness isn't the point.
 
-Just a tour.
+Just a tour, for now.
 
 ![[mendelson-038.png]]
 

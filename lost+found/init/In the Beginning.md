@@ -1,12 +1,14 @@
+## Gen
+
 1: Are you making fun of me?
 
 0: Yes. This stuff is important to the story. It's silly to toss everything in /opt just because you think someone somewhere might think it's a digression.
 
-1: But you're doing the same thing now.
+1: I was just trying to be helpful.
 
-0: Exactly.
+0: Yeah, don't do that.
 
-1: Anyways, you were gonna explain why calling us "The Foundational People" isn't just another example of the tribalism thing from /opt/names.
+1: Ugh. Anyways, you were gonna explain why calling us "The Foundational People" isn't just another example of the tribalism thing from /opt/names.
 
 0: Right. Ok, let's start at the beginning.
 
@@ -288,4 +290,4 @@ $$0, \; 2, \; 4, \; 6, \; 8, \; \dots, \; 1, \; 3, \; 5, \; 7, \; 9, \; \dots$$
 
 1: But it was just ge---
 
-goto: [[We#The beginning|We]]
+goto: [[lost+found/We#The Sink|We]]
