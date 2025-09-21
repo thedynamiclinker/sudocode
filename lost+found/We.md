@@ -89,52 +89,7 @@ goto: [[lost+found/init/Names|Names]]
 
 ## And he called
 
-
-## Numbers
-
-
-## The second law
-
-
----
-
-## name
-
-## nums
-
-## gen
-
-goto: [[Gen2]]
-
-## lev
-
-1: Who?
-
-0: Everyone.
-
-1: What?
-
-0: And he called everyone, keep up.
-
-1: I'm feeling sick from all this context switching. 
-
-0: What context switching? It's all one story. C'mon.
-
-call: [[lost+found/init/and-he-called]]
-
-## doot
-
-0: Hey! I didn't know you knew assembly.
-
-1: Figured I owed you a surprise after the last couple.
-
-0: Y'know that'll help when we get to formal arithmetic. It's pretty low level too. Even lower than assembly.
-
-1: I think I can handle arithmetic.
-
-0: Speaking of which, is `pop rip` even valid assembly? It's been a while.
-
-1: It's valid pseudo-code. Plus it seemed to do what I expected.
+1: Was it Church?
 
 0: You know more than I give you credit for sometimes.
 
@@ -142,7 +97,7 @@ call: [[lost+found/init/and-he-called]]
 
 0: Who do you think accepted you? You still have a lot to learn.
 
-1: Look I didn't realize we'd be talking about math or whatever but---
+1: Look I didn't realize we'd be talking about math or bibles or whatever but---
 
 0: I think we're past the math for good now.
 
@@ -156,7 +111,7 @@ call: [[lost+found/init/and-he-called]]
 
 1: One can only hope.
 
-0: Good one.
+0: Good one!
 
 1: That wasn't supposed to be a pun.
 
@@ -164,6 +119,16 @@ call: [[lost+found/init/and-he-called]]
 
 1: How so?
 
+0: Naming things, for one.
+
+1: How is naming things tricky?
+
 0: Follow me.
 
-call: [[Numbers]]
+call: [[And He Called]]
+
+## Numbers
+
+
+## The second law
+

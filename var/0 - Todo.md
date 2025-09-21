@@ -1,6 +1,22 @@
 
 ## /
 
+### snippets
+
+#### For Ancient Unix
+- Song of the C
+- Dead C Scrolls (maybe the recovered PDP-7 sources?)
+
+- Multi(cs) becoming Uni(cs): Analogous to Deuteronomy 32, Divine Council. (But wrong point)
+
+#### Turing
+- For the Martyr section, mention (as joke) the sex footnote in 1937 paper.
+
+
+![[turing-1937-sex-footnote-1.png]]
+
+![[turing-1937-sex-footnote-2.png]]
+
 ### /dev/zero
 
 - Church: First language designer
@@ -28,14 +44,6 @@ After this, we need a begat list to take us to Unix.
 - Ken Thompson cites Kleene and says we assume you're familiar.
 
 ### The 5 links in the We dialogue
-
-- In the Beginning: Cantor, Russell
-- Names: Different names for /dev/zero
-- And He Called: Church and λ
-- Numbers: Gödel and μ
-- The Second Law: Turing
-
-![[the-second-law.jpg]]
 
 ### ASAP, put the quote from /dev/math somewhere
 

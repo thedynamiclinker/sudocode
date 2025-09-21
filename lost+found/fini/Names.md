@@ -56,7 +56,7 @@ _(Narrator: 1 hands 0 the following image.)_
 
 0: Follow me.
 
-## /dev/zero
+## The names of /dev/zero
 
 0: So, after Cantor.
 

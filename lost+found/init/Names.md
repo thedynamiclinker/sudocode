@@ -440,11 +440,11 @@ _(Narrator: Good lord 0, get some rest.)_
 
 _(Narrator: 1 has gone to sleep, and Narrator is getting tired as well. Lacking any clear idea of what 0 is up to, and long since having stopped paying attention. Narrator decides it's time to call it a night.)_
 
-0: Ah! Damn. No `mount` yet. If you want something done.
+0: Ah! Damn. No `mount` yet. If you want something done...
 
 _(Narrator: Full moon tonight. Beautiful as always. Goodnight.)_
 
-0: _(Mumbling in assembly)_ Here look, I'm going to sleep too, that's what this code is for, I promise.
+0: _(Mumbling in assembly)_ Here look, I'm going to sleep too. That's what this code is for. I promise.
 
 ```
 ; justabit.asm
@@ -503,7 +503,7 @@ _(Narrator: Enough. Pulling the plug.)_
 0:
 
 ```sh
-./just
+./jus
 ```
 
 _(Narrator: echo mem > /sys/power/state)_
