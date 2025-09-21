@@ -508,4 +508,25 @@ _(Narrator: Enough. Pulling the plug.)_
 
 _(Narrator: echo mem > /sys/power/state)_
 
-goto: [[sinai|race]]
+---
+
+> _Kernel ring buffer._
+
+```
+[97590.423001] Possible race condition detected.
+[97590.423805] PM: suspend entry (s2idle)
+[97590.443722] Filesystems sync: 0.019 seconds
+[97590.896761] Freezing user space processes
+[97590.898858] Freezing user space processes completed (elapsed 0.002 seconds)
+[97590.898868] OOM killer disabled.
+[97590.89990] process './just' started with executable stack
+[97590.898870] Freezing remaining freezable tasks
+[97590.900481] Freezing remaining freezable tasks completed (elapsed 0.001 secs)
+[97590.900484] sd 0:0:0:0: [zero] Attached historical disk
+[97590.900490] printk: Suspending console(s) (use no_console_suspend to debug)
+[97590.900495] EXD19-fs (drm-1): mounted drm filesystem at /mnt/sinai r/w/x
+[97591.178400] ACPI: EC: interrupt blocked
+[97591.178500] Entering sleep state
+```
+
+goto: [[sinai|/山/月]]
