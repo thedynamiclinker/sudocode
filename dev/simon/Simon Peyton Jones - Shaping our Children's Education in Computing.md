@@ -24,16 +24,16 @@ start = 3:50
 end = 4:30
 
 ### What is computing if we want to characterize it as a foundational subject?
-start = 
-end = 
+start = 4:30
+end = 6:00
 
+### Computing is no more about computers than astronomy is about telescopes - Ideas not technology
+start = 10:45
+end = 11:30
 
-
-
-
-
-
-
+### Myth 2: It's all about coding
+start = 12:10
+end = 15:10
 
 
 

@@ -2,7 +2,11 @@
 
 0: In the beginning, everyone suddenly realized they might be wrong. About everything.
 
-1: Wait you didn't explain why they're worried yet. What happened after Cantor that made mathematicians start to worry?
+1: _(Slowly recovering)_ Wait, you didn't explain why they're worried yet.
+
+0: Who?
+
+1: Everyone. Or the mathematicians, at least. What happened after Cantor that made the mathematicians start to worry?
 
 0: Well we brushed up against it already. Remember that quote that went like this?
 
@@ -32,7 +36,7 @@
 
 1: What do you mean "No"?
 
-0: Russell's paradox is one of those things like Gödel and incompleteness. Every damn boring uncreative book under the sun feels the need to talk about these things for some reason. It's tiresome.
+0: Russell's paradox is one of those things like Gödel and incompleteness. Every damn boring uncreative book under the sun & moon feels the need to talk about these things for some reason. It's tiresome.
 
 1: Aren't you sort of... contributing to that?
 
@@ -40,7 +44,7 @@
 
 1: I'm not convinced.
 
-0: The point is that this guy named Bert (who Georg wanted to meet but didn't) found a security vulnerability in standard mathematical reasoning.
+0: The point is that this guy named Bert (who George wanted to meet but didn't) found a security vulnerability in standard mathematical reasoning.
 
 1: What was the vulnerability?
 

@@ -8,7 +8,7 @@
 
 0: Yeah, don't do that.
 
-1: Ugh. Anyways, you were gonna explain why calling us "The Foundational People" isn't just another example of the tribalism thing from /opt/names.
+1: Ugh. Anyways, you were gonna explain why calling us "The Foundational People" isn't just another example of the tribalism thing in /opt/names.
 
 0: Right. Ok, let's start at the beginning.
 
@@ -30,7 +30,9 @@ _(Narrator: 0 clears 0's throat.)_
 
 ---
 
-> I don't know what predominates in Cantor's theory, philosophy or theology, but I am sure there is no mathematics there.
+## Can't ||
+
+> _I don't know what predominates in Cantor's theory, philosophy or theology, but I am sure there is no mathematics there._
 > -Leopold Kronecker
 
 1: Was he the first Foundational Person?
@@ -76,13 +78,13 @@ _(Narrator: 0 clears 0's throat.)_
 
 1: How are infinite numbers corrupting the youth?
 
-0: Well they're at least changing the norms. And there are some downsides of infinite numbers for some purposes. But when I said "corrupting the youth," I meant it as a compliment. The youth always make sure to find ways to get corrupted each generation. It's part of what it means to be "the youth." And of all the ways to get corrupted, getting corrupted with taboo mathematics isn't exactly the worst way.
+0: Well they're at least changing the norms. And there are some downsides of infinite numbers for some purposes. But when I said "corrupting the youth," I meant it as a compliment. The youth always make sure to find ways to get corrupted each generation. It's part of what it means to be "the youth." And of all the ways to get corrupted, getting corrupted with taboo mathematics isn't exactly the worst way to get corrupted. I mean damn, life is about tradeoffs, and mathematics isn't exactly the worst thi---
 
 1: Fair.
 
 0: But he definitely changed the norms. Georg really stretched the boundaries of the mathematical universe about as far as they could be stretched without bursting. But he wasn't making imprecise or poorly thought out arguments. His arguments were very much "normal mathematics." That's part of why they were so controversial.
 
-1: How can something be "controversial" in normal mathematics? I thought mathematics had some pretty clear cut rules about what is and isn't rigorous.
+1: How can something be "controversial" in normal mathematics? I thought mathematics had some pretty clear-cut rules about what is and isn't rigorous.
 
 0: Not even close. But that's a story for another file. For now, just know that Cantor sort of found a security vulnerability in "stable mathematics" that more or less allowed the execution of arbitrary code. At least he could keep calling `+=1` across dot-dot-dots, and that's sort of arbitrary code execution as far as numbers are concerned.
 
@@ -90,13 +92,17 @@ _(Narrator: 0 clears 0's throat.)_
 
 0: Well everybody agrees it's ok to write this:
 
-_Consider the set of natural numbers:_
+_(Narrator: Zero's voice changes to a hyperbolically pretentious tone for the next six words. It's not exactly clear why.)_
+
+0: _"Consider the set of natural numbers"_
 
 $$0, \; 1, \; \dots$$
 
 1: Naturally.
 
-0: What Cantor did was come up with definitions of "th" and "size" for sets such that---
+_(Narrator: 0's voice goes back to normal. By the way, is there a canonical way to spell your names or---)_
+
+0: Ok so what Cantor did was come up with definitions of "th" and "size" for sets such that---
 
 1: What's "th"?
 
@@ -108,15 +114,18 @@ $$0, \; 1, \; \dots$$
 
 1: I don't see how that's different.
 
-0: For finite numbers it's not. For Cantor's infinite numbers, they're slightly different. He called them Ordinals and Cardinals. Ordinals are like "X is the 7th one." Cardinals are like "X has 7 things in it."
+0: For finite numbers it's not. For Cantor's infinite numbers, they're slightly different. He called them Ordinals and Cardinals. Ordinals are like "X is the 7th guy in line." Cardinals are like "X has 7 things in it."
 
-1: So wait, you forgot to explain what you meant by "across dot-dot-dots."
+1: Makes sense, I think. But wait you forgot to explain what you meant by "across dot-dot-dots."
 
 0: Ok right. So everybody agrees it's ok to write this:
 
-_Consider the set of natural numbers:_
+_(Narrator: 0 does the voice thing again. Don't ask, idk.)_
+
+0: _"Consider the set of natural numbers"_
 
 $$0, \; 1, \; \dots$$
+
 1: Naturally. We did this already.
 
 0: What Cantor did was come up with definitions of order and size for sets that allowed him to give a precise meaning to this:
@@ -148,7 +157,7 @@ $$0, \; 1, \dots, \; \omega, \; \omega+1, \; \dots, \; \omega \cdot 2, \; \omega
 
 1: How is "infinity times two" not just "infinity."
 
-0: It is! In terms of size. Remember, Georg has two definitions of number. They're the same for finite numbers, but slightly different for infinite ones. So $\omega \cdot 2$ has the same _size_ as $\omega$, but it's different in terms of the order it shows up in the big infinite list.
+0: It is! In terms of size. Remember, George has two definitions of number. They're the same for finite numbers, but slightly different for infinite ones. So $\omega \cdot 2$ has the same _size_ as $\omega$, but it's different in terms of the order it shows up in the big infinite list.
 
 1: This math stuff seems pretty imprecise.
 
@@ -179,17 +188,17 @@ $$\hat{0}, \; \hat{1}, \dots, \; \hat{\omega}, \; \hat{\omega}+\hat{1}, \; \dots
 
 0: Explain?
 
-1: Like maybe the hats weigh something. Maybe $\hat{1}$ means "The number $1$'s home directory." And home directories can have all sorts of stuff inside them. So $\hat{1}$ might be bigger than $1$, and that would make it a different size.
+1: Like maybe the hats weigh something. Maybe $\hat{1}$ means "The number $1$'s home directory." And home directories can have all sorts of stuff inside them. So $\hat{1}$ might be bigger than $1$, and that would make it a different size. Or maybe the hats represent some code that takes a nonzero amount of time to execute, and maybe by "size" we mean something related to "execution time." Words can mean all sorts of stuff man I dunno.
 
-0: Ok that's a good point but that's not what we mean by "size" here. We're not talking about weight or physical volume or anything. I just mean the number of numbers.
+0: Wonderful point. Mathematicians don't usually consider that sort of thing. But in their defense, that's not what we mean by "size" here. We're not talking about weight or physical volume or execution time or anything like that. In this situation, "size" just means the number of numbers.
 
 1: The number of numbers? Like a meta-number?
 
-0: No, the number of numbers in the two lists. The list without hats, and the list with hats. Do those two lists have the same number of numbers.
+0: No, the number of numbers in the two lists. The list without hats, and the list with hats. Do those two lists have the same number of numbers?
 
-1: Oh yeah I see. I'd say they do.
+1: Oh, got it. I'd say they do.
 
-0: What about now.
+0: What about now?
 
 $$0, \; 1, \dots, \; \omega, \; \omega+1, \; \dots$$
 
@@ -201,7 +210,7 @@ vs
 
 $$0, \; 2, \; \dots, \; 1, \; 3, \; \dots$$
 
-1: No the third list is different.
+1: No, the third list is different.
 
 0: Different how?
 
@@ -216,21 +225,26 @@ $$0, \; 2, \; \dots, \; 1, \; 3, \; \dots$$
 1: Stop being zen. Was your third list supposed to be an abbreviation for this idea here:
 
 $$0, \; 2, \; 4, \; 6, \; 8, \; \dots, \; 1, \; 3, \; 5, \; 7, \; 9, \; \dots$$
+
 0: Exactly.
 
 1: But that's just all the even numbers on the left, then a dot-dot-dot, then all the odd numbers.
 
-0: No no, that's just the squiggles. Don't get confused by the squiggles. Suppose I'm from a strange country where I use the symbol $2$ to mean one, and the symbol $1$ to mean infinity.
+0: No no, that's just the squiggles.
+
+1: Define squiggles?
+
+0: The squiggles on paper. The shapes of the symbols. Don't get confused by the squiggles. Suppose I'm from a strange country where I use the symbol $2$ to mean one, and the symbol $1$ to mean infinity.
 
 1: Sounds like a pretty nice country.
 
 0: So you agree they're the same set?
 
-1: No, but I see the trick you did now, and I see that I'm gonna have trouble arguing that it's a different size just because the shape of the squiggles changed.
+1: No, but I see the trick you did, and I see that I'm gonna have trouble arguing that it's a different size just because the shape of the squiggles changed. I still feel like the first two have infinite numbers in them and the third one doesn't though. But I wouldn't exactly expect to win a debate about this.
 
-0: That was Cantor's whole idea. He defined the size of two sets to be the same size if you can turn one into the other just by changing the names like we did. He defined it in terms of functions, but it's the same idea. If you can write down a function that turns each element in set A into exactly one element in set B, and if we can verify somehow that everything in B gets "hit" (i.e., paired with) some element of A, then we can force the reader into the same position. They might agree this is a trick, but they're not gonna be able to argue their way out of the idea that the two sets are the same size.
+0: Exactly. That was Cantor's whole idea. He defined the size of two sets to be the same if you can turn one into the other just by changing the names like we did. He defined it in terms of functions, but it's the same idea. If you can write down a function that turns each element in set A into exactly one element in set B, and if we can verify somehow that everything in B gets "hit" (i.e., paired with) some element of A, so the function puts the two sets into a state of total marriage -- total monogamy, no polygamy and no loneliness, or one-to-one and onto as the math people say -- when a function like that exists between the two sets, assuming we manage to find it and write it down, we can use it to force the reader into the same position you found yourself in just now. They might agree this is a trick, and they might feel like one set "has infinite numbers in it" while the other one "doesn't," but no matter what they think or no matter what they think they "know" about our hidden agenda in all this, they're not gonna be able to argue their way out of the idea that the two sets are the same size.
 
-1: I see. So how is this relevant to us? I thought we were learning about the Foundational People.
+1: Makes sense. So how is this relevant to us? I thought we were learning about the Foundational People.
 
 0: Right, this is where it all started.
 
@@ -250,7 +264,7 @@ $$0, \; 2, \; 4, \; 6, \; 8, \; \dots, \; 1, \; 3, \; 5, \; 7, \; 9, \; \dots$$
 > 
 > -The Dynamic Read-Writable Free Encyclopedic Repository of the Modern State of Human Knowledge
 
-0: The legend goes that he lost his mind from coming face to face with the absolute infinite. As if the subject itself somehow scrambled his mind. In reality, it's pretty clear his mental illness was at least partially related to him feeling like his work wasn't accepted by the community he loved.
+0: The legend goes that he lost his mind from coming face to face with the absolute infinite. As if the subject itself somehow scrambled his mind. In reality, it's pretty clear his "mental illness" was at least partially related to him feeling like his work wasn't accepted by the community he loved.
 
 > Cantor suffered from chronic depression for the rest of his life, for which he was excused from teaching on several occasions and repeatedly confined to various sanatoria. The events of 1904 preceded a series of hospitalizations at intervals of two or three years. He did not abandon mathematics completely, however, lecturing on the paradoxes of set theory (Burali-Forti paradox, Cantor's paradox, and Russell's paradox) to a meeting of the Deutsche Mathematiker-Vereinigung in 1903, and attending the International Congress of Mathematicians at Heidelberg in 1904.
 > 

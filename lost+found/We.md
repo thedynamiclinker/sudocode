@@ -3,13 +3,15 @@
 ---
 ## In the beginning
 
-### The Source
+### The Logos
 
 1: Wait, doesn't basically every group call themselves "The Foundational People"?
 
 0: I don't think so. What do you mean?
 
 1: I don't want to derail the book. I'll explain in [[opt/names|/opt/names]].
+
+### The Source
 
 0: Wow, I learned something new today. Anyways, where were we?
 
@@ -47,7 +49,7 @@
 
 1: Completely?
 
-0: Completely. Mathematics always seemed like solid ground. Somewhere safe. Soon after Cantor, it seemed like everything we might be washed away in a flood of paradoxes.
+0: Completely. Mathematics always seemed like solid ground. Somewhere safe. Soon after Cantor, it seemed like everything we might be washed away in a great flood of paradoxes.
 
 1: When was this?
 
@@ -63,7 +65,9 @@
 
 1: Can't we just stay here? I'm feeling a bit sea sick from all this context switchi---
 
-0: Stop whining and get in. Things are about to get good.
+0: Stop whining and get in. Things are about to get good. This story's for us, by us. For two, by two. Wouldn't be the same to just tell it to myself. Quit complaining and follow me.
+
+1: _(Evincing nau{tical,sea}. See: sick)_
 
 goto: [[lost+found/fini/In the Beginning|the beginning]].
 

@@ -41,7 +41,7 @@ _(Narrator: The scene. Two abstract caricatures stand together, a long time ago,
 >  
 > Indian Person: This is turning into an Abbott and Costello bit.
 > 
-> Spanish Guy: Who are they?
+> Spanish Guy: Who?
 >
 > Indian Person: I don't know about they. But we call ourselves "We."
 > 
@@ -79,4 +79,4 @@ _(Narrator: The scene. Two abstract caricatures stand together, a long time ago,
 
 0: Pop the stack.
 
-goto: [[lost+found/We#Numbers|We]]
+goto: [[lost+found/We#The Source|We]]

@@ -495,7 +495,7 @@ _(Narrator: 0, I know that code isn't just about going to sleep.)_
 0:
 
 ```sh
-ld -m elf_i386 -o just abit.o`
+ld -m elf_i386 -o just abit.o
 ```
 
 _(Narrator: Enough. Pulling the plug.)_

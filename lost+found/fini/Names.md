@@ -170,21 +170,29 @@ _(Narrator: 1 hands 0 the following image.)_
 
 1: GET TO IT!
 
-0: Ok so, these three people are the best candidates for the founders of our field, because they did the following specific things:
+0: Ok so, these three people are the best candidates for the founders of our field, because:
+
+1. They were the three people who each independently tried to come up with a general definition of what it means to be "computable." Their three definitions were wildly different, completely unrelated on the surface. One of them hated the other guy's definition so much that he was more willing to abandon his own idea than accept the other guy's. But eventually, all three definitions turned out to be equivalent. That's the #1 most important way that we as a field learned that our definition of "computable" wasn't arbitrary. It wasn't something we invented. It was something we _discovered_. And on another planet or in another universe, the definition of "computable" would be the same. That three way equivalence is the foundation of our field.
+
+1: Woah. That's pretty amazing. Did you mean to make a numbered list with only one item or is there more?
+
+0: There's more.
+
+2. These three characters also deserve equal status as members of the /dev/zero trinity because they each, independently -- in the course of trying to define "computing" or in the course of related work in the five year period that led up to it -- created, ex nihilo, the following specific things:
 
 ![[trinity-4-firsts.png]]
 
 1: Oooooooh!
 
-0: Or, if you prefer.
+0: And if you don't want to say "first hardware" because it wasn't actually built, we can still safely say that our three protagonists fit here:
 
 ![[trinity-5-roles.png]]
 
-0: Because remember, we aren't just "machine people."
+0: The machine bit is only one of three. Because remember, we aren't just "machine people."
 
 1: Definitely.
 
-0: We spend most of our time with the "languages."
+0: We spend most of our time with the "languages" after all.
 
 1: Programming languages?
 
