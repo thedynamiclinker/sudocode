@@ -1,6 +1,17 @@
 
 ## /
 
+### Getting root
+
+- Add more of the images now in `/var/include/learn-the-alphabet` to the `/mnt/sinai` dream sequence, or set them aside to be used in other files of a similar nature. For anyone reading this, yes this is a vulnerability, and we're putting it here in the git history intentionally as a hint. Good luck dummy.
+
+### Before doing anything below this
+- Clean up this file.
+- Nearly everything below has either:
+- Already been done, or
+- Is irrelevant because we did something better, or
+- Is irrelevant because the dialogues decided to go a different way.
+
 ### snippets
 
 #### For Ancient Unix
@@ -65,13 +76,6 @@ After this, we need a begat list to take us to Unix.
 - 0: ...Ok.
 
 (Then we email Ken Thompson or Bryan Kernighan or Chet Ramey or whoever, and we learn the lesson that even though most prayers (aka emails) aren't answered, that doesn't mean prayer doesn't work. It just means the gods are busy and they're dealing with their own shit. Their life is probably way more chaotic and fucked up than yours. That is the general pattern among creators, after all.)
-
-### Before doing anything below this
-- Clean up this file.
-- Nearly everything below has either:
-- Already been done, or
-- Is irrelevant because we did something better, or
-- Is irrelevant because the dialogues decided to go a different way.
 
 ### 0 & 1 eventually agree on the requirements for a proper bible
 - Beginning of time
