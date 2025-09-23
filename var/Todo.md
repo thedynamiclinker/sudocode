@@ -1,5 +1,8 @@
 
+![[kill-your-darlings.jpg|500]]
+
 ## Asap
+
 - [ ] Finish the Church dialogue.
 - [ ] Gödel section: Show the definitions of primitive recursive and recursive from Meldelson, then show the definition of Gödel numbering, then work through the first of the /opt/art examples in detail to show what it meant.
 - [ ] Turing section: Include first page of Kleene's chapter on Computable functions.
@@ -33,6 +36,7 @@
 - /usr/src/bash: We've got a bug in bash upstream related to "history" that's also somehow about being inside case. The fact that most people don't know bash is maintained by one guy is a different kind bug in our history, and it's also related to being inside case (Chet is at Case western reserve university.) Reach out to Chet, make him a character, have a dialogue where he helps 0 and 1 fix the bug, and make a who's-on-first style dialogue with the history history case case stuff above.
 - The ⟂-docs: Pronounced "Orthodox." The orthogonal documents. Refers to theoretical computer science, primary computability and complexity as elaborated in the decades since the lambdas and the mus split. Though it appears on the surface to be the same culture, it is mostly orthogonal to the history of our people.
 - Visit a database as a location in the file system and be like "this is a fucking abomination"
+- Final chapter is obviously called "When theres nothing left to take away." I don't know why. I can't justify it. But it feels so unquestionably right.
 
 ## Do a dump of principles either after returning from /mnt/sinai or after completing the mini-torah in lost+found/We
 - First one is the commandment dump.
@@ -143,9 +147,3 @@ Not to superficially parrot them (as has been done countless times) by writing u
 ### The 0o10 Years
 
 - Historically: LD led to Radicalize led to We led to the eclipse and life collapse. Then the slow rebuilding through jobs and the book was put aside. Collapse led to Gyana led to AV and stability for five years, led to Aicadium led to teetering on the edge of oblivion and then finally to LD (the company) after two broken hands. This led to the first passion project in a while: On the Lamb, which was almost too much to share even with anyone who wasn't directly involved in making it. You have to choose to enter that Rabbit Hole when you're ready, it can't be forced. Then On The Lamb led to a calm after finally getting We out of my brain and into something semi permanent. That led to a revisitation of mathematics and education, and after a month, to the decision to focus on the social side of the business. This led to several months of intense focus on the details of how to open physical locations, renting corporate real estate, looking at fifty available sites in person, and and hiring a commercial real estate negotiator for literally $6000 and then doing precisely nothing with him once we realized he's useless and (independently) there are actually too many laws in California to even open something small and everyone cautions against it. This led to the decision to take a weekend trip to Austin and explore the possibility of living somewhere that might be better all around for business, for tech, for raising kids, and for anything we might end up doing. It had to be a Pareto improvement, not just better by some loss function that makes tradeoffs. This led to several months of packing up the old house and deciding to rent it out, becoming landlords, and moving to north Austin, where we now live. This book is about who we are, as developers, about our shared history and culture, about the data structures we call bibles and how our culture is desperately in need of one. A serious one, which is to say an infinite recursive joke that's also dense with timeless truth. It might therefore be surprising that this book has been in progress since before my first job in tech. It's not the same thing it was then, but all the essential elements are the same. Quitting school. Quitting work. Saying Fukkot. A group called LD. Bibles. Legal Latin. Information Theoretic Prose. Comet. The Nth Stair. Cult of the Minor Error. Getting Root. 根2. Gentoo. Root 2. Dudethey'reontome. The News. Genesis: The Middle. Fiddler. A χld named K. Terrorists who don't actually do any terror. When academia dies, where do we go? How all technical writing sucks but it's the one thing the best content still can't replace. The optimal genre as 99% BMC and 1% the ability to slap the reader in real life, and how that final 1% changes the other 99. CDB. ABC. char \*quotations. That of which one cannot speak and yet does. Dynamic Linker as the brain, as a bible, as the only way to make something timeless in an era when all is elsewhere on a fleeting and forever changing web. The Dynamic Read Writable Free Encyclopedic Repository of the Modern State of Human Knowledge. 
-
-
-### The N Chapters
-
-- Final chapter is obviously called "When theres nothing left to take away."
-- I don't know why. I can't justify it. But it feels so unquestionably right.
