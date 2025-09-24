@@ -26,7 +26,7 @@ As a child, during that earliest stage of life when we're looking around the wor
 
 1: Must be rough to get excluded from being Alonzo Church when everyone you know gets to be that.
 
-0: Exactly. So when it came time for Sam to have a son, he pulled a fast one on his brother -- the first born -- and added an item of his own to the family's family tree. Now, thanks to Sam, the family tree looked like this.
+0: Exactly. So when it came time for Sam to have a son, he pulled a fast one on his brother -- the first born -- and added an item of his own to own the family's family tree. So now, thanks to Sam, the family tree looked like this.
 
 1. Your Name: Sam
 2. Your Father: Alonzo Church
@@ -127,7 +127,7 @@ As a child, during that earliest stage of life when we're looking around the wor
 
 1: Can I have some more details?
 
-0: Of course. Let's go take a tour through some of his early papers.
+0: Of course. Let's go take a tour.
 
 ## The Collected Works of Alonzo Church
 
@@ -163,11 +163,11 @@ As a child, during that earliest stage of life when we're looking around the wor
 
 1: Why aren't we including those people in "The foundational people"?
 
-0: Good point. Some of them probably deserve to be included too. But every story has to start somewhere, and for the history of computing and the history of developers, Church is a pretty good place to start.
+0: Good point. Some of them probably deserve to be included too. But every story has to start somewhere, and for a bible on the history of computing, Church is a pretty good place to start.
 
 1: What was going on in the 30 years before this?
 
-0: Well there had been some work on axiomatic set theory. Mostly on a system called ZFC, or Zermelo Fraenkel with Choice. That system is still considered the "official" foundations of mathematics by mathematicians today, but it's never really been _used_ as foundations in any real sense.
+0: Well there had been some work on axiomatic set theory. Mostly on a system called ZFC, or Zermelo Fraenkel (with the Axiom of) Choice. That system is still considered the "official" foundations of mathematics by mathematicians today, but it's never really been _used_ as foundations in any real sense.
 
 1: What do you mean "used as foundations."
 
@@ -177,7 +177,7 @@ As a child, during that earliest stage of life when we're looking around the wor
 
 0: Or almost nobody. They usually just talk about it or assert that ZFC proves such-and-such. It's extremely rare to see mathematicians actually working _within_ ZFC as a formal system.
 
-1: That doesn't seem so bad. I mean we programmers rarely write in machine code, but it's sort of the "foundations" of any language that compiles to it, in a sense.
+1: That doesn't seem so bad. I mean we programmers don't really write in machine code, like ever. But it's sort of the "foundations" of any language that compiles to it, in a sense.
 
 0: No no, I mean even books about ZFC don't work within ZFC.
 
@@ -199,17 +199,17 @@ As a child, during that earliest stage of life when we're looking around the wor
 
 1: What?!
 
-0: That's the point. No one within mathematics really "likes" ZFC. Even set theorists who chose axiomatic set theory as their favorite area to focus on.  Now to be fair the book isn't entirely about ZFC. But a third of it is devoted to set theory and "standard foundations," and the guy who wrote this part is a very competent logician. Not intending to single out the author. This is just sort of how ZFC is viewed. That "paradise" is pretty clearly the "paradise Cantor created" that David Hilbert's always quoting as talking about. That's informal set theory, the kind that uses standard mathematical reasoning and eventually leads to paradoxes. And "these Hell torments" are axiomatic set theory.
+0: That's the point. No one within mathematics really "likes" ZFC. Even set theorists who chose axiomatic set theory as their favorite area to focus on.  Now to be fair, that book isn't entirely about ZFC. But a third of it is devoted to set theory and "standard foundations," and the guy who wrote this part is a super competent logician. Intensely smart guy named Jeff Hirst. Not intending to single out the author. This is just sort of how ZFC is viewed. That "paradise" is pretty clearly the "paradise Cantor created" that David Hilbert's always quoted talking about. That's informal set theory, the kind that uses standard mathematical reasoning and eventually leads to paradoxes. And "these Hell torments" are axiomatic set theory.
 
 1: And this is a book _about axiomatic set theory?_
 
-0: Yep. At least this part is. This book is extremely good at choosing quotes for section headings. A lot of the quotes in this section are about hell.
+0: Yep. At least this part is. This book is extremely good at choosing quotes for section headings. A lot of the quotes in this section are about hell. Or L, which is a thing Gödel invented in the course of studying, well, axiomatic set theory.
 
 ![[zfc-hirst-07.jpg]]
 
 1: Damn, seems like mathematicians really don't like axiomatic set theory.
 
-0: Yeah, there are a bunch of dog whistles throughout this part about how mathematics probably needs some new foundations.
+0: Yeah, there are a bunch of dog whistles throughout this part about how mathematics probably needs some new foundations. Can't disagree.
 
 ![[zfc-hirst-10.jpg]]
 
@@ -229,7 +229,7 @@ As a child, during that earliest stage of life when we're looking around the wor
 
 1: What sentences?
 
-0: Not now. We'll get there eventually. We're still covering Church.
+0: Not now. We'll get there eventually. We're still at Church.
 
 1: Wait though, how did most mathematicians not notice that most of their field is one of five sentences?
 
@@ -241,7 +241,7 @@ As a child, during that earliest stage of life when we're looking around the wor
 
 1: Impotent figure what?
 
-0: Like a king with no power. Everyone points to ZFC and says "That's the foundations," but no one likes it, no one uses it, and it's basically just been sitting there for a century plus foundations. That's been changing recently though.
+0: Like a king with no power. Everyone points to ZFC and says "That's the foundations," but no one likes it, no one uses it, and it's basically just been sitting there for a century plus with a big crown on that says "I'm the foundations of mathematics and mathematics is the foundation of everything." That's been changing recently though.
 
 1: How so?
 
@@ -253,7 +253,11 @@ As a child, during that earliest stage of life when we're looking around the wor
 
 1: I guess? Not really sure.
 
-0: That's the point. It's mostly words. They're not actually working inside the formal system. They're just sort of writing pseudo-code and English that talks about what the proof would be like if we actually did it. Here's another example.
+0: That's the point. It's mostly words. They're not actually working inside the formal system. They're just sort of writing pseudo-code and English that talks about what the proof would be like if we actually did it. 
+
+1: Isn't that what we're doing?
+
+0: Exactly! Here's another example.
 
 ![[zfc-hirst-02.jpg]]
 
@@ -300,25 +304,25 @@ As a child, during that earliest stage of life when we're looking around the wor
 
 0: It's code.
 
-1: WHAT?
+1: What's so frightening about code?
 
 0: I mean, the book is from 1952, based on work from the 1930s and 1940s. So there's no "computer code" in there in the usual sense.
 
 1: So how's it code?
 
-0: Because Kleene doesn't skip steps or hand-wave or so "it can be shown." He works inside the formal system. He adds a ton of documentation -- English explanations of what's happening -- but the way he behaves as the author of that book is exactly how you'd behave if you were a programmer.
+0: Because Kleene doesn't skip steps or hand-wave or say "it can be shown." He works inside the formal system. He adds a ton of documentation -- English explanations of what's happening -- but the way he behaves as the author of that book is exactly how you'd behave if you were a programmer.
 
-1: In what sense?
+1: I am a programme---
 
-0: I mean he behaves as if everything he claims actually has to be implemented. He doesn't write as if he's trying to convince a human mind where you can just handwave or say "obviously" or "exercise for the reader." He writes as if he's trying to convince a machine, and then documenting heavily so humans can read the code too. Kleene was pretty clearly the first programmer.
+0: I know. But that's an extremely unusual way to behave in a math book, when you're the author. I mean he behaves as if everything he claims actually has to be implemented. He doesn't write as if he's trying to convince a human mind where you can just handwave or say "obviously" or "exercise for the reader." He writes as if he's trying to convince a machine, and then documenting heavily so humans can read the code too. Kleene was pretty clearly the first programmer.
 
 1: Wait, I thought the first programmer was Church and Gödel and Turing?
 
-0: Exactly. Kleene is the glue. Like this.
+0: Exactly. They're the first. And⁰ Kleene is the glue. Like this.
 
 $$3 = \{ 0, 1, 2 \}$$
 
-1: Do you try to be confusing?
+1: Do you try to be confusing on purpose?
 
 0: What's confusing about that?
 
@@ -328,7 +332,7 @@ $$3 = \{ 0, 1, 2 \}$$
 
 1: That's weird. But ok.
 
-0: So Kleene is the curly braces and commas that glue it all together.
+0: And Kleene is the curly braces and commas. The bits that hold it all together and make the set be one thing. He's the glue.
 
 1: That feels like a stretch.
 
@@ -336,7 +340,7 @@ $$3 = \{ 0, 1, 2 \}$$
 
 1: I know what a constructor is. What's the $\exists$ thing?
 
-0: That means "There exists." Think of the Axiom of Choice as a function that you can call in standard mathematics. That function returns a sentence that says "Something exists." And you're allowed to take that sentence that says "X exists" and use it in your proofs. It's controversial because you can call that function without passing in an example of an X that makes the sentence true.
+0: That means "There exists." Think of the Axiom of Choice as a function that you can call in standard mathematics. That function returns a sentence that says "Something exists." And you're allowed to take that sentence that says "Something exists" and use that sentence in your proofs. It's controversial because you can call that function without passing in an example of an actual Something that makes the sentence true.
 
 1: I'm like 50% following. Rephrase?
 
@@ -344,7 +348,7 @@ $$3 = \{ 0, 1, 2 \}$$
 
 1: WHAT?!
 
-0: Yep. That's the C in ZFC. It's part of standard foundations. So Church writes his PhD dissertation being like "Maybe we can delete this code guys, it's kinda sketchy."
+0: Yep. That's the C in ZFC. It's part of standard foundations. The machine code of mathematics. So Church writes his PhD dissertation being like "Maybe we can delete this code guys, it's kinda sketchy."
 
 ![[church-38.png]]
 
@@ -539,7 +543,7 @@ _(Narrator: 1 flips ahead through the paper)_
 
 ![[church-numerals-in-python-4.png]]
 
-1: What are `verb` and `noun`
+1: What are `verb` and `noun`?
 
 0: Think of it like a crank. 
 
@@ -553,7 +557,12 @@ _RESUME HERE_
 
 1: What on earth could possible motivate a person to do something like this?
 
+(Cover von Neumann encoding of natural numbers in ZFC and explain that it's a side effect of any system that only has one type.)
+
 ![[church-19.png]]
+
+
+RAW MATERIALS FOR LATER
 
 This just says "We can plug stuff into functions and vice versa"
 

@@ -319,7 +319,7 @@ _(Narrator: 0 types some commands into a shell.)_
 
 1: How did you do this?
 
-0: Read the code?
+0: Read the code.
 
 1: Is there a hidden `isatty` call somewhere?
 

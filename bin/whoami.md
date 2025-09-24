@@ -67,7 +67,7 @@
 
 0: ...
 
-1: Ok so I actually really like this history stuff. Not that I'm an expert. But I like learning about when things were simpler. Even though everything was a lot harder back then. I mean punch cards? I can't imagine. But before punch cards there were vacuum tubes and this big machine called ENIAC, I don't know much about that era, but during WWII the Germans had Enigma and Alan Turing made the Bombe which I guess was sort of a computer. The textbooks usually go all the way back to Charles Babbage. He had this thing called the Analytical Engine, I think he had two versions. I forget if he ever finished them. And of course everyone knows Ada Lovelace was way ahead of everyone else, but she never gets the credit, as usual, so I guess that's where the field started.
+1: Ok so I actually really like this history stuff. Not that I'm an expert. But I like learning about when things were simpler. Even though everything was way harder back then. I mean punch cards? I can't imagine. But before punch cards there were vacuum tubes and this big machine called ENIAC, I don't know much about that era, but during WWII the Germans had Enigma and Alan Turing made the Bombe which I guess was sort of a computer. The textbooks usually go all the way back to Charles Babbage. He had this thing called the Analytical Engine, I think he had two versions. I forget if he ever finished them. And of course everyone knows Ada Lovelace was way ahead of everyone else, but she never gets the credit, as usual, so I guess that's where the field started.
 
 0: So that's us?
 
@@ -319,7 +319,7 @@
 - Variational methods
 - Wiener measures
 
-1: BAHAHAAHHAHAH THAT CANNOT BE A THING
+1: BAHAHAAHHAHAH THAT CANNOT BE A THING!
 
 0: How do you feel?
 
@@ -331,7 +331,7 @@
 
 0: Ever find yourself procrastinating from what you're "supposed" to be doing because you're in some book or site or paper reading about those things?
 
-1: No. Not these days. Once or twice--
+1: No. Not these days. Once or twice in the pa--
 
 0: If you had a fully paid scholarship for four years of study and that list was your curriculum, would you be excited to learn it?
 
@@ -361,7 +361,7 @@
 
 1: No.
 
-0: Would your parents say "Ever since 1 was little, all 1 ever loved was machines of every kind. The washing machine. The toaster. Tractors, bulldozers, every kind of machine big or small."
+0: Would your parents say "Ever since 1 was little, all 1 ever loved was machines of every kind. The washing machine. The toaster. Tractors, bulldozers, every kind of machine big or sma---"
 
 1: No.
 

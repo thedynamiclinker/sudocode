@@ -44,7 +44,9 @@
 
 ρ: "The Rows." Relational variant of the rectangle pseudo-culture. 
 
-Σσ: Reverse Mathematics. Stephen Simpson. Also users of Kleene Mostowski. Everything is Σ separation or Σ comprehension. Largely unnoticed by its peers due to where it's sitting.
+Σ: Reverse Mathematics. Stephen Simpson. Also users of Kleene Mostowski. Everything is Σ separation or Σ comprehension. Largely unnoticed by its peers due to where it's sitting.
+
+σ: Constructivists. No justification for the choice of letter, except the modern slang definition of sigma, namely: "Unlike alphas who lead a group, sigmas are seen as standing at the top of the social pyramid but choosing to remain outside of it." Cousins of the mus and lambdas via the relationship with Kleene.
 
 τ: General Relativity. Tau stands for proper time.
 
@@ -60,6 +62,9 @@
 
 Ω: Large Cardinals people. The most unhinged subculture. Somehow ended up in "foundations of mathematics." Ingests heroic doses daily. Part of the orthodocs.
 
+---
+
+TODO: Need some letter for the constructivists. They'll be important when we get to the modern intuitionistic foundations as embodied in systems like HoTT and Lean.
 
 ---
 

@@ -1,5 +1,7 @@
 
-![[kill-your-darlings.jpg|500]]
+![[kill-your-darlings.jpg|300]]
+
+An incredible realization from 11:46 in Reminiscences of Logicians: Church's Thesis was from around 1934. Then Turing came in 1936. That means that as a result of these strange adults studying their Super Advanced Kindergarten, because of them, there has never been a single moment in the history of computing machines when we learned a new thing was computable that we didn't expect before Church & Kleene & Gödel back in 1934.
 
 ## Asap
 
@@ -16,7 +18,7 @@
 
 ---
 
-![[the-first-draft-of-anything-is-shit.png|400]]
+![[the-first-draft-of-anything-is-shit-wallpaper.jpg|300]]
 
 ## Eventually
 - Contact Chet Ramey, explain that you've found a bug, and would like to include it in a book. The book is called "sudo code", and it's a series of technical dialogues between two characters, 0 and 1.
