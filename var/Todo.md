@@ -1,8 +1,7 @@
 
 ![[kill-your-darlings.jpg|300]]
 
-An incredible realization from 11:46 in Reminiscences of Logicians: Church's Thesis was from around 1934. Then Turing came in 1936. That means that as a result of these strange adults studying their Super Advanced Kindergarten, because of them, there has never been a single moment in the history of computing machines when we learned a new thing was computable that we didn't expect before Church & Kleene & Gödel back in 1934.
-
+Tl;dr: Book proposal soon. We're getting close. Just need bash bugfix. Then we're ready.
 ## Asap
 
 - [ ] Finish the Church dialogue.
@@ -41,22 +40,43 @@ An incredible realization from 11:46 in Reminiscences of Logicians: Church's The
 - /boot: The /boot dialogues were good, especially the bit with the binary loader we wrote in C. Need to find somewhere to put this, because it doesn't quite belong anywhere in the narrative yet.
 - /usr/src/bash: We've got a bug in bash upstream related to "history" that's also somehow about being inside case. The fact that most people don't know bash is maintained by one guy is a different kind bug in our history, and it's also related to being inside case (Chet is at Case western reserve university.) Reach out to Chet, make him a character, have a dialogue where he helps 0 and 1 fix the bug, and make a who's-on-first style dialogue with the history history case case stuff above.
 - The ⟂-docs: Pronounced "Orthodox." The orthogonal documents. Refers to theoretical computer science, primary computability and complexity as elaborated in the decades since the lambdas and the mus split. Though it appears on the surface to be the same culture, it is mostly orthogonal to the history of our people.
+- An incredible realization from 11:46 in Reminiscences of Logicians: Church's Thesis was from around 1934. Then Turing came in 1936. That means that as a result of these strange adults studying their Super Advanced Kindergarten, because of them, there has never been a single moment in the history of computing machines when we learned a new thing was computable that we didn't expect before Church & Kleene & Gödel back in 1934.
+- The incomplete story of incompleteness: Definitely need to mention the rarely discussed side effect of the incompleteness theorems: If mathematics is more limited than we thought, suddenly it becomes a lot more plausible to define "computation." Even the space of "all possible computations" is potentially within the reach of a formal definition. Though many of the main players involved in the early theory of "effective calculability" didn't expect that they were capturing all possible computations in their definitions, it's probably not an accident that all 3 of our definitions of "computable" appeared within 5 years of Gödel's incompleteness theorems. In the years from 1900 to 1931, it simply didn't feel plausible to give a definition that might hope to capture all possible computations. In a very real sense, we may owe the origins of modern computing to the discovery of incompleteness.
 - Visit a database as a location in the file system and be like "this is a fucking abomination"
 - Final chapter is obviously called "When theres nothing left to take away." I don't know why. I can't justify it. But it feels so unquestionably right.
+- For the "getting root" side quest, escalating privileges to kernel space should be easy. Escalating further may be more difficult, and require verification of one's knowledge via a series of, um, Raptcha (Captcha + Rapture).
 
-## Do a dump of principles either after returning from /mnt/sinai or after completing the mini-torah in lost+found/We
-- First one is the commandment dump.
-- Second one is the "second law" dump.
+## Principles
 
-Possible principles:
-- Metacommentary solves everything.
-    - Author's Note: Somehow this principle is the hardest to explain, despite being one of the most important, not to mention one of the easiest to apply in practice. Todo before publishing the book: Find a way to explain this principle. Or, lacking that, give an example. Or, lacking that, just leave this text here and publish as is. After all, metacommentary solves everything.
-- Learn who you admire 
-    - To create a curriculum for yourself in any field, first learn who you admire, then learn _from_ who you admire. Once you have a critical mass of heroes, you'll begin to see patterns in their behavior that you should them attempt to systematize and distill into principles. This ritual allows you to synthesize an ideal teacher for your particular values, preferences, and learning style.
-- To learn, teach
-    - So far in our story, it's not clear if the 1 character has learned much. However, the 0 character has learned a lot by attempting to teach 1. In the remainder of the book, 0 will teach 1 by asking 1 to teach 0.
+Ideas for principles.
 
-- The incomplete story of incompleteness: Definitely need to mention the rarely discussed side effect of the incompleteness theorems: If mathematics is more limited than we thought, suddenly it becomes a lot more plausible to define "computation." Even the space of "all possible computations" is potentially within the reach of a formal definition. Though many of the main players involved in the early theory of "effective calculability" didn't expect that they were capturing all possible computations in their definitions, it's probably not an accident that all 3 of our definitions of "computable" appeared within 5 years of Gödel's incompleteness theorems. In the years from 1900 to 1931, it simply didn't feel plausible to give a definition that might hope to capture all possible computations. In a very real sense, we may owe the origins of modern computing to the discovery of incompleteness.
+### Code
+- Create from subtraction (unix, linux, python, Ken setting out to write a Fortran compiler and creating B instead.)
+- Design by Implementation (Ken Fortran to B, Guido on Python.)
+- Separate plumbing and porcelain (git).
+- Fail like an escalator (Hedberg's Law.)
+- Worse is Better (Unix, Git the stupid content tracker, Languages like Scilab that allow you to index past the end of an array and automatically expand it when you do. When a tool is too smart or too helpful, it becomes impossible for the user to reason about. When the user is technical, this usually makes the tool worse.)
+
+### Documentation
+- Write Executable Documentation (Linus's Documentation Always Lags Reality, Eelco's If you need a Readme.md to explain how to build a project you've already failed.)
+- Don't test internals. (Related: Write executable documentation.)
+- Don't document bad code, rewrite it. (Brian's law. Related: Writing is easier than Reading, Deleting is easier than Writing.)
+- Metacommentary solves everything. (Narrator's law)
+
+### Human Behavior
+- Eat your own dogfood (Linus autodialing his Minix partition and being forced to use Linux until it was completely self hosting.)
+- Adding people makes it slower (Brooks' Law)
+- Motivation isn't Free (Landley's Principle. Stopped maintaining busybox because it stopped being fun.)
+- Cultivate Laziness, Impatience, and Hubris (Larry's principle.)
+- Laws Aren't Real (Or: Use constraints to change behavior. Or: Make undesirable states impossible. Or: Use commitment devices to avoid deals with the devil. Haskell's lesson that laziness forced them to be pure. Linus autodialing his Minix partition. Rust's use of this principle. Thomas Schelling's commitment devices from The Strategy of Conflict.)
+
+### False gods
+- Planning is Pretending (Linus has quotes about this somewhere. Related: Most Affordances are Implicit, Snowman imagining Summer.)
+- Code is a liability not an asset (Diederich's law.)
+- Early success is a curse: The child star principle (SPJ's example of haskell bug that deleted your source code and why it didn't matter. Guido's example of why you shouldn't want your code in the standard library. Guido's example of how difficult the Python 2 to Python 3 transition was, Perl waning in popularity before releasing Perl 6.)
+- Avoid Shamans (Grug's Law)
+- If nobody loves it, don't use it: The marketing firewall principle (Related: Motivation isn't free. Designed to avoid using tools you believe to be "industry standards" or "best practices" in the many cases where those tools will make your life worse. In practice these tools tend to be the ones with a lot of marketing effort behind them. Even if you're using a free version of a tool (e.g., a free database), the fact that databases as a category have more marketing energy directed toward them than (say) text files means that databases as a category should be regarded with greater suspicion. The cases when such tools are the right choice always depends on quantitative, not qualitative, details of the tradeoff.)
+
 
 ## 0 & 1 eventually agree on the requirements for a proper bible
 - Beginning of time
