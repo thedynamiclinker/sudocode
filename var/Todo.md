@@ -14,6 +14,10 @@
 - [ ] Get to the `/etc/group` dialogue.
 - [ ] Clean this file!
 
+---
+
+![[the-first-draft-of-anything-is-shit.png|400]]
+
 ## Eventually
 - Contact Chet Ramey, explain that you've found a bug, and would like to include it in a book. The book is called "sudo code", and it's a series of technical dialogues between two characters, 0 and 1.
 - Show Bill Joy's vi keyboard with the arrows on the letter keys. A lot of stuff in life that never makes sense unless you know how the original authors wrote. 
