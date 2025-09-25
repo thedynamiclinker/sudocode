@@ -1,1 +1,0 @@
-The things only Red Team knows.
