@@ -38,18 +38,22 @@ TODO: Fill in the middle of this story.
 
 TODO: Explain Turing machines and how they work.
 
-TODO: Explain how this story ties in with Church and Godel.
+TODO: Explain how this story ties in with Church and Gödel.
 
 When that's done, end with something like this...
 
 ---
 ## The Martyr
 
-0: Turing finished the proof of the three-way equivalence, thus establishing more clearly than anyone else the plausibility of Church's Thesis. These unusual heroes seemed to have actually captured the concept of computation. Not within some particular formal system, but any computation that could ever be performed by any physical system. Over 100 years later, we still haven't found a single counterexample. I consider this story to be one of the greatest foundational achievements in history.
+0: Turing finished the proof of the three-way equivalence, thus establishing more clearly than anyone else the plausibility of Church's Thesis, now called Church-Turing. This was the final nail in the coffin. These three giants, the first three developers in the history of computing who together made the first language, the first compiler, and the first hardware design, these same these people now also seemed to have captured the concept of computation itself, in three definitions that none of them expected to be the same. Except maybe Turing. They captured the essence of computation, not within some particular formal system or machine, but any computation that could ever be performed by any physical system past or future. They got it. The final nail was this 1937 paper down below. Almost 100 years later, after all the developments in computing and technology since the late 1930s, our species still hasn;t found a single counterexample to Church and Turing's claim. Computation has a ceiling. That ceiling is universal. And it's damn easy to get there. Everything else is lots and lots of details that take place at or below the ceiling. I can't think of a more important achievement in the foundations of human knowledge in all of human history than that. The story of computation and how our species captured it is as important as the discovery of fire. I think even the discovery of electricity or magnetism or the strong and weak nuclear forces aren't as incredible as the discovery of computation. Despite all the well-deserved books about Gödel and Turing, this story is never told with anything close to the energy it deserves. And I can feel in my bones every way that the version of it I've told here is still an absolute failure compared to what this story deserves. It would take a new curriculum to really tell it properly. Students in our field, and even the profess{or, ional developer}s of our field don't know enough about the beginning or the middle of this story. Sadly most of us know about the end.
+
+1: What was the end?
+
+0: Not the end of the story. But an end to this thread.
 
 ![[turing-1937-sex-footnote-1.png]]
 
-0: In a more sane universe, Turing's sex life would've been no more than a footnote to his story. No more significant than a randomly chosen footnote in one of his papers.
+0: In any sane universe, Turing's sex life would've been no more than a footnote to his story. No more significant than a randomly chosen footnote in one of his papers.
 
 ![[turing-1937-sex-footnote-2.png]]
 
