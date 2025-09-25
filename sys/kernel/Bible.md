@@ -27,7 +27,7 @@ Is it customary in the genre for the so-called beginning to roughly coincide wit
 Against that background, in what follows, we will take the beginning of time to be January 1st, 1970.
 
 
-![[var/trash/boot/this/book/include/unix-time-begin.png]]
+![[zero/trash/boot/this/book/include/unix-time-begin.png]]
 
 
 ## Middle
@@ -66,7 +66,7 @@ This date is often predetermined as early as page one of the creation story, and
 Against that background, in what follows, we will take the end of time to be January 19th, 2038.
 
 
-![[var/trash/boot/this/book/include/unix-time-end.png]]
+![[zero/trash/boot/this/book/include/unix-time-end.png]]
 
 ## Frequently Asked Questions
 
