@@ -59,11 +59,11 @@ When that's done, end with something like this...
 
 1: Is this supposed to be important?
 
-0: No. That's exactly the point. But in Turing's story, what should have been an unimportant footnote that happened to say $S(e(x))$ turned out to lead to the tragic and premature end of his story.
+0: No. That's the point. In Turing's story, what should have been an unimportant footnote that happened to say $S(e(x))$ turned out to lead to the premature end of his story.
 
 1: THAT footnote led to---
 
-0: Not that one. I don't think anyone even noticed that one. Not sure Turing noticed either, though I like to think he did. This next bit is the sad one. The one people noticed.
+0: No not that one. I don't think anyone even noticed that one. Not sure Turing noticed either, though I like to think he did. This next bit is the sad one. The one people noticed.
 
 ![[yours-in-distress-alan.png]]
 
