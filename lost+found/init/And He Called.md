@@ -547,57 +547,232 @@ _(Narrator: 1 flips ahead through the paper)_
 
 0: Think of it like a crank. 
 
----
+1: That doesn't help.
 
-_RESUME HERE_
+0: I mean "three" is the idea "turn the crank three times."
 
----
+1: The only crank I see around here is you.
 
-![[church-numerals-in-python-5.png]]
+0: Ok what's "three" to you?
 
-1: What on earth could possible motivate a person to do something like this?
+1: What's three?
 
-(Cover von Neumann encoding of natural numbers in ZFC and explain that it's a side effect of any system that only has one type.)
+0: Yes, explain the concept to me.
+
+1: Three is, well, thr---
+
+0: You can't say "three" in the definition.
+
+1: Ok, three is any time there are this many of something:
+
+$$\circ \circ \circ$$
+
+0: Does it matter what sort of things they are?
+
+1: No. It's three if there's that many of anything.
+
+0: Ok, what if you want to encode "three" in a language that only has verbs.
+
+1: What do you mean?
+
+0: Like Church's lambda calculus. Everything is functions. How do you encode three?
+
+1: Put three functions next to each other?
+
+0: How do you put them "next to" each other? We don't have lists or tuples yet.
+
+1: Oh right.
+
+0: Or strings, so string concatenation won't work either.
+
+1: So what do we do?
+
+0: Well, what do we have?
+
+1: Functions?
+
+0: Right.
+
+1: What can we do with functions?
+
+0: Let's go see what Church says.
 
 ![[church-19.png]]
 
+1: What does this say?
 
-RAW MATERIALS FOR LATER
+0: It just says "We can plug stuff into functions and vice versa."
 
-This just says "We can plug stuff into functions and vice versa"
+1: What's vice versa? Unplug stuff out of functions?
 
-What's vice versa? Unplug stuff out of functions?
+0: Exactly.
 
-Exactly.
+1: I'm not sure what I meant by that. What did you mean?
 
-I'm not sure what I meant by that. What did you mean?
+0: What's the opposite of turning `λx: x²` into `3²`?
 
-What's the opposite of turning λx: x² into 3²?
+1: Turning `3²` into `λ3: 3²` for any value of `3`?
 
-Turning 3² into λ3: 3² for any value of 3?
+0: Exactly.
 
-Exactly.
+1: I'm not sure what I meant by that. What did you mean?
 
-I'm not sure what I meant by that. What did you mean?
+0: I mean the 3 becomes a variable there.
 
-I mean the 3 becomes a variable there.
+1: I don't see Church doing that anywhere in this picture.
 
-I don't see Church doing that anywhere in this picture.
+0: But that's the idea. He's just saying you can plug stuff into functions, and you can unplug things out of expressions to make functions. Nothing that any programmer hasn't done a thousand times. This isn't a deep thought. It just turns out to be deep as a non-thought.
 
-But that's the idea. He's just saying you can plug stuff into functions, and you can unplug things out of expressions to make functions. Nothing that any programmer hasn't done a thousand times. This isn't a deep thought. It just turns out to be deep as a non-thought.
+1: Do you _have_ to talk like this? 
 
-Do you have to talk like this? 
+0: Like what?
 
-Like what?
+1: What do you mean it turns out to be deep as a "non-thought"?
 
-What do you mean it turns out to be deep as a "non-thought"?
+0: Well Church himself didn't actually think this was enough to capture ALL of computation! 
 
-We'll Church himself didn't actually think this was enough to capture ALL of computation! 
+1: He didn't?
 
-He didn't?
+0: Hell no! You'd have to be insane to think that this was ALL of computation the first time you see it. I mean Church _came up_ with this idea and even HE didn't think that. 
 
-Hell no! You'd have to be insane to think that this was ALL of computation the first time you see it. Church came up with this idea and HE definitely didn't think that. 
+1: How do you know?
 
-How do you know?
+0: From Steve.
 
-Ok so...
+1: Who's Steve?
+
+## The First Programmer
+
+> John Crossley: What did you do Steve? When you first started learning logic. You didn't have books did you?
+> 
+> Steve Kleene: We didn't have books.
+> 
+> Gerald Sacks: You had _Principia Mathematica._
+> 
+> _(Everyone laughs)_
+> 
+> Steve Kleene: Well, I never read _Principia_. Of course I thumbed it a little bit... Rosser I guess started his logic that way... But I learned logic by learning Church's system which was subsequently proved inconsistent.
+> 
+> _(Everyone laughs)_
+> 
+> Steve Kleene: And y'know, it all consists of abstract lambda definability. And uh, and it was only after I got my degree that I really began to read much of the litchrachoar.
+
+1: What's "litchrachoar"?
+
+0: Sorry, that's "literature."
+
+1: Did he spell it like that?
+
+0: No, this is an old audio recording.
+
+1: So you spelled it like that?
+
+0: I wanted to capture his accent.
+
+1: Well don't.
+
+0: Ok. Just imagine it. He's got a charming sort of unpretentious midwest thing going on.
+
+> Steve Kleene: It was only after I got my degree that I really began to read much of the literature. Uh let me see. Hilbert Bernays, didn't the first volume of that appear in 1934?... Hilbert Bernays was around... I never read Lewis and Langford.
+
+1: This is Church's student?
+
+0: Yep. 
+
+1: The one who that book called "frighteningly technical"?
+
+0: That's him.
+
+1: Doesn't seem too frightening so far.
+
+0: How so?
+
+1: Well he never read that one book, or that other one. Said he didn't read much of the literature during school. And you said he's got an unpretentious vibe. Can't be that frightening.
+
+0: And he learned logic from a system that ended up being inconsistent.
+
+1: So?
+
+0: Well I imagine that sort of thing hammers it into a person that most of what we say about logic is wrong.
+
+1: Not following.
+
+0: The principle of explosion and all that. In standard logic, we always say a single contradiction makes the whole system useless. But it wasn't useless.
+
+1: Wasn't useless how?
+
+0: Well, Steve learned logic from it.
+
+1: What system was that again?
+
+0: Church's first attempt at the lambda calculus. Turned out to be inconsistent. And that means this Kleene guy, easily one of the best logicians of the 20th century, learned logic from an inconsistent system. So it can't have been entirely useless.
+
+1: How did Church figure out his system was inconsistent?
+
+0: From Kleene.
+
+1: Damn.
+
+0: And a friend. That guy from earlier called Rosser who actually read Principia Mathematica.
+
+1: What's Principia Mathematica again?
+
+0: That's Bertrand Russell's book.
+
+1: The paradox guy?
+
+0: Yeah. It's not super readable.
+
+> Steve Kleene: And \[I read\] a lot of papers... _(Pauses.)_ For instance by Gödel. The first thing we knew of Gödel's paper was one time the mathematics colloquium speaker was gonna be von Neumann. And of course von Neumann had lots of things of his own to talk about but instead of that we got him there and found out he was telling us about Gödel's 1931 results.
+> 
+> Someone: This was at Princeton?
+> 
+> Steve Kleene: This was at Princeton and it was in the Fall of 1931. And whether he had the paper itself or not I don't know... 
+>
+> C. C. Chang: Was this the first you'd heard of Gödel?
+>
+> Steve Kleene: When we went into this meeting was the first that any of us heard of Gödel. Church was teaching a logic course, Rosser and I were among the students, it was the first that any of us had heard of Gödel. I don't know whether Church was aware of Gödel's 1928 paper on completeness, he never gave it in class, because I... I never had the classical form of the propositional or predicate calculi in my coursework, I learned them for myself afterwards.
+> 
+> Steve Kleene: So as soon as we heard the lecture, the paper was available. We hadn't noticed it, y'know, we didn't go looking at every journal that came into the library to search it through for papers that would interest us, maybe we should've but we didn't, so of course we went and we read the paper right off.
+> 
+> Steve Kleene: Church was convinced that there were sufficient differences in the way logic was formulated in his system that it would escape the theorem that you couldn't prove its completeness in the system itself. _(Pauses)_ And of course he was right.
+>
+> _(Everyone laughs)_
+
+1: Why did everyone laugh there?
+
+0: Church was right, but for the wrong reasons. He thought his system would be "good enough" to avoid Gödel's theorem and be complete anyway. Turns out early lambda calculus was complete, it could prove its own consistency, because it was inconsistent and could prove anything.
+
+1: Logic is trippy.
+
+---
+
+TODO: Clean this up.
+
+TODO: 6:50. Church didn't think it would be possible to implement predecessor in lambda calculus. Kleene realizing how to implement predecessor at the dentist.
+
+TODO: 7:15.
+> Steve Kleene: So there was no idea at the beginning that this was going to be all effectively calculable functions.
+
+TODO: 7:30.
+> Steve Kleene: I kept taking it as a challenge and everything I tried I could work.
+
+> Steve Kleene: It was an unexpected fallout that this could represent all effectively calculable functions.
+
+> Steve Kleene: The basic work was done between January 1932 and the next 5 or 6 months.
+
+> Steve Kleene: Everything I tried, every kind of function I tried to define, every kind of effective operation that I tried to parallel by lambda definability, I probably knocked off within the fist 5 months.
+
+> Steve Kleene: For us the first concept of lambda definability was after the fact, after having formulated the notion of lambda definable functions as simply the ones for which you could find formulas in this symbolism. And discovering that everything you thought of that you wanted to prove lambda definable you could!... But it was Church, I have to give the credit to Church, I can't take it myself, he said "Y'know, don't you think maybe we've really got ALL the effectively calculable functions?"
+
+> Someone: Was Church's thesis just an offhand remark? 
+>
+> Steve Kleene: Well he spent some months sweating over it. And saying "Don't you think it's so?" And I was a skeptic! When he came out and asserted the thesis I said "He can't be right." So I went home and I thought I would diagonalize myself out. Out of the class of the lambda definable functions and get another effectively calculable function that wasn't lambda definable. Well just in one night I realized you couldn't do that, and from that point on I was a convert.
+
+> Steve Kleene: Then Gödel arrived on the scene and---
+
+0: Ok perfect. Follow me.
+
+1: Wha---
+
+goto: [[We#Numbers|We]]

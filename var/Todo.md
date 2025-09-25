@@ -2,18 +2,27 @@
 ![[kill-your-darlings.jpg|300]]
 
 Tl;dr: Book proposal soon. We're getting close. Just need bash bugfix. Then we're ready.
+
 ## Asap
 
-- [ ] Finish the Church dialogue.
+- [x] Finish the Church dialogue.
 - [ ] Gödel section: Show the definitions of primitive recursive and recursive from Meldelson, then show the definition of Gödel numbering, then work through the first of the /opt/art examples in detail to show what it meant.
 - [ ] Turing section: Include first page of Kleene's chapter on Computable functions.
 - [ ] Kleene ties them all together: Screenshots of the Church's Thesis section of Introduction to Metamathematics.
 - [ ] Also mention that Kleene invented regexes in a paper about neural networks and Ken cites him.
-- [ ] Write a bare-bones skeleton version of the `/var/log/ic` dialogue on the history of logic notation, put this after the Foundational People man page but before the We dialogues. It's 0 showing 1 what it would look like to NOT have a creation story.
+- [ ] Write a bare-bones skeleton version of the `/sys/log/ic` dialogue on the history of logic notation, put this after the Foundational People man page but before the We dialogues. It's 0 showing 1 what it would look like to NOT have a creation story.
 - [ ] staging: /var/log/ic: Currently in "notes" format, with anti-gist images, ready to be written at any time.
 - [ ] In /opt/art, explain the spectrum from Art History Textbook to Guided Tour of a Museum. Different sections of the book need to be able to choose where they fall along that spectrum. The anti-gist is the guided tour. We'll be doing it a lot as we cover the early days of the field. After all, this isn't a book about history. "I'm not convinced." Fair point. It's a bible. Bibles are fiction-nonfiction, they're history, they're practical principles, they're pre-modern and post-modern libraries full of genre transitions and an intense amount of detail that can make the whole thing a bit jarring to read. And they're without a doubt the most viral memes of all time.
 - [ ] Get to the `/etc/group` dialogue.
 - [ ] Clean this file!
+
+---
+
+Genre Section: History, Principles, Creation Story, Eschatology, Code Base, Book of $Person, Puns, Shower Shoes (少兒書), 
+
+Lambda Calculus section:
+- ΛʌLittleLambΔʌ
+- Written like the Little Lisper and Little Schemer.
 
 ---
 

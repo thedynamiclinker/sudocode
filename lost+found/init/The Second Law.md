@@ -1,4 +1,9 @@
+
 ## A bit suspicious
+
+1: Wait I thought we were gonna be talking about Turing.
+
+0: We are!
 
 1: Why is this file called "The Second Law"?
 
@@ -64,7 +69,6 @@ _(Narrator: 0 appeared to be hiding something.)_
 
 1: Get to the Turing bit.
 
-0: Ok so!...
+0: Ok let's start fresh.
 
-## The Martyr
-
+goto: [[lost+found/fini/The Second Law|The Second Law]]

@@ -129,10 +129,43 @@ goto: [[lost+found/init/Names|Names]]
 
 0: Follow me.
 
-call: [[And He Called]]
+call: [[lost+found/init/And He Called|And He Called]]
 
 ## Numbers
 
+1: Did you just interrupt Kleene?
 
-## The second law
+0: Yes. It's time for something completely different.
 
+1: Completely different from what?
+
+0: From language.
+
+1: Completely different from lan---
+
+0: Lambda Calculus was the first programming language. But there was more to the story than that. Language isn't all it's cracked up to be after all.
+
+1: In what sense?
+
+0: Here, just listen to this guy.
+
+> _"The more I think about language,
+> the more it amazes me that people
+> ever understand each other at all."_
+> -Kurt Gödel
+
+0: So it's time for something different.
+
+1: What's different from lan---
+
+0: Follow me.
+
+goto: [[Numbers]]
+
+## The Second Law
+
+0: Quick!
+
+1: Wha---
+
+goto: [[lost+found/init/The Second Law|The Second Law]]
