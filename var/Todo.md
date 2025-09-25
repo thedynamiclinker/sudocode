@@ -5,24 +5,20 @@ Tl;dr: Book proposal soon. We're getting close. Just need bash bugfix. Then we'r
 
 ## Asap
 
-- [x] Finish the Church dialogue.
-- [ ] Gödel section: Show the definitions of primitive recursive and recursive from Meldelson, then show the definition of Gödel numbering, then work through the first of the /opt/art examples in detail to show what it meant.
-- [ ] Turing section: Include first page of Kleene's chapter on Computable functions.
-- [ ] Kleene ties them all together: Screenshots of the Church's Thesis section of Introduction to Metamathematics.
-- [ ] Also mention that Kleene invented regexes in a paper about neural networks and Ken cites him.
-- [ ] Write a bare-bones skeleton version of the `/sys/log/ic` dialogue on the history of logic notation, put this after the Foundational People man page but before the We dialogues. It's 0 showing 1 what it would look like to NOT have a creation story.
-- [ ] staging: /var/log/ic: Currently in "notes" format, with anti-gist images, ready to be written at any time.
-- [ ] In /opt/art, explain the spectrum from Art History Textbook to Guided Tour of a Museum. Different sections of the book need to be able to choose where they fall along that spectrum. The anti-gist is the guided tour. We'll be doing it a lot as we cover the early days of the field. After all, this isn't a book about history. "I'm not convinced." Fair point. It's a bible. Bibles are fiction-nonfiction, they're history, they're practical principles, they're pre-modern and post-modern libraries full of genre transitions and an intense amount of detail that can make the whole thing a bit jarring to read. And they're without a doubt the most viral memes of all time.
-- [ ] Get to the `/etc/group` dialogue.
+- [ ] Church dialogue: Church says "Kleene Kleene Kleene"
+- [ ] Gödel dialogue: "Mr Why."
+- [ ] Gödel dialogue: Show the definitions of primitive recursive and recursive from Meldelson, then show the definition of Gödel numbering, then work through the first of the /opt/art examples in detail to show what it meant.
+- [ ] Godel dialogue: The incomplete story of incompleteness: Definitely need to mention the rarely discussed side effect of the incompleteness theorems: If mathematics is more limited than we thought, suddenly it becomes a lot more plausible to define "computation." Even the space of "all possible computations" is potentially within the reach of a formal definition. Though many of the main players involved in the early theory of "effective calculability" didn't expect that they were capturing all possible computations in their definitions, it's probably not an accident that all 3 of our definitions of "computable" appeared within 5 years of Gödel's incompleteness theorems. In the years from 1900 to 1931, it simply didn't feel plausible to give a definition that might hope to capture all possible computations. In a very real sense, we may owe the origins of modern computing to the discovery of incompleteness.
+- [ ] Turing dialogue: Include first page of Kleene's chapter on Computable functions.
+- [ ] Kleene: Screenshots of "Church's Thesis" section of Introduction to Metamathematics.
+- [ ] Kleene: Mention that Kleene invented regexes in a paper about neural networks and Ken cites him.
+- [ ] Turing Machines: An incredible realization from 11:46 in Reminiscences of Logicians: Church's Thesis was from around 1934. Then Turing came in 1936. That means that as a result of these strange adults studying their Super Advanced Kindergarten, because of them, there has never been a single moment in the history of computing machines when we learned a new thing was computable that we didn't expect before Church & Kleene & Gödel back in 1934.
+- [ ] The Nus: Turing's paper was accompanied by some very solid applied philosophy on the relationship between minds and machines.
+- [ ] The Mus: General Recursive Functions.
+- [ ] The Lambdas: ΛʌLittleLambΔʌ. Written like the Little Lisper and Little Schemer.
+- [ ] /sys/log/ic: Currently begins with a genesis style riff, then it contains the anti-gist images on the history of symbolic logic. This probably belongs in two files. Maybe put this after the Foundational People man page but before the We dialogues. It's 0 showing 1 (or maybe just the Authors speaking in kernel space) about what it would look like to NOT have a creation story.
+- [ ] /opt/art: Explain the spectrum from Art History Textbook to Guided Tour of a Museum. The Anti-gist is the museum tour.
 - [ ] Clean this file!
-
----
-
-Genre Section: History, Principles, Creation Story, Eschatology, Code Base, Book of $Person, Puns, Shower Shoes (少兒書), 
-
-Lambda Calculus section:
-- ΛʌLittleLambΔʌ
-- Written like the Little Lisper and Little Schemer.
 
 ---
 
@@ -49,8 +45,6 @@ Lambda Calculus section:
 - /boot: The /boot dialogues were good, especially the bit with the binary loader we wrote in C. Need to find somewhere to put this, because it doesn't quite belong anywhere in the narrative yet.
 - /usr/src/bash: We've got a bug in bash upstream related to "history" that's also somehow about being inside case. The fact that most people don't know bash is maintained by one guy is a different kind bug in our history, and it's also related to being inside case (Chet is at Case western reserve university.) Reach out to Chet, make him a character, have a dialogue where he helps 0 and 1 fix the bug, and make a who's-on-first style dialogue with the history history case case stuff above.
 - The ⟂-docs: Pronounced "Orthodox." The orthogonal documents. Refers to theoretical computer science, primary computability and complexity as elaborated in the decades since the lambdas and the mus split. Though it appears on the surface to be the same culture, it is mostly orthogonal to the history of our people.
-- An incredible realization from 11:46 in Reminiscences of Logicians: Church's Thesis was from around 1934. Then Turing came in 1936. That means that as a result of these strange adults studying their Super Advanced Kindergarten, because of them, there has never been a single moment in the history of computing machines when we learned a new thing was computable that we didn't expect before Church & Kleene & Gödel back in 1934.
-- The incomplete story of incompleteness: Definitely need to mention the rarely discussed side effect of the incompleteness theorems: If mathematics is more limited than we thought, suddenly it becomes a lot more plausible to define "computation." Even the space of "all possible computations" is potentially within the reach of a formal definition. Though many of the main players involved in the early theory of "effective calculability" didn't expect that they were capturing all possible computations in their definitions, it's probably not an accident that all 3 of our definitions of "computable" appeared within 5 years of Gödel's incompleteness theorems. In the years from 1900 to 1931, it simply didn't feel plausible to give a definition that might hope to capture all possible computations. In a very real sense, we may owe the origins of modern computing to the discovery of incompleteness.
 - Visit a database as a location in the file system and be like "this is a fucking abomination"
 - Final chapter is obviously called "When theres nothing left to take away." I don't know why. I can't justify it. But it feels so unquestionably right.
 - For the "getting root" side quest, escalating privileges to kernel space should be easy. Escalating further may be more difficult, and require verification of one's knowledge via a series of, um, Raptcha (Captcha + Rapture).
@@ -87,30 +81,37 @@ Ideas for principles.
 - If nobody loves it, don't use it: The marketing firewall principle (Related: Motivation isn't free. Designed to avoid using tools you believe to be "industry standards" or "best practices" in the many cases where those tools will make your life worse. In practice these tools tend to be the ones with a lot of marketing effort behind them. Even if you're using a free version of a tool (e.g., a free database), the fact that databases as a category have more marketing energy directed toward them than (say) text files means that databases as a category should be regarded with greater suspicion. The cases when such tools are the right choice always depends on quantitative, not qualitative, details of the tradeoff.)
 
 
-## 0 & 1 eventually agree on the requirements for a proper bible
-- Beginning of time
-- End of time
-- G\*d / El (Gödel)
-- Church (Alonzo)
-- Martyr (Turing)
-- Song of the Sea (Quoth the Meme)
-- Commandments (The principles)
-- Old & New (Unix & Linux)
-- An Egypt with Hieroglyphs (Multics)
-- A Jews with Proto Sinaitic (Unix)
-- An Abraham: Prolific patriarch who seemed at first to be disorganized and not really have his shit together but who turned out to be the person who basically everything descends from, with descendants as numerous as the stars in the sky (Ken)
-- A series of books named after people we admire (The /dev directory)
-- Proverbs (Should be in /dev/random.)
-- Psalms. (The Psalms directory.)
-- Parables (The stories about each command: cat, grep as s, make, man/roff as "a lie", utf8 created on a napkin.)
+## RFC Ω
+A Specification of the Bible Data Format
+By: 0 & 1
+
+A bible contains:
+- History
+- Principles
+- Authorship structure of a Code Base
+- Puns
+- Shower Shoes (少兒書).
+
+- A Creation Story (Beginning of time)
+- An Eschatology (End of time)
+- A Babel story, appearing early, concerning the failure of omni-lingual culture, with an unclear lesson.
+- A L||D, with multiple incompatible names and attributes.
+- A G\*d / El (Gödel)
+- A Church (Alonzo)
+- A Martyr (Turing)
+- A Sinai, with multiple incompatible names and attributes.
+- A set of Commandments (The principles)
+- A set of one or more Testaments.
+- An Egypt: Overly complex system, with overly complex methods of writing Hieroglyphs (Multics)
+- A Jews: A simple refactor, with extremely simple methods of writing derived from Hieroglyphs, namely a generalized Proto Sinaitic (Unix)
+- An Abraham: A Prolific patriarch who seemed at first to be disorganized and not really have his shit together but who turned out to be the person who basically everything descends from, with descendants as numerous as the stars in the sky (Ken)
+- A "Book of $Person" for various values of $Person. A series of books named after people we admire (The /dev directory)
+- A set of Proverbs. (Should be in /dev/random.)
+- A set of Psalms. (The /dev/psalms directory.)
+- A set of Parables (The stories about each command: cat, grep as s, make, man/roff as "a lie", utf8 created on a napkin.)
+- A Song of the Sea (Quoth the Meme)
 
 ## Questions
-
-- Q: Where do the principles go?
-
-- Q: How do The Root Enterprise and Hello Corporation and The Dynamic Linker and Doubleunix fit into the narrative? We've got a good start with the BWKH linkage but we need to flesh out the world more in a way that allows us to abstract our actual human selves out of it. Although 0 could just say that the two humans aren't important, they're working for him.
-
-## Questions With Answers
 
 Q: How are The Root Enterprise and Hello Corporation and The Dynamic Linker and Doubleunix fit into the narrative of Sudocode?
 
@@ -130,22 +131,7 @@ A: `/root/bin` or `/root/src` would be good, since that's "sudo code." But 1 is 
 
 A2: Wow, we've made so much progress since I wrote the above A. I think this question has been answered.
 
-## Bibles
-
-Occasionally root and user should issue a syscall which traps execution up into the kernel, at which point the Authors should monologue a bit about the data format of bibles and talk about Friedman's research and some basic OTL stuff.
-
----
-
-Assorted things I removed from the main text:
-
-> [!bible-note] Bible Note:
-> Bibles are like that. They have a tendency to switch seamlessly between Authors without saying when they did or who's writing. Just like codebases. You'd be surprised at the similarities. Bibles are more like a codebase than any other type of document. That can make these bible things a bit jarring to read, but it's one of the many things we have to do, in aiming to emulate the deep structure of these objects, not just the surface structure. More on that below.
-
-Not to superficially parrot them (as has been done countless times) by writing unhelpful sentences like "Ken begat Unix, and Unix begat C."
-
-> [!bible] Bible Note:
-> The PoC || GTFO volumes on stunt hacking and computing culture are a very good example of how wrapping a volume in surface level bible-ese can make its content more memorable and funny, while at the same time contributing little of lasting value except extra entertainment and good vibes. This sentiment is not shared by all the Authors of the present volume, however, some of whom object to the previous sentence, and would like to state unequivocally: We love PoC || GTFO, long live its many authors, and Godspeed, Travis Goodspeed.
-
+## The 2^n
 
 ### The 64 Laws
 
@@ -165,20 +151,34 @@ Not to superficially parrot them (as has been done countless times) by writing u
 
 - STRETCH GOAL: Make it fucking bootable. Should be possible (maybe) by reordering things, but probably not on x86 without some domas magic, and then it wouldn't be the book, but still, do things like this whenever possible.
 
-### The Three Books
+### The 2 Books
 
 - The paper book will be statically linked, without a single url pointing outside of it. It will reference the outside world, but have no concrete pointers to it. Everything will be "in-housed" or "vendored." Links to webpages will be transformed into screenshots and placed in the archaeology section at the back. Videos will be turned into printed quotes (which requires us to limit ourselves to videos that are essentially pointers to human speech, not complicated visual scenes or songs.) This ensures a complete and self contained book. This is the correct approach when the outside world is maximally unstable.
 
 - The digital book will be dynamically linked. Namely, it will reference the outside world using the universal mechanism of our age: the hyperlink, a reference to this universal human blob we call the web. This version will be subject to all the problems that come with it. 
 
-- The  (new world / old world) book will be a video, sense data, audio and video, sights and sounds, instead of the intermediate age technology of the printed word used by the others. It will consist of exactly the same content as the book. Links to videos will be inlined and played so the original speaker's voice and emotional tone is available in ways the other two formats fail to show.
+### The 2 Rings
 
-- The (n女ν|Ωld)ω||ld book is a separate and very large Easter Egg with different content. It is possible to "get root" on the book, and in doing so to gain access to kernel space where the gods (the real authors / the Nameless) speak freely in ways that aren't visible in the standard (user space) book.
+- The book has two models: Kernel Space and User Space.
+- Kernel Space is rarely seen, but it's where the real creators (the Nameless) speak in an interleaved stream of voices without attribution, bible style.
+- User Space is the vast majority of the book.
+- User space consists of a linear narrative, in the form of dialogues between two characters: 0 and 1.
+- The entire book and all its content must be representable linearly on the page, in printed word, in the form of a conventional book.
+- What does it mean to make something truly timeless that represents our age of history, when the media we store our life's work in is now infinitely more fragile than text in physical pages?
 
-### The Two Rings
+### The 8 Years
 
-- The book has two models: Kernel Space and User Space. Kernel Space is rarely seen, but it's where the real creators (the Nameless) speak in an interleaved stream of voices without attribution, bible style. User Space is the vast majority of the book. It consists of a linear narrative, in the form of dialogues between two characters: 0 and 1. The book is designed to be two opposite extremes at once, along several dimensions. For example, it intends to be extremely experimental, multi genre, multi site, multi platform, jumping from the obsidian page through to github into videos and then back into the book. Any book that aims to be structured like this is doomed to failure unless it also has a much more conventional way of experiencing the same thing. So it aims to do the latter first, as a constraint on the former. The entire book and all its content must be representable linearly on the page, in printed word, in the form of a conventional book. That same content without additions or deletions will also be represented in more modern media: hypertext, video, source control, pages with a burdensomely large number of external reference links, all optional. We do this not in an attempt to be "modern," but in an attempt to ask what it means to make something truly timeless that represents our age of history, when the media we store our life's work in is now infinitely more fragile than text in physical pages. Data may be easier to copy now by many orders of magnitude. But if a book links to a well-known website or meme and the destination url changes later or the website stops existing, we now no longer have anything left, except maybe archive.org if we're lucky. The "less efficient" medium of physical paper had a benefit we learned to take for granted: that when you burn a book, you do not burn all its copies. This remains true for files people download physically and share over p2p protocols like bittorrent, or even just by reuploading the same content to youtube after its been taken down. The same robustness does not exist for the web. We can no longer stably reference the primary storage medium where most members of our species store the majority of their life's work. The conscious choice for this book to represent precisely the same content, no additions or deletions, in multiple formats, each with the inherent virtues and vices of that format, is part of a theme throughout the book of what it means to be timeless in an age where nothing is.
-
-### The 0o10 Years
-
-- Historically: LD led to Radicalize led to We led to the eclipse and life collapse. Then the slow rebuilding through jobs and the book was put aside. Collapse led to Gyana led to AV and stability for five years, led to Aicadium led to teetering on the edge of oblivion and then finally to LD (the company) after two broken hands. This led to the first passion project in a while: On the Lamb, which was almost too much to share even with anyone who wasn't directly involved in making it. You have to choose to enter that Rabbit Hole when you're ready, it can't be forced. Then On The Lamb led to a calm after finally getting We out of my brain and into something semi permanent. That led to a revisitation of mathematics and education, and after a month, to the decision to focus on the social side of the business. This led to several months of intense focus on the details of how to open physical locations, renting corporate real estate, looking at fifty available sites in person, and and hiring a commercial real estate negotiator for literally $6000 and then doing precisely nothing with him once we realized he's useless and (independently) there are actually too many laws in California to even open something small and everyone cautions against it. This led to the decision to take a weekend trip to Austin and explore the possibility of living somewhere that might be better all around for business, for tech, for raising kids, and for anything we might end up doing. It had to be a Pareto improvement, not just better by some loss function that makes tradeoffs. This led to several months of packing up the old house and deciding to rent it out, becoming landlords, and moving to north Austin, where we now live. This book is about who we are, as developers, about our shared history and culture, about the data structures we call bibles and how our culture is desperately in need of one. A serious one, which is to say an infinite recursive joke that's also dense with timeless truth. It might therefore be surprising that this book has been in progress since before my first job in tech. It's not the same thing it was then, but all the essential elements are the same. Quitting school. Quitting work. Saying Fukkot. A group called LD. Bibles. Legal Latin. Information Theoretic Prose. Comet. The Nth Stair. Cult of the Minor Error. Getting Root. 根2. Gentoo. Root 2. Dudethey'reontome. The News. Genesis: The Middle. Fiddler. A χld named K. Terrorists who don't actually do any terror. When academia dies, where do we go? How all technical writing sucks but it's the one thing the best content still can't replace. The optimal genre as 99% BMC and 1% the ability to slap the reader in real life, and how that final 1% changes the other 99. CDB. ABC. char \*quotations. That of which one cannot speak and yet does. Dynamic Linker as the brain, as a bible, as the only way to make something timeless in an era when all is elsewhere on a fleeting and forever changing web. The Dynamic Read Writable Free Encyclopedic Repository of the Modern State of Human Knowledge. 
+- Historically: LD led to Radicalize led to We led to the eclipse and life collapse.
+- Then the slow rebuilding through jobs and the book was put aside.
+- Collapse led to Gyana led to AV and stability for five years.
+- AV led to Aicadium led to teetering on the edge of oblivion.
+- This led finally to LD (the company) after two broken hands.
+- This led to the first passion project in a while: On the Lamb, which was almost too much to share even with anyone who wasn't directly involved in making it.
+- On The Lamb led to a calm after finally getting We out of my brain and into something semi permanent. 
+- That led to a revisitation of mathematics and education, and after a month.
+- To the decision to focus on the social side of the business, after realizing I had nothing particularly special to contribute to education or to mathematics.
+- This led to several months of intense focus on the details of how to open physical locations, renting corporate real estate, looking at fifty available sites in person, and and hiring a commercial real estate negotiator.
+- This led to the realization that there are actually too many laws in California to even open something small and everyone cautions against it.
+- This led to the decision to take a weekend trip to Austin and explore the possibility of living somewhere that might be better all around for business, for tech, for raising kids, and for anything we might end up doing. It had to be a Pareto improvement, not just better by some loss function that makes tradeoffs.
+- This led to several months of packing up the old house and deciding to rent it out, becoming landlords, and moving to north Austin, where we now live.
+- This book is about who we are, as developers, about our shared history and culture, about the data structures we call bibles and how our culture is desperately in need of one. A serious one, which is to say an infinite recursive joke that's also dense with timeless truth. It might therefore be surprising that this book has been in progress since before my first job in tech. It's not the same thing it was then, but all the essential elements are the same. Quitting school. Quitting work. Saying Fukkot. A group called LD. Bibles. Legal Latin. Information Theoretic Prose. Comet. The Nth Stair. Cult of the Minor Error. Getting Root. 根2. Gentoo. Root 2. Dudethey'reontome. The News. Genesis: The Middle. Fiddler. A χld named K. Terrorists who don't actually do any terror. When academia dies, where do we go? How all technical writing sucks but it's the one thing the best content still can't replace. The optimal genre as 99% BMC and 1% the ability to slap the reader in real life, and how that final 1% changes the other 99. CDB. ABC. char \*quotations. That of which one cannot speak and yet does. Dynamic Linker as the brain, as a bible, as the only way to make something timeless in an era when all is elsewhere on a fleeting and forever changing web. The Dynamic Read Writable Free Encyclopedic Repository of the Modern State of Human Knowledge. 
