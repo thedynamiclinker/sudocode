@@ -63,7 +63,7 @@ When that's done, end with something like this...
 
 1: THAT footnote led to---
 
-0: Not that one. That one's just funny. This next bit is the one that mattered.
+0: Not that one. I don't think anyone even noticed that one. Not sure Turing noticed either, though I like to think he did. This next bit is the sad one. The one people noticed.
 
 ![[yours-in-distress-alan.png]]
 
