@@ -164,6 +164,9 @@ goto: [[Numbers]]
 
 ## The Second Law
 
+> _“I've now got myself into the kind of trouble that I have always considered to be quite a possibility for me, though I have usually rated it at about 10:1 against."
+> -Alan Turing
+
 0: Quick!
 
 1: Wha---

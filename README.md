@@ -1,5 +1,5 @@
 
-![[zero/trash/boot/this/book/include/sudo-code.png]]
+![[include/boot/sudo-code.png]]
 <span style="display: block; text-align: center; font-style: italic;">The Book of Tech</span>
 
 > _Company. (noun)._
