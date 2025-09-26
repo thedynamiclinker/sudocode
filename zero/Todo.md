@@ -9,8 +9,7 @@ Tl;dr:
 
 ## The (–1) Testament 
 
-- [ ] Church dialogue: In the section about ZFC, add the quote from /dev/zero/History - Computability and Problems with Set Theory: "These axioms are the official doctrine - Remarkably, this is not just the official doctrine for set theory, it turns out that this is the official doctrine for mathematics! - Very few people seem to have a problem with that which I find quite remarkable."
-- [ ] Church Dialogue: An incredible realization from 11:46 in Reminiscences of Logicians: Church's Thesis was from around 1934. Then Turing came in 1936. That means that as a result of these strange adults studying their Super Advanced Kindergarten, because of them, there has never been a single moment in the history of computing machines when we learned a new thing was computable that we didn't expect before Church & Kleene & Gödel back in 1934.
+- [ ] Anti-gist needs an exaplanation now. Explain the art museum genre.
 
 - [ ] Gödel dialogue: "Mr Why."
 - [ ] Gödel dialogue: The incomplete story of incompleteness: Definitely need to mention the rarely discussed side effect of the incompleteness theorems: If mathematics is more limited than we thought, suddenly it becomes a lot more plausible to define "computation." Even the space of "all possible computations" is potentially within the reach of a formal definition. Though many of the main players involved in the early theory of "effective calculability" didn't expect that they were capturing all possible computations in their definitions, it's probably not an accident that all 3 of our definitions of "computable" appeared within 5 years of Gödel's incompleteness theorems. In the years from 1900 to 1931, it simply didn't feel plausible to give a definition that might hope to capture all possible computations. In a very real sense, we may owe the origins of modern computing to the discovery of incompleteness.
