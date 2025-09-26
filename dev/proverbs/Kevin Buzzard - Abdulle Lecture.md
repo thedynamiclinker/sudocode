@@ -5,4 +5,4 @@ https://youtu.be/fwfd8_sl3rs?si=Nl1gFSRkl86MAwfc
 
 ### Babylon pythagorean triples base 60
 start = 3:11
-end = 
+end = 4:11

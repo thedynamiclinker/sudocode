@@ -1,6 +1,8 @@
 
 ![[the-first-draft-of-anything-is-shit-wallpaper.jpg|300]]
 
+Necessary Principle:
+- Don't be too contrarian. Some of the things you think are mediocre popular shit are actually timeless truth. Listen.
 
 Tl;dr:
 - Book proposal soon. We're getting close.
@@ -8,6 +10,8 @@ Tl;dr:
 - Then we're ready.
 
 ## The (–1) Testament 
+
+- [ ] Harvey Friedman "formalization-of-mathematics.pdf" needs a chapter SO BAD that I think it maybe matters more than anything else in the book. This is a revolution larger than Gödel that has been entirely ignored because people don't notice things when they matter. People notice things when noticing them makes their life better somehow. We'd like to clarify that this isn't a criticism and we remain agnostic about the "somehow." But people noticed Gödel because it made their lives better, and people haven't noticed Friedman because it doesn't. But he loves mathematics, at least as much as Gödel. He's more extroverted than Gödel in none of the obnoxious ways and all the positive ways. And he's completely not a public figure in any way, even though he's an incredible teacher. In other words there's a man who falls into all the cracks that allow a person to be maximally valuable to history while being minimally noticed. So fuck that shit. He gets a chapter in the bible. Several probably. Because he matters more than docker or postgresql or any of the retarded shit we in computing focus on. So here's Harvey. He belongs in our history. He's already made a place for himself in some history. But it's the history of foundations of mathematics, and nobody pays attention to foundations of mathematics these days, because we live in a fallen world and everything we love is r\*\*\*\*\*ed. Here's Harvey. (Begin commentary on "The Formalization of Mathematics." Take the screenshots on your phone. It's a masterpiece, all in monospace, and it looks better in phone format. Get this published. Otherwise no one outside the obscure foundationals is gonna hear.)
 
 - [ ] Anti-gist needs an exaplanation now. Explain the art museum genre.
 
@@ -35,6 +39,7 @@ Tl;dr:
 
 - /bin/bash: Church received an honorary Doctor of Science degrees from Case Western Reserve University in 1969!
 - /bin/bash: Contact Chet Ramey, explain that you've found a bug, and would like to include it in a book. The book is called "sudo code", and it's a series of technical dialogues between two characters, 0 and 1.
+- /dev/lunduke: Modern Lunduke has become exactly Isaiah and it's amazing. Needs to be part of the story. Need to also add Matthew Garrett.
 - /bin/vi: Show Bill Joy's vi keyboard with the arrows on the letter keys. A lot of stuff in life that never makes sense unless you know how the original authors wrote. 
 - /usr/share/man: The man dialogue: 0 shows 1 the first edition Unix man pages.
 - /dev/sigma: Add directory with some talks by Andrej Bauer.
