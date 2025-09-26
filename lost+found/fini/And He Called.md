@@ -18,4 +18,4 @@ TODO: The link below should eventually be to `fini/Names`, but we need to refact
 
 ---
 
-goto: [[group|/etc/group]]
+goto: [[etc/group|/etc/group]]

@@ -187,6 +187,10 @@ As a child, during that earliest stage of life when we're looking around the wor
 
 ## Standard "Foundations"
 
+> _These axioms are the official doctrine - Remarkably, this is not just the official doctrine for set theory, it turns out that this is the official doctrine for mathematics! - Very few people seem to have a problem with that which I find quite remarkable._
+> -NJ Wildberger
+
+
 ![[zfc-hirst-01.jpg]]
 
 1: "These hell torments"?
@@ -761,18 +765,211 @@ TODO: 7:30.
 
 > Steve Kleene: The basic work was done between January 1932 and the next 5 or 6 months.
 
-> Steve Kleene: Everything I tried, every kind of function I tried to define, every kind of effective operation that I tried to parallel by lambda definability, I probably knocked off within the fist 5 months.
+> Steve Kleene: Everything I tried, every kind of function I tried to define, every kind of effective operation that I tried to parallel by lambda definability, I probably knocked off within the first 5 months.
 
 > Steve Kleene: For us the first concept of lambda definability was after the fact, after having formulated the notion of lambda definable functions as simply the ones for which you could find formulas in this symbolism. And discovering that everything you thought of that you wanted to prove lambda definable you could!... But it was Church, I have to give the credit to Church, I can't take it myself, he said "Y'know, don't you think maybe we've really got ALL the effectively calculable functions?"
+
+0: He's being generous.
+
+1: To Church?
+
+0: Extremely generous.
+
+1: What do you mean? I thought Church was one of the giants of this whole field.
+
+0: He was. But even Church knew how incredible Kleene was. And Kleene gets ways less credit for all this than he deserves. Dude was clearly the first programmer. I mean sure, Church wrote the first language, Gödel wrote the first compiler, and Turing made what was arguably the first hardware design, but by that same standard, Kleene made:
+
+- Wrote the first standard library.
+- Found the first critical vulnerability (λ calculus inconsistency).
+- First to have contact with all three of the above and to demonstrate their equivalence.
+- First to clean up and popularize the ideas in his (frighteningly technical) _Introduction to Metamathematics_.
+
+1: What do you mean "first standard library"?
+
+0: Well we saw up above how lambda calculus doesn't even come with built-in booleans or integers. And Church didn't even think lambda calculus was powerful enough to express the function $f(x) = x-1$ where x is a positive integer. Kleene's the one who "implemented" all the types and functions that built things from that totally useless level all the way to what eventually became "all computable functions." So Kleene's definitely being humble.
+
+1: Sounds like it. It's crazy I've never heard of this guy before.
+
+0: For real. And from Church's perspective, imagine this grad student of yours who's never even taken a logic class before comes to work with you, learns your system, and then he just keeps knocking off one problem after another until the two of them ended up going from thinking $f(x) = x-1$ is too hard, all the way until Church himself got convinced that _all possible computations_ were representable inside this system.
+
+1: How did Church get convinced?
+
+0: Kleene won't admit this, but it was his "programming" that convinced Church. I mean sure Church designed the lambda calculus, but Kleene figured out how to use it like a frighteningly technical nerd.
+
+1: How do you know?
+
+0: Just read Church's papers. He makes it extremely clear. I swear he cites Kleene in one paper like a hundred times. Check it out.
+
+
+## Kleene Kleene Kleene
+
+0: Ok this is from Church's 1935 paper "An Unsolvable Problem of Elementary Number Theory." This came out about 7 months before Turing's famous paper that showed the same thing. 
+
+1: No way!
+
+![[church-says-kleene-kleene-kleene-00.png]]
+
+0: Turing's paper broke new ground in different ways, but Church got there first.
+
+1: Never heard that before.
+
+0: And if we read this paper, it's pretty clear that "Church" getting there first is like 80-90% Kleene.
+
+1: Kleene's not even a co-author though.
+
+0: Not sure why. Church generally seemed like a generous dude. But just drag your eyes lazily over the pictures below this. This is all from the same paper.
+
+![[church-says-kleene-kleene-kleene-01.png]]
+
+
+![[church-says-kleene-kleene-kleene-02.png]]
+
+
+![[church-says-kleene-kleene-kleene-03.png]]
+
+
+![[church-says-kleene-kleene-kleene-04.png]]
+
+
+![[church-says-kleene-kleene-kleene-05.png]]
+
+
+![[church-says-kleene-kleene-kleene-06.png]]
+
+
+![[church-says-kleene-kleene-kleene-08.png]]
+
+
+![[church-says-kleene-kleene-kleene-09.png]]
+
+
+![[church-says-kleene-kleene-kleene-10.png]]
+
+
+![[church-says-kleene-kleene-kleene-11.png]]
+
+
+![[church-says-kleene-kleene-kleene-12.png]]
+
+
+![[church-says-kleene-kleene-kleene-13.png]]
+
+
+1: Damn that's a lot of Kleene.
+
+0: Church is like "Our integers are different.
+
+![[church-says-kleene-kleene-kleene-14.png]]
+
+0: But this proof is Kleene.
+
+![[church-says-kleene-kleene-kleene-15.png]]
+
+
+![[church-says-kleene-kleene-kleene-16.png]]
+
+1: Why is he citing him so much?
+
+0: Kleene implemented everything.
+
+1: Definite first programmer vibes.
+
+![[church-says-kleene-kleene-kleene-19.png]]
+
+
+![[church-says-kleene-kleene-kleene-20.png]]
+
+1: This is an impressive git blame.
+
+0: Seriously. Church is acting more like a faithful `git blame` implementation than a normal human writing an academic paper.
+
+1: The more I learn about these logic folks the more I like them.
+
+0: How so?
+
+1: I dunno. They're nerds. It feels familiar.
+
+![[church-says-kleene-kleene-kleene-21.png]]
+
+1: Church is like "I'm still here guys, I'm gonna say Kleene some more."
+
+![[church-says-kleene-kleene-kleene-22.png]]
+
+1: Good lord man.
+
+![[church-says-kleene-kleene-kleene-23.png]]
+
+1: It keeps going.
+
+![[church-says-kleene-kleene-kleene-24.png]]
+
+
+1: This is getting ridiculous.
+
+![[church-says-kleene-kleene-kleene-26.png]]
+
+
+1: I don't even know what he's talking about but this makes me want to read Kleene.
+
+0: We will. That's why I'm showing you this.
+
+1: Why?
+
+0: So you don't get sad when we get to the frighteningly technical book.
+
+1: Uh oh. Is it bad?
+
+0: Nah it's easy. You'll enjoy it.
+
+![[church-says-kleene-kleene-kleene-27.png]]
+
+
+![[church-says-kleene-kleene-kleene-28.png]]
+
+1: I've got to say, I thought you exaggerating but that was intense.
+
+0: That's from _one_ paper.
+
+1: Damn, Church.
+
+0: Ok but I was unfair to Church earlier. When Kleene said "I have to give the credit to Church, I can't take it myself," he wasn't talking about all the programming, he was talking about Church's thesis.
+
+1: What's Church's thesis.
+
+0: "That's everything."
+
+1: What's everything?
+
+0: Church's thesis is "Hey Kleene, I think maybe we got everything?"
+
+1: _What's everything?_
+
+0: All the computable functions. Or effectively calculable as they called them back then.
+
+1: That's Church's thesis. "We're done."
+
+0: That's it.
+
+1: Why "thesis" and not "theorem"?
+
+0: Because it's saying "I think this informal concept equals this formal concept." Can't exactly prove that in the usual mathematical sense. It's pre-mathematics. The hypothesis is that lambda definability captures what we intuitively mean by "computable." Way more powerful than just a theorem.
+
+1: What on earth made him thing "We got ALL computation"?
+
+0: Kleene.
+
+1: Kleene?
+
+0: I mean Kleene's programming. Church was convinced before Kleene was. Then Kleene tried to disprove Church, failed, and got converted.
 
 > Someone: Was Church's thesis just an offhand remark? 
 >
 > Steve Kleene: Well he spent some months sweating over it. And saying "Don't you think it's so?" And I was a skeptic! When he came out and asserted the thesis I said "He can't be right." So I went home and I thought I would diagonalize myself out. Out of the class of the lambda definable functions and get another effectively calculable function that wasn't lambda definable. Well just in one night I realized you couldn't do that, and from that point on I was a convert.
-
+>
 > Steve Kleene: Then Gödel arrived on the scene and---
 
-0: Ok perfect. Follow me.
+0: Ooh perfect. Gödel time. Follow me.
 
-1: Wha---
+1: What abou---
 
 goto: [[We#Numbers|We]]

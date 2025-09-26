@@ -7,10 +7,9 @@ Tl;dr:
 - Just need to submit the bash bugfix and email Chet.
 - Then we're ready.
 
-## Testament –1
+## The (–1) Testament 
 
 - [ ] Church dialogue: In the section about ZFC, add the quote from /dev/zero/History - Computability and Problems with Set Theory: "These axioms are the official doctrine - Remarkably, this is not just the official doctrine for set theory, it turns out that this is the official doctrine for mathematics! - Very few people seem to have a problem with that which I find quite remarkable."
-- [ ] Church dialogue: Church's references to "Kleene Kleene Kleene" in 1936 paper.
 - [ ] Church Dialogue: An incredible realization from 11:46 in Reminiscences of Logicians: Church's Thesis was from around 1934. Then Turing came in 1936. That means that as a result of these strange adults studying their Super Advanced Kindergarten, because of them, there has never been a single moment in the history of computing machines when we learned a new thing was computable that we didn't expect before Church & Kleene & Gödel back in 1934.
 
 - [ ] Gödel dialogue: "Mr Why."
@@ -18,7 +17,6 @@ Tl;dr:
 - [ ] Gödel dialogue: General Recursive Functions: Show the definition of Gödel numbering, then work through enough of the encoding of formal arithmetic into itself that the definition of General Recursive Functions becomes clear.
 
 - [ ] Kleene: Kleeneliness is next to Godeliness.
-- [ ] Kleene: First programmer. First standard library. First critical vulnerability (λ calculus inconsistency). First to have contact with all three of the above and to demonstrate their equivalence. First to clean up and popularize the ideas in Introduction to Metamathematics.
 - [ ] Kleene: Screenshots of "Church's Thesis" section of Introduction to Metamathematics.
 - [ ] Kleene: Mention that Kleene invented regexes in a paper about neural networks and Ken cites him.
 
@@ -134,6 +132,12 @@ A: `/root/bin` or `/root/src` would be good, since that's "sudo code." But 1 is 
 
 A2: Wow, we've made so much progress since I wrote the above A. I think this question has been answered.
 
+---
+
+Q: What does it mean to make something truly timeless that represents our age of history, when the media we store our life's work in is now infinitely more fragile than text in physical pages?
+
+---
+
 ## The 2ⁿ
 
 ### The 64 Laws
@@ -162,9 +166,8 @@ A2: Wow, we've made so much progress since I wrote the above A. I think this que
 
 ### The 2 Rings
 
-- The book has two models: Kernel Space and User Space.
-- Kernel Space is rarely seen, but it's where the real creators (the Nameless) speak in an interleaved stream of voices without attribution, bible style.
+- The book has two modes: Kernel Space (Ring 0) and User Space (Ring 3).
+- Kernel Space is rarely seen, but it's where the nameless Authors speak in an interleaved stream of voices without attribution, bible style.
 - User Space is the vast majority of the book.
 - User space consists of a linear narrative, in the form of dialogues between two characters: 0 and 1.
 - The entire book and all its content must be representable linearly on the page, in printed word, in the form of a conventional book.
-- What does it mean to make something truly timeless that represents our age of history, when the media we store our life's work in is now infinitely more fragile than text in physical pages?
