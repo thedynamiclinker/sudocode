@@ -160,7 +160,7 @@ call: [[lost+found/init/And He Called|And He Called]]
 
 0: Follow me.
 
-goto: [[Numbers]]
+goto: [[lost+found/init/Numbers|Numbers]]
 
 ## The Second Law
 
