@@ -171,4 +171,4 @@
 ![[mnt-sinai-55.png]]
 
 
-[[lost+found/fini/Names|IRET]]
+[[lost+found/5/1|IRET]]
