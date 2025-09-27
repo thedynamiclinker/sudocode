@@ -31,7 +31,7 @@ end =
 start = 12:13
 end = 13:50
 
-### The threats have made it impossible to build a community and a culture for nerds who oppose the violent and aggressive political activism and just want to be nerdy
+### The threats have made it impossible to build a community and a culture for nerds who oppose the violent and aggressive political activism and just want to be nerdy with other nerds
 start = 13:45
-end = 
+end = 15:45
 

@@ -1,15 +1,23 @@
 
 ![[the-first-draft-of-anything-is-shit-wallpaper.jpg|300]]
 
-Necessary Principle:
-- Don't be too contrarian. Some of the things you think are mediocre popular shit are actually timeless truth. Listen.
-
 Tl;dr:
 - Book proposal soon. We're getting close.
 - Just need to submit the bash bugfix and email Chet.
 - Then we're ready.
 
 ## The (–1) Testament 
+
+- [ ] MAIN THING TO DO TODAY: REFACTOR THE LOST+FOUND DIRECTORY. IT NEEDS TO BE MUCH MORE ORGANIZED. DELETE FINI AND MAKE EACH OF THE 5 BOOKS ITS OWN DIRECTORY, AND NUMBER THE DIRECTORIES.
+
+- [ ] Church dialogue: OBVIOUS thing I forgot to mention. How would you come up with Church's idea if it didn't exist yet? So far we've got formal Arithmetic from Peano, and formal Set Theory from Zermelo and friends. What if you thought everyone was doing it wrong? Or at least missing something? What's more fundamental in mathematics than natural numbers or sets? Well, it wouldn't be crazy to say "functions." So what if everything is functions? Now how would you come up with the Church numerals? Well in every formal system with one type, you always have to encode things. (1) The von Neumann encoding in ZFC because ZFC doesn't have built in integers. (2) Even first order arithmetic has to "encode" the integers in a sense: 0 is the only built in. 1 is S(0). 2 is S(S(0)). 3 is S(S(S(0))). So how do you encode the integers if all you have is functions? Well Peano Arithmetic already did it! We just saw it. 3 is "call a function 3 times." And voila, you've got the Church numerals. So we miss the point a little by calling it Lambda Calculus. We've got "Formal Number Theory" and "Formal Set Theory." We should call Lambda Calculus "Formal Function Theory."
+
+- [ ] Similarly, to get inside Turing's head, we have to recognize what he was doing as "Formal Paper Theory." Turing's theory is the axiomatic development from first principles of what can be done with paper and a pencil.
+
+- [ ] To get inside Gödel's head, we have to recognize his definition as a different approach to Formal Function Theory, one that's much more like a standard axiom system than Church's. After all, Church said he never had other mathematicians to talk to about his interests because he was the only one in his field. Church's work is much more "Ex Nihilo" than the other two, and much more minimal as a result.
+
+- [ ] EMPHASIZE THIS: When we learn logic today, we start with propositional logic and then predicate logic and it all seems sort of inevitable. But during the whole history of logic before the 1930s, logicians were viewed sort of as crazy people. I mean other mathematicians studied concrete things like polynomial equations or geometry. Logicians were these insane people who seemed to be studying "thought" or "reasoning" itself, and then writing down some of the most obscure and least notation of any mathematical field. I mean if you actually look at Peano or Russell or god forbid Frege, their notation is an absolute nightmare. They don't start from the propositional or predicate calculus and they don't really have that many results of others that they're building on. The whole field seems like it reboots with every book, and every logician is sort of a crazy person trying to formalize the entire universe from scratch and then failing. So when Church says he had no one to talk to because no one was in his field, he means it. This is also why you see three completely different definitions of computation not based on any common pre-estsblished work. The only thing the results share in common is diagonalization which was from Cantor's second proof that there's more than one size of infinity.
+- [ ] Church and Gödel both made "Formal Function Theory." Turing made "Formal Mathematician Theory," which is how he convinced the others that he (or all of them) had captured anything that could be computed by any means. Turing's paper is always described as being about computing machines. What no one says is that he actually formalized the theory of "Making marks on paper." That's how his result is in a sense more conceptually viral than the other two. If you formalize functions, it's easy to think you've missed something about computing in general. If you formalize the process of making marks on paper, it's very hard to worry that you've missed something.
 
 - [ ] Harvey Friedman "formalization-of-mathematics.pdf" needs a chapter SO BAD that I think it maybe matters more than anything else in the book. This is a revolution larger than Gödel that has been entirely ignored because people don't notice things when they matter. People notice things when noticing them makes their life better somehow. We'd like to clarify that this isn't a criticism and we remain agnostic about the "somehow." But people noticed Gödel because it made their lives better, and people haven't noticed Friedman because it doesn't. But he loves mathematics, at least as much as Gödel. He's more extroverted than Gödel in none of the obnoxious ways and all the positive ways. And he's completely not a public figure in any way, even though he's an incredible teacher. In other words there's a man who falls into all the cracks that allow a person to be maximally valuable to history while being minimally noticed. So fuck that shit. He gets a chapter in the bible. Several probably. Because he matters more than docker or postgresql or any of the retarded shit we in computing focus on. So here's Harvey. He belongs in our history. He's already made a place for himself in some history. But it's the history of foundations of mathematics, and nobody pays attention to foundations of mathematics these days, because we live in a fallen world and everything we love is r\*\*\*\*\*ed. Here's Harvey. (Begin commentary on "The Formalization of Mathematics." Take the screenshots on your phone. It's a masterpiece, all in monospace, and it looks better in phone format. Get this published. Otherwise no one outside the obscure foundationals is gonna hear.)
 
@@ -23,8 +31,8 @@ Tl;dr:
 - [ ] Kleene: Screenshots of "Church's Thesis" section of Introduction to Metamathematics.
 - [ ] Kleene: Mention that Kleene invented regexes in a paper about neural networks and Ken cites him.
 
+- [ ] Turing dialogue: Mention Turing becoming Church's graduate student.
 - [ ] Turing dialogue: Include first page of Kleene's chapter on Computable functions.
-- [ ] Turing dialogue: Somehow work in the sex footnote in 1937 paper. Run a `$(find | grep sex-footnote)` here.
 
 - [ ] The Lambdas: ΛʌLittleLambΔʌ. Written like the Little Lisper and Little Schemer.
 - [ ] /sys/log/ic: Currently begins with a genesis style riff, then it contains the anti-gist images on the history of symbolic logic. This probably belongs in two files. Maybe put this after the Foundational People man page but before the We dialogues. It's 0 showing 1 (or maybe just the Authors speaking in kernel space) about what it would look like to NOT have a creation story.
@@ -57,31 +65,73 @@ Tl;dr:
 ## RFC Ω
 ### A Specification of the Bible Data Format, by 0 & 1
 
-A bible contains:
-- History
-- Principles
-- Authorship structure of a Code Base
-- Puns
-- Shower Shoes (少兒書).
+#### Required Authorship
+- Unclear Authorship.
+- Authorship structure of a Code Base.
+- A division into multiple testaments.
 
-- A Creation Story (Beginning of time)
-- An Eschatology (End of time)
-- A Babel story, appearing early, concerning the failure of omni-lingual culture, with an unclear lesson.
-- A L||D, with multiple incompatible names and attributes.
-- A G\*d / El (Gödel)
+#### Required Style
+- A bombastic and serious writing style with zero humor.
+- A playful and unserious writing style with a frequent use of humor, especially puns.
+- A verbose and bureaucratic writing style that skips no steps even when it would considerably improve the flow.
+- A brief and vague writing style that often skips steps to improve the flow.
+
+#### Required Genres
+- Nonfiction history.
+- Fiction nonhistory.
+- Type 1 Morality: Practical principles for everyday life, delivered calmly.
+- Type 0 Morality: Rants, Jeremiads, and Denunciations of behavior considered unwise, immoral, or destructive. (e.g., Isaiah)
+- Epistles: Letters to a specific person or group.
+- Compilation: A series of books named after people we admire (The /dev directory)
+- Proverbs: A collection of assorted wisdom by various authors.
+- Psalms: Poems, songs, prayers.
+- Parables: Brief memorable stories with a lesson. (The stories about each command: cat, grep as s, make, man/roff as "a lie", utf8 created on a napkin.)
+
+#### Required Content
+- A God / El (Gödel)
 - A Church (Alonzo)
 - A Martyr (Turing)
+- A L||D, with multiple incompatible names and attributes.
 - A Sinai, with multiple incompatible names and attributes.
-- A set of Commandments (The principles)
-- A set of one or more Testaments.
-- An Egypt: Overly complex system, with overly complex methods of writing Hieroglyphs (Multics)
+- A Horeb, see above.
+- A Babel story, appearing early, concerning the failure of the ambitions of an omni-lingual culture, with unclear lesson.
+- An Egypt: An overly complex system, with overly complex methods of overly complex writing (Multics)
 - A Jews: A simple refactor, with extremely simple methods of writing derived from Hieroglyphs, namely a generalized Proto Sinaitic (Unix)
-- An Abraham: A Prolific patriarch who seemed at first to be disorganized and not really have his shit together but who turned out to be the person who basically everything descends from, with descendants as numerous as the stars in the sky (Ken)
-- A "Book of $Person" for various values of $Person. A series of books named after people we admire (The /dev directory)
-- A set of Proverbs. (Should be in /dev/random.)
-- A set of Psalms. (The /dev/psalms directory.)
-- A set of Parables (The stories about each command: cat, grep as s, make, man/roff as "a lie", utf8 created on a napkin.)
-- A Song of the Sea (Quoth the Meme)
+- An Exodus: A story in which the generalized Jews find themselves unhappy in the generalized Egypt, and then eventually leave in search of a generalized Promised Land, once the higher-ups kill their children (Exodus 1, Bell Labs killing Multics).
+- An Abraham: A Prolific patriarch who insists he doesn't want to job, seems at first to be disorganized and not really have his shit together but turns out to be the person who basically everything descends from. Descendants as numerous as the stars in the sky. (Ken)
+- A Lucifer: A fallen angel, with a name meaning something universally positive, and a personality marked by an abundance of pride. (Best Practices)
+- A Creation Story or beginning of time, containing a narrative in which everything began.
+- A Beginning of Time at which calendars are set to zero, and which is distinct from the beginning of time in the creation story. (Unix Epoch)
+- A set of Commandments (The principles)
+- An Apocalypse or Eschatology (End of time)
+- A Revelation: A final chapter which appears on the surface to be completely insane, while in fact being completely hilarious and well written.
+- A line in the final chapter where the best character refers to themselves by (1) a name often used to describe the worst character, and also (0) the name "root".
+- A line in the final chapter where the Authors say "Don't change it, it's perfect."
+
+#### Requirements for the Jews
+- Beards.
+- Man pages.
+- Sources written in an ancient language.
+- Written language often omits vowels. (Abjad)
+- Written language born in a refactor.
+- Written language born by deleting complexity.
+- Written language's descendants include virtually everything.
+- Modern members learn original source language but often don't speak it daily.
+- Writings now incorporated into the majority of modern systems, either by direct descent or cultural reimplementation.
+- Culturally dominant despite dwindling absolute numbers.
+
+#### Requirements for the Jews V2
+- Aquatic mascot (Fish, Penguin)
+- Empire hates you early on. (Romans, Balmer)
+- Eventually the Empire adopts you. (Constantine, WSL)
+- Explosion of distros, dramatically more than V1 culture.
+- Cultural continuity with V1 is prioritized over direct historical descent. (Linux imports Unix culture but not vice versa.)
+- Has Cathedral, has Bazaar.
+- Conquers basically the entire world.
+- Often dismissed due to occasional holier than thou attitude among less devout members (The btw meme.)
+- Answers to any problem can be found in text files.
+- Subset of members claim V1 worships devil.
+
 
 ---
 
@@ -115,6 +165,7 @@ Ideas for principles.
 - Early success is a curse: The child star principle (SPJ's example of haskell bug that deleted your source code and why it didn't matter. Guido's example of why you shouldn't want your code in the standard library. Guido's example of how difficult the Python 2 to Python 3 transition was, Perl waning in popularity before releasing Perl 6.)
 - Avoid Shamans (Grug's Law)
 - If nobody loves it, don't use it: The marketing firewall principle (Related: Motivation isn't free. Designed to avoid using tools you believe to be "industry standards" or "best practices" in the many cases where those tools will make your life worse. In practice these tools tend to be the ones with a lot of marketing effort behind them. Even if you're using a free version of a tool (e.g., a free database), the fact that databases as a category have more marketing energy directed toward them than (say) text files means that databases as a category should be regarded with greater suspicion. The cases when such tools are the right choice always depends on quantitative, not qualitative, details of the tradeoff.)
+- Don't be too contrarian. Some of the things you think are mediocre popular shit are actually timeless truth. Listen.
 
 ## Questions
 
