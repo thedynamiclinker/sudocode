@@ -8,6 +8,23 @@ Tl;dr:
 
 ## The (–1) Testament 
 
+- [ ] Top Priority:
+- lost+found needs a serious refactor. 
+- the attempt to "torahify" it is making it something other than what it needs to be.
+- here's what it should be:
+
+![[lost-and-foundations.jpg]]
+
+- 1: the informal infinite (or mathematics): prehistory in cantor, then problems with disagreement over what mathematics is, the potential solution seen in formalism and logic, then russell's problem with the paradox in frege.
+- 2: the formal finite (or foundations): prehistory of logic, then potential solutions in russel's principia and hilbert's 1900 problems promising to formalize arithmetic.
+- 3: godel: general recursive functions. primary sources, latter day interpretations, our interpretation.
+- 4: church: lambda calculus: primary sources, latter day interpretations, our interpretation.
+- 5: turing: turing machines: primary sources, latter day interpretations, our interpretation.
+
+
+- the /mnt/sinai dream sequence NEEDS to stay in the book, but it may not belong HERE.
+- it's possible that /mnt/sinai belongs after ken and dmr, when unix leaves bell labs and we get bsd and the diaspora.
+
 - [ ] MAIN THING TO DO TODAY: REFACTOR THE LOST+FOUND DIRECTORY. IT NEEDS TO BE MUCH MORE ORGANIZED. DELETE FINI AND MAKE EACH OF THE 5 BOOKS ITS OWN DIRECTORY, AND NUMBER THE DIRECTORIES.
 
 - [ ] Church dialogue: OBVIOUS thing I forgot to mention. How would you come up with Church's idea if it didn't exist yet? So far we've got formal Arithmetic from Peano, and formal Set Theory from Zermelo and friends. What if you thought everyone was doing it wrong? Or at least missing something? What's more fundamental in mathematics than natural numbers or sets? Well, it wouldn't be crazy to say "functions." So what if everything is functions? Now how would you come up with the Church numerals? Well in every formal system with one type, you always have to encode things. (1) The von Neumann encoding in ZFC because ZFC doesn't have built in integers. (2) Even first order arithmetic has to "encode" the integers in a sense: 0 is the only built in. 1 is S(0). 2 is S(S(0)). 3 is S(S(S(0))). So how do you encode the integers if all you have is functions? Well Peano Arithmetic already did it! We just saw it. 3 is "call a function 3 times." And voila, you've got the Church numerals. So we miss the point a little by calling it Lambda Calculus. We've got "Formal Number Theory" and "Formal Set Theory." We should call Lambda Calculus "Formal Function Theory."
