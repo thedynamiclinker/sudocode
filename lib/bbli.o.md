@@ -15,7 +15,7 @@
 
 1: What are---
 
-0: And then you started complaining we weren't doing enough "advanced programming" so I hacked this file together and got us here quick to make a point.
+0: And then you started complaining we weren't doing enough "advanced programming" so I hacked this file together in 10 minutes and got us here quick to make a point.
 
 1: Am I allowed to ask what the point is?
 
@@ -41,7 +41,7 @@
 
 1: Are you sure I'm the right person to help you wr---
 
-0: Yes. In this file we'll be looking at some previous research in the field of writing bibles. One's about computing and its culture and who we are. Below is a much better example of the kind of book that you and I need to write. But it still isn't right. In fact it's off by a mile and not remotely where we're heading. That said, it's a very good book, and in lots of ways it hit the mark of where we're heading.
+0: Yes. In this file we'll be looking at some previous research in the field of writing bibles. One's about computing and its culture and who we are. There's no two. But below is a much better example of the kind of book that you and I need to write. And despite that, it still isn't right. In fact it's off by a mile and not remotely where we're heading. That said, it's a very good book, and in lots of ways it hit the mark of where we're heading.
 
 1: What do you want me to do?
 
@@ -276,6 +276,10 @@
 1: Disliking academia?
 
 0: Distrust of institutions.
+
+1: I thought bibles were all about institutions.
+
+0: Not the authors.
 
 ![[poc-or-gtfo-22.jpg]]
 

@@ -64,7 +64,7 @@
 
 1: Yes I can see that from the giant picture you just catted into the middle of the conversation.
 
-0: He's a professional nerd who studies the old books for a living. Not from a particularly religious point of view, but not anti-religious either. 1st and 4most, he's just a nerd. He loves books. He's always talking about Dostoyevsky and making bad jokes and berating his colleagues for not understanding shit, fantastic guy.
+0: He's a professional nerd who studies the old books for a living. Not from a particularly religious point of view, but not anti-religious either. 1st and 4most, he's just a nerd. He loves books. He's always talking about Dostoyevsky and making {b,d}ad jokes and berating his colleagues for not understanding shit, fantastic guy.
 
 1: Sounds like it.
 
@@ -211,7 +211,7 @@
 
 0: Yeah, see how it's green?
 
-1: What's green?
+1: What does green mean?
 
 0: That's a source they call the "Jahwist." Also known as J. Now watch this.
 
@@ -235,7 +235,7 @@
 
 ![[bible-git-blame-05.jpg]]
 
-0: Hard to say for sure. But it's not hard to guess. See some of the characters are mentioned by multiple authors. Like here. Two authors mention this Abraham guy.
+0: Hard to say for sure. But it's not hard to guess. See some of the characters are mentioned by multiple authors. Like here. Two authors mention this Abraham guy. Or Abram. He gets a "ha" added to his name later when he becomes funny.
 
 ![[bible-git-blame-06.jpg]]
 
@@ -243,11 +243,13 @@
 
 1: Sounds hard.
 
-0: For real. Hell it's hard enough to resolve merge conflicts when you have a compiler to tell you if you made any major mistakes. Can't imagine doing it in English.
+0: For real. Hell it's hard enough to resolve merge conflicts when you have a compiler to tell you if you made any big mistakes. Can't imagine doing it in English.
 
 1: I thought this was Hebrew.
 
 0: Yeah whatever, same thing.
+
+1: How---
 
 ![[bible-git-blame-07.jpg]]
 
@@ -279,7 +281,7 @@
 
 1: Yeah the beginning is a bit bureaucratic.
 
-0: But there's also tons of puns. Really intricate ones. Hard to tell from the English.
+0: But there's also tons of puns. Really intricate ones. Hard to tell from the English. So maybe it's different people from the part with all the boring rules. I think it probably is, but just a guess, hard to know.
 
 ![[bible-git-blame-10.jpg]]
 
@@ -319,7 +321,7 @@
 
 0: Define marketing.
 
-1: This book is lame, I'm leaving.
+1: This book is lame, I'm going `/home`
 
 0: Would you prefer we visit a different book?
 

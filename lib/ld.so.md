@@ -212,11 +212,11 @@ _(Narrator: A brief silence elapses, before 1 realizes the question isn't rhetor
 
 1: Nevermind.
 
-0: That's odd. "Partial" recursive functions? Never heard that word before. Why partial? Normal math upstairs just says stuff like "piecewise" or "everywhere defined on its domain" the latter of which of course means absolutely nothing. And then it hits.
+0: That's odd. "Partial" recursive functions? Never heard that word before. Why partial? Normal math upstairs just says stuff like "piecewise" or "everywhere defined on its domain" the latter of which of course means absolutely fucking nothing. And then it hits.
 
 1: What hits?
 
-0: Now look it's sad in a way how every damn book on earth talks about Gödel and incompleteness. It's the only thing they seem capable of talking about in any popular book that halfway mentions downstairs. And the fact of how boring and predictable that choice is shouldn't be forgotten. There's entirely too much goddamn Gödel and incompleteness chit chat.
+0: Now look it's sad in a way how every damn book on earth talks about Gödel, and worst of all incompleteness. It's the only thing they seem capable of talking about in any popular book that halfway mentions downstairs. And the fact of how boring and predictable that choice is shouldn't be forgotten. There's entirely too much goddamn Gödel and incompleteness chit chat.
 
 1: I'm not entirely following.
 
