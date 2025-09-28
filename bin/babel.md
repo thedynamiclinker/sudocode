@@ -69,11 +69,11 @@ Through their work, the whole world was now of one language and one speech.
 
 0: Good question.
 
-1: Hey you are listening to me.
+1: Hey you are listening to me!
 
 0: In those days, the linker was not yet known as `ld`.
 
-1: Was it `dl`?
+1: Was it `dl`? Please tell me---
 
 0: It was called by many names. The first linker was created by Grace, and was known as [A-0](https://en.wikipedia.org/wiki/A-0_System).
 
@@ -81,7 +81,7 @@ Through their work, the whole world was now of one language and one speech.
 
 0: Many uncivilized peoples gave their linkers uncivilized names, like IEWFETCH and ntdll.dll.
 
-1: Why do I feel like you're not completely making this up.
+1: Why do I feel like you're not completely making this up?
 
 0: Though it was called by many names, the disparate names and manifestations of `ld` all referred to the same aspiration, the same idea within the people. It is for this reason that we use the term L||D.
 
@@ -157,9 +157,9 @@ _(Narrator: 0 types some commands into a shell.)_
 
 ![[babel-ls.png]]
 
-0: It's a git repo.
-
 ![[babel-git-status.png]]
+
+0: It's a git repo.
 
 1: Thanks, I can see that.
 
@@ -207,7 +207,7 @@ _(Narrator: 0 types some commands into a shell.)_
 
 0: It's not as bad as it looks.
 
-1: Man assembly is rough.
+1: Man, assembly is rough.
 
 0: About a third of it is just saving and restoring some registers so as not to confuse the other functions.
 
@@ -230,6 +230,10 @@ _(Narrator: 0 types some commands into a shell.)_
 0: That's what the code seems to be saying.
 
 ![[babel-output-1.png]]
+
+1: Is that it?
+
+0: Seems to be.
 
 1: This is the most boring code ever.
 
@@ -267,7 +271,7 @@ _(Narrator: 0 types some commands into a shell.)_
 
 0: In what way?
 
-1: Well then everyone can speak in their own favorite dialect.
+1: Well then everyone can speak in their own favorite dialect. The more the merrier.
 
 0: Any downsides?
 
@@ -277,11 +281,15 @@ _(Narrator: 0 types some commands into a shell.)_
 
 1: Pretty great? It's amazing. What's the point of executables?  Why not just make everything object files? Download some object files and link it with your thing. I'm starting to see what you mean about languages being a scam. I mean sure it's great to be able to write in your favorite language, but it's all just object files at the end of the day. Y'know I didn't know why you were ranting about the linker before, but this is actually pretty cool. I've already got some ideas of new things I want to try. Do you know any good books about linkers?
 
-0: There's one. Maybe two.
+0: There's one. Maybe two one day, but not yet.
 
 1: What? That's insane. These things deserve more credit. It's like a universal translator for code but without actually requiring you to read stuff in languages you don't know. Ok I definitely get the point of this repo now. Got to admit I was pretty confused at first.
 
-0: One question. What happens when you pipe the output a command into `cat`?
+0: One question.
+
+1: What?
+
+0: What happens when you pipe the output a command into `cat`?
 
 1: What? Why?
 
@@ -291,13 +299,17 @@ _(Narrator: 0 types some commands into a shell.)_
 
 0: So if pipes are function composition, cat is...
 
-1: The identity function.
+1: The identity function?
 
 0: Correct!
 
 1: What's the point?
 
-0: What does `./babel | cat` do?
+0: The point is you're correct. That's the right answer.
+
+1: So?
+
+0: So, what does `./babel | cat` do?
 
 1: Um...
 

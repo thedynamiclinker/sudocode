@@ -154,7 +154,7 @@ _(Narrator: 1 pauses, as if waiting for a response from 0.)_
 
 0: You didn't give one.
 
-1: Oh. Right. Well as I was saying, it's good to understand things but so much that you're bored. And it's good to be challenged but not too much. And yes to be honest I chose this career because it's fun.
+1: Oh. Right. Well as I was saying, it's good to understand things, but not so much that you're bored. And it's good to be challenged, but not too much. And yes to be honest I chose this career because it's fun.
 
 0: So what's the point of programming?
 
@@ -192,7 +192,7 @@ _(Narrator: 1 pauses, as if waiting for a response from 0.)_
 
 1: Exactly what?
 
-0: Well as you so eloquently put it: `!?definitely not`
+0: Well as you so eloquently put it: `!?programmers`
 
 1: Um... what was that?
 
@@ -211,7 +211,8 @@ cat << EOF
 
 1: Exactly what?
 
-0: Well as you so eloquently put it: !?definitely not
+0: Well as you so eloquently put it:
+!?programmers
 
 1: Um... what was that?
 
@@ -220,7 +221,7 @@ EOF
 
 goto: [[bash]]
 
-## Here
+## There
 
 0: Why do we do programming in the first place?
 
@@ -266,7 +267,7 @@ goto: [[bash]]
 
 1: Because storage is infinitely cheaper than developer time these days, plus programs don't take up much space anyway.
 
-0: So..
+0: So...
 
 1: So writing the same thing over and over certainly isn't the point of programming.
 
@@ -327,11 +328,15 @@ _(Narrator: 1 thinks for awhile.)_
 
 1: Well not inherently. But usually `/bin` is in `PATH`, so the shell knows to look in there to find the programs whose names we type at the shell.
 
-0: Perfect! So how can you make sure you never have to write this particular hello world program again?
+0: Good. So how can you make sure you never have to write this particular hello world program again?
 
 1: I wouldn't actually mind having to write it again.
 
-0: Valid point. Imagine it was some much larger piece of code. Something less brief and not as entirely pleasant as this.
+0: Valid point. Imagine it was some much larger piece of code.
+
+1: In what sens---
+
+0: Something less brief and not as entirely pleasant as this.
 
 1: I can't say this experience has been brief or entirely pleasant.
 
@@ -341,11 +346,13 @@ _(Narrator: 1 thinks for awhile.)_
 
 0: That's a start. Do that now.
 
-(Narrator: 1 opens an editor.)
+_(Narrator: 1 opens an editor.)_
 
 ```sh
 !#/bin/sh
 echo Hello world
+
+:wq
 ```
 
 1: It says permission denied.
@@ -417,14 +424,14 @@ sh: hello: command not found
 
 ```
 ~ # echo $PATH
-/root/bin:/bin:/usr/bin:/usr/local/bin
+/root/bin:/bin
 ```
 
 1: Ok let me check mine.
 
 ```
 ~ # echo $PATH
-/bin:/usr/bin:/usr/local/bin
+/bin
 ```
 
 1: I don't have `/root/bin` in my `PATH`.
@@ -434,7 +441,7 @@ sh: hello: command not found
 1: Look these riddles aren't helping. I'm just going to fix it.
 
 ```
-~ $ export PATH="/root/bin:/bin:/usr/bin:/usr/local/bin"
+~ $ export PATH="/root/bin:/bin"
 ~ $ hello
 sh: hello: command not found
 ```
@@ -496,7 +503,11 @@ useradd: invalid user name '1': use --badname to ignore
 
 1: What's better than my ACTUAL name?
 
-0: Well, my name is `root` and I'm `$UID 0` with prompt `~ #`. I think it's only appropriate for you to be `user`, with `$UID 1`, and prompt `~ $`.
+0: Well, my name is `root` and I'm `$UID 0` with prompt `~ #`.
+
+1: So?
+
+0: So I think it's only appropriate for you to be `user` with `$UID 1` and prompt `~ $`.
 
 1: That does have a nice ring to it.
 
@@ -514,7 +525,7 @@ useradd -m -s /bin/sh user
 
 1: How do I log in?
 
-0: Any tty will do. You password is `password`.
+0: Any tty will do. Your password is `password`.
 
 1: Isn't that a bit insecure.
 
@@ -537,7 +548,7 @@ bash: 1:: command not found
 
 1: What just happened?
 
-0: Sorry, history expansion again. It's really an awful feature. We need to fix that bug in bash as soon as possible.
+0: Sorry, history expansion again. It's really an awful feature. We need to fix that bug. Not that that was the bug. But still. We need to fix that bug in bash as soon as possible.
 
 1: Looking forward to it. :)
 
@@ -553,7 +564,7 @@ _(Narrator: 1 attempts to log in and figure this out once and for all.)_
 
 _(Narrator: Time passes, as 1 works on logging in and finally finishing hello world.)_
 
-1: _(Talking to 1self)._ Ok, `cd` into `$HOME`, `mkdir bin`, put the code in `bin/hello`, add `export PATH="$HOME/bin:$PATH"` to `~/.bashrc`. Why isn't it... Oh, source `~/.bashrc`, log out and back in just to make absolutely sure it still works. Got it.
+1: _(Talking to 1self)._ Ok, `cd` into `$HOME`, `mkdir bin`, put the code in `bin/hello`, add `export PATH="$HOME/bin:$PATH"` to `~/.bashrc`. Why isn't it... Oh ok, source `~/.bashrc`, log out and back in just to make absolutely sure it still works. Got it.
 
 _(Narrator: As 1 returns to /root to show 0, 0 seems to be focused on something else.)_
 
@@ -692,7 +703,7 @@ _(Narrator: Our characters head over to [[01 - Finish Hello World|/etc/principle
 
 1: That's how who used to write?
 
-0: The authors. Of the old code.
+0: The authors. Of the old code bases.
 
 1: Still not following.
 
