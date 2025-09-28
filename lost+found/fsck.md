@@ -5,15 +5,15 @@
 
 ![[desert.jpg]]
 
----
+# We
 
-## We
+## The People
 
 0: Ok 1, stay close. There are no filenames in this directory and it's easy to get lost.
 
 1: Where are we?
 
-0: This is the lost+found directory. Least habitable part of the system by far. Most people go their whole life without coming here. And many who come here never find a way out.
+0: This is the lost+found directory. Least habitable part of the system by far. Most people go their whole life without coming here.
 
 1: Why are we here?
 
@@ -33,11 +33,7 @@
 
 1: Our people as in...
 
-0: We. The Foundational People.
-
----
-
-## Tribes
+0: The Foundational People.
 
 1: Wait, doesn't basically every group call themselves "The Foundational People"?
 
@@ -596,6 +592,8 @@ s = [list for list in lists if list not in list]
 
 0: Well it wasn't a simple fix. Comprehension was in everything. Can't just rip that code out or all the textbooks would stop working. Mathematics was sinking.
 
+## The Flood
+
 0: Sinking.
 
 1: Sinking?
@@ -640,7 +638,9 @@ s = [list for list in lists if list not in list]
 
 ---
 
-## D(∞oc八to∞)R
+# The Formal Finite
+
+## Doctor
 
 0: They needed a doctor. Mathematics was sick. So they called this guy.
 
@@ -654,7 +654,7 @@ s = [list for list in lists if list not in list]
 
 1: _(Silently recovering)_ ...
 
-0: The perfect one for the job. They called him and he called everyone. Called them together. All the mathematicians. A call to arms, in 1900. He was the sort of guy who could just come up with a list of questions for an entire field to work on, and then everyone would agree that's the agenda. He said "Ok every one here's the deal. We've got some problems and I want you all to solve them. Here's the list." And then he reaches under that big hat and pulls out the following list:
+0: The perfect one for the job. They called him and asked him to kill the paradoxes. And he called everyone and asked them to kill the paradoxes. He called them together. All the mathematicians. A call to arms, in 1900. He was the sort of guy who could just come up with a list of questions for an entire field to work on, and then everyone would agree that's the agenda. He said "Ok every one here's the deal. We've got some problems and I want you all to solve them. Here's the list." And then he reaches under that big hat and pulls out the following list:
 
 ![[hilberts-problems.png]]
 
@@ -919,7 +919,7 @@ But already by 1935, it had started a revolution in the foundations of mathemati
 
 1: But you prom---
 
-## Exodus Sicks: Name(s) of the L||D
+## Exodus Sicks: Names of the L||D
 
 0: Here we are.
 
@@ -1171,7 +1171,7 @@ _(Narrator: echo mem > /sys/power/state)_
 [97591.178500] Entering sleep state
 ```
 
-goto: [[sinai|/山/月]]
+goto: [[sinai|/mnt/sinai]]
 
 ---
 
@@ -1543,7 +1543,10 @@ As a child, during that earliest stage of life when we're looking around the wor
 
 0: Of course. Let's go take a tour.
 
-## The Collected Works of Alonzo Church
+# Church
+
+## And He Called
+
 
 ![[church-01.png]]
 
@@ -1599,7 +1602,7 @@ As a child, during that earliest stage of life when we're looking around the wor
 
 0: Here I'll show you.
 
-## Standard "Foundations"
+## Standard Foundations
 
 > _These axioms are the official doctrine - Remarkably, this is not just the official doctrine for set theory, it turns out that this is the official doctrine for mathematics! - Very few people seem to have a problem with that which I find quite remarkable._
 > -NJ Wildberger
@@ -1701,7 +1704,7 @@ As a child, during that earliest stage of life when we're looking around the wor
 
 1: Yeah! I mean if that "hell code" book was the easy one, I can't imagine what the one for "readers with a frighteningly technical bent" is like. Makes me want to read it. Who's Kleene?
 
-0: Church's best student.
+0: Church's #1 student.
 
 1: No way!
 
@@ -1736,7 +1739,7 @@ As a child, during that earliest stage of life when we're looking around the wor
 
 1: Wait, I thought the first programmer was Church and Gödel and Turing?
 
-0: Exactly. They're the first. And⁰ Kleene is the glue. Like this.
+0: Exactly. They're the first. And Kleene is the glue. Like this.
 
 $$3 = \{ 0, 1, 2 \}$$
 
@@ -2196,6 +2199,7 @@ $$\circ \circ \circ$$
 
 
 ![[kleene-introduction-to-metamathematics-43.png]]
+
 ## The First Programmer
 
 > John Crossley: What did you do Steve? When you first started learning logic. You didn't have books did you?
@@ -2791,7 +2795,7 @@ This goes at the end of the file.
 0: Almost there. Follow me.
 
 ---
-## The Paper
+## The Formal Theory of Paper
 
 ![[turing-1936-01.png]]
 

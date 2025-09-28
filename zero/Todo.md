@@ -13,6 +13,8 @@ Tl;dr:
 - the attempt to "torahify" it is making it something other than what it needs to be.
 - here's what it should be:
 
+Question: Where should we put "The Informal Infinite" and "The Formal Finite" sections? The lost+found directory is persistently refusing to submit to any structure I try to impose on it.
+
 ![[lost-and-foundations.jpg]]
 
 - 1: the informal infinite (or mathematics): prehistory in cantor, then problems with disagreement over what mathematics is, the potential solution seen in formalism and logic, then russell's problem with the paradox in frege.
