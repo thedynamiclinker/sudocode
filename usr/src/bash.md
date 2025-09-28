@@ -30,7 +30,7 @@
 
 1: I don't understand you at all.
 
-0: That's ok! If you want, you could help me fix this one.
+0: That's ok. If you want, you could help me fix this one.
 
 1: Which one?
 
@@ -77,7 +77,7 @@ echo "$(case a in b) echo 'hi!';; esac)"
 
 1: ...
 
-0: Hey, if you want, you can help me fix this one and we can sent it upstream together. It's just some extremely convoluted C code that's been maintained by one guy named Chet for the past god knows how many years.
+0: If you want, you can help me fix this one and we can sent it upstream together. It's just some extremely convoluted C code that's been maintained by one guy named Chet for the past god knows how many years.
 
 1: I'm not sure I'd be much help. I'm not very good at C.
 
@@ -89,15 +89,15 @@ echo "$(case a in b) echo 'hi!';; esac)"
 
 1: I won't ask.
 
-0: Think of it. You and I will fix this real bug, here in the book, and then go contribute it in real life, outside the book. It would probably be the first book to do something like that. That would definitely get me interested.
+0: But I can't say I hate the idea. It sounds nice. You and I will fix this bug, this real bug in bash, here in the book, and then we'll go contribute it in real life, outside the book. It would probably be the first book to do something like that. That would definitely get me interested enough to see it through to the end.
 
 1: So where do we start?
 
 0: Oh no we're not gonna do it now. We're in the middle of something.
 
-1: Oh yeah. What were we do---
+1: Oh. What were we doing agai---
 
-0: Anyway what's your answer?
+0: What's your answer?
 
 1: To what?
 
@@ -109,4 +109,4 @@ echo "$(case a in b) echo 'hi!';; esac)"
 
 So as I was saying...
 
-goto: [[sh#Here|Here]].
+goto: [[sh#There|There]].
