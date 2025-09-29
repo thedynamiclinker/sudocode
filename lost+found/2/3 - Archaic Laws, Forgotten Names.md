@@ -1,4 +1,4 @@
-## The Laws of Logic before the Three
+## Archaic Laws, Forgotten Names
 
 ---
 

@@ -1,4 +1,4 @@
-## The Paper
+## In the Beginning was the Paper
 
 ![[turing-1936-01.png]]
 

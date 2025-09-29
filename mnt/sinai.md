@@ -171,4 +171,4 @@
 ![[mnt-sinai-55.png]]
 
 
-[[lost+found/2/2|IRET]]
+[[2 - The Names of dev zero|IRET]]

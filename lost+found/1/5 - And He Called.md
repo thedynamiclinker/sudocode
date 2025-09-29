@@ -1,4 +1,3 @@
-## And He Called
 
 0: They needed a doctor. Mathematics was sick. So they called this guy.
 
@@ -275,4 +274,4 @@ But already by 1935, it had started a revolution in the foundations of mathemati
 
 1: But you prom---
 
-goto: [[2/1|Names / Leaving]]
+goto: [[1 - The Names of the LD|Exodus Sicks]]

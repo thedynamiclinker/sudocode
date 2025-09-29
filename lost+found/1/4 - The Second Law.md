@@ -1,18 +1,87 @@
-## The Second Law
-### Or: Gen 2
-### Or: 根²
-### Or: Root 二
-### Or: √er
-### Or: Sqrt er
-### Or: 💦
 
-#### Or: Questionable Derivations
+1: Hey there's another one! I wonder what it---
+
+0: Don't bother reading it. It's just more corruption.
+
+1: I don't mind corruption! I think this one---
+
+0: Don't get too close, these k中ds of b愛tes c◇n lea5e ㅁ二Ξ.
+
+1: Woah what the hell was that?
+
+0: I said these kinds of bytes can leave marks.
+
+1: I think you're just trying to scar---
+
+0: Ok yes maybe, but 10 (手|首)LDn't 热ad 2 m1ch in10 it.
+
+1: What?!
+
+0: I said "Tu shouL⅂n't re+ 二 much in2 it."
+
+1: 一 m||e 時me!
+
+0: What?
 
 ---
+## Byte Marks
+### Or: The Second Law
+### Or: Information 101
+### Or: Entropy lol
+### Or: Book V
+
+---
+
+1: I said "One more time?"
+
+0: And I said "You shouldn't read too much into it."
+
+1: Why are you talking like th@?
+
+0: 尔R二.
+
+1: Again?
+
+0: You are too. See th@ up there? Look at the conversation history.
+
+1: Oh wow, I didn't even mean to.
+
+0: Don't overαnαlyze it. It's just corruption. Even if it {1,一,on}ce meant something, it doesn't mean anything anym||e. And either way, it's certainly not appropr日ia@te for ones.
+
+1: What do you mean one---
+
+0: Just jump past it. Follow me.
+
+---
+## Or: Genesis Two
+## Or: Gen 2
+## Or: 根²
+## Or: Root 二
+## Or: √er
+## Or: Sqrt er
+## Or: 💦
+
+### Or: Questionable Derivations
+
+---
+
+0: Ok so...
+
+1: Where were we?
+
+0: The beginning.
+
+1: We're still at the beginning?
+
+0: Yes.
 
 0: In the beginning, everyone suddenly realized they might be wrong. About everything.
 
 1: _(Slowly recovering)_ Wait, you didn't explain why they're worried yet.
+
+0: Well Cantor had introduced what some considered to be meaningless nonsense. Others worried his methods would corrupt the youth. Either way, mathematics was now confronted with some pretty questionable derivations.
+
+1: Why were they worried exactly?
 
 0: Who?
 
@@ -217,4 +286,4 @@ s = [list for list in lists if list not in list]
 
 1: _(Nauseous)_ What?
 
-Goto: [[lost+found/1/5|Doctor]].
+Goto: [[5 - And He Called|Doctor]].

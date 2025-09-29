@@ -1,4 +1,4 @@
-## Corrupted
+## The Informal Infinite
 
 0: Right. Ok, let's start at the beginning.
 
@@ -44,6 +44,8 @@ _(Narrator: 0 clears 0's throat.)_
 
 ---
 
+## Not suitable for kids
+
 0: Other people thought Georg was corrupting the youth.
 
 1: C'mon, nobody would actually think infinity is "not suitable for kids."
@@ -65,5 +67,3 @@ _(Narrator: 0 clears 0's throat.)_
 1: How are infinite numbers corrupting the youth?
 
 0: I'll explain, follow me.
-
-goto: [[lost+found/1/3|Numbers]]

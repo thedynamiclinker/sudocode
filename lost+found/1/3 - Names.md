@@ -1,5 +1,3 @@
-## Names
-
 1: Where were we?
 
 0: You said:
@@ -156,5 +154,3 @@ $$0, \; 2, \; 4, \; 6, \; 8, \; \dots, \; 1, \; 3, \; 5, \; 7, \; 9, \; \dots$$
 1: But it was just ge---
 
 0: Quick, follow me.
-
-goto: [[lost+found/1/4|Flood]]

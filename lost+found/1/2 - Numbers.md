@@ -1,17 +1,40 @@
-## Numbers
-### Or: Gen
-### Or: 根
-### Or: 木艮
-### Or: MuGen
-### Or: 無限
-### Or: ∞
-#### Or: Questionable Derivations
+
+1: What's going on down here?
+
+0: Corruption. Just jump over it.
+
+---
+## Or: Gen
+## Or: 根
+## Or: 木艮
+## Or: MuGen
+## Or: 無限
+## Or: ∞
+### Or: Questionable Derivations
 
 ---
 
-1: How are infinite numbers corrupting the youth?
+## Corruption
 
-0: Well they're at least changing the norms. And there are some downsides of infinite numbers for some purposes. But when I said "corrupting the youth," I meant it as a compliment. The youth always make sure to find ways to get corrupted each generation. It's part of what it means to be "the youth." And of all the ways to get corrupted, getting corrupted with taboo mathematics isn't exactly the worst way to get corrupted. I mean damn, life is about tradeoffs, and mathematics isn't exactly the worst thi---
+1: Corruption?
+
+0: The lost+found directory is where things that have been corrupted are put.
+
+1: Why keep corrupted things?
+
+0: In the hope that they might be salvageable, with some work.
+
+1: So what was all that up there?
+
+0: One often finds incomprehensible markings in here. Streams of raw bytes, in places they don't belong. It comes with the territory.  Same as the files with only numbers and no names. That's corruption.
+
+1: Speaking of numbers and corruption, you never explained.
+
+0: Explained what?
+
+1: Why did people think infinite numbers were "corrupting the youth"?
+
+0: Well they were at least changing the norms. And there are some downsides of infinite numbers for some purposes. But when I said "corrupting the youth," I meant it as a compliment. The youth always make sure to find ways to get corrupted each generation. It's part of what it means to be "the youth." And of all the ways to get corrupted, getting corrupted with taboo mathematics isn't exactly the worst way to get corrupted. I mean damn, life is about tradeoffs, and mathematics isn't exactly the worst thi---
 
 1: Fair.
 
@@ -100,4 +123,3 @@ $$0, \; 1, \dots, \; \omega, \; \omega+1, \; \dots, \; \omega \cdot 2, \; \omega
 
 0: Names. Here follow me.
 
-goto: [[lost+found/1/2|Names]]

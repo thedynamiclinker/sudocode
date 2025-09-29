@@ -1,4 +1,3 @@
-## The Names of /dev/zero
 
 1: Zero
 
@@ -236,4 +235,4 @@ _(Narrator: 1 hands 0 the following image.)_
 
 0: A child was born.
 
-goto: [[lost+found/3/2|And he called]]
+goto: [[1 - The λogos Calls|Names and Calls]]

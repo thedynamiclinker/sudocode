@@ -1,4 +1,3 @@
-## Exodus Sicks: Names of the L||D
 
 0: Here we are.
 
