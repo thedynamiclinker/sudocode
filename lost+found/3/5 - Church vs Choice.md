@@ -1,4 +1,4 @@
-## Church Repeals Choice
+## Church vs Choice
 ### Or: Church's Thesis (not that one)
 ### Or: Constructive Criticism
 ### Or: The C in ZFC
