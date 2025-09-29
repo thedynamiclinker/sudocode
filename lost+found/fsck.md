@@ -32,10 +32,10 @@
 
 # We
 
-|                  | The Informal Infinite              | The Formal Finite | Church | Göd | Martyr |
-| ---------------- | ---------------------------------- | ----------------- | ------ | --- | ------ |
-| In the Beginning | [[lost+found/1/1\|Corrupted]]      |                   |        |     |        |
-| Names            | [[lost+found/1/2\|Numbers]]        |                   |        |     |        |
-| And He Called    | [[lost+found/1/3\|Names]]          |                   |        |     |        |
-| Numbers          | [[lost+found/1/4\|The Second Law]] |                   |        |     |        |
-| The Second Law   | [[lost+found/1/5\|And He Called]]  |                   |        |     |        |
+|                  | The Informal Infinite              | The Formal Finite                   | Church                            | Göd | Martyr |
+| ---------------- | ---------------------------------- | ----------------------------------- | --------------------------------- | --- | ------ |
+| In the Beginning | [[lost+found/1/1\|Corrupted]]      | [[lost+found/2/1\|Names of the LD]] |                                   |     |        |
+| Names            | [[lost+found/1/2\|Names]]          | [[2/2\|The Names of /dev/zero]]     | [[lost+found/3/2\|Naming Things]] |     |        |
+| And He Called    | [[lost+found/1/5\|And He Called]]  | [[lost+found/2/3\|Name Calling]]    |                                   |     |        |
+| Numbers          | [[lost+found/1/3\|Numbers]]        |                                     |                                   |     |        |
+| The Second Law   | [[lost+found/1/4\|The Second Law]] |                                     |                                   |     |        |
