@@ -6,32 +6,27 @@ Tl;dr:
 - Just need to submit the bash bugfix and email Chet.
 - Then we're ready.
 
-## The (–1) Testament 
+## lost+found
 
-- [ ] Top Priority:
-- lost+found needs a serious refactor. 
-- the attempt to "torahify" it is making it something other than what it needs to be.
-- here's what it should be:
+- [ ] Finish lost+found. It doesn't need to be perfect. We're close enough to satisfying the 2D constraints that I think it's worth sticking with it. The "corruption" analogy seems to work well as an excuse to make that directory a bit anarchic. Anything that's unclear after lost+found should be clarified with a commentary on it in `/lib/tor.a` or `/usr/share/doc/tor.a`
 
-Question: Where should we put "The Informal Infinite" and "The Formal Finite" sections? The lost+found directory is persistently refusing to submit to any structure I try to impose on it.
+- [ ] Put these "document fragments" somewhere or reimplement them in Excalidraw.
 
 ![[lost-and-foundations.jpg]]
 
-- 1: the informal infinite (or mathematics): prehistory in cantor, then problems with disagreement over what mathematics is, the potential solution seen in formalism and logic, then russell's problem with the paradox in frege.
-- 2: the formal finite (or foundations): prehistory of logic, then potential solutions in russel's principia and hilbert's 1900 problems promising to formalize arithmetic.
-- 3: godel: general recursive functions. primary sources, latter day interpretations, our interpretation.
-- 4: church: lambda calculus: primary sources, latter day interpretations, our interpretation.
-- 5: turing: turing machines: primary sources, latter day interpretations, our interpretation.
 
+## /lib/tor.a
 
-- the /mnt/sinai dream sequence NEEDS to stay in the book, but it may not belong HERE.
-- it's possible that /mnt/sinai belongs after ken and dmr, when unix leaves bell labs and we get bsd and the diaspora.
+- [ ] Use Richard Elliot Friedman's "Commentary on the Torah" to show the reader what a strange writing style we're actually dealing with.
+- [ ] In this file, make it clear that lost+found was our first attempt at the lost art of bible authorship.
 
-- [ ] MAIN THING TO DO TODAY: REFACTOR THE LOST+FOUND DIRECTORY. IT NEEDS TO BE MUCH MORE ORGANIZED. DELETE FINI AND MAKE EACH OF THE 5 BOOKS ITS OWN DIRECTORY, AND NUMBER THE DIRECTORIES.
+## /usr/share/doc/tor.a
 
-- [ ] Church dialogue: OBVIOUS thing I forgot to mention. How would you come up with Church's idea if it didn't exist yet? So far we've got formal Arithmetic from Peano, and formal Set Theory from Zermelo and friends. What if you thought everyone was doing it wrong? Or at least missing something? What's more fundamental in mathematics than natural numbers or sets? Well, it wouldn't be crazy to say "functions." So what if everything is functions? Now how would you come up with the Church numerals? Well in every formal system with one type, you always have to encode things. (1) The von Neumann encoding in ZFC because ZFC doesn't have built in integers. (2) Even first order arithmetic has to "encode" the integers in a sense: 0 is the only built in. 1 is S(0). 2 is S(S(0)). 3 is S(S(S(0))). So how do you encode the integers if all you have is functions? Well Peano Arithmetic already did it! We just saw it. 3 is "call a function 3 times." And voila, you've got the Church numerals. So we miss the point a little by calling it Lambda Calculus. We've got "Formal Number Theory" and "Formal Set Theory." We should call Lambda Calculus "Formal Function Theory."
+- [ ] /usr/share/doc/tor.a: In this file, do a commentary on the `lost+found` directory, and explain what actually happened in there.
 
-- [ ] Similarly, to get inside Turing's head, we have to recognize what he was doing as "Formal Paper Theory." Turing's theory is the axiomatic development from first principles of what can be done with paper and a pencil.
+- [ ] /usr/share/doc/tor.a/church: How would you come up with Church's idea if it didn't exist yet? So far we've got formal Arithmetic from Peano, and formal Set Theory from Zermelo and friends. What if you thought everyone was doing it wrong? Or at least missing something? What's more fundamental in mathematics than natural numbers or sets? Well, it wouldn't be crazy to say "functions." So what if everything is functions? Now how would you come up with the Church numerals? Well in every formal system with one type, you always have to encode things. (1) The von Neumann encoding in ZFC because ZFC doesn't have built in integers. (2) Even first order arithmetic has to "encode" the integers in a sense: 0 is the only built in. 1 is S(0). 2 is S(S(0)). 3 is S(S(S(0))). So how do you encode the integers if all you have is functions? Well Peano Arithmetic already did it! We just saw it. 3 is "call a function 3 times." And voila, you've got the Church numerals. So we miss the point a little by calling it Lambda Calculus. We've got "Formal Number Theory" and "Formal Set Theory." We should call Lambda Calculus "Formal Function Theory."
+
+- [ ] /usr/share/doc/tor.a/martyr: Similarly, to get inside Turing's head, we have to recognize what he was doing as "Formal Paper Theory." Turing's theory is the axiomatic development from first principles of what can be done with paper and a pencil.
 
 - [ ] To get inside Gödel's head, we have to recognize his definition as a different approach to Formal Function Theory, one that's much more like a standard axiom system than Church's. After all, Church said he never had other mathematicians to talk to about his interests because he was the only one in his field. Church's work is much more "Ex Nihilo" than the other two, and much more minimal as a result.
 
