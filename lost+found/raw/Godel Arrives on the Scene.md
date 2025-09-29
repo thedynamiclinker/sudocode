@@ -261,4 +261,4 @@ This goes at the end of the file.
 
 0: Almost there. Follow me.
 
-goto: [[2/5|Turing]]
+goto: [[Turing's Paper|Turing]]
