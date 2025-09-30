@@ -1,8 +1,13 @@
 ## Ex Scriptura
-### Or: In the Beginning was Paper
+
+### Or: Out of Writing
+### Or: In the Beginning was the Paper
 ### Or: The Formal Theory of Paper
-### Or: A study in making marks
+### Or: Squiggle completeness
+### Or: How to make a mark
 ### Or: How to convince Gödel
+
+---
 
 > Steve Kleene: Well as I say, I don't know how firmly convinced Gödel was that his General Recursive Functions represented all effectively calculable functions.
 >
