@@ -2,11 +2,16 @@
 ![[the-first-draft-of-anything-is-shit-wallpaper.jpg|300]]
 
 Tl;dr:
-- Book proposal soon. We're getting close.
-- Just need to submit the bash bugfix and email Chet.
-- Then we're ready.
+- Book proposal soon.
+- Just need to submit the bash bugfix.
 
 ## lost+found
+
+- [ ] MAKE THIS POINT!
+- [ ] The "ALU" field -- formal logic and formal arithmetic -- is unique among all technical fields in that it requires no outside prerequisites in order to understand the advanced results in the field and to read the original papers. To be sure, these original papers are often extremely technical, much more technical than most advanced mathematics, but they are far more precise and self-contained than standard mathematics. They typically do not assume the reader has a large amount of background provided elsewhere. The exceptions that prove the rule are confined mostly to informal or semi-formal set theory as found in for example Jech (Set Theory) and Kanamori (The Higher Infinite). Reading Jech feels as if one is reading a normal mathematics book that happens to be about sets. Reading Kanamori feels like one is reading an academic paper or series of them that mixes history with definitions and results that are very hard to understand the motivation of without "culture provided elsewhere."
+- [ ] The ALU field is different. It's content is quite literally the arithmetic one learns in kindergarten, and the logic one barely has to be taught. Starting from these intuitive primitives, the subject creates formal languages designed to capture these most basic of notions, and this process is open to readers with no background whatsoever in the field. This is less true for monographs on model theory and proof theory, and it becomes less true for post-Kleene 1952 books on computability and eventually complexity, which often manage to read more like standard mathematics than like foundations.
+- [ ] Nevertheless, the ALU field provides foundations in the realest sense of the word. It is the historical origin, the cultural origin, and the logical/technical/formal origin story of the field we now call computing. And its most technical results can be appreciated, with some work, by anyone who regularly reads or writes code in any language.
+
 
 - [ ] Finish lost+found. It doesn't need to be perfect. We're close enough to satisfying the 2D constraints that I think it's worth sticking with it. The "corruption" analogy seems to work well as an excuse to make that directory a bit anarchic. Anything that's unclear after lost+found should be clarified with a commentary on it in `/lib/tor.a` or `/usr/share/doc/tor.a`
 
