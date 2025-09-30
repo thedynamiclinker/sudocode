@@ -1,11 +1,11 @@
-## The λogos calls
+## Let there be Calls
 ### Or: Calls Calls Calls
 ### Or: Numbers are calls
 ### Or: Booleans are calls
 ### Or: No names allowed
-### Or: Church of λambda
-### Or: On the λamb
-### Or: Son of Sam
+### Or: Names are tricky
+
+---
 
 0: Once upon a time, there was a guy named Sam.
 
@@ -129,6 +129,22 @@ As a child, during that earliest stage of life when we're looking around the wor
 
 0: Of course. Let's go take a tour.
 
+---
+
+> _I never had any mathematical conversations with anybody,_
+> _because there was nobody else in my field._
+> -Alonzo Church (Son of Sam)
+
+---
+
+## Alonzo Church
+### Or: Call me anonymous
+### Or: The λogos calls
+### Or: Church of λambda
+### Or: On the λamb
+### Or: Son of Sam
+
+
 ![[church-01.png]]
 
 1: Woah you weren't just making that up?
@@ -150,6 +166,7 @@ As a child, during that earliest stage of life when we're looking around the wor
 1: Why didn't he?
 
 0: Well he's a foundational person. So naturally, he went into foundations.
+
 
 ![[church-04.png]]
 

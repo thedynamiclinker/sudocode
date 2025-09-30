@@ -7,40 +7,24 @@ Tl;dr:
 
 ## lost+found
 
-- [ ] MAKE THIS POINT!
-- [ ] The "ALU" field -- formal logic and formal arithmetic -- is unique among all technical fields in that it requires no outside prerequisites in order to understand the advanced results in the field and to read the original papers. To be sure, these original papers are often extremely technical, much more technical than most advanced mathematics, but they are far more precise and self-contained than standard mathematics. They typically do not assume the reader has a large amount of background provided elsewhere. The exceptions that prove the rule are confined mostly to informal or semi-formal set theory as found in for example Jech (Set Theory) and Kanamori (The Higher Infinite). Reading Jech feels as if one is reading a normal mathematics book that happens to be about sets. Reading Kanamori feels like one is reading an academic paper or series of them that mixes history with definitions and results that are very hard to understand the motivation of without "culture provided elsewhere."
-- [ ] The ALU field is different. It's content is quite literally the arithmetic one learns in kindergarten, and the logic one barely has to be taught. Starting from these intuitive primitives, the subject creates formal languages designed to capture these most basic of notions, and this process is open to readers with no background whatsoever in the field. This is less true for monographs on model theory and proof theory, and it becomes less true for post-Kleene 1952 books on computability and eventually complexity, which often manage to read more like standard mathematics than like foundations.
-- [ ] Nevertheless, the ALU field provides foundations in the realest sense of the word. It is the historical origin, the cultural origin, and the logical/technical/formal origin story of the field we now call computing. And its most technical results can be appreciated, with some work, by anyone who regularly reads or writes code in any language.
-
-
 - [ ] Finish lost+found. It doesn't need to be perfect. We're close enough to satisfying the 2D constraints that I think it's worth sticking with it. The "corruption" analogy seems to work well as an excuse to make that directory a bit anarchic. Anything that's unclear after lost+found should be clarified with a commentary on it in `/lib/tor.a` or `/usr/share/doc/tor.a`
 
-- [ ] Put these "document fragments" somewhere or reimplement them in Excalidraw.
+- [ ] Church's definition from first principles: How would you come up with Church's idea if it didn't exist yet? So far we'vegot formal Arithmetic from Peano, and formal Set Theory from Zermelo and friends. What if you thought everyone was doing it wrong? Or at least missing something? What's more fundamental in mathematics than natural numbers or sets? Well, it wouldn't be crazy to say "functions." So what if everything is functions? Now how would you come up with the Church numerals? Well in every formal system with one type, you always have to encode things. (1) The von Neumann encoding in ZFC because ZFC doesn't have built in integers. (2) Even first order arithmetic has to "encode" the integers in a sense: 0 is the only built in. 1 is S(0). 2 is S(S(0)). 3 is S(S(S(0))). So how do you encode the integers if all you have is functions? Well Peano Arithmetic already did it! We just saw it. 3 is "call a function 3 times." And voila, you've got the Church numerals. So we miss the point a little by calling it Lambda Calculus. We've got "Formal Number Theory" and "Formal Set Theory." We should call Lambda Calculus "Formal Function Theory."
 
-![[lost-and-foundations.jpg]]
+- [ ] Gödel's definition from first principles: To get inside Gödel's head, we have to recognize his definition as a different approach to Formal Function Theory, one that's much more like a standard axiom system than Church's. After all, Church said he never had other mathematicians to talk to about his interests because he was the only one in his field. Church's work is much more "Ex Nihilo" than the other two, and much more minimal as a result.
 
+- [ ] Turing's "Formal Theory of Paper" and why it convinced the others: To get inside Turing's head, we have to recognize what he was doing as "Formal Paper Theory." Turing's theory is the axiomatic development from first principles of what can be done with paper and a pencil. Church and Gödel both made "Formal Function Theory." Turing made "Formal Mathematician Theory" by making "Formal Paper Theory," which is how he convinced the others that he (or all of them) had captured anything that could be computed by any means. Turing's paper is always described as being about computing machines. What no one says is that he actually formalized the theory of "Making marks on paper." That's how his result is in a sense more conceptually viral than the other two. If you formalize functions, it's easy to think you've missed something about computing in general. If you formalize the process of making marks on paper, it's very hard to worry that you've missed something.
+
+- [ ] /mnt/sinai: Maybe this contains a dialogue, and the point of it is for the Authors to show 0 that the same thing can have different names (Sinai and Horeb maybe being the same mountain), or different things can have the same name (El and YHWH being called "Lord"). 0 then realizes how to structure the creation story of computing from the source documents.
+- [ ] /mnt/sinai: There needs to be enough in here or elsewhere to allow for the privesc via /sbin/sudo. Some hints are in here. Others can be elsewhere. The images now in /var/include/learn-the-alphabet are relevant.
 
 ## /lib/tor.a
 
 - [ ] Use Richard Elliot Friedman's "Commentary on the Torah" to show the reader what a strange writing style we're actually dealing with.
 - [ ] In this file, make it clear that lost+found was our first attempt at the lost art of bible authorship.
 
-## /usr/share/doc/tor.a
-
-- [ ] /usr/share/doc/tor.a: In this file, do a commentary on the `lost+found` directory, and explain what actually happened in there.
-
-- [ ] /usr/share/doc/tor.a/church: How would you come up with Church's idea if it didn't exist yet? So far we've got formal Arithmetic from Peano, and formal Set Theory from Zermelo and friends. What if you thought everyone was doing it wrong? Or at least missing something? What's more fundamental in mathematics than natural numbers or sets? Well, it wouldn't be crazy to say "functions." So what if everything is functions? Now how would you come up with the Church numerals? Well in every formal system with one type, you always have to encode things. (1) The von Neumann encoding in ZFC because ZFC doesn't have built in integers. (2) Even first order arithmetic has to "encode" the integers in a sense: 0 is the only built in. 1 is S(0). 2 is S(S(0)). 3 is S(S(S(0))). So how do you encode the integers if all you have is functions? Well Peano Arithmetic already did it! We just saw it. 3 is "call a function 3 times." And voila, you've got the Church numerals. So we miss the point a little by calling it Lambda Calculus. We've got "Formal Number Theory" and "Formal Set Theory." We should call Lambda Calculus "Formal Function Theory."
-
-- [ ] /usr/share/doc/tor.a/martyr: Similarly, to get inside Turing's head, we have to recognize what he was doing as "Formal Paper Theory." Turing's theory is the axiomatic development from first principles of what can be done with paper and a pencil.
-
-- [ ] To get inside Gödel's head, we have to recognize his definition as a different approach to Formal Function Theory, one that's much more like a standard axiom system than Church's. After all, Church said he never had other mathematicians to talk to about his interests because he was the only one in his field. Church's work is much more "Ex Nihilo" than the other two, and much more minimal as a result.
-
-- [ ] EMPHASIZE THIS: When we learn logic today, we start with propositional logic and then predicate logic and it all seems sort of inevitable. But during the whole history of logic before the 1930s, logicians were viewed sort of as crazy people. I mean other mathematicians studied concrete things like polynomial equations or geometry. Logicians were these insane people who seemed to be studying "thought" or "reasoning" itself, and then writing down some of the most obscure and least notation of any mathematical field. I mean if you actually look at Peano or Russell or god forbid Frege, their notation is an absolute nightmare. They don't start from the propositional or predicate calculus and they don't really have that many results of others that they're building on. The whole field seems like it reboots with every book, and every logician is sort of a crazy person trying to formalize the entire universe from scratch and then failing. So when Church says he had no one to talk to because no one was in his field, he means it. This is also why you see three completely different definitions of computation not based on any common pre-estsblished work. The only thing the results share in common is diagonalization which was from Cantor's second proof that there's more than one size of infinity.
-- [ ] Church and Gödel both made "Formal Function Theory." Turing made "Formal Mathematician Theory," which is how he convinced the others that he (or all of them) had captured anything that could be computed by any means. Turing's paper is always described as being about computing machines. What no one says is that he actually formalized the theory of "Making marks on paper." That's how his result is in a sense more conceptually viral than the other two. If you formalize functions, it's easy to think you've missed something about computing in general. If you formalize the process of making marks on paper, it's very hard to worry that you've missed something.
 
 - [ ] Harvey Friedman "formalization-of-mathematics.pdf" needs a chapter SO BAD that I think it maybe matters more than anything else in the book. This is a revolution larger than Gödel that has been entirely ignored because people don't notice things when they matter. People notice things when noticing them makes their life better somehow. We'd like to clarify that this isn't a criticism and we remain agnostic about the "somehow." But people noticed Gödel because it made their lives better, and people haven't noticed Friedman because it doesn't. But he loves mathematics, at least as much as Gödel. He's more extroverted than Gödel in none of the obnoxious ways and all the positive ways. And he's completely not a public figure in any way, even though he's an incredible teacher. In other words there's a man who falls into all the cracks that allow a person to be maximally valuable to history while being minimally noticed. So fuck that shit. He gets a chapter in the bible. Several probably. Because he matters more than docker or postgresql or any of the retarded shit we in computing focus on. So here's Harvey. He belongs in our history. He's already made a place for himself in some history. But it's the history of foundations of mathematics, and nobody pays attention to foundations of mathematics these days, because we live in a fallen world and everything we love is r\*\*\*\*\*ed. Here's Harvey. (Begin commentary on "The Formalization of Mathematics." Take the screenshots on your phone. It's a masterpiece, all in monospace, and it looks better in phone format. Get this published. Otherwise no one outside the obscure foundationals is gonna hear.)
-
-- [ ] Anti-gist needs an exaplanation now. Explain the art museum genre.
 
 - [ ] Gödel dialogue: "Mr Why."
 - [ ] Gödel dialogue: The incomplete story of incompleteness: Definitely need to mention the rarely discussed side effect of the incompleteness theorems: If mathematics is more limited than we thought, suddenly it becomes a lot more plausible to define "computation." Even the space of "all possible computations" is potentially within the reach of a formal definition. Though many of the main players involved in the early theory of "effective calculability" didn't expect that they were capturing all possible computations in their definitions, it's probably not an accident that all 3 of our definitions of "computable" appeared within 5 years of Gödel's incompleteness theorems. In the years from 1900 to 1931, it simply didn't feel plausible to give a definition that might hope to capture all possible computations. In a very real sense, we may owe the origins of modern computing to the discovery of incompleteness.
@@ -54,8 +38,6 @@ Tl;dr:
 - [ ] Turing dialogue: Include first page of Kleene's chapter on Computable functions.
 
 - [ ] The Lambdas: ΛʌLittleLambΔʌ. Written like the Little Lisper and Little Schemer.
-- [ ] /sys/log/ic: Currently begins with a genesis style riff, then it contains the anti-gist images on the history of symbolic logic. This probably belongs in two files. Maybe put this after the Foundational People man page but before the We dialogues. It's 0 showing 1 (or maybe just the Authors speaking in kernel space) about what it would look like to NOT have a creation story.
-- [ ] /opt/art: Explain the spectrum from Art History Textbook to Guided Tour of a Museum. The Anti-gist is the museum tour.  The art means "arithmetic run time." To be explained once we get to the man dialogue and see brt1 and brt2 in early Unix. Much like crt gets linked into every C program, formal Arithmetic (and incompleteness) gets linked into any formal system strong enough to express Arithmetic.
 - [ ] Clean this file!
 
 ---
@@ -64,19 +46,31 @@ Tl;dr:
 
 ## Eventually
 
-- /bin/bash: Church received an honorary Doctor of Science degrees from Case Western Reserve University in 1969!
-- /bin/bash: Contact Chet Ramey, explain that you've found a bug, and would like to include it in a book. The book is called "sudo code", and it's a series of technical dialogues between two characters, 0 and 1.
-- /dev/lunduke: Modern Lunduke has become exactly Isaiah and it's amazing. Needs to be part of the story. Need to also add Matthew Garrett.
-- /bin/vi: Show Bill Joy's vi keyboard with the arrows on the letter keys. A lot of stuff in life that never makes sense unless you know how the original authors wrote. 
-- /usr/share/man: The man dialogue: 0 shows 1 the first edition Unix man pages.
-- /dev/sigma: Add directory with some talks by Andrej Bauer.
-- /mnt/sinai: There needs to be enough in here or elsewhere to allow for the privesc via /sbin/sudo. Some hints are in here. Others can be elsewhere. The images now in /var/include/learn-the-alphabet are relevant.
-- /bin/cc: Song of the C. Dead C Scrolls. Ancient Unix.
-- /boot: The /boot dialogues were good, especially the bit with the binary loader we wrote in C. Need to find somewhere to put this, because it doesn't quite belong anywhere in the narrative yet.
-- /usr/src/bash: We've got a bug in bash upstream related to "history" that's also somehow about being inside case. The fact that most people don't know bash is maintained by one guy is a different kind bug in our history, and it's also related to being inside case (Chet is at Case western reserve university.) Reach out to Chet, make him a character, have a dialogue where he helps 0 and 1 fix the bug, and make a who's-on-first style dialogue with the history history case case stuff above.
-- /usr/share/dict: The ⟂-docs: Pronounced "Orthodox." The orthogonal documents. Refers to theoretical computer science, primary computability and complexity as elaborated in the decades since the lambdas and the mus split. Though it appears on the surface to be the same culture, it is mostly orthogonal to the history of our people.
-- /var/lib/rectangles: At some point, in the course of explaining the /etc/groups, we visit a relational database as a location in the filesystem and be like "this is a fucking abomination."
-- When theres nothing left to take away.
+- [ ] /bin/bash: Church received an honorary Doctor of Science degrees from Case Western Reserve University in 1969!
+- [ ] /bin/bash: Contact Chet Ramey, explain that you've found a bug, and would like to include it in a book. The book is called "sudo code", and it's a series of technical dialogues between two characters, 0 and 1.
+- [ ] /dev/lunduke: Modern Lunduke has become exactly Isaiah and it's amazing. Needs to be part of the story. Need to also add Matthew Garrett.
+- [ ] /bin/vi: Show Bill Joy's vi keyboard with the arrows on the letter keys. A lot of stuff in life that never makes sense unless you know how the original authors wrote.
+- [ ] /usr/share/man: The man dialogue: 0 shows 1 the first edition Unix man pages.
+- [ ] /dev/sigma: Add directory with some talks by Andrej Bauer.
+- [ ] /bin/cc: Song of the C. Dead C Scrolls. Ancient Unix.
+- [ ] /boot: The /boot dialogues were good, especially the bit with the binary loader we wrote in C. Need to find somewhere to put this, because it doesn't quite belong anywhere in the narrative yet.
+- [ ] /usr/src/bash: We've got a bug in bash upstream related to "history" that's also somehow about being inside case. The fact that most people don't know bash is maintained by one guy is a different kind bug in our history, and it's also related to being inside case (Chet is at Case western reserve university.) Reach out to Chet, make him a character, have a dialogue where he helps 0 and 1 fix the bug, and make a who's-on-first style dialogue with the history history case case stuff above.
+- [ ] /usr/share/dict: The ⟂-docs: Pronounced "Orthodox." The orthogonal documents. Refers to theoretical computer science, primary computability and complexity as elaborated in the decades since the lambdas and the mus split. Though it appears on the surface to be the same culture, it is mostly orthogonal to the history of our people.
+- [ ] /var/lib/rectangles: At some point, in the course of explaining the /etc/groups, we visit a relational database as a location in the filesystem and be like "this is a fucking abomination."
+- [ ] Make this point somewhere: The "ALU" field -- formal logic and formal arithmetic -- is unique among all technical fields in that it requires no outside prerequisites in order to understand the advanced results in the field and to read the original papers. To be sure, these original papers are often extremely technical, much more technical than most advanced mathematics, but they are far more precise and self-contained than standard mathematics. They typically do not assume the reader has a large amount of background provided elsewhere. The exceptions that prove the rule are confined mostly to informal or semi-formal set theory as found in for example Jech (Set Theory) and Kanamori (The Higher Infinite). Reading Jech feels as if one is reading a normal mathematics book that happens to be about sets. Reading Kanamori feels like one is reading an academic paper or series of them that mixes history with definitions and results that are very hard to understand the motivation of without "culture provided elsewhere." The ALU field is different. It's content is quite literally the arithmetic one learns in kindergarten, and the logic one barely has to be taught. Starting from these intuitive primitives, the subject creates formal languages designed to capture these most basic of notions, and this process is open to readers with no background whatsoever in the field. This is less true for monographs on model theory and proof theory, and it becomes less true for post-Kleene 1952 books on computability and eventually complexity, which often manage to read more like standard mathematics than like foundations. Nevertheless, the ALU field provides foundations in the realest sense of the word. It is the historical origin, the cultural origin, and the logical/technical/formal origin story of the field we now call computing. And its most technical results can be appreciated, with some work, by anyone who regularly reads or writes code in any language.
+- [ ] When theres nothing left to take away.
+
+- [ ] Put these "document fragments" somewhere or reimplement them in Excalidraw.
+
+![[lost-and-foundations.jpg]]
+
+
+## shave and a haircut - two bits
+
+![[shave-and-a-haircut.png]]
+
+- Need to have 1 make this joke somewhere and 0 doesn't get it.
+- Have 1 knock on the door of some directory in this pattern.
 
 
 ---
@@ -245,3 +239,17 @@ Q: What does it mean to make something truly timeless that represents our age of
 - User Space is the vast majority of the book.
 - User space consists of a linear narrative, in the form of dialogues between two characters: 0 and 1.
 - The entire book and all its content must be representable linearly on the page, in printed word, in the form of a conventional book.
+
+## Memories
+
+It's seriously wonderful to be back in real "writing" mode again.
+
+There have been a couple things that felt vaguely like this since Burn Math Class, like the Radicalize era and On The Lamb, but neither of those were technical writing about a technical field where I got a chance to explore how a given set of technical content mixes with basically every possible genre on the planet.
+
+The "bible" theme has been so central since early Radicalize in 2017 because it's the only way to explain _why_ it might be useful to combine essentially every conceivable genre in a book without justifying that decision with something postmodern and dumb.
+
+Back to writing.
+
+Just wanted to put this here.
+
+![[writing-mode-activated.jpg]]

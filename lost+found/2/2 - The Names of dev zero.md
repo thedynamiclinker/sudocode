@@ -1,4 +1,6 @@
 
+## History
+
 1: Zero
 
 0: _(Unintelligible)_
@@ -23,7 +25,7 @@
 
 _(Narrator: 1 hands 0 the following image.)_
 
-![[trinity-8-unhinged-explained.png]]
+![[trinity-8-unhinged-explained.png|300]]
 
 1: No idea what it's all about but it's pretty scary.
 
@@ -45,194 +47,159 @@ _(Narrator: 1 hands 0 the following image.)_
 
 0: Where to start.
 
-1: And where's that?
+1: Where to start _what?_
 
-0: At the beginning.
+0: The creation story.
 
-1: The very beginning?
+1: Zero, look. I know you need to get this history stuff out of your system for some reason before we get to computing---
 
-0: The very beginning.
+0: This is computing.
 
-1: For real this time?
+1: Fine, but if we need to do some history before we get to the more, you know, "actual computing" parts of computing, the technical stuff, can we _please_ just learn the _actual_ history instead of doing more of this creation story or bible stuff or whatever you're doing here?
 
-0: Yes.
+0: _(Immediately)_ Ok.
 
-1: Ok so.
+1: Wow I didn't think you'd actually agr---
 
-0: So, after Cantor.
+## AL
 
-1: Infinity guy.
+0: _(Calm and understanding)_ Let's assume we did that. Where would you propose we start?
 
-0: And Russell.
+1: Haven't we already _started_? I mean this has been going a while.
 
-1: Guy with the paradox.
+0: Cantor, Russell, and Hilbert were just set up. The creation story proper was just about to begin, as I was trying to explain with that diagram above.
 
-0: And Hilbert.
+1: The schizo one?
 
-1: Guy with the problems.
+0: If that's what you think it was, then yes. So forget that for now, and forget the bits about Cantor and Russell and Hilbert. Suppose you're writing a history of this field.
 
-0: Exactly. Problem 2 was to prove that basic arithmetic is consistent.
+1: What field?
 
-1: What was the other one?
+0: What's an ALU?
 
-0: Problem 10. To come up with _any algorithm_ to solve some specific question about Diophantine something-or-other polynomials. 
+1: Why do you always do this?
 
-1: Sounds boring.
+0: Answer me seriously. What's an ALU?
 
-0: Could have been boring! But it turned out to be impossible. And to even get started on proving that _no algorithm whatsoever_ exists that can do X, first you have to figure out a definition of "any algorithm whatsoever."
+1: It's like the part of a CPU where the magic happens.
 
-1: Starting to feel like programming!
+0: You can be more precise than that.
 
-0: Exactly. All the pieces are in place for the beginning of a field.
+1: Ok so I'm not a hardware expert or whatever, and I know real hardware is, well, hard. As in more complicated than what I'm about to say. But the basic idea as far as I think of it is:
 
-1: Finally.
+$$CPU = ALU + MEMORY$$ 0: Memory in what sense?
 
-0: Like I promised, everything after this is gonna be "programming."
+1: Not like RAM. I mean registers. Or, actually, here let me rewrite that.
 
-1: Get to it!
+$$CPU = BooleanLogic + SequentialLogic$$
+0: What's sequential logic?
 
-0: Ok so. After Cantor and Russell, mathematics knows it's in trouble. Hilbert has just made his "call to arms." A rallying cry for everyone in the field to come together and work on the foundations.
+1: It's a way of doing logic stuff that incorporates time. Boolean gates like AND and OR don't really "store" anything. They just pass bits through and change them. Sequential logic is sort of like the basic "logic gates" you need in order to build stuff that stores data over time.
 
-1: Enter the foundational people.
+0: That was a surprisingly good answer. You left something out of the first terms in the second equation though.
 
-0: Yep. The first developers in history. This next part of the story is where Our Story begins.
+1: How?
 
-1: What year is this again?
+0: Well if I understand your analogy correctly, you're saying:
 
-0: 1900.
+$$ALU = BooleanLogic$$
+1: Oh hah oops, yeah that's wrong. I should have written this.
 
-1: Got it. So who's the first one?
+$$ALU = BooleanLogic + Arithmetic$$
 
-0: There are three.
+0: Why's that?
 
-1: Three?
+1: I mean it's in the name. "Arithmetic Logic Unit." So obviously:
 
-0: Yep. Three main characters who are gonna end up creating the field we now call computing.
+$$Arithmetic \; Logic \; Unit = Arithmetic + Logic$$
+0: Great! I didn't expect your answer to be that good.
 
-1: Got it. Three main characters. 1900. What do they do first?
+1: Have a little faith in me.
 
-0: Nothing.
+0: Likewise. Anyways back to your idea.
+
+1: Which idea?
+
+0: Of doing without this whole "creation story" thing and instead just writing a proper history of the field you just described.
+
+1: I didn't describe a field.
+
+0: Sure you did!
+
+1: Where?
+
+0: Well that's the field we need to write a history of.
+
+$$Computation = Arithmetic + Logic$$
+
+0: You can add "memory" in there too if you want, but in the early days of our field, the "memory" was just brains and paper so that part didn't get formalized until 1936.
+
+1: What field is this?
+
+0: Ours! Foundations. Computing. Foundations and history of computing. Which by definition is the same as---
+
+1: Arithmetic + Logic?
+
+0: Exactly!
+
+1: What kind of field is that?
+
+## Super Advanced Kindergarten
+
+1: Why are we in a section called "super advanced kindergarten"?
+
+0: Why ALUs?
 
 1: What?
 
-0: They weren't born yet.
+0: Why don't we have geometry or algebra or topology processing units?
 
-1: WHAT?
+1: Isn't a GPU sort of a geometry processing unit?
 
-0: It's ok, we just need to fast forward a bit.
+0: Very good point! But in principle, when it comes to what's required for computation, super advanced kindergarten turned out to be all we need.
 
-1: _(On edge)_ Zero...
+1: Super advanced kindergarten is...?
 
-0: Remember this picture from last time?
+0: Arithmetic plus logic. Add those two things and you have an ALU. Add some memory and you have a CPU. And with a CPU, the logic of every other discipline can be emulated. That's why we don't have "Differentiable manifold processing units" or "Hilbert space processing units" or any of---
 
-![[trinity-1-god-church-martyr.png]]
+1: I don't know what those are, but---
 
-1: I swear if you go back to bible stuff I'm gonna---
+0: You don't need to. That's the point. You said it yourself. Computation is more than just logic. It's logic plus arithmetic.
 
-0: That's our three main characters. Here, look.
+1: So?
 
-![[trinity-3-names.png]]
+0: Well that's kindergarten. "Arithmetic" is just "plus" and "times." And maybe some limited versions of minus and divide, but they're less important in kindergarten. We're just natural numbers here: $0, \; 1, \; \dots$ and so on. No negativity allowed in super advanced kindergarten.
 
-1: Oooh got it! Totally on board!
+1: Why are you talking about this?
 
-0: Really? You don't have any objections or questions or snarky remarks?
+0: Because that's the field we need to write a history of. You said you wanted to stop this "bible" stuff and do a proper history instead of a creation story. So let's do that.
 
-1: No, I'm just happy we're finally getting to programming.
+1: How do we do that?
 
-0: I'm gonna need at least ONE question from you before we go any further.
+0: Well I've narrowed the scope of the problem by defining our field.
 
-1: Zeroooo come oooon.
+1: Which is---
 
-0: I mean I just made a pretty strong claim! You're usually the one who checks me on this stuff.
+0: Super advanced kindergarten. Arithmetic plus logic.
 
-1: What do you want from me?
+1: Look I'm not super interested in the history of arithmetic, that sounds super boring. If we have to go back to pre-historic rock counting or whatever I'm gonna die of boredom.
 
-0: Have you ever heard anyone else claim that these specific three people are the first developers or the founders of the field we call computing?
+0: Valid point. That's the problem with writing a history of any idea. You can usually find the seeds of any big idea in writers almost arbitrarily far back in history. The end result of which (if taken seriously) is that you better learn hieroglyphs because you're gonna end up attributing basically everything to ancient Egypt.
 
-1: Well everyone says Turing. The people who like functional programming seem to like Church. And I've never heard anyone say Gödel was one of the first people in computing but we saw that code a while back and I can believe it.
+1: Can we not do that?
 
-0: Push back a little more.
+0: Of course. Where do you propose we start the complete history you suggested?
 
-1: What do you want from me?
+1: Well if we skip arithmetic, the history of logic doesn't sound so bad.
 
-0: Why these three people? Why not just two of them? Or four? Or twenty?
+0: And where do you propose we start that?
 
-1: You want me to ask those questions?
+1: ... At the beginning?
 
-0: At least act a bit skeptical. I've grown kind of accustomed to it.
+0: The very beginning?
 
-1: _(Pretending to be skeptical)_ "Why these three people?"
+1: The very beginning.
 
-0: Good question!
+0: If you insist...
 
-1: It was your question.
-
-0: Still, it was good.
-
-1: GET TO IT!
-
-0: Ok so, these three people are the best candidates for the founders of our field, because:
-
-1. They were the three people who each independently tried to come up with a general definition of what it means to be "computable." Their three definitions were wildly different, completely unrelated on the surface. One of them hated the other guy's definition so much that he was more willing to abandon his own idea than accept the other guy's. But eventually, all three definitions turned out to be equivalent. That's the #1 most important way that we as a field learned that our definition of "computable" wasn't arbitrary. It wasn't something we invented. It was something we _discovered_. And on another planet or in another universe, the definition of "computable" would be the same. That three way equivalence is the foundation of our field.
-
-1: Woah. That's pretty amazing. Did you mean to make a numbered list with only one item or is there more?
-
-0: There's more.
-
-2. These three characters also deserve equal status as members of the /dev/zero trinity because they each, independently -- in the course of trying to define "computing" or in the course of related work in the five year period that led up to it -- created, ex nihilo, the following specific things:
-
-![[trinity-4-firsts.png]]
-
-1: Oooooooh!
-
-0: And if you don't want to say "first hardware" because it wasn't actually built, we can still safely say that our three protagonists fit here:
-
-![[trinity-5-roles.png]]
-
-0: The machine bit is only one of three. Because remember, we aren't just "machine people."
-
-1: Definitely.
-
-0: We spend most of our time with the "languages" after all.
-
-1: Programming languages?
-
-0: Yep. Using them. Fighting with them. Learning them.
-
-1: Of course.
-
-0: And like we heard before, the foundational people started as an odd culture -- mostly in math departments, sometimes in philosophy but never fitting in -- who distinguished themselves from their colleagues by being primarily interested in a certain kind of object called a language.
-
-1: Sounds familiar.
-
-0: Artificial languages. But extremely precise. Ones that no one speaks.
-
-1: Get on with it.
-
-0: And that culture pre-dates the existence of physical computing machines.
-
-1: Took you awhile to get here but I'm convinced.
-
-0: Before the machines were physical, the language _was_ the machine. During that era, formal systems were both the programming language and the machine. Formal systems feel as different from "normal mathematics" as computing feels today. Like computing, using a formal system involves convincing a non-human mind. One with much more strict rules than any human mathematician.
-
-1: Is there a point to this? 
-
-0: Yes. That even though we aren't the mathematicians -- culturally speaking -- the beginnings of our culture took place on paper, not in machines.
-
-1: So how did it begin?
-
-0: In three year intervals.
-
-1: What?
-
-0: In 1903, 1906, 1909, 1912, our main characters were born.
-
-1: How can three people have four birthdays?
-
-0: Trinities are known to be full of mysteries. Let's stick to the story and not get sidetracked for now. You've been patient enough.
-
-1: Thank you. So what happened in 1903?
-
-0: A child was born.
-
-goto: [[1 - The λogos Calls|Names and Calls]]
+goto: [[3 - Archaic Laws, Forgotten Names]]

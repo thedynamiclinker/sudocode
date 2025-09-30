@@ -1,91 +1,197 @@
 ## Archaic Laws, Forgotten Names
 
+0: Ok so naturally, the history logic starts...
+
+![[aristotle-organon.jpg|300]]
+
+0: With Aristotle in the Orga---
+
+1: NO. We're not starting with Aristotle.
+
+0: Just teasing.
+
+1: Promise?
+
+0: Promise. We wouldn't benefit much from going back that far. But that's always the risk with any proper history. In academic histories -- unlike bibles -- it's extremely hard to know where one should start. Beginnings are tricky, and deciding when they are is a hard problem. But that problem is now our problem, seeing as we've chosen _not_ to do the hard work of compiling a proper creation story, and instead chosen to be lazy by doing the much easier work of covering the History of Logic in the standard non-bible'ed academic format.
+
+1: The _second_ of those two things is the "lazy" choice in your mind?
+
+0: Absolutely!
+
+1: I'm gonna need some convincing.
+
+0: Ok well, in what follows, we're gonna see a very unusual field.
+
+1: Kindergarten?
+
+0: Super advanced kindergarten! See in this era of early prehistory, the study of foundations seemed a but childish... at best... or mentally ill, at worst.
+
+1: How do you figure that?
+
+0: Are you kidding? Back then, nobody knew that formal theories of logic and arithmetic would eventually turn out to be all that's needed to build a machine that can emulate the logic of any other field. So what would you think if one of your colleagues, or even worse, one of your friends or family, suddenly showed up trying to study these things! Especially if you open their notebooks and find it full of strange symbolic notations, instead of something more respectable, like words.
+
+1: I don't believe it was that bad.
+
+0: Ok then, put your self in their shoes.
+
+1: Whose shoes?
+
+0: Imagine you're a serious adult mathematician, back in the 1600s, 1700s, 1800s, whenever. You're a highly esteemed professor in the mathematics or physics or philosophy department at the University of Serious Adult Academics who study serious things.
+
+1: Such as...
+
+0: Well your colleagues have various areas of expertise. One of them is doing some work on Newton's method of fluxions and fluents.
+
+1: What's a fluxio---
+
+0: That's what Newton called the derivative back when he invented calculus.
+
+1: Weird. Why did---
+
+0: Others of your colleagues might be studying other serious adult things, like the insolubility of the quintic by radicals, or Riemann's new prime-counting function and how it relates to his theory of manifolds.
+
+1: What era was this?
+
+0: All of them. The point is that in most any era of the 1600s or 1700s or 1800s, when serious adult mathematicians at serious adult universities looked around at their colleagues, they saw other serious adults doing serious adult things.
+
+1: Where are you going with this?
+
+0: Well one day, one of your colleagues -- who you've heard is very intelligent and capable -- submits a paper, or gives a talk on... oh dear. You haven't the faintest idea what it is. It looks like the ramblings of a mental patient, you whisper to your other colleagues, as the gossip spreads. As you probe your clearly unwell colleague for more details, you find nothing that looks like familiar mathematics. Instead, you find notebooks full of pages and pages of strange symbols, symbols that aren't standard in any established area of mathematics. And worst of all, the stated goal of all this nonsense research appears to be some kind of schizophrenic desire to both:
+
+1. "Formalize thought" with a "symbolic calculus of all mental procedures", surely too ambitious for any sensible research program by several orders of magnitude.
+2. Then, in the same breath, your colleague claims that their technical work mostly focuses on "Elementary arithmetic," and attempting to secure the foundations of rationality itself by studying... not the esteemed field of number theory... but the basic addition and multiplication of whole numbers, using a language they've invented themselves, and in which they've proved a series of theorems that are of precisely no use to anyone since they contain no new results and no one can read them anyway.
+
+0: I mean it's almost as bad as if you came to study with a teacher you'd long admired from a distance, and found that instead of studying modern computing, this once great teacher had lost his mind and was now talking nonstop about bibles and asking you to help him write one!
+
+1: I can't imagine what that's like.
+
+0: But that's the backdrop against which the remainder of this file occurs. The history of logic has one of the strangest histories of any field. The people involved didn't build one each other's work for most of the field's history, and until somewhere between 1900 and 1930, "doing logic" meant "constructing an entirely new system to capture "all mental activity" or "all reasoning" or at least a large part thereof -- from scratch -- using new symbols and new notations no one had ever seen before. In short, in these situations, it's important to be...
+
+1: What?
+
+0: Formal!
+
+_(Narrator: 0 clears 0's throat.)_
+
+0: _(ahem)_
+
 ---
 
-- NOTE
-- This is a very bare bones skeleton of what eventually needs to go here.
-- This file is closer to a set of notes than it is to a rough draft.
-- If you're not one of the Authors of this book, ignore this file.
+ABSTRACT
+
+In this file, we will demonstrate, by way of example, the necessity of the creation story as a genre for properly telling a certain class of histories of a certain class for fields, including but not limited to the history of computing.
+
+The function of a creation myth is twofold: A creation myth should be designed to be as true as possible, while at the same time allowing an effectively infinite number of historical precursors to be treated as rounding errors or archaeology.
+
+To see the need for a creation story when it comes to the history of computing, we'll begin by demonstrating what would happen to the narrative of the current book if we tried to do without one. We'll see that this attempt leads to an overemphasis on a wacky grab bag of partially cooked ideas and bizarre notations, some of which were legitimately brilliant and ahead of their time, but none of which are relevant enough to the history of computing to be worth mentioning In The Beginning.
 
 ---
 
-- In this era of prehistory, studies of foundational issues, of formal arithmetic and logic, appeared to be little more than grown adults in a sort of super advanced kindergarten. Little did they know that exactly three ingredients -- arithmetic and logic -- would turn out to be all that was needed to build an ALU. Add memory to an ALU and you've got a CPU. And with a CPU, the logic of every other discipline could be emulated. Why don't we have geometry or algebra or topology processing units? In a practical sense we do, any time we use GPUs for speed. But in principle, when it comes to what's required for computation, super advanced kindergarten turned out to be all we need.
-- Say before we get to We dialogue: The problem with writing a history of any idea is that you can find the seeds of any big idea in writers almost arbitrarily far back in history, the end result of which (if taken seriously) is that you better learn hieroglyphs because you're gonna end up attributing basically everything to ancient Egypt. 
-- To solve this problem, we need a creation myth. The creation myth should be designed to be as true as possible, while at the same time allowing an effectively infinite number of historical precursors to be treated as rounding errors or archaeology.
-- To see the need for a creation story when it comes to the history of computing, we up here in the kernel will begin by demonstrating what would happen to the narrative if we tried to do without one. We will see that this attempt leads to an overemphasis on a wacky grab bag of partially cooked ideas and bizarre notations, some of which were legitimately brilliant and ahead of their time, but none of which are relevant enough to the history of computing to be worth mentioning In The Beginning.
-- The Creation Story data type solves this problem. Properly executed, the Creation Story is a pragmatic truncation of history at a finite time in the past, before which all events are declared not to be relevant. This is, of course, in any literal sense, untrue, in no small part because the motivation for creating anything (whether a universe or a book) has as its cause a set of events that came before it. Nevertheless, the Creation Story is a pragmatic necessity. If history is a Taylor Series, the Creation Story is its truncation to finitely many terms.  The only alternative is the sort of history that Scott Aaronson pokes fun at in the title of his book "Quantum Computing Since Democritus."
-- Therefore, in this file, being as we are in kernel space, safely in high memory well above the narrative below, we will sketch the prehistory of the field that became computing, to make the case that a proper Creation Story is the right solution to the problems in the narrative we tell in user space down below. What follows is a brief prehistory of the field, which will be rounded to zero and treated as nonexistent in the creation story that follows.
+1: Is there a point to all thi---
 
-Logic in general.
-- Logic faces an infinitely harder premathematics problem than any other part of mathematics. Creating a notation for geometry, numbers, or calculus needs only to talk about those areas. 
-- Creating a notation for logic, however, needs to decide on a notation and set of basic definitions for the formalization of potentially ALL OF THOUGHT. It's therefore extremely difficult to decide up front which parts to exclude and include. You see this difficulty throughout the history of attempts to develop a notation for something like logic.
-- This is why it shouldn't be surprising in retrospect to see how long it took for formal logic to get started as a field. Logic was an extremely late comer to mathematics, notwithstanding Aristotle's writing on logic, or semi-formal systems like Euclid which involved some embedded reasoning about a specific content domain.
-- Quite a few well known mathematicians tried and failed to develop logic.
+0: Please, don't interrupt the abstract.
+
+1: _(Rolls eyes)_
 
 ---
 
-Intersperse with the images below:
+0:  The Creation Story data type solves this problem. Properly executed, the Creation Story is a pragmatic truncation of history at a finite time in the past, before which all events are declared not to be relevant. This is, of course, in any literal sense, untrue, in no small part because the motivation for creating anything (whether a universe or a book) has as its cause a set of events that came before it.
 
-
-- Leibniz's "Something like primes" idea where he tries to represent atomic concepts by prime numbers, composite concepts by composite numbers, and universal quantification by divisibility.
-- Leibniz then goes on to use Cartesian notation to invent something vaguely like Boolean algebra with different notation.
-- These attempts look like the behavior of a distinguished professor suggesting ideas to one of their grad students, hoping the grad student's youthful energy and need for publications will drive them to explore the ideas technically. The only problem was he didn't have anyone like that to talk to. Include his comments about "They have given it no more attention than if I had related a dream."
-- The "ALU" point needs to be made much more clearly, early on.
-- In Lambert's notation we see clearly the seeds of: constants, variables, types, universal and (possibly?) existential quantification, called universality and particularity. This very clearly mirrors the definition of modern formal languages as found in (for example) Mendelson or Kleene.
-- Lambert's notation also contains the seeds of ideas like set theoretic complement.
-- Lambert's > and < are a bit like universal and existential quantifiers, but he also introduces mA to mean "some A" and nA to mean (I think) "all A" and the _divides by the quantifiers!_ The richness of ideas you encounter when you see mathematicians doing proper premathematics is incredible, and often has a flavor a lot like programming, since definitions are the beginning of our implementations and we deal with the need to create our own definitions or compare the value of two definitions as developers much more often than mathematicians do.
-- Lambert's "Fire is to Heat as Cause is to Effect" is an early example of embedding algebra. Connect this to the nu school.
-- Quadrangles lol.
-- Holland's objection to Lambert's notation makes a great point: A good notation should support the implicit affordances suggested by its structure. If you have a thing that looks like a fraction, you should expect users to assume that they can clear terms from the denominator by something like multiplication. If they can't, the fraction notation is failing to support its Implicit Affordances. Flesh this out. This needs to be a principle.
-- In Castillion, we see "genus" and "species" concepts that show seeds of the concept of types and values.
-- Gergonne is the first use of the backwards C notation for "is contained in."
-- In Bolyai we see something like equality vs isomorphism, and also subset and superset. A(=)B as distinct from his "equal with respect to content" is unclear, but having three ideas here instead of two almost suggests that we have a distinction that's more like "is" vs `__eq__` in python, plus an additional concept of isomorphism.
-- Bentham's notation covers equality of wholes or parts.
-- DeMorgan uses parentheses, dot, colon, and juxtaposition to stand for various boolean algebra style relations.
-- DeMorgan uses CASE for negation, a behavior we also see mirrored in modern regular expressions (though obviously not by direct inheritance of the idea.)
-- DeMorgan also uses inverse notation for the converse of a statement.
-- DeMorgan great quote: "First, logic is the only science which has made no progress since the revival of letters; Second, logic is the only science that has produced no growth of symbols."
-- At this point we're in the mid 1800s, and we arrive at Boole, when things start to look more modern, though still very different in notation.
-- Boole is more systematic than anyone before him. He uses the + - \* and / of ordinary arithmetic but gives them new meanings.
-- Boole's choice of words makes it very clear that he's attempting to formalize thought itself, not some particular content domain.
-- He shows that if we make the analogy of "or" with plus and "and" with times, then the distributive laws of algebra hold for concepts. Just noticing this seemingly trivial thing is a big step in the history of logic!
-- The simple example of z(x+y) = zx + zy (where x is men, y is women, and z is European) is HUGE in that it shows the analogy of plus and times with "or" and "and" extends in at least some cases across linguistic categories! The z here is an adjective while the x and y are nouns, and the equality goes through just fine. In a sense that's obvious, because "European" here is just the noun phrase "European person," but at first glance it's a huge step toward the goal of formalizing the laws of thought.
-- He then says that double application of adjectives in his system is the same as single application, which seems to be the thing that leads to the idea that the variables in the system should only take the values 0 and 1, aka "Booleans."
-- "The equation x(1-x)=0 represents the principle of contradiction."
-- AWESOME quote: MacFarlane 1879: The reason why Formal Logic has for so long been unable to cope with the subtlety of nature is that too much attention has been given to _pictorial notations._ Arithmetic could never be developed by means of the Roman system of notations; and Formal Logic cannot be developed so long as Barbara is represented by (holy shit insert picture wtf)... We cannot manipulate data so crudely expressed; because the nature of the symbols has not been investigated, and laws of manipulation derived from their general properties."
-- Peirce has a totally wacky notation for e and pi, and ends up developing a "Logic of Relatives." 
-- Peirce: Absolute terms are in Roman font, Relative terms are in Italic, and Conjugate terms are in a type face called Madisonian (seeing a spiritual ancestor of APL and K here.)
-- Bertrand Russell said of Peirce "he was one of the most original minds of the later nineteenth century and certainly the greatest American thinker ever."
-- "The contributions of C. S. Peirce to symbolic logic are more numerous and varied than those of any other writer—at least in the nineteenth century." For Peirce, logic also encompassed much of what is now called epistemology and the philosophy of science. He saw logic as the formal branch of semiotics or study of signs, of which he is a founder, which foreshadowed the debate among logical positivists and proponents of philosophy of language that dominated 20th-century Western philosophy. Peirce's study of signs also included a tripartite theory of predication. -Wikipedia
-- Peirce: Additionally, he defined the concept of abductive reasoning, as well as rigorously formulating mathematical induction and deductive reasoning. He was one of the founders of statistics. As early as 1886, he saw that logical operations could be carried out by electrical switching circuits. The same idea was used decades later to produce digital computers. -Wikipedia 
-- Peirce: Include the bit from his Wikipedia page about the "negroes syllogism" that shows the confederate context he came from.
-- Need the "giver of a horse to a lover of a woman" example. It's too wacky and bizarre not to include.
-- MacColl (pg 295) shows the seeds of either probability or modal logic.
-- Frege's symbolism is called "repulsive" and it's said that he basically influenced nobody except Bertrand Russell.
-- Wonderful quote from Frege about how to convince oneself that no intuition has accidentally ended up in an argument. The original desire of mechanistic reasoning.
-- Frege's notation (or the history of logic notation section in general) is a perfect way to introduce the idea of the "Anti-Gist." There would be little value in trudging through every one of these books, but skimming a "best of" or "greatest hits" that _shows the technical details_ while giving less technical commentary is a much better way to summarize an entire era, subject, or author's writing style than simple describing the same things in the form of the standard "gist" in natural language.
-- Pg 298, great quote by Schröder: In symbolic logic we have elaborated an instrument and nothing for it to do.
-- Show Peano using backwards c for implication ("inverse contains"), upside down semicolons, and upside down square root for power.
-- By volume 5, Peano is now writing in Latin instead of French.
-- The quote from Russell and Whitehead here is fantastic.
-- Include the line about "Paternal Aunt is the Relative Product of Sister and Father."
-- Two lines below this they mention that "Peano and Frege showed that the class whose only member is x is not identical with x." The fact that they feel the need to CITE someone on this point, let alone someone so recent, really shows how _informal_ mathematics had been for the several thousand years of its history until then.
-- At the top of 311 they mention that "types" are introduced to avoid contradictions.
-- On 312, below the boobs, the thousand page book on the History of Mathematical Notations says of Russel and Whitehead's Principia Mathematica that: "We don't have enough space to list all the notations in this book." (LOL)
-- On page 314, in the final page of the Logic section in the book, the author mentions that no topic in mathematics comes close to logic in terms of its ability to provide a universal language, no group has a harder notation problem to solve, and no group has thought about that problem more deeply. This fact continues today into the culture of programming, where the need to maintain large codebases which actually execute (unlike mathematics in a textbook) has led to intuitions about what constitutes a good notation that go so far beyond mathematics that it's scarcely possible to compare the two. Perhaps the most illustrative example is the fact that it was Unix, not mathematics, that finally had the sense to write function composition in the right order: f | g. 
-
+Nevertheless, the Creation Story is a pragmatic necessity. If history is a Taylor Series, the Creation Story is its truncation to finitely many terms.  The only alternative is the sort of history that the author of a book like "Quantum Computing Since Democritus" pokes fun at in the title, in which quantum computing is traced back to the first human in recorded history who said something roughly like "The world is made of things, not stuff."
 
 ---
 
+1: Things not stuff? I thought this was you trying to act formal.
 
+0: The distinction between things and stuff is formal at the linguistic level, as thing is a count noun and stuff is a mass noun, and as such we are confident that the attentive reader is capable of recognizing that the phrase "things, not stuff" is isomorphic to the phrase "discrete, not continuous."
 
-![[history-of-logic-notation-01.png]]
+1: _(Eyes roll harder)_
 
+---
+
+0: 
+
+Therefore, in this file, we will sketch the prehistory of the field that became computing, to make the case that a proper Creation Story is the right solution to the problems at hand. What follows is a brief prehistory of the field, which will be rounded to zero and treated as nonexistent in the creation story that follows.
+
+---
+
+1: Are you done?
+
+0: Yes. At least with the abstract.
+
+1: What was the point of that?
+
+0: My point is twofold...
+
+1: Don't start talking like that again.
+
+0: Both to outline the purpose of the historical review below, and to make a broader point about the history of logic in general.
+
+1: Which is?
+
+0: It's damn hard to get started.
+
+1: Clearly. Are you going to start soon?
+
+0: I mean logic faces an infinitely harder "premathematics" problem than any other part of mathematics. 
+
+1: What's premathematics again?
+
+0: Everything that doesn't show up in the books. Everything you do _before_ you figure out what the right definitions are that'll lead to the theory you end up develping. And how you ended up at the definitions you eventually chose rather than all the others. Logic has a harder problem than any other field when it comes to premathematics. When you create a notation for geometry, number theory, or calculus, you only need it to be powerful enough to talk about those areas.  Creating a notation for logic, however, needs to decide on a notation and a set of basic definitions for the formalization of potentially _all of thought._ Or if you choose to focus only on a subset of thought, then you've got an equally hard problem of deciding up front which parts to exclude and include. You see this difficulty throughout the history of logic, especially in the history of attempts to develop a notation for something like the field that eventually became logic.
+
+This is why it shouldn't be surprising in retrospect to see how long it took for formal logic to get started as a field. Logic was an extremely late comer to mathematics, notwithstanding Aristotle or semi-formal systems like Euclid which involved some embedded reasoning about a specific content domain. The history of mathematics is littered with the bones of all sorts of mathematicians who tried and failed to develop a general system of logic.
+
+1: For example?
+
+## The History of Logic
+
+### Or: Painful Irrelevant Historical Trash
+
+### Or: Symbolic Horse Giver Description Language
+
+### Or: Don't describe a Gift Horse with the mouth
+
+### Or: Reductio Ad Confederacism
+
+### Or: Ad hoc laws for f\*cking everything
+
+### Or: Leviticus
+
+1: Gotta admit, after that section heading I'm curious to see what's coming.
+
+0: Well get ready 1, it's time for _Serious Adult History!_
+
+_(Narrator: Lights flash and music plays for like two seconds before zero proceeds.)_
+
+0: The following is from an 820 page book on the history of mathematical notations.
+
+1: Oh no.
+
+![[history-of-logic-notation-01.png|400]]
+
+0: It starts with 400 pages about arithmetic.
+
+1: WE'RE SKIPPING THAT.
+
+0: Of course, we're here to cover the real life no-nonsense non-narrative History of Logic, just like you asked for.
+
+1: Are you just gonna torture me until I beg for a creation story instead?
+
+0: No! This'll actually be fun. Check it out.
+
+## Pre-Pre-History
 
 ![[history-of-logic-notation-02.png]]
 
 
 ![[history-of-logic-notation-03.png]]
+
+## Leibniz
+
+- Leibniz's "Something like primes" idea where he tries to represent atomic concepts by prime numbers, composite concepts by composite numbers, and universal quantification by divisibility.
+- Leibniz then goes on to use Cartesian notation to invent something vaguely like Boolean algebra with different notation.
+
+- These attempts look like the behavior of a distinguished professor suggesting ideas to one of their grad students, hoping the grad student's youthful energy and need for publications will drive them to explore the ideas technically. The only problem was he didn't have anyone like that to talk to. Include his comments about "They have given it no more attention than if I had related a dream."
 
 
 ![[history-of-logic-notation-04.png]]
@@ -96,23 +202,116 @@ Intersperse with the images below:
 
 ![[history-of-logic-notation-06.png]]
 
+## Lambert
+
+- In Lambert's notation we see clearly the seeds of: constants, variables, types, universal and (possibly?) existential quantification, called universality and particularity. This very clearly mirrors the definition of modern formal languages as found in (for example) Mendelson or Kleene.
+
+- Lambert's notation also contains the seeds of ideas like set theoretic complement.
+
+- Lambert's > and < are a bit like universal and existential quantifiers, but he also introduces mA to mean "some A" and nA to mean (I think) "all A" and the _divides by the quantifiers!_ The richness of ideas you encounter when you see mathematicians doing proper premathematics is incredible, and often has a flavor a lot like programming, since definitions are the beginning of our implementations and we deal with the need to create our own definitions or compare the value of two definitions as developers much more often than mathematicians do.
+
+- Lambert's "Fire is to Heat as Cause is to Effect" is an early example of embedding algebra. Connect this to the nu school.
+
+- Quadrangles lol.
+
+- Holland's objection to Lambert's notation makes a great point: A good notation should support the implicit affordances suggested by its structure. If you have a thing that looks like a fraction, you should expect users to assume that they can clear terms from the denominator by something like multiplication. If they can't, the fraction notation is failing to support its Implicit Affordances. Flesh this out. This needs to be a principle.
 
 ![[history-of-logic-notation-07.png]]
 
+
+## Misc
+
+- In Castillion, we see "genus" and "species" concepts that show seeds of the concept of types and values.
+
+- Gergonne is the first use of the backwards C notation for "is contained in."
+
+- In Bolyai we see something like equality vs isomorphism, and also subset and superset. A(=)B as distinct from his "equal with respect to content" is unclear, but having three ideas here instead of two almost suggests that we have a distinction that's more like "is" vs `__eq__` in python, plus an additional concept of isomorphism.
+
+- Bentham's notation covers equality of wholes or parts.
 
 ![[history-of-logic-notation-08.png]]
 
 
 ![[history-of-logic-notation-09.png]]
 
+## DeMorgan
+
+- DeMorgan uses parentheses, dot, colon, and juxtaposition to stand for various boolean algebra style relations.
+
+- DeMorgan uses CASE for negation, a behavior we also see mirrored in modern regular expressions (though obviously not by direct inheritance of the idea.)
+
+- DeMorgan also uses inverse notation for the converse of a statement.
+
+- DeMorgan great quote: "First, logic is the only science which has made no progress since the revival of letters; Second, logic is the only science that has produced no growth of symbols."
+
+- At this point we're in the mid 1800s, and we arrive at Boole, when things start to look more modern, though still very different in notation.
+
 
 ![[history-of-logic-notation-10.png]]
 
+## Boole
+
+0: In programming, when we use booleans, do you ever wonder "Why the last name?"
+
+1: Not following.
+
+0: Like usually we use last names before we get to know someone. But once we're on familiar terms, we switch to the first name. So at this point it should be the first.
+
+1: Still not following.
+
+0: This section's about George, of the Boole family, father of Booleans.
+
+1: IT'S A GUY?!
+
+0: Of course! Now I agree it's a bit silly to name the two basic truth values after "some guy." But it's a choice we're probably stuck with. And because of that, I'm a firm believer that the type of `True` and `False` should be `George`.
+
+1: Like `int x; george bool;`?
+
+0: Right, but remember to initialize your `george` before you use him or else he'll have undefined behavior.
+
+1: Is history always this absurd?
+
+0: Yes.
+
+- Boole is more systematic than anyone before him. He uses the + - \* and / of ordinary arithmetic but gives them new meanings.
+
+- Boole's choice of words makes it very clear that he's attempting to formalize thought itself, not some particular content domain.
+
+- He shows that if we make the analogy of "or" with plus and "and" with times, then the distributive laws of algebra hold for concepts. Just noticing this seemingly trivial thing is a big step in the history of logic!
+- The simple example of z(x+y) = zx + zy (where x is men, y is women, and z is European) is HUGE in that it shows the analogy of plus and times with "or" and "and" extends in at least some cases across linguistic categories! The z here is an adjective while the x and y are nouns, and the equality goes through just fine. In a sense that's obvious, because "European" here is just the noun phrase "European person," but at first glance it's a huge step toward the goal of formalizing the laws of thought.
+- He then says that double application of adjectives in his system is the same as single application, which seems to be the thing that leads to the idea that the variables in the system should only take the values 0 and 1, aka "Booleans."
+
+- "The equation x(1-x)=0 represents the principle of contradiction."
 
 ![[history-of-logic-notation-11.png]]
 
+## Why was this so hard?
+
+- MacFarlane 1879: The reason why Formal Logic has for so long been unable to cope with the subtlety of nature is that too much attention has been given to _pictorial notations._ Arithmetic could never be developed by means of the Roman system of notations; and Formal Logic cannot be developed so long as Barbara is represented by (holy shit insert picture wtf)... We cannot manipulate data so crudely expressed; because the nature of the symbols has not been investigated, and laws of manipulation derived from their general properties."
 
 ![[history-of-logic-notation-12.png]]
+
+
+## Peirce
+
+- Peirce has a totally wacky notation for e and pi, and ends up developing a "Logic of Relatives." 
+
+- Peirce: Absolute terms are in Roman font, Relative terms are in Italic, and Conjugate terms are in a type face called Madisonian (seeing a spiritual ancestor of APL and K here.)
+
+- Bertrand Russell said of Peirce "he was one of the most original minds of the later nineteenth century and certainly the greatest American thinker ever."
+
+> The contributions of C. S. Peirce to symbolic logic are more numerous and varied than those of any other writer—at least in the nineteenth century." For Peirce, logic also encompassed much of what is now called epistemology and the philosophy of science. He saw logic as the formal branch of semiotics or study of signs, of which he is a founder, which foreshadowed the debate among logical positivists and proponents of philosophy of language that dominated 20th-century Western philosophy. Peirce's study of signs also included a tripartite theory of predication.
+> 
+> -The Dynamic Read-Writable Free Encyclopedic Repository of the Modern State of Human Knowledge
+
+
+> Additionally, he defined the concept of abductive reasoning, as well as rigorously formulating mathematical induction and deductive reasoning. He was one of the founders of statistics. As early as 1886, he saw that logical operations could be carried out by electrical switching circuits. The same idea was used decades later to produce digital computers.
+> 
+ > -The Dynamic Read-Writable Free Encyclopedic Repository of the Modern State of Human Knowledge
+
+- Peirce: Include the bit from his Wikipedia page about the "negroes syllogism" that shows the confederate context he came from.
+
+- Need the "giver of a horse to a lover of a woman" example. It's too wacky and bizarre not to include.
 
 
 ![[history-of-logic-notation-13.png]]
@@ -123,71 +322,18 @@ Intersperse with the images below:
 
 ![[history-of-logic-notation-15.png]]
 
+## Frege
+
+- Frege's symbolism is called "repulsive" and it's said that he basically influenced nobody except Bertrand Russell.
+
+- Wonderful quote from Frege about how to convince oneself that no intuition has accidentally ended up in an argument. The original desire of mechanistic reasoning.
+
+- Frege's notation (or the history of logic notation section in general) is a perfect way to introduce the idea of the "Anti-Gist." There would be little value in trudging through every one of these books, but skimming a "best of" or "greatest hits" that _shows the technical details_ while giving less technical commentary is a much better way to summarize an entire era, subject, or author's writing style than simple describing the same things in the form of the standard "gist" in natural language.
+
+
+> _In symbolic logic we have elaborated an instrument and nothing for it to do._
+> - Schröder, an early logician
+
 
 ![[history-of-logic-notation-16.png]]
 
-
-![[history-of-logic-notation-17.png]]
-
-
-![[history-of-logic-notation-18.png]]
-
-
-![[history-of-logic-notation-19.png]]
-
-
-![[history-of-logic-notation-20.png]]
-
-
-![[history-of-logic-notation-21.png]]
-
-
-![[history-of-logic-notation-22.png]]
-
-
-![[history-of-logic-notation-23.png]]
-
-
-![[history-of-logic-notation-24.png]]
-
-
-![[history-of-logic-notation-25.png]]
-
-
-![[history-of-logic-notation-26.png]]
-
-
-![[history-of-logic-notation-27.png]]
-
-
-![[history-of-logic-notation-28.png]]
-
-
-![[history-of-logic-notation-29.png]]
-
-
-![[history-of-logic-notation-30.png]]
-
-
-![[history-of-logic-notation-31.png]]
-
-
-![[history-of-logic-notation-32.png]]
-
-
-![[history-of-logic-notation-33.png]]
-
-
-![[history-of-logic-notation-34.png]]
-
-
-![[history-of-logic-notation-35.png]]
-
-
-![[history-of-logic-notation-36.png]]
-
-
-![[history-of-logic-notation-37.png]]
-
-
-![[history-of-logic-notation-38.png]]

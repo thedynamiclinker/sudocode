@@ -1,4 +1,41 @@
-## In the Beginning was the Paper
+## Ex Scriptura
+### Or: In the Beginning was Paper
+### Or: The Formal Theory of Paper
+### Or: A study in making marks
+### Or: How to convince Gödel
+
+> Steve Kleene: Well as I say, I don't know how firmly convinced Gödel was that his General Recursive Functions represented all effectively calculable functions.
+>
+> Gerald Sacks: He seemed very skeptical.
+>
+> Steve Kleene: I think he was skeptical. And it may well be that Turing's presentation was what brought Gödel around.
+
+0: So Church comes up with Lambda Calculus. Gödel comes up with General Recursive Functions. Kleene proves the two systems are equivalent. And legend has it that when Gödel realized his system was equivalent to Church's Gödel says "Oh. Well then I guess mine was wrong."
+
+1: Did that actually happen?
+
+0: Not sure, but it's a good legend.
+
+1: So how does Turing fit in to this?
+
+0: Well Turing's work is what convinced Gödel.
+
+1: Convinced him of what?
+
+0: That the three of them had probably captured _all_ of computation in these definitions. 
+
+1: Damn, what year was this?
+
+0: 1936.
+
+1: That's insane.
+
+> Steve Kleene: We had done all this work before we heard of Turing. Turing's paper is also 1936. But a little later in 1936. But my impression is that Turing did it independently of knowing anything about what we were doing.
+
+0: Yeah so Turing is over in England. Born in 1912 in the Paddington part of London where that famous bear is from. By this point he's 24 years old. Still an undergraduate. He's not aware of any of this work from Church, he may have known about Gödel. And he comes out with this paper as a 24 year old college kid that ends up convincing Gödel.
+
+
+## The Beginning of the Paper
 
 ![[turing-1936-01.png]]
 
@@ -234,282 +271,12 @@ etc.
 
 0: This time we won't have blanks between the digits. Or bigits.
 
-
 ![[turing-1936-37.png]]
 
 0: Ok pause here for a second.
 
 1: What's up?
 
-0: Read that highlighed bit.
+0: Head over to this file with me.
 
-1: What about it?
-
-0: I mean that's a pretty wacky idea no?
-
-| One Char RAM   |     |     |     |     |     |     |     |     |     |     |
-| -------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Can be erased? | No  | Yes | No  | Yes | No  | Yes | No  | Yes | No  | Yes |
-| Paper Contents | 0   | L   | 1   | ד   | 0   | ్   | 1   | 根   | 1   | Ω   |
-| Paper Address  | 0   | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   |
-
-
-![[turing-1936-38.png]]
-
-
-![[turing-1936-39.png]]
-
-
-![[turing-1936-40.png]]
-
-
-![[turing-1936-41.png]]
-
-
-![[turing-1936-42.png]]
-
-
-![[turing-1936-43.png]]
-
-
-![[turing-1936-44.png]]
-
-
-![[turing-1936-45.png]]
-
-
-![[turing-1936-46.png]]
-
-
-![[turing-1936-47.png]]
-
-
-![[turing-1936-48.png]]
-
-
-![[turing-1936-49.png]]
-
-
-![[turing-1936-50.png]]
-
-Ok so back to Turing. He had this completely ridiculous and impractical idea of "single character RAM", and if you need more storage space you just "add more symbols" somehow. That ridiculous idea turns out to be pretty reasonable actually, but we'd have to wait over half a century before UTF-8 would be invented in order to be able to do something like that. And even if we could do Turing's idea, modern computers don't do that. They just write to some other location that isn't interleaved with our output bytes. But Turing's idea was really creative given the limited setup he was working with in the paper. So back to the paper.
-
-Next up, Turing invents shared libraries.
-
-Or functions. Same idea sort of.
-
-
-![[turing-1936-51.png]]
-
-
-![[turing-1936-52.png]]
-
-
-![[turing-1936-53.png]]
-
-
-![[turing-1936-54.png]]
-
-On page 7 with the "Functions that take machine states as inputs," 1 asks if this is like metaprogramming. 0 says it's just programming, because "machine states" are basically just variables in the address space.
-
-![[turing-1936-55.png]]
-
-
-![[turing-1936-56.png]]
-
-
-![[turing-1936-57.png]]
-
-
-![[turing-1936-58.png]]
-
-
-![[turing-1936-59.png]]
-
-
-![[turing-1936-60.png]]
-
-
-![[turing-1936-61.png]]
-
-
-![[turing-1936-62.png]]
-
-1: This Dungeons and Dragons alphabet is making it harder to read.
-
-0: Nah I think this example was just hard. Turing feels the same way. Here look:
-
-> The last example seems somewhat more difficult to interpret than most.
-> -Top of pg 8.
-
-![[turing-1936-63.png]]
-
-
-![[turing-1936-64.png]]
-
-
-![[turing-1936-65.png]]
-
-
-![[turing-1936-66.png]]
-
-
-![[turing-1936-67.png]]
-
-
-![[turing-1936-68.png]]
-
-
-![[turing-1936-69.png]]
-
-
-![[turing-1936-70.png]]
-
-
-![[turing-1936-71.png]]
-
-
-![[turing-1936-72.png]]
-
-
-![[turing-1936-73.png]]
-
-
-![[turing-1936-74.png]]
-
-
-![[turing-1936-75.png]]
-
-
-![[turing-1936-76.png]]
-
-
-![[turing-1936-77.png]]
-
-
-![[turing-1936-78.png]]
-
-
-![[turing-1936-79.png]]
-
-
-![[turing-1936-80.png]]
-
-
-![[turing-1936-81.png]]
-
-
-![[turing-1936-82.png]]
-
-
-![[turing-1936-83.png]]
-
-
-![[turing-1936-84.png]]
-
-
-![[turing-1936-85.png]]
-
-
-![[turing-1936-86.png]]
-
-
-![[turing-1936-87.png]]
-
-
-![[turing-1936-88.png]]
-
-
-![[turing-1936-89.png]]
-
-
-![[turing-1936-90.png]]
-
-
-![[turing-1936-91.png]]
-
-
-![[turing-1936-92.png]]
-
-
-![[turing-1936-93.png]]
-
-
-![[turing-1936-94.png]]
-
-
-![[turing-1936-95.png]]
-
-
-![[turing-1936-96.png]]
-
-
-![[turing-1936-97.png]]
-
-
-![[turing-1936-98.png]]
-
-1: He just said "his" for the computer.
-
-0: Yeah that was normal back then.
-
-1: What was normal?
-
-0: For computers to be humans. Here look, this is from Kleene's introduction to his chapter on Turing computability.
-
-(Insert IM screenshot here.)
-
-![[turing-1936-99.png]]
-
-
-![[turing-1936-100.png]]
-
-
-![[turing-1936-101.png]]
-
-
-![[turing-1936-102.png]]
-
-
-![[turing-1936-103.png]]
-
-
-![[turing-1936-104.png]]
-
-
-![[turing-1936-105.png]]
-
-
-![[turing-1936-106.png]]
-
-
-![[turing-1936-107.png]]
-
-
-![[turing-1936-108.png]]
-
-
-![[turing-1936-109.png]]
-
-
-![[turing-1936-110.png]]
-
-
-![[turing-1936-111.png]]
-
-
-![[turing-1936-112.png]]
-
-
-![[turing-1936-113.png]]
-
-
-![[turing-1936-114.png]]
-
-
-![[turing-1936-115.png]]
-
-
-![[turing-1936-116.png]]
-
-
+goto: [[2 - An Enumerable Infinity of Names]]

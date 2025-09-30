@@ -169,6 +169,6 @@
 >
 > Steve Kleene: Then Gödel arrived on the scene and---
 
-0: Ooh perfect. [[1 - Gödel Numbers|1 - Gödel Numbers]] time. Follow me.
+0: Ooh perfect. [[1 - Gödel in the Beginning|1 - Gödel in the Beginning]] time. Follow me.
 
 1: What abou---
