@@ -114,24 +114,28 @@ Progression of Symptoms:
 Stephen Simpson. Also users of Kleene Mostowski. Everything is Σ separation or Σ comprehension. Largely unnoticed by its peers due to where it's sitting.
 
 ## σ: Constructivists
-No justification for the choice of letter, except the modern slang definition of sigma, namely: "Unlike alphas who lead a group, sigmas are seen as standing at the top of the social pyramid but choosing to remain outside of it." Cousins of the mus and lambdas via the relationship with Kleene.
+This should probably be changed. No justification at present for the choice of letter, except the modern slang definition of sigma, namely: "Unlike alphas who lead a group, sigmas are seen as standing at the top of the social pyramid but choosing to remain outside of it." Cousins of the mus and lambdas via the relationship with Kleene and intuitionism.
 
 ## τ: General Relativity
 Tau stands for proper time.
 
-## υ: Scientific computing?
-U for University. Sitting squarely near physics and statistics part of the alphabet. This eventually becomes data science.
+## υ: TBD
+Merge the upsilons. Use the quote from Pythagoras.
+
 
 ## φ: Physics
-
+TODO: Describe.
 
 ## χ: Statistics and probability
+TODO: Describe.
 
 
 ## ψ: Scientific computing
+TODO: Describe.
 
 
-## ω: Set Theory, Model theory, Proof theory. Descended from Cantor and Gödel. ZFC and NBG live here. Culturally part of the Orthodocs. Was believed to be the foundations of mathematics for over a century, until recently losing ground to the lambdas.
+## ω: Standard Foundations
+Set Theory, Model theory, Proof theory. Descended from Cantor and Gödel. ZFC and NBG live here. Culturally part of the Orthodocs. Was believed to be the foundations of mathematics for over a century, until recently beginning to lose ground to computing as the mus and lambdas began to merge again for the first time in a century.
 
 ## Ω: Large Cardinals
 The most unhinged subculture. Somehow ended up in "foundations of mathematics." Ingests heroic doses of the most potent substances daily. Part of the orthodocs.
