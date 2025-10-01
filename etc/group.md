@@ -1,126 +1,133 @@
 
 ---
 
-TODO: Finally! The /etc/group dialogue!
+TODO: The current file is just an extremely skeletal table of contents.
 
-TODO: This comes immediately after the `/dev/zero` story in `lost+found/We`.
+TODO: This file frames the rest of the book by giving names to the various cultures in mathematics and computing that we'll refer to throughout the rest of the story, as we track how computing develops from 1937 (where we left off) until 20XY (the modern day.)
 
-TODO: This is where we define "The Lambdas" and "The Mus."
-
-TODO: Those two groups will be our focus, but in order to know who they are, we need to know who they're not.
-
-TODO: This file frames the rest of the book by giving names to the various cultures in mathematics and computing that we'll refer to throughout the rest of the story, as we track how computing develops from 1937 (where we left off) until 20XY (the modern day, specified in a timeless and abstract enough way that it's not entirely clear what year it is now.)
-
-TODO: Tl;dr: In this file, we learn about all the other cultures and tribes in mathematics and computing, where The Lambdas and The Mus fit in to that world, and how they're similar and different from each other.
-
-TODO: Explain every letter below in detail. The current stuff below this is just an extremely skeletal table of contents. Each letter will be a section with anywhere from a few sentences to several paragraphs of dialogue, depending on how important a given group will be in the story that follows.
+TODO: In this file, we learn about all the other cultures and tribes in mathematics and computing, where The Lambdas and The Mus fit in to that world, and how they're similar and different from each other.
 
 ---
 
-## The /etc/groups
+# The /etc/groups
 
-α: Algebra
+## α: Algebra
 
-β: (Not polite to call a group "the betas").
 
-γ: Geometry
+## β: Umm
 
-δ: Calculus
+0: It's not polite to call a group the betas.
 
-ε: Analysis
+## γ: Geometry
 
-ζ: Number theory (not just numbers). Named for Riemann Zeta function.
 
-η: The Catedral. The "Naturals." Category Theory. Completely incomprehensible. MacLane said we didn't invent category theory to study categories or functors, but natural transformations. Natural transformations are commonly denoted by η. Hence the name. 
+## δ: Calculus
+0: This includes differential and integral calculus in one variable, multiple variables, or infinitely many variables in the so-called calculus of variations. This culture is marked by its use of infinitesimals rather than the semi-formal methods of "analysis" popularized by Weierstrass, Dedekind, Cauchy, et al. This culture is found primarily in physics departments, though it is equally at home in applied mathematics.
 
-θ: Topology. The name is a bit of a racist joke since their field is known not to preserve angles. Also includes the Topos people due to cross pollination from the ηs.
+## ε: Analysis
 
-ι: The IO tās. Hardware people. Focused on making things small. "Not one iota."
+0: This includes real analysis, complex analysis, functional analysis, and any semi-formal approach to the subjects that began with Newton and Leibniz and which are now called Calculus. Distinguished by their use of ε-δ arguments.
 
-κ: Not sure this should be the K people. Need to fit business people somewhere. They don't quite fit here though. The letter K comes from Proto Sinaitic hand. Maybe these are the hands on / hardware people?
+## ζ: Number theory
+0: Don't be misled by the name. This field isn't just about numbers. In fact it barely even involves numbers at all these days, except perhaps a prime here and there. This group is named for the Riemann Zeta function. I won't elaborate further. Suffice it to say this group is culturally distinct in nearly every way from the "formal number theory" of first order arithmetic, commonly seen in foundational cultures.
 
-λ: Descendants of Church. McCarthy, Curry, Howard, Milner, ML, SPJ, Wadler, Haskell, eventually Lean.
+## η: The Catedral
 
-μ: Descendants of Godel & Turing. Machines, Moore's Law, practical computing, von Neumann architecture, eventually Unix, C, Python, and everything that runs the modern world.
+> "I didn't invent categories to study functors; I invented them to study natural transformations."
+> - Saunders MacLane
 
-ν: Artificial Intelligence. Cousin of λ & μ. Alternately neglected and overhyped. Subject to "winters." Appears in booms and busts, not due to the nature of the discipline, but due to the popular appeal of the idea which attracts non-technicals who are interested in anything new. Hence nu.
+0: Category Theory. Completely incomprehensible. MacLane said that he didn't invent category theory to study categories or even functors, but rather to study natural transformations. Natural transformations are commonly denoted by η. Hence the name. Often referred to as The Cathedral, The Catedral, The Caθedral, The Cat-holics, or various other harmless slurs. Members more commonly refer to themselves as "The Naturals," by the term "Abstract Nonsense," or simply by drawing diagrams.
 
-νega: Fictional Greek letter. Finance people. Not mathematics or computing.
+## θ: Topology
 
-β: The business school of languages is placed here, due to the similarity of pronunciation (the v phoneme) to the nonexistent letter vega, and also due to the proximity to finance, and the business/entrepreneurial class's preference for volatility, which is denoted by vega.
+0: The name is a bit of a slur since their field is known not to preserve angles. Also includes the Topos people due to cross pollination from the ηs.
 
-Ξ: Nobody knows what this is. Variously called the Xi, 11, 3, 三, and San. Appears to use all of Unicode. Found in the /boot directory and in kernel space.
+## ι: TBD
 
-ο: The omicrons. Security, cryptography, steganography, encode messages in sequences of o & ο.
 
-Ο: The big O-microns. Complexity theory people. Algorithms books. Adjacent to big Pi. Part of the orthodocs.
+## κ: TBD
 
-Π: The Pis. Computability theory people. Part of the orthodocs. Kleene Mostowski usage motivates the Pi.
 
-Ϻ: San. Deprecated.
+## λ: The Lambdas
+0: Descendants of Church. Latter day members include McCarthy, Curry, Howard, Milner, SPJ, and Wadler. Well known languages descend from the lambda calculus, and include Lisp, Scheme, ML, Haskell, Nix, and Lean. The last two of these examples, namely the Nix package manager and the Lean theorem prover represent a recent expansion of the lambda culture far beyond the small academic circles which they have historically inhabited since the early 1930s.
 
-Ϙ: Qoppa. Deprecated.
+## μ: The mus
+0: Descendants of Godel & Turing. Machines, Moore's Law, practical computing, von Neumann architecture, eventually Unix, C, Python, and everything that runs the modern world. Culturally distinct from the lambdas, though the two cultures share a common origin, and have been gradually recognizing their need for a return to a common culture in recent years. Examples include the increasing presence of lambda expressions in μ languages, and the increasing recognition of the need to minimize shared mutable state.
 
-ρ: "The Rows." Relational variant of the rectangle pseudo-culture. 
+## ν: Artificial Intelligence
+The nus. Cousins of λ & μ, the νs have been around since the beginning of computing, though they are a culturally separate people with distinct norms and traditions from the λs and μs, primarily due to the influence of the δs via backpropagation and the concept of "training" via the concept of gradient descent. The culture of the nus is has been shaped by repeated mass immigrations and emigrations of outsiders due to hype. The culture therefore consists of an unusual mixture of devoted intellectuals and distracted business types and assorted hype gremlins. In this sense it is not dissimilar from the culture found in cryptocurrency circles. Always focusing on the "new," the nus are the only culture in computing and mathematics known to undergo regular boom-bust cycles, known in the field as "AI winters." The existence of these boom-bust cycles is not due to the nature of the discipline itself, but rather due to the popular appeal of its core goals which has a tendency to attract non-technicals who are interested in anything "nu." Predictably, the non-technicals often grow bored and leave as quickly as they came. As a result, members have grown wary of any mention from outsiders that their field has become "over-hyped," and members were often heard in past eras to utter among themselves the phrase "winter is coming", as they prepared for the funding to dry up and the excitement to abate for another generation. Many believe that the final AI winter has now passed, though the elder members are split among themselves on this issue, both with regard to whether they believe this is in fact the case, and with regard to their individual "p doom" -- the probability each person assigns to the proposition that the accelerating advances in their field will literally lead to the collapse of civilization and/or the destruction of all human life.
 
-Σ: Reverse Mathematics. Stephen Simpson. Also users of Kleene Mostowski. Everything is Σ separation or Σ comprehension. Largely unnoticed by its peers due to where it's sitting.
+## νega: Finance
+The letter "vega" is a non-existent Greek letter, arising from Finance Bros seeing the letter "ν" (nu) used as a parameter to describe the volatility of stock options. This culture is neither part of mathematics nor computing, though the various other cultures described here have often been found working technical jobs in companies alongside the vegas.
 
-σ: Constructivists. No justification for the choice of letter, except the modern slang definition of sigma, namely: "Unlike alphas who lead a group, sigmas are seen as standing at the top of the social pyramid but choosing to remain outside of it." Cousins of the mus and lambdas via the relationship with Kleene.
+## Ξ
+Nobody knows what this is. Variously called the Xi, 11, 3, 三, and San. Appears to use all of Unicode. Found in the /boot directory and in kernel space.
 
-τ: General Relativity. Tau stands for proper time.
+## ο: The omicrons
+Security, cryptography, steganography, encode messages in sequences of o & ο.
 
-υ: Scientific computing? U for University. Sitting squarely near physics and statistics part of the alphabet. This eventually becomes data science.
+## Ο: The big-Omicrons
+The culture of Complexity theory and thick books on algorithms. Adjacent to big Pi. Part of the "orthodocs" or orthogonal-documents.
 
-φ: Physics
+## Π: The Pis
+The culture of Computability theory people. Part of the orthodocs. The name Π comes from the [Kleene Mostowski hierarchy](https://en.wikipedia.org/wiki/Arithmetical_hierarchy), in which the complexity of the first-order formula that describes a given set is related to its degree of unsolvability.
 
-χ: Statistics and probability people.
+## Ϻ: ???
+Deprecated Greek letter [San](https://en.wikipedia.org/wiki/San_(letter)), written Ϻ in uppercase and ϻ in lowercase, and pronounced S or Sh. Though San had become largely deprecated and fallen into disuse by the latter half of the 5th century BC, it is often found in abecedaria, particularly those recovered from churches. San became largely obsolete by the second half of the fifth century BC, when it was generally replaced by sigma. Represents no known culture or people in userspace. Despite this, it is often found in enumerations of the /etc/groups, for unknown reasons.
 
-ψ: Quantum Mechanics
+See [[abecedarium|/usr/share/dict/abecedarium]] for more details.
 
-ω: Set Theory, Model theory, Proof theory. Descended from Cantor and Gödel. ZFC and NBG live here. Culturally part of the Orthodocs. Was believed to be the foundations of mathematics for over a century, until recently losing ground to the lambdas.
+## Ϙ: ???
+Deprecated Greek letter Qoppa, written Ϙ in uppercase and ϙ in lowercase. Derived from Phoenician [qopf](https://en.wikipedia.org/wiki/Qoph) meaning "eye of needle." Represents no known culture or people in userspace. Despite this, it is often found in enumerations of the /etc/groups, for unknown reasons.
 
-Ω: Large Cardinals people. The most unhinged subculture. Somehow ended up in "foundations of mathematics." Ingests heroic doses daily. Part of the orthodocs.
+## ρ: "The Rows"
+Common name for the Rectangle pseudo-culture: A degenerate case of computing culture, it primarily affects non-developers aiming to accomplish some business or scientific goal.
+
+Initial symptoms of this disorder manifest as a set of _behaviors_, not as a set of explicitly stated beliefs. Such behaviors can be summarized by the phrase "Everything is a rectangle." In early stages of this disorder, every object one represents in any domain is represented as a row (less commonly a column) of attributes describing the object in question.
+
+Symptoms of intermediate severity commonly invove either proposing or actually implementing SQL databases of various forms in cases where a simple text file or directory thereof would be sufficient.
+
+As the disorder progresses, affected individuals often acquire a form of Stockholm Syndrome in which they develop explicit beliefs about the superiority of rectangles as a data structure for all or most problems in computing. In such cases, affected individuals are often found arguing for the superiority of "The Relational Model," "primary key," "foreign key," "that's just a join," or "Just use Postgres for everything."
+
+While object oriented programming may be described by the short-hand "Everything is a noun," and functional programming may be described by saying "Everything is a verb," the Rectangle pseudo-culture can be described only by the (never explicitly stated) belief that "Everything is an adjective."
+
+In other words, adjectives, not nouns or verbs, are taken to be primary in this situation. In the "data frame" variant of this disorder, adjectives (columns) often recieving names while the nouns that they belong to (rows) recieve no name, and are instead represented by integer indexes into the large rectangle in which they live.
+
+Areas known to be affected by the Rectangle pseudo-culture include:
+
+- In modern scientific computing: Matlab, R, Scilab.
+- In modern business computing: Excel, SQL.
+- In ancient scientific computing: Often found in academic uses of Fortran, and (in extreme cases) APL. 
+
+APL appears to be a hybrid between the highly intelligent and free-thinking culture of pre-1900s logic (extreme proliferation of symbols), and the lower intelligence more imitative cultures commonly affected by the rectangle disorder.
+
+Not all uses of rectangles.
 
 ---
 
-TODO: Need some letter for the constructivists. They'll be important when we get to the modern intuitionistic foundations as embodied in systems like HoTT and Lean.
+## Σ: Reverse Mathematics
 
----
+Stephen Simpson. Also users of Kleene Mostowski. Everything is Σ separation or Σ comprehension. Largely unnoticed by its peers due to where it's sitting.
 
-## /usr/share/man
+## σ: Constructivists
+No justification for the choice of letter, except the modern slang definition of sigma, namely: "Unlike alphas who lead a group, sigmas are seen as standing at the top of the social pyramid but choosing to remain outside of it." Cousins of the mus and lambdas via the relationship with Kleene.
 
-If it helps - The "begat" list - How to fast forward the story to 20XY
+## τ: General Relativity
+Tau stands for proper time.
 
-- [ ] Cantor: Shows vulnerability.
-- [ ] Russell: Exploits vulnerability.
-- [ ] Hilbert: Organizes bounty.
-- [ ] Trinity: Church, Göd, Martyr.
-- [ ] Apostles & Epistles:
-  - [ ] Steve Kleene (next to Gödeliness). Cleaned up Gödel's "first code ever written" and disseminated the Gödel and Turing senses of computation to the world. Original programmer in Lambda calculus under Church.
-  - [ ] John νon Neumann (Neumann János Lajos) the superhuman. Gave a definition of Ordinals that superseded Cantor's definition. Axiomatized Cantor's set theory for his PhD thesis. Studied under David Hilbert. Persistent self doubts, thought Gödel would be remembered with Pythagoras while he would be forgotten. Nobel Laureate Hans Bethe said "I have sometimes wondered whether a brain like von Neumann's does not indicate a species superior to that of man." Go to Accolades on Wikipedia page. Quote: von Neumann "was the first to have a vision of the boundless possibilities of computing, and he had the resolve to gather the considerable intellectual and engineering resources that led to the construction of the first large computer"
-- [ ] Trinity begets three spirits: λ, μ, ν.
+## υ: Scientific computing?
+U for University. Sitting squarely near physics and statistics part of the alphabet. This eventually becomes data science.
 
-- [ ] λ thread: Language, Large, Lisp.
-- [ ] Church & Steve influence McCarthy.
-- [ ] MacCarthy creates Lisp (λ, ν)
-- [ ] Lisp inspires ISWIM and ML. (λ)
-- [ ] ML inspires the Haskell group (λ)
-- [ ] Haskell group: Simon, Philip. John Backus as God. The New Testament of the lambda.
-- [ ] Coq, Idris, Agda: the theorem provers.
-- [ ] Finally: λμν merge in: Lean. The foundational people begin to reach the mathematicians. Mathlib is born. Kevin spreads the word to the normal mathematicians. Tao converted, begins to use @2 (ν) in Lean (λ) to explore pure mathematics founded on a non-human mind (μ).
+## φ: Physics
 
-- [ ] μ thread: Metal, Micro.
-- [ ] Göd & Martyr influence Von Neumann. Martyr is Turing with bits of Post and Gödel. Mental illness and madness mixed with brilliance.
-- [ ] ENIAC built in 1945. "However, instead of the stored-program computers that exist today, ENIAC was just a large collection of arithmetic machines, which originally had programs set up into the machine by a combination of plugboard wiring and three portable function tables (containing 1,200 ten-way switches each)."
-- [ ] Von Neumann meets Herman Goldstine, creator of ENIAC, in 1944. Writes " First Draft of a Report on the EDVAC." Builds IAS machine from 1946 to 1951. The μ family is now under way.
-- [ ] Unix thread and Ken live here.
-- [ ] Most of the book probably takes place here.
-- [ ] Finally: λμν merge in: Nix and Wnix. The classical μ system (Unix) meets the lambda school to become NixOS and combined with @2 creates Wnix.
 
-- [ ] ν thread: Neuro, New.
-- [ ] Began with Turing's paper on the Imitation game.
-- [ ] Led to McCullough and Pitts (Pitts was a logician). Pitts was an amazing character and should be covered. See personal life and death section of wikipedia page. He's clearly one of the Foundational People.
-- [ ] Rumelhart and McClelland PDP.
-- [ ] Geoff Hinton's 40 years in the desert.
-- [ ] Finally: λμν merge in: Unclear. We have the clear meeting of μ and ν with Alexnet, transformers, and GPT, once it becomes practical to run these programs on conventional machines with the addition of GPUs. Tensorflow is now moving in a more functional direction with Jax, but not sure how to make that timeless. To be continued.
+## χ: Statistics and probability
 
+
+## ψ: Scientific computing
+
+
+## ω: Set Theory, Model theory, Proof theory. Descended from Cantor and Gödel. ZFC and NBG live here. Culturally part of the Orthodocs. Was believed to be the foundations of mathematics for over a century, until recently losing ground to the lambdas.
+
+## Ω: Large Cardinals
+The most unhinged subculture. Somehow ended up in "foundations of mathematics." Ingests heroic doses of the most potent substances daily. Part of the orthodocs.

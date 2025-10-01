@@ -5,6 +5,18 @@ Tl;dr:
 - Book proposal soon.
 - Just need to submit the bash bugfix.
 
+## Turing
+
+- Turing's definition of computation is not inherently a "machine" any more than Church or Gödel's. But there is an important sense in which it's more fundamental than the others.
+- Turing's definition of computation is quite literally just a finite number of case statements and three system calls: read, write, and move.
+- read takes no arguments.
+- write takes any single character as an argument.
+- move takes a 1 bit argument that says whether to move left or right.
+- Turing writes these as:
+- write: P0 writes 0, P1 writes 1, Px writes x, E writes a blank aka erases the square. Maybe this is a different system call.
+- move: L moves left 1. R moves right 1.
+- read: Turing doesn't express the read system call as code. The read is assumed to happen automatically, and be provided in a "machine register" of sorts that he calls the current symbol.
+
 ## lost+found
 
 - [ ] Finish lost+found. It doesn't need to be perfect. We're close enough to satisfying the 2D constraints that I think it's worth sticking with it. The "corruption" analogy seems to work well as an excuse to make that directory a bit anarchic. Anything that's unclear after lost+found should be clarified with a commentary on it in `/lib/tor.a` or `/usr/share/doc/tor.a`
@@ -58,11 +70,50 @@ Tl;dr:
 - [ ] /usr/share/dict: The ⟂-docs: Pronounced "Orthodox." The orthogonal documents. Refers to theoretical computer science, primary computability and complexity as elaborated in the decades since the lambdas and the mus split. Though it appears on the surface to be the same culture, it is mostly orthogonal to the history of our people.
 - [ ] /var/lib/rectangles: At some point, in the course of explaining the /etc/groups, we visit a relational database as a location in the filesystem and be like "this is a fucking abomination."
 - [ ] Make this point somewhere: The "ALU" field -- formal logic and formal arithmetic -- is unique among all technical fields in that it requires no outside prerequisites in order to understand the advanced results in the field and to read the original papers. To be sure, these original papers are often extremely technical, much more technical than most advanced mathematics, but they are far more precise and self-contained than standard mathematics. They typically do not assume the reader has a large amount of background provided elsewhere. The exceptions that prove the rule are confined mostly to informal or semi-formal set theory as found in for example Jech (Set Theory) and Kanamori (The Higher Infinite). Reading Jech feels as if one is reading a normal mathematics book that happens to be about sets. Reading Kanamori feels like one is reading an academic paper or series of them that mixes history with definitions and results that are very hard to understand the motivation of without "culture provided elsewhere." The ALU field is different. It's content is quite literally the arithmetic one learns in kindergarten, and the logic one barely has to be taught. Starting from these intuitive primitives, the subject creates formal languages designed to capture these most basic of notions, and this process is open to readers with no background whatsoever in the field. This is less true for monographs on model theory and proof theory, and it becomes less true for post-Kleene 1952 books on computability and eventually complexity, which often manage to read more like standard mathematics than like foundations. Nevertheless, the ALU field provides foundations in the realest sense of the word. It is the historical origin, the cultural origin, and the logical/technical/formal origin story of the field we now call computing. And its most technical results can be appreciated, with some work, by anyone who regularly reads or writes code in any language.
+- [ ] Realization: The first law of mathematics: Semantics beats Syntax. Symbols aren't special. All mathematically meaningful quantities are invariant up to isomorphism, and isomorphism means renaming. The first law of foundations: Syntax beats Semantics. Any interpretation of the symbols is equally permissible, provided it's consistent with the syntax. Model theory results from this. This is not as diametrically opposed to the above law mathematics as it seems, but they are distinct approaches.
 - [ ] When theres nothing left to take away.
 
 - [ ] Put these "document fragments" somewhere or reimplement them in Excalidraw.
 
 ![[lost-and-foundations.jpg]]
+
+
+## begat list
+
+If it helps - The "begat" list - How to fast forward the story to 20XY
+
+- [ ] Cantor: Shows vulnerability.
+- [ ] Russell: Exploits vulnerability.
+- [ ] Hilbert: Organizes bounty.
+- [ ] Trinity: Church, Göd, Martyr.
+- [ ] Apostles & Epistles:
+  - [ ] Steve Kleene (next to Gödeliness). Cleaned up Gödel's "first code ever written" and disseminated the Gödel and Turing senses of computation to the world. Original programmer in Lambda calculus under Church.
+  - [ ] John νon Neumann (Neumann János Lajos) the superhuman. Gave a definition of Ordinals that superseded Cantor's definition. Axiomatized Cantor's set theory for his PhD thesis. Studied under David Hilbert. Persistent self doubts, thought Gödel would be remembered with Pythagoras while he would be forgotten. Nobel Laureate Hans Bethe said "I have sometimes wondered whether a brain like von Neumann's does not indicate a species superior to that of man." Go to Accolades on Wikipedia page. Quote: von Neumann "was the first to have a vision of the boundless possibilities of computing, and he had the resolve to gather the considerable intellectual and engineering resources that led to the construction of the first large computer"
+- [ ] Trinity begets three spirits: λ, μ, ν.
+
+- [ ] λ thread: Language, Large, Lisp.
+- [ ] Church & Steve influence McCarthy.
+- [ ] MacCarthy creates Lisp (λ, ν)
+- [ ] Lisp inspires ISWIM and ML. (λ)
+- [ ] ML inspires the Haskell group (λ)
+- [ ] Haskell group: Simon, Philip. John Backus as God. The New Testament of the lambda.
+- [ ] Coq, Idris, Agda: the theorem provers.
+- [ ] Finally: λμν merge in: Lean. The foundational people begin to reach the mathematicians. Mathlib is born. Kevin spreads the word to the normal mathematicians. Tao converted, begins to use @2 (ν) in Lean (λ) to explore pure mathematics founded on a non-human mind (μ).
+
+- [ ] μ thread: Metal, Micro.
+- [ ] Göd & Martyr influence Von Neumann. Martyr is Turing with bits of Post and Gödel. Mental illness and madness mixed with brilliance.
+- [ ] ENIAC built in 1945. "However, instead of the stored-program computers that exist today, ENIAC was just a large collection of arithmetic machines, which originally had programs set up into the machine by a combination of plugboard wiring and three portable function tables (containing 1,200 ten-way switches each)."
+- [ ] Von Neumann meets Herman Goldstine, creator of ENIAC, in 1944. Writes " First Draft of a Report on the EDVAC." Builds IAS machine from 1946 to 1951. The μ family is now under way.
+- [ ] Unix thread and Ken live here.
+- [ ] Most of the book probably takes place here.
+- [ ] Finally: λμν merge in: Nix and Wnix. The classical μ system (Unix) meets the lambda school to become NixOS and combined with @2 creates Wnix.
+
+- [ ] ν thread: Neuro, New.
+- [ ] Began with Turing's paper on the Imitation game.
+- [ ] Led to McCullough and Pitts (Pitts was a logician). Pitts was an amazing character and should be covered. See personal life and death section of wikipedia page. He's clearly one of the Foundational People.
+- [ ] Rumelhart and McClelland PDP.
+- [ ] Geoff Hinton's 40 years in the desert.
+- [ ] Finally: λμν merge in: Unclear. We have the clear meeting of μ and ν with Alexnet, transformers, and GPT, once it becomes practical to run these programs on conventional machines with the addition of GPUs. Tensorflow is now moving in a more functional direction with Jax, but not sure how to make that timeless. To be continued.
 
 
 ## shave and a haircut - two bits
@@ -72,6 +123,12 @@ Tl;dr:
 - Need to have 1 make this joke somewhere and 0 doesn't get it.
 - Have 1 knock on the door of some directory in this pattern.
 
+
+---
+
+## Mathematics vs Foundations
+
+The mathematicians are puzzle people. That's not fair, that also have theory builders which are a form of foundational people who are also very much mathematicians. But we're not that. Since the beginning, our people have been focused on studying, formalizing, automating thought. We've been focused not on groups or rings or fields or Banach spaces or simplicial homology but on _the mind._ Some have gravitated more toward the brain as hardware, others have been drawn to the computational structure of the emotions and motivations, others to the formalization of the more precise forms of reasoning that the mind is capable of and how to abstract them and pull them out of the mind and into the printed word or into the operations of a physical machine. But this culture is and always has been a distinct culture from mathematics. We are not puzzle solvers, though we solve many. We are not focused primarily on any content domain except that domain that is the mind and all of its operations and capabilities. From ancient greek logic to modern artificial intelligence, there is one type of mind that has been drawn to these field for the same reasons throughout time. The foundational people. And our object of study is every operation of the mind. From mundane tasks at unremarkable programming jobs to the purest and most exalted examples of our field, from Church Gödel Turing to the modern transformer architecture, we have always looked inward and fought to pull that which is inside of us out. Every truth inside us, every computation, every emotion, that is the internal that we seek to make external. From our tendency to metacommentary to the most formal logical systems, we are the children of the mind. The mind is our foundation. And all the methods by which the mind might be pulled out of the brain and transpiled in whole or in part onto the media of paper or machines is the reality we want to understand. What is this thing inside of ourselves and inside the people we love? Humanity, the mind, and people, is our foundation. And we are the foundational people.
 
 ---
 

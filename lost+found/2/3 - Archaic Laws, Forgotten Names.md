@@ -188,6 +188,9 @@ _(Narrator: Lights flash and music plays for like two seconds before zero procee
 
 ## Leibniz
 
+> _It is unworthy of excellent men to lose hours like slaves in the labour of calculation which could safely be relegated to anyone else if machines were used._
+> - Leibniz, Machina Arithmetica, 1685.
+
 - Leibniz's "Something like primes" idea where he tries to represent atomic concepts by prime numbers, composite concepts by composite numbers, and universal quantification by divisibility.
 - Leibniz then goes on to use Cartesian notation to invent something vaguely like Boolean algebra with different notation.
 
