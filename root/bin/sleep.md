@@ -95,3 +95,8 @@
 0: _(Smiling)_ Y'know you sound like me when I was you---
 
 1: Yes yes Zero now stop talking and let's so it.
+
+---
+
+TODO: Finish this when you're less sick.
+TODO: Have 0 and 1 decide to call the group wheel. Mention decoder rings, Y (upsilon) quote from Pythagoras, and how Y has many sounds in different languages and came from waw. They each choose a char to represent them in the secret group.

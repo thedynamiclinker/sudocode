@@ -52,11 +52,4 @@ Copyright info: https://turingarchive.kings.cam.ac.uk/copyright-and-terms-use
 > Alan
 
 
----
-
-TODO: Finish this bit off and pop the stack back to Godel, and wrap up that story.
-
----
-
-
 goto: [[lost+found/4/4|4]]

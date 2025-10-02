@@ -239,7 +239,7 @@ _(Narrator: echo mem > /sys/power/state)_
 [97590.896761] Freezing user space processes
 [97590.898858] Freezing user space processes completed (elapsed 0.002 seconds)
 [97590.898868] OOM killer disabled.
-[97590.89990] process './just' started with executable stack
+[97590.899900] process './just' started with executable stack
 [97590.898870] Freezing remaining freezable tasks
 [97590.900481] Freezing remaining freezable tasks completed (elapsed 0.001 secs)
 [97590.900484] sd 0:0:0:0: [zero] Attached historical disk

@@ -281,7 +281,6 @@
 
 ## Lonely, Seeking Relations
 
-
 0: They're lost logicians.
 
 1: What?!
@@ -345,7 +344,7 @@ _(Narrator: 1 swallows the capsule.)_
 
 0: Wait for the medicine to kick in.
 
-1: How long with that---
+1: How long will that---
 
 0: As long as it takes...
 

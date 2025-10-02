@@ -59,7 +59,6 @@
 ## Or: Root 二
 ## Or: √er
 ## Or: Sqrt er
-## Or: 💦
 
 ### Or: Questionable Derivations
 

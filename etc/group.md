@@ -15,7 +15,6 @@ TODO: In this file, we learn about all the other cultures and tribes in mathemat
 
 
 ## β: Umm
-
 0: It's not polite to call a group the betas.
 
 ## γ: Geometry
@@ -25,7 +24,6 @@ TODO: In this file, we learn about all the other cultures and tribes in mathemat
 0: This includes differential and integral calculus in one variable, multiple variables, or infinitely many variables in the so-called calculus of variations. This culture is marked by its use of infinitesimals rather than the semi-formal methods of "analysis" popularized by Weierstrass, Dedekind, Cauchy, et al. This culture is found primarily in physics departments, though it is equally at home in applied mathematics.
 
 ## ε: Analysis
-
 0: This includes real analysis, complex analysis, functional analysis, and any semi-formal approach to the subjects that began with Newton and Leibniz and which are now called Calculus. Distinguished by their use of ε-δ arguments.
 
 ## ζ: Number theory
@@ -39,7 +37,6 @@ TODO: In this file, we learn about all the other cultures and tribes in mathemat
 0: Category Theory. Completely incomprehensible. MacLane said that he didn't invent category theory to study categories or even functors, but rather to study natural transformations. Natural transformations are commonly denoted by η. Hence the name. Often referred to as The Cathedral, The Catedral, The Caθedral, The Cat-holics, or various other harmless slurs. Members more commonly refer to themselves as "The Naturals," by the term "Abstract Nonsense," or simply by drawing diagrams.
 
 ## θ: Topology
-
 0: The name is a bit of a slur since their field is known not to preserve angles. Also includes the Topos people due to cross pollination from the ηs.
 
 ## ι: TBD
@@ -55,7 +52,7 @@ TODO: In this file, we learn about all the other cultures and tribes in mathemat
 0: Descendants of Godel & Turing. Machines, Moore's Law, practical computing, von Neumann architecture, eventually Unix, C, Python, and everything that runs the modern world. Culturally distinct from the lambdas, though the two cultures share a common origin, and have been gradually recognizing their need for a return to a common culture in recent years. Examples include the increasing presence of lambda expressions in μ languages, and the increasing recognition of the need to minimize shared mutable state.
 
 ## ν: Artificial Intelligence
-The nus. Cousins of λ & μ, the νs have been around since the beginning of computing, though they are a culturally separate people with distinct norms and traditions from the λs and μs, primarily due to the influence of the δs via backpropagation and the concept of "training" via the concept of gradient descent. The culture of the nus is has been shaped by repeated mass immigrations and emigrations of outsiders due to hype. The culture therefore consists of an unusual mixture of devoted intellectuals and distracted business types and assorted hype gremlins. In this sense it is not dissimilar from the culture found in cryptocurrency circles. Always focusing on the "new," the nus are the only culture in computing and mathematics known to undergo regular boom-bust cycles, known in the field as "AI winters." The existence of these boom-bust cycles is not due to the nature of the discipline itself, but rather due to the popular appeal of its core goals which has a tendency to attract non-technicals who are interested in anything "nu." Predictably, the non-technicals often grow bored and leave as quickly as they came. As a result, members have grown wary of any mention from outsiders that their field has become "over-hyped," and members were often heard in past eras to utter among themselves the phrase "winter is coming", as they prepared for the funding to dry up and the excitement to abate for another generation. Many believe that the final AI winter has now passed, though the elder members are split among themselves on this issue, both with regard to whether they believe this is in fact the case, and with regard to their individual "p doom" -- the probability each person assigns to the proposition that the accelerating advances in their field will literally lead to the collapse of civilization and/or the destruction of all human life.
+The nus. Cousins of λ & μ, the νs have been around since the beginning of computing, though they are a culturally separate people with distinct norms and traditions from the λs and μs, primarily due to the influence of the δs via backpropagation and the concept of "training" via the concept of gradient descent. The culture of the nus has been shaped by repeated mass immigrations and emigrations of outsiders due to hype. The culture therefore consists of an unusual mixture of devoted intellectuals and distracted business types and assorted hype gremlins. In this sense it is not dissimilar from the culture found in cryptocurrency circles. Always focusing on the "new," the nus are the only culture in computing and mathematics known to undergo regular boom-bust cycles, known in the field as "AI winters." The existence of these boom-bust cycles is not due to the nature of the discipline itself, but rather due to the popular appeal of its core goals which has a tendency to attract non-technicals who are interested in anything "nu." Predictably, the non-technicals often grow bored and leave as quickly as they came. As a result, members have grown wary of any mention from outsiders that their field has become "over-hyped," and members were often heard in past eras to utter among themselves the phrase "winter is coming", as they prepared for the funding to dry up and the excitement to abate for another generation. Many believe that the final AI winter has now passed, though the elder members are split among themselves on this issue, both with regard to whether they believe this is in fact the case, and with regard to their individual "p doom" -- the probability each person assigns to the proposition that the accelerating advances in their field will literally lead to the collapse of civilization and/or the destruction of all human life.
 
 ## νega: Finance
 The letter "vega" is a non-existent Greek letter, arising from Finance Bros seeing the letter "ν" (nu) used as a parameter to describe the volatility of stock options. This culture is neither part of mathematics nor computing, though the various other cultures described here have often been found working technical jobs in companies alongside the vegas.

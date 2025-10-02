@@ -4,9 +4,9 @@
 
 ![[aristotle-organon.jpg|300]]
 
-0: With Aristotle in the Orga---
+0: With Aristotle in the ORGA---
 
-1: NO. We're not starting with Aristotle.
+1: NO. No way we're starting with Aristotle.
 
 0: Just teasing.
 
@@ -65,7 +65,7 @@
 
 1: I can't imagine what that's like.
 
-0: But that's the backdrop against which the remainder of this file occurs. The history of logic has one of the strangest histories of any field. The people involved didn't build one each other's work for most of the field's history, and until somewhere between 1900 and 1930, "doing logic" meant "constructing an entirely new system to capture "all mental activity" or "all reasoning" or at least a large part thereof -- from scratch -- using new symbols and new notations no one had ever seen before. In short, in these situations, it's important to be...
+0: But that's the backdrop against which the remainder of this file occurs. The history of logic has one of the strangest histories of any field. The people involved didn't build on each other's work for most of the field's history, and until somewhere between 1900 and 1930, "doing logic" meant "constructing an entirely new system to capture "all mental activity" or "all reasoning" or at least a large part thereof -- from scratch -- using new symbols and new notations no one had ever seen before. In short, in these situations, it's important to be...
 
 1: What?
 
@@ -109,9 +109,7 @@ Nevertheless, the Creation Story is a pragmatic necessity. If history is a Taylo
 
 ---
 
-0: 
-
-Therefore, in this file, we will sketch the prehistory of the field that became computing, to make the case that a proper Creation Story is the right solution to the problems at hand. What follows is a brief prehistory of the field, which will be rounded to zero and treated as nonexistent in the creation story that follows.
+0: Therefore, in this file, we will sketch the prehistory of the field that became computing, to make the case that a proper Creation Story is the right solution to the problems at hand. What follows is a brief prehistory of the field, which will be rounded to zero and treated as nonexistent in the creation story that follows.
 
 ---
 
@@ -137,7 +135,7 @@ Therefore, in this file, we will sketch the prehistory of the field that became 
 
 1: What's premathematics again?
 
-0: Everything that doesn't show up in the books. Everything you do _before_ you figure out what the right definitions are that'll lead to the theory you end up develping. And how you ended up at the definitions you eventually chose rather than all the others. Logic has a harder problem than any other field when it comes to premathematics. When you create a notation for geometry, number theory, or calculus, you only need it to be powerful enough to talk about those areas.  Creating a notation for logic, however, needs to decide on a notation and a set of basic definitions for the formalization of potentially _all of thought._ Or if you choose to focus only on a subset of thought, then you've got an equally hard problem of deciding up front which parts to exclude and include. You see this difficulty throughout the history of logic, especially in the history of attempts to develop a notation for something like the field that eventually became logic.
+0: Everything that doesn't show up in the books. Everything you do _before_ you figure out what the right definitions are that'll lead to the theory you end up developing. And how you ended up at the definitions you eventually chose rather than all the others. Logic has a harder problem than any other field when it comes to premathematics. When you create a notation for geometry, number theory, or calculus, you only need it to be powerful enough to talk about those areas. Creating a notation for logic, however, needs to decide on a notation and a set of basic definitions for the formalization of potentially _all of thought._ Or if you choose to focus only on a subset of thought, then you've got an equally hard problem of deciding up front which parts to exclude and include. You see this difficulty throughout the history of logic, especially in the history of attempts to develop a notation for something like the field that eventually became logic.
 
 This is why it shouldn't be surprising in retrospect to see how long it took for formal logic to get started as a field. Logic was an extremely late comer to mathematics, notwithstanding Aristotle or semi-formal systems like Euclid which involved some embedded reasoning about a specific content domain. The history of mathematics is littered with the bones of all sorts of mathematicians who tried and failed to develop a general system of logic.
 
@@ -281,7 +279,9 @@ _(Narrator: Lights flash and music plays for like two seconds before zero procee
 - Boole's choice of words makes it very clear that he's attempting to formalize thought itself, not some particular content domain.
 
 - He shows that if we make the analogy of "or" with plus and "and" with times, then the distributive laws of algebra hold for concepts. Just noticing this seemingly trivial thing is a big step in the history of logic!
+
 - The simple example of z(x+y) = zx + zy (where x is men, y is women, and z is European) is HUGE in that it shows the analogy of plus and times with "or" and "and" extends in at least some cases across linguistic categories! The z here is an adjective while the x and y are nouns, and the equality goes through just fine. In a sense that's obvious, because "European" here is just the noun phrase "European person," but at first glance it's a huge step toward the goal of formalizing the laws of thought.
+
 - He then says that double application of adjectives in his system is the same as single application, which seems to be the thing that leads to the idea that the variables in the system should only take the values 0 and 1, aka "Booleans."
 
 - "The equation x(1-x)=0 represents the principle of contradiction."

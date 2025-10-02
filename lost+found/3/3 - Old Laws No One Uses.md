@@ -22,7 +22,7 @@
 
 1: What?!
 
-0: That's the point. No one within mathematics really "likes" ZFC. Even set theorists who chose axiomatic set theory as their favorite area to focus on.  Now to be fair, that book isn't entirely about ZFC. But a third of it is devoted to set theory and "standard foundations," and the guy who wrote this part is a super competent logician. Intensely smart guy named Jeff Hirst. Not intending to single out the author. This is just sort of how ZFC is viewed. That "paradise" is pretty clearly the "paradise Cantor created" that David Hilbert's always quoted talking about. That's informal set theory, the kind that uses standard mathematical reasoning and eventually leads to paradoxes. And "these Hell torments" are axiomatic set theory.
+0: That's the point. No one within mathematics really "likes" ZFC. Even set theorists who chose axiomatic set theory as their favorite area to focus on. Now to be fair, that book isn't entirely about ZFC. But a third of it is devoted to set theory and "standard foundations," and the guy who wrote this part is a super competent logician. Intensely smart guy named Jeff Hirst. Not intending to single out the author. This is just sort of how ZFC is viewed. That "paradise" is pretty clearly the "paradise Cantor created" that David Hilbert's always quoted talking about. That's informal set theory, the kind that uses standard mathematical reasoning and eventually leads to paradoxes. And "these Hell torments" are axiomatic set theory.
 
 1: And this is a book _about axiomatic set theory?_
 
@@ -106,7 +106,7 @@
 
 1: Yeah! I mean if that "hell code" book was the easy one, I can't imagine what the one for "readers with a frighteningly technical bent" is like. Makes me want to read it. Who's Kleene?
 
-0: Church's best student.
+0: Church's #1 student.
 
 1: No way!
 

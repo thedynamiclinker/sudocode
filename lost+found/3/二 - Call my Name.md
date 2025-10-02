@@ -104,11 +104,9 @@
 
 ![[church-says-kleene-kleene-kleene-24.png]]
 
-
 1: This is getting ridiculous.
 
 ![[church-says-kleene-kleene-kleene-26.png]]
-
 
 1: I don't even know what he's talking about but this makes me want to read Kleene.
 
