@@ -11,5 +11,9 @@ end = 12:00
 start = 12:00
 end = 14:00
 
+### Someone asks about x-1 and Dabeaz mentions that it's a tricky idea
+start = 57:09
+end = 57:30
+
 
 
