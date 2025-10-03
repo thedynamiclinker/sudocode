@@ -1,10 +1,51 @@
-
-## Callable Numbers
+## Church's Numbers
 
 ### Or: 0 is a two argument function
 ### Or: 1 is a two argument function
 ### Or: True is a two argument function
-### Or: What on earth?
+### Or: False is a two argument function
+### Or: If is a three argument function
+### Or: Plus One is a three argument function
+### Or: Minus One may be impossible
+### Or: What the hell is going on?
+### Or: What was Church thinking?
+
+---
+
+TODO: By the end of this file, 1 should think lambda calculus is insane.
+TODO: Just show the definitions here and don't explain them.
+TODO: Do this until 1 is convinced the lambda calculus is an abomination.
+TODO: Then in the next file, start over from scratch.
+TODO: In the next file, by actually _using_ it, 1 finally understands lambda calculus.
+TODO: Then at the end of the next file, Kleene takes us to Godel.
+
+---
+
+0: Ok before we cover Church's language in detail, I need to warn you. It's pretty weird.
+
+1: Weird how?
+
+0: It's pretty bare bones.
+
+1: How so?
+
+0: It doesn't have most of the things you're used to.
+
+1: Such as?
+
+0: No numbers.
+
+1: No numbers?
+
+0: No booleans.
+
+1: No booleans!?
+
+0: No if.
+
+1: No if!?!?
+
+0: I mean it has numbers and booleans. It also has if and everything else you could want. Just not at first. We have to implement those things ourselves. Starting from functions.
 
 1: What on earth would motivate a person to make a language where numbers and booleans have to be implemented from functions?
 
@@ -147,4 +188,29 @@ $$\circ \circ \circ$$
 
 1: How do you know?
 
-goto: [[5 - Second Giving of the Laws of Calls]]
+0: From Steve.
+
+---
+
+TODO: Clean this up.
+
+TODO: 6:50. Church didn't think it would be possible to implement predecessor in lambda calculus. Kleene realizing how to implement predecessor at the dentist.
+
+TODO: 7:15.
+> Steve Kleene: So there was no idea at the beginning that this was going to be all effectively calculable functions.
+
+TODO: 7:30.
+> Steve Kleene: I kept taking it as a challenge and everything I tried I could work.
+
+> Steve Kleene: It was an unexpected fallout that this could represent all effectively calculable functions.
+
+> Steve Kleene: The basic work was done between January 1932 and the next 5 or 6 months.
+
+> Steve Kleene: Everything I tried, every kind of function I tried to define, every kind of effective operation that I tried to parallel by lambda definability, I probably knocked off within the first 5 months.
+
+> Steve Kleene: For us the first concept of lambda definability was after the fact, after having formulated the notion of lambda definable functions as simply the ones for which you could find formulas in this symbolism. And discovering that everything you thought of that you wanted to prove lambda definable you could!... But it was Church, I have to give the credit to Church, I can't take it myself, he said "Y'know, don't you think maybe we've really got ALL the effectively calculable functions?"
+
+---
+
+
+goto: [[5 - Church's Language]]

@@ -1,3 +1,10 @@
+## Church's Language
+
+### Or: The pre-mathematics of lambda calculus
+### Or: What Church was thinking
+
+
+---
 
 TODO: Rewrite "The Little Lamb" raw materials from scratch, in 0 and 1's proper voices.
 TODO: Teach it to Ra on paper and add in any confusions that come up.

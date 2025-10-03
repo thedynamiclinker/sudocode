@@ -1,5 +1,5 @@
-## Let there be Calls
-### Or: Calls Calls Calls
+## Church's beginning
+### Or: Let there be Calls
 ### Or: Numbers are calls
 ### Or: Booleans are calls
 ### Or: No names allowed
@@ -165,10 +165,18 @@ As a child, during that earliest stage of life when we're looking around the wor
 
 1: What did he do?
 
-0: Lots of stuff. But you can't really understand what Church did without Steve.
+0: Well he started with standard foundations.
 
-1: Who's Steve?
+1: I don't think I even know what "standard foundations" is.
 
-0: Church's #1 grad student. Here listen.
+0: Ok, to appreciate the rest of where we're heading, we should probably do at least a drive by.
 
-goto: [[2 - Called by No Name]]
+1: A drive by of what?
+
+0: The other Church's Thesis.
+
+1: The other Church's Thesis?
+
+0: Yep, follow me.
+
+goto: [[2 - Church's Thesis (Not that one)]]

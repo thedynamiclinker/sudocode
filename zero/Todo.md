@@ -5,6 +5,11 @@ Tl;dr:
 - Book proposal soon.
 - Just need to submit the bash bugfix.
 
+## Church
+- [ ] Import video notes from what is mathematics vault.
+- [ ] Rewrite "The Little Lambda" from scratch.
+- [ ] Friedman 1997 "The Formalization of Mathematics" actually belongs here. After Hirst, say Hirst's advisor was Friedman, and cover the opening of The Formalization of Mathematics. In this paper, he lays out the problem with current foundations, and describes what we need instead. Everything he describes sounds exactly like what Lean started to become around 20-25 years later. But at this point, don't mention that. At this point, just mention that Hirst's advisors were Friedman and Simpson, and both Friedman's and Simpson's advisor was Gerald Sacks, whose advisor was Rosser, whose advisor was Church. Here we can see Sacks talking to Kleene about Church.
+- [ ] Kleene Rosser paradox ALSO showed that Haskell Curry's combinatory logic from 1930 was inconsistent! The lambdas definitely have more severe bugs while they're getting up and running, but fewer as they mature. Curry simplified this paradox in 1942, and it has also been called Löb's paradox.
 
 ## Turing
 
@@ -41,26 +46,31 @@ Tl;dr:
 - [ ] In this file, make it clear that lost+found was our first attempt at the lost art of bible authorship.
 
 
-- [ ] Harvey Friedman "formalization-of-mathematics.pdf" needs a chapter SO BAD that I think it maybe matters more than anything else in the book. This is a revolution larger than Gödel that has been entirely ignored because people don't notice things when they matter. People notice things when noticing them makes their life better somehow. We'd like to clarify that this isn't a criticism and we remain agnostic about the "somehow." But people noticed Gödel because it made their lives better, and people haven't noticed Friedman because it doesn't. But he loves mathematics, at least as much as Gödel. He's more extroverted than Gödel in none of the obnoxious ways and all the positive ways. And he's completely not a public figure in any way, even though he's an incredible teacher. In other words there's a man who falls into all the cracks that allow a person to be maximally valuable to history while being minimally noticed. So fuck that shit. He gets a chapter in the bible. Several probably. Because he matters more than docker or postgresql or any of the retarded shit we in computing focus on. So here's Harvey. He belongs in our history. He's already made a place for himself in some history. But it's the history of foundations of mathematics, and nobody pays attention to foundations of mathematics these days, because we live in a fallen world and everything we love is r\*\*\*\*\*ed. Here's Harvey. (Begin commentary on "The Formalization of Mathematics." Take the screenshots on your phone. It's a masterpiece, all in monospace, and it looks better in phone format. Get this published. Otherwise no one outside the obscure foundationals is gonna hear.)
+- [ ] Harvey Friedman "formalization-of-mathematics.pdf" needs a chapter SO BAD that I think it maybe matters more than anything else in the book. This is a revolution larger than Gödel that has been entirely ignored because people don't notice things when they matter. People notice things when noticing them makes their life better somehow. We'd like to clarify that this isn't a criticism and we remain agnostic about the "somehow." But people noticed Gödel because it made their lives better, and people haven't noticed Friedman because it doesn't. But he loves mathematics, at least as much as Gödel. He's more extroverted than Gödel in none of the obnoxious ways and all the positive ways. And he's completely not a public figure in any way, even though he's an incredible teacher. In other words there's a man who falls into all the cracks that allow a person to be maximally valuable to history while being minimally noticed. So fuck that shit. He gets a chapter in the bible. Several probably. Because he matters more than docker or postgresql or any of the dumb shit we in computing focus on. So here's Harvey. He belongs in our history. He's already made a place for himself in some history. But it's the history of foundations of mathematics, and nobody pays attention to foundations of mathematics these days. Here's Harvey. (Begin commentary on "The Formalization of Mathematics." Take the screenshots on your phone. It's a masterpiece, all in monospace, and it looks better in phone format. Get this published. Otherwise no one outside the obscure foundationals is gonna hear.)
+
+- [ ] Walter Pitts of McCullough and Pitts is a fascinating character. Used to crash Bertrand Russell lectures at age 15. Was homeless when he presented Carnap with an annotated copy of his book. Carnap looked around forever trying to find who this kid was. Pitts was extremely eccentric and avoided any situation that would require him to sign his name. He was aware of Leibniz's ideas about a universal language or universal computing machine, and he used that and Turing's ideas as the basis for the first ever paper on neural networks.
 
 - [ ] Gödel dialogue: "Mr Why."
 - [ ] Gödel dialogue: The incomplete story of incompleteness: Definitely need to mention the rarely discussed side effect of the incompleteness theorems: If mathematics is more limited than we thought, suddenly it becomes a lot more plausible to define "computation." Even the space of "all possible computations" is potentially within the reach of a formal definition. Though many of the main players involved in the early theory of "effective calculability" didn't expect that they were capturing all possible computations in their definitions, it's probably not an accident that all 3 of our definitions of "computable" appeared within 5 years of Gödel's incompleteness theorems. In the years from 1900 to 1931, it simply didn't feel plausible to give a definition that might hope to capture all possible computations. In a very real sense, we may owe the origins of modern computing to the discovery of incompleteness.
 - [ ] Gödel dialogue: General Recursive Functions: Show the definition of Gödel numbering, then work through enough of the encoding of formal arithmetic into itself that the definition of General Recursive Functions becomes clear.
 
-- [ ] Kleene: Kleeneliness is next to Godeliness.
+- [x] Kleene: Kleeneliness is next to Godeliness.
 - [ ] Kleene: Screenshots of "Church's Thesis" section of Introduction to Metamathematics.
 - [ ] Kleene: Mention that Kleene invented regexes in a paper about neural networks and Ken cites him.
 
 - [ ] Turing dialogue: Mention Turing becoming Church's graduate student.
 - [ ] Turing dialogue: Include first page of Kleene's chapter on Computable functions.
 
-- [ ] The Lambdas: ΛʌLittleLambΔʌ. Written like the Little Lisper and Little Schemer.
+- [x] The Lambdas: ΛʌLittleLambΔʌ. Written like the Little Lisper and Little Schemer.
 - [ ] Clean this file!
 
 ## Outline of the Testaments
 Testament -1
 - Begins: Jan 1 1930
 - Ends: Jan 1 1970
+- Church: Untyped and Simply typed
+- Gödel: General Recursive Functions.
+- Turing: Automatic Machines.
 - After dev zero we do etc group.
 
 Non-Testament (-½)
@@ -73,7 +83,9 @@ Non-Testament (-½)
 Testament 0
 - Begins: Jan 1 1970
 - Ends: Sept 17 1991
-- Unix & BSD era is 0 Testament.
+- The μ part of 0 Testament: Unix & BSD era, C.
+- The λ part of 0 Testament: ML, System F.
+- Reverse Mathematics founded by Harvey Friedman in 1975, 1976. Gerald Sacks (from Reminisces of Logicians) was his advisor.
 - Genesis is Bell Labs Unix.
 - Exodus is BSD.
 - Leviticus is ???.
@@ -81,6 +93,7 @@ Testament 0
 - Deuteronomy is GNU.
 - GNU Project, and was publicly announced on September 27, 1983, on the net.unix-wizards and net.usoft newsgroups by Stallman. Software development began on January 5, 1984, when Stallman did his own Exodus from his job at the Lab so that they could not claim ownership or interfere with distributing GNU components as free software.
 - GNU never got a functioning kernel (despite lots of hype about Hurd) so GNU software existed in diaspora, forming the core of the userspace of other systems, but never reimplementing the kernel from scratch.
+- When Ken Thompson was asked how he learned to program, Thompson stated, "I was always fascinated with logic and even in grade school I'd work on arithmetic problems in binary, stuff like that. Just because I was fascinated."
 
 Non-Testament (+½)
 - Begat list.
@@ -100,8 +113,10 @@ Testament +1
 - End of Days (Date): 03:14:07 UTC
 - End Prediction: World continues.
 - End of Era: Not specified.
-- Linux & modern era is +1 Testament.
-- Reverse Mathematics mentioned.
+- The μ part of (+1) Testament: Linux, Python.
+- The λ part of (+1) Testament: Haskell, Coq, Lean, Nix.
+- Reverse Mathematics (1999). Stephen Simpson's Subsystems of Second Order Arithmetic. Gerald Sacks (from Reminisces of Logicians) was his advisor.
+
 - Constructive school mentioned.
 - Eventually we get to now.
 - The lambdas create Dependent Types.

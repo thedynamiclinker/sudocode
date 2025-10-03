@@ -1,13 +1,32 @@
-## Called by No Name
-### Or: Church Kleene
-### Or: The Unnamed Number
-### Or: The Unnumbered Name
-### Or: The 💯th member of the 11nity
-### Or: The increasingly poorly named trinity
+## Church's Descendants
 
+### Or: Church's Congregation
 
-![[kleene-1.jpg]]
+### Or: The Transitive Closure of Church's Students
 
+### Or: Reminiscences of Logicians
+
+1: What's a reverse begat list?
+
+0: Well picking up where we left off:
+
+- That book was by Jeff Hirst.
+
+- Jeff HIrst's advisors were Harvey Friedman (who we saw up above) and Stephen Simpson (who worked on the same "Five sentences" research program as Friedman).
+
+- Harvey Friedman and Stephen Simpson both had the same advisor, Gerald Sacks.
+
+- Gerald Sacks's advisor was John Barkley Rosser. (Another one of Rosser's students was Elliott Mendelson, who was mentioned above, as the author of the book that does foundations formally but less "frighteningly technical" than Kleene.)
+
+- And John Barkley Rosser's advisor was Alonzo Church. (Who was also the advisor of Stephen Kleene.)
+
+- That's a reverse begat list.
+
+1: Damn, that was good!
+
+0: And here's Steve Kleene talking to Gerald Sacks about Alonzo Church and J. B. Rosser.
+
+---
 
 > John Crossley: What did you do Steve? When you first started learning logic. You didn't have books did you?
 > 
@@ -103,24 +122,6 @@
 
 1: Logic is trippy.
 
----
-
-TODO: Clean this up.
-
-TODO: 6:50. Church didn't think it would be possible to implement predecessor in lambda calculus. Kleene realizing how to implement predecessor at the dentist.
-
-TODO: 7:15.
-> Steve Kleene: So there was no idea at the beginning that this was going to be all effectively calculable functions.
-
-TODO: 7:30.
-> Steve Kleene: I kept taking it as a challenge and everything I tried I could work.
-
-> Steve Kleene: It was an unexpected fallout that this could represent all effectively calculable functions.
-
-> Steve Kleene: The basic work was done between January 1932 and the next 5 or 6 months.
-
-> Steve Kleene: Everything I tried, every kind of function I tried to define, every kind of effective operation that I tried to parallel by lambda definability, I probably knocked off within the first 5 months.
-
 > Steve Kleene: For us the first concept of lambda definability was after the fact, after having formulated the notion of lambda definable functions as simply the ones for which you could find formulas in this symbolism. And discovering that everything you thought of that you wanted to prove lambda definable you could!... But it was Church, I have to give the credit to Church, I can't take it myself, he said "Y'know, don't you think maybe we've really got ALL the effectively calculable functions?"
 
 0: He's being generous.
@@ -156,13 +157,20 @@ TODO: 7:30.
 
 _(Narrator: 0 clears 0's throat.)_
 
-## Call His Name
+---
+
+## Kleeneliness is next to Gödeliness
+
 ### Or: Kleene Kleene Kleene
 ### Or: The First Programmer
 ### Or: The First Standard Library
 ### Or: The First Critical Vulnerability
 ### Or: The First RTFM
-### Or: Kleeneliness is next to Gödeliness
+### Or: Frighteningly Technical
+
+
+![[kleene-1.jpg]]
+
 
 0: Ok so, this is from Church's 1935 paper "An Unsolvable Problem of Elementary Number Theory." This came out about 7 months before Turing's famous paper that showed the same thing. 
 
@@ -291,21 +299,29 @@ _(Narrator: 0 clears 0's throat.)_
 
 1: Damn, Church.
 
-0: Ok but I was unfair to Church earlier. When Kleene said "I have to give the credit to Church, I can't take it myself," he wasn't talking about all the programming, he was talking about Church's thesis.
+0: Ok but I was unfair to Church earlier. When Kleene said "I have to give the credit to Church, I can't take it myself," he wasn't talking about all the programming, he was talking about Church's Thesis.
 
-1: What's Church's thesis.
+1: Which Church's Thesis?
+
+0: The one we didn't talk about yet.
+
+1: Not the PhD one?
+
+0: Not the PhD one.
+
+1: What's the other Church's Thesis?
 
 0: "That's everything."
 
 1: What's everything?
 
-0: Church's thesis is "Hey Kleene, I think maybe we got everything?"
+0: Church's Thesis is "Hey Kleene, I think maybe we got everything?"
 
 1: _What's everything?_
 
 0: All the computable functions. Or effectively calculable as they called them back then.
 
-1: That's Church's thesis. "We're done."
+1: That's Church's Thesis? "We're done."
 
 0: That's it.
 
@@ -325,22 +341,16 @@ _(Narrator: 0 clears 0's throat.)_
 >
 > Steve Kleene: Well he spent some months sweating over it. And saying "Don't you think it's so?" And I was a skeptic! When he came out and asserted the thesis I said "He can't be right." So I went home and I thought I would diagonalize myself out. Out of the class of the lambda definable functions and get another effectively calculable function that wasn't lambda definable. Well just in one night I realized you couldn't do that, and from that point on I was a convert.
 
-0: So Kleene was sort of the 10x developer and Church was---
+1: What's a lambda definable function?
 
-1: The old wise sage type?
+0: That's the first programming language.
 
-0: Exactly. But not because he was old. He was only 6 years older than Kleene. But he had spent some time in the (standard) Foundations of Mathematics, and nothing will radicalize you like standard foundations.
+1: The first programming language?
 
-1: I don't think I even know what "standard foundations" is.
+0: Defined by Church. With standard library implemented by Kleene. And on the basis of which Church's Thesis (this one) was conjectured.
 
-0: Ok, to appreciate the rest of where we're heading, we should probably do at least a drive by.
+1: Details please!
 
-1: A drive by of what?
+0: Follow me.
 
-0: The other Church's Thesis.
-
-1: The other Church's Thesis?
-
-0: Yep, follow me.
-
-goto: [[3 - Old Laws No One Uses]]
+[[4 - Church's Numbers]]
