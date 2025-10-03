@@ -1,7 +1,65 @@
 ## Old Laws No One Uses
+### Or: Church's Thesis (Not That One)
+### Or: Constructive Criticism
+### Or: Church vs Choice
+### Or: The C in ZFC
+### Or: ZFC w/o the C
+### Or: Church's two cents
+### Or: Ȼurȼ's 2Ȼ
+### Or: AC on AC
+
+1: The other Church's Thesis?
+
+0: The other Church's Thesis.
+
+1: Why does everything related to Alonzo Church have multiple names for the same thing?
+
+0: It's just how Alonzo Churches work.
+
+1: Seems to be.
+
+0: So Church's other thesis (his PhD Thesis) was on the Axiom of choice.
+
+1: What's that?
+
+0: It's the C in ZFC. It's part of standard foundations. The machine code of mathematics. So Church writes his PhD thesis being like "Maybe we can delete this code guys, it's kinda sketchy."
+
+![[church-04.png]]
+
+1: What's the Axiom of Choice and why do we need to talk about it?
+
+0: Well remember, by this time, it's been about 50 years since Cantor, and almost 30 years since 1900 when Hilbert announced his list of problems. So there's been a reasonable amount of work on the foundations of mathematics since then.
+
+![[church-38.png]]
+
+1: What was going on in the 30 years before this?
+
+0: Well there had been some work on axiomatic set theory. Mostly on a system called ZFC, or Zermelo Fraenkel (with the Axiom of) Choice. That system is still considered the "official" foundations of mathematics by mathematicians today.
+
+1: So what's the problem?
+
+0: Well ZFC has never really been _used_ as foundations in any real sense.
+
+1: What do you mean "used as foundations."
+
+0: I mean nobody uses it.
+
+1: What?!
+
+0: Or almost nobody. They usually just talk about it or assert that ZFC proves such-and-such. It's extremely rare to see mathematicians actually working _within_ ZFC as a formal system.
+
+1: That doesn't seem so bad. I mean we programmers don't really write in machine code, like ever. But it's sort of the "foundations" of any language that compiles to it, in a sense.
+
+0: No no, I mean even books about ZFC don't work within ZFC.
+
+1: WHAT?!
+
+---
+
+## These Hell Torments
+
 ### Or: The Old Foundations
 ### Or: The Standard Foundations
-### Or: These Hell Torments
 ### Or: Numbers are sets
 ### Or: Booleans are sets
 ### Or: ZFC
@@ -9,6 +67,15 @@
 > _These axioms are the official doctrine - Remarkably, this is not just the official doctrine for set theory, it turns out that this is the official doctrine for mathematics! - Very few people seem to have a problem with that which I find quite remarkable._
 > -NJ Wildberger
 
+---
+
+1: Why would books on ZFC not work within ZFC?
+
+0: Mathematicians don't like to.
+
+1: Even the ones who choose to write books about it?
+
+0: Especially those ones. Here look.
 
 ![[zfc-hirst-01.jpg]]
 
@@ -38,9 +105,13 @@
 
 1: Why not just come up with new axioms?
 
-0: People have. This guy Harvey Friedman in the image below kicked off a revolution that completely changed our understanding of what mathematics is. Turns out most of mathematics is equivalent to one of five sentences. But mostly nobody noticed. At least not many mathematicians.
+0: People have. This guy Harvey Friedman in the image below kicked off a revolution that completely changed our understanding of what mathematics is. But mostly nobody noticed. At least not many mathematicians.
 
 ![[zfc-hirst-13.jpg]]
+
+1: What kind of revolution?
+
+0: Well it turns out that most of mathematics is equivalent to one of five sentences.
 
 1: Most of mathematics is WHAT?!
 
@@ -56,7 +127,7 @@
 
 1: Wait though, how did most mathematicians not notice that most of their field is one of five sentences?
 
-0: Mathematicians mostly don't pay a lot of attention to foundations.
+0: Mathematicians mostly don't pay a lot of attention to Foundations.
 
 1: Jesus.
 
@@ -64,7 +135,13 @@
 
 1: Impotent figure what?
 
-0: Like a king with no power. Everyone points to ZFC and says "That's the foundations," but no one likes it, no one uses it, and it's basically just been sitting there for a century plus with a big crown on that says "I'm the foundations of mathematics and mathematics is the foundation of everything." That's been changing recently though.
+0: Like a king with no power. Everyone points to ZFC and says "That's the foundations," but no one likes it, no one uses it, and it's basically just been sitting there for a century plus with a big crown on that says "I'm the foundations of mathematics and mathematics is the foundation of everything." Like this guy from the memes.
+
+![[theoden-is-zfc.jpg]]
+
+1: Damn, that sucks.
+
+0: Fortunately that's been changing recently though.
 
 1: How so?
 
@@ -80,7 +157,15 @@
 
 1: Isn't that what we're doing?
 
-0: Exactly! Here's another example.
+0: Not at all. This book isn't about mathematics, it's about computing.
+
+1: We haven't done much computing yet.
+
+0: Don't worry, we'll get there.
+
+1: Will we really?
+
+0: Of course. Almost there. Ok so back to ZFC, here's another example of how mathematicians tend to talk about it rather than working within it.
 
 ![[zfc-hirst-02.jpg]]
 
@@ -102,26 +187,41 @@
 
 1: The second book sounds fun!
 
-0: Kleene?
+0: The Kleene one?
 
-1: Yeah! I mean if that "hell code" book was the easy one, I can't imagine what the one for "readers with a frighteningly technical bent" is like. Makes me want to read it. Who's Kleene?
+1: Yeah! Is that the same Kleene?
 
-0: Church's #1 student.
+0: Same guy! Why does it sound fun?
 
-1: No way!
-
-0: Which brings us back to Church.
-
+1:I mean if that "hell code" book was the easy one, I can't imagine what the one for "readers with a frighteningly technical bent" is like. Makes me want to read it.
 
 ![[zfc-hirst-06.jpg]]
 
-0: We'll meet Kleene pretty soon.
+0: We'll definitely get to the bible eventually.
+
+1: What? I didn't ask for more bible, I asked for the frighteningly technical book!
 
 ![[zfc-hirst-14.jpg]]
 
-0: And yeah, the "frighteningly technical" book is also called Kleene's Blue Bible.
+0: Oh sorry forgot to explain. The "frighteningly technical" book is also called Kleene's Blue Bible.
 
 ![[zfc-hirst-15.jpg]]
+
+1: Oh ok. I'm down for that kind of bible. Can we read some now?
+
+0: Nah, we're still at Church.
+
+1: Wasn't he Church's student?
+
+0: Yeah, but Kleene was everywhere. His Blue Bible has much more in depth coverage of the other two definitions of computation than of Church's one.
+
+1: What was Church's one again?
+
+0: Good question. It's about time to get to the technical bits.
+
+1: Finally!
+
+0: Which brings us back to Church.
 
 1: What's so frightening about it?
 
@@ -159,7 +259,7 @@ $$3 = \{ 0, 1, 2 \}$$
 
 1: That feels like a stretch.
 
-0: It's not. The best way to explain Kleene is to get back to Church. So Church's PhD dissertation was about ZFC. Standard set theory. Specifically the C. The Axiom of Choice is a sort of "constructor" for sentences that look like $\exists x P(x)$ that doesn't require you to provide an example of an $x$ that makes it true.
+0: It's not. The best way to explain Kleene is to get back to Church. So Church's PhD thesis was about ZFC. Standard set theory. Specifically the C. The Axiom of Choice is a sort of "constructor" for sentences that look like $\exists x P(x)$ that doesn't require you to provide an example of an $x$ that makes it true.
 
 1: I know what a constructor is. What's the $\exists$ thing?
 
@@ -171,3 +271,173 @@ $$3 = \{ 0, 1, 2 \}$$
 
 1: WHAT?!
 
+0: Yep. Sketchy right?
+
+1: Well I'm not entirely following the mathematics but that definitely sounds sketchy.
+
+0: Yep, that's what Church did his Thesis on.
+
+1: Which Church's Thesis.
+
+0: The PhD one. He was criticizing the Axiom of choice.
+
+1: Seems like a good idea for a thesis.
+
+0: So Church starts in standard foundations. He's like "Wow this sucks." So then fast forward, Church goes to work on foundations. Real foundations. Stuff that feels a lot more like programming.
+
+1: Show me.
+
+0: Ok so here's one of his early papers. If you read it, he's clearly bothered by "free variables" for some reason. But the sense in which he's using the term "free variables" means something a bit more like "information that we didn't include in the formal system." The bits we have to add in English after the symbols.
+
+![[church-20.png]]
+
+1: "Without the addition of verbal explanations." Love it!
+
+0: That's what he's working on. Getting all the vagueness and natural language out of mathematics, at least in principle.
+
+1: Y'know it's weird. I sort of assumed mathematicians solved that problem like... thousands of years ago.
+
+0: Nope! Mathematics has always been a mixture of formal and informal. Church wants to see if it's possible to fully specify all the missing bits. If you read the part below closely, what he's calling "free variables" are really more like _type variables._ Notice how he starts with the sentence $a(b+c) = ab + ac$ and says the $a$, $b$, and $c$ are "free variables." Then he shows what it would mean to fix that sentence.
+
+![[church-21.png]]
+
+
+1: What's the bit with the $R(a)$s and the $\supset_{abc}$ ?
+
+0: I think the notation is based on some old stuff Peano did. But it's not complicated.
+
+1: Looks complicated.
+
+0: Read it.
+
+1: "Where $R(x)$ has the meaning '$x$ is a real number' and"... oh nevermind I feel dumb.
+
+0: So what's Church saying here?
+
+1: He's just saying we should add types to the variables so we know what kind of thing they are.
+
+0: Exactly. And that tendency carried through from the 1930s to modern functional programming and why their languages tend to be strongly typed.
+
+1: Seriously?
+
+0: Yep. Functional programming languages are all descended from Church's first language.
+
+1: The language where every type is Alonzo Church?
+
+0: Functions, but yeah exactly.
+
+1: Nice! Is that language in this paper?
+
+0: Sort of...
+
+1: What do you mean "sort of"?
+
+_(Narrator: 1 flips ahead through the paper)_
+
+![[church-collage-1.jpg]]
+
+1: Holy F---
+
+0: Yeah.
+
+1: Why does it hurt my eyes?
+
+0: Because you skipped ahead.
+
+1: This is traumatizing. I changed my mind. I don't think I'm cut out for this "frighteningly technical" stuff after all.
+
+0: Don't worry, a lot of that turned out to be inconsistent.
+
+1: What?
+
+0: Here look. About halfway through the stuff you just flipped through, Church shows up and goes "Ok guys, so, this is awkward. Um, that first formal system from a little while back was inconsistent."
+
+![[church-27.png]]
+
+1: Inconsistent how?
+
+0: Like totally broken. You can prove anything. 
+
+1: Hahahahahaha all that hell math for nothing?
+
+0: Not for nothing! Church ends up fixing the bug by adding "types." Which after all was sort of the thing he was on about in the introduction to the first paper.
+
+1: How do you do all that hell math and then realize the whole system is broken?
+
+0: One of his students found the bug.
+
+1: Was it Kleene?
+
+0: Yep.
+
+1: It's always Kleene.
+
+0: There was another guy named Rosser who helped with this one, but yeah, Kleene's everywhere.
+
+![[church-37.png|400]]
+
+1: This is even more "frighteningly technical" than the hell math from earlier.
+
+0: Definitely. Kleene's way easier to read than this, in my opinion.
+
+1: What's the point of all this? I mean if we're gonna be reading and writing this level of hell math there'd better be a good reason.
+
+0: Ok well remember how the Axiom of Choice lets you prove something exists without actually, like, computing it or constructing it?
+
+1: Yeah that seemed like cheating.
+
+0: Ok so the point of the hell math above was that Church had gotten interested in how to define "computability." Back then they called it "effectively calculable" or "an effective procedure." But it just meant "Anything you can actually DO without cheating like how the Axiom of Choice cheats."
+
+![[church-06.png]]
+
+1: When are we gonna get to the programming?
+
+0: Right now.
+
+1: Really?
+
+0: Really. Read this next part carefully.
+
+![[church-15.png]]
+
+1: Didn't he start by saying "We need to get rid of free variables" in the other paper?
+
+0: Yeah.
+
+1: But he just introduced free variables into his system.
+
+0: Good catch. He'll get rid of them soon. That's what the lambda is for.
+
+1: It would help if there was more motivation.
+
+0: Yeah, reading Church is sort of a joy and a pain in the ass at the same time. But this funny $\{F\}(X)$ notation is just a reverse-abbreviation for $F(X)$.
+
+1: What are the curly braces for?
+
+0: In case you want to put the implementation of the function in there instead of just its name.
+
+1: Implementation how?
+
+0: That's what the lambda thing is doing. Same lambda as in modern programming languages.
+
+1: OH, no way.
+
+![[church-16.png]]
+
+1: Ok I sort of get this now. So this is just lambdas? Like "lambda" lambdas?
+
+0: Yep.
+
+1: No numbers?
+
+0: No numbers.
+
+1: No booleans?
+
+0: No booleans.
+
+1: How can you do anything?
+
+0: Well numbers and booleans aren't built in to the language, but they're still there. We just have to implement them from lambdas.
+
+[[4 - Callable Numbers]]

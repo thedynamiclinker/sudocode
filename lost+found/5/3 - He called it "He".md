@@ -4,6 +4,7 @@
 
 ### Or: Applied philosophy that actually works
 
+
 ![[turing-1936-84.png]]
 
 

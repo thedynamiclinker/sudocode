@@ -9,6 +9,10 @@
 
 ---
 
+![[turing-says-we-may-now-construct-a-machine-to-do-the-work-of-this-computer.png]]
+
+---
+
 > Steve Kleene: Well as I say, I don't know how firmly convinced Gödel was that his General Recursive Functions represented all effectively calculable functions.
 >
 > Gerald Sacks: He seemed very skeptical.

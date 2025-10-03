@@ -119,15 +119,18 @@ As a child, during that earliest stage of life when we're looking around the wor
 
 1: Such an Alonzo Church thing to do.
 
-0: It's not as crazy as it sounds. It's actually an incredibly powerful idea. He just didn't realize that at the time.
+0: Weird idea right?
 
-1: HE didn't realize that?
+1: Can we see some more details?
 
-0: Nope. No one did.
+0: Sure, let's go take a tour.
 
-1: Can I have some more details?
-
-0: Of course. Let's go take a tour.
+## Alonzo Church
+### Or: Call me anonymous
+### Or: The λogos calls
+### Or: Church of λambda
+### Or: On the λamb
+### Or: Son of Sam
 
 ---
 
@@ -136,13 +139,6 @@ As a child, during that earliest stage of life when we're looking around the wor
 > -Alonzo Church (Son of Sam)
 
 ---
-
-## Alonzo Church
-### Or: Call me anonymous
-### Or: The λogos calls
-### Or: Church of λambda
-### Or: On the λamb
-### Or: Son of Sam
 
 
 ![[church-01.png]]
@@ -167,35 +163,12 @@ As a child, during that earliest stage of life when we're looking around the wor
 
 0: Well he's a foundational person. So naturally, he went into foundations.
 
+1: What did he do?
 
-![[church-04.png]]
+0: Lots of stuff. But you can't really understand what Church did without Steve.
 
-0: Did his dissertation on the Axiom of choice.
+1: Who's Steve?
 
-1: What's that?
+0: Church's #1 grad student. Here listen.
 
-0: Well remember, by this time, it's been about 50 years since Cantor, and almost 30 years since 1900 when Hilbert announced his list of problems. So there's been a reasonable amount of work on the foundations of mathematics since then.
-
-1: Why aren't we including those people in "The foundational people"?
-
-0: Good point. Some of them probably deserve to be included too. But every story has to start somewhere, and for a bible on the history of computing, Church is a pretty good place to start.
-
-1: What was going on in the 30 years before this?
-
-0: Well there had been some work on axiomatic set theory. Mostly on a system called ZFC, or Zermelo Fraenkel (with the Axiom of) Choice. That system is still considered the "official" foundations of mathematics by mathematicians today, but it's never really been _used_ as foundations in any real sense.
-
-1: What do you mean "used as foundations."
-
-0: I mean nobody uses it.
-
-1: What?!
-
-0: Or almost nobody. They usually just talk about it or assert that ZFC proves such-and-such. It's extremely rare to see mathematicians actually working _within_ ZFC as a formal system.
-
-1: That doesn't seem so bad. I mean we programmers don't really write in machine code, like ever. But it's sort of the "foundations" of any language that compiles to it, in a sense.
-
-0: No no, I mean even books about ZFC don't work within ZFC.
-
-1: WHAT?!
-
-0: Here I'll show you.
+goto: [[2 - Called by No Name]]
