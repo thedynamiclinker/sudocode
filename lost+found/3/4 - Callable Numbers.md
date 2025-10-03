@@ -1,4 +1,10 @@
 
+## Callable Numbers
+
+### Or: 0 is a two argument function
+### Or: 1 is a two argument function
+### Or: True is a two argument function
+### Or: What on earth?
 
 1: What on earth would motivate a person to make a language where numbers and booleans have to be implemented from functions?
 
@@ -141,4 +147,4 @@ $$\circ \circ \circ$$
 
 1: How do you know?
 
-goto: [[5 - Restatement of the Laws of Calls]]
+goto: [[5 - Second Giving of the Laws of Calls]]
