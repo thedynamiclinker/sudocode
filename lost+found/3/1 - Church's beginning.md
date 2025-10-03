@@ -1,5 +1,5 @@
 ## Church's beginning
-### Or: Let there be Calls
+### Or: Let there be calls
 ### Or: Numbers are calls
 ### Or: Booleans are calls
 ### Or: No names allowed
@@ -26,7 +26,7 @@ As a child, during that earliest stage of life when we're looking around the wor
 
 1: Must be rough to get excluded from being Alonzo Church when everyone you know gets to be that.
 
-0: Exactly. So when it came time for Sam to have a son, he pulled a fast one on his brother -- the first born -- and added an item of his own to own the family's family tree. So now, thanks to Sam, the family tree looked like this.
+0: Exactly. So when it came time for Sam to have a son, he pulled a fast one on his brother -- the first born -- and added an item of his own to the family's family tree. So now, thanks to Sam, the family tree looked like this.
 
 1. Your Name: Sam
 2. Your Father: Alonzo Church
@@ -127,7 +127,6 @@ As a child, during that earliest stage of life when we're looking around the wor
 
 ## Alonzo Church
 ### Or: Call me anonymous
-### Or: The λogos calls
 ### Or: Church of λambda
 ### Or: On the λamb
 ### Or: Son of Sam

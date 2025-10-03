@@ -8,13 +8,17 @@
 ### Or: Ȼurȼ's 2Ȼ
 ### Or: AC on AC
 
-0: This part isn't about the Church's Thesis you may have heard of. This is about the other Church's Thesis/
+0: This part isn't about the Church's Thesis you may have heard of. This is about the other Church's Thesis.
 
 1: I don't know about anything called "Church's Thesis."
 
-0: Ok so there's something else called Church Thesis that we'll get to later. For now, we're not talking about that. We're talking about his PhD thesis. This is the other Church's thesis.
+0: Ok so there's something else called Church Thesis that we'll get to later. For now, we're not talking about that. We're talking about his PhD Thesis. This is the other Church's Thesis.
 
 1: Why does everything related to Alonzo Church have multiple names for the same thing?
+
+0: You mean multiple things for the same name?
+
+1: Yeah that. What's with that?
 
 0: It's just how Alonzo Churches work.
 
@@ -998,7 +1002,55 @@ else:
 
 ![[zfc-hirst-06.jpg]]
 
-0: We'll definitely get to the bible eventually.
+0: Yeah Kleene's book is pretty great.
+
+1: What's it actually called?
+
+0: This:
+
+![[zfc-hirst-15.jpg]]
+
+1: What's so frightening about it?
+
+0: It's code.
+
+1: What's so frightening about code?
+
+0: I mean, the book is from 1952, based on work from the 1930s and 1940s. So there's no "computer code" in there in the usual sense.
+
+1: So how's it code?
+
+0: Because Kleene doesn't skip steps or hand-wave or say "it can be shown." He works inside the formal system. He adds a ton of documentation -- English explanations of what's happening -- but the way he behaves as the author of that book is exactly how you'd behave if you were a programmer.
+
+1: I am a programme---
+
+0: I know. But that's an extremely unusual way to behave in a math book, when you're the author. I mean he behaves as if everything he claims actually has to be implemented. He doesn't write as if he's trying to convince a human mind where you can just handwave or say "obviously" or "exercise for the reader." He writes as if he's trying to convince a machine, and then documenting heavily so humans can read the code too. Kleene was pretty clearly the first programmer.
+
+1: Wait, I thought the first programmer was Church and Gödel and Turing?
+
+0: Exactly. They're the first. And Kleene is the glue. Like this.
+
+$$3 = \{ 0, 1, 2 \}$$
+
+1: Do you try to be confusing on purpose?
+
+0: What's confusing about that?
+
+1: Everything?
+
+0: Ok so, in Cantor's set theory, the number N is defined to be the set of all the natural numbers less than it. So 3 is the set containing 0, 1, and 2.
+
+1: That's weird. But ok.
+
+0: And Kleene is the curly braces and commas. The bits that hold it all together and make the set be one thing. He's the glue.
+
+1: That feels like a stretch.
+
+0: It's not.
+
+1: Anyways, can we read some of that book?
+
+0: Not yet. We'll get to the bible eventually.
 
 1: What? I didn't ask for more bible, I asked for the frighteningly technical book!
 
@@ -1006,15 +1058,29 @@ else:
 
 0: Oh sorry forgot to explain. The "frighteningly technical" book is also called Kleene's Blue Bible.
 
-![[zfc-hirst-15.jpg]]
-
 1: Oh ok. I'm down for that kind of bible. Can we read some now?
 
 0: Nah, we're still at Church.
 
-1: _(Looks back through the conversation.)_ I thought this book was by Jeff Hirst.
+1: _(Looks back through the conversation.)_ I thought that book was by Jeff Hirst.
 
-0: Right, this one is. But this situation has been going on since Church. We need a reverse begat list to get back to Church.
+0: Right, this one is. But this situation has been going on since Church.
+
+1: So?
+
+0: So we're still talking about Church.
+
+1: We haven't talked about Church in a while.
+
+0: This is all about Church.
+
+1: Are you sure this wasn't just a long digression?
+
+0: I never digress.
+
+1: I don't believe you.
+
+0: I promise. We just need a reverse begat list to tie it back to Church.
 
 1: What's a reverse begat list?
 

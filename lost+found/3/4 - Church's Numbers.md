@@ -192,8 +192,6 @@ $$\circ \circ \circ$$
 
 ---
 
-TODO: Clean this up.
-
 TODO: 6:50. Church didn't think it would be possible to implement predecessor in lambda calculus. Kleene realizing how to implement predecessor at the dentist.
 
 TODO: 7:15.
@@ -202,12 +200,16 @@ TODO: 7:15.
 TODO: 7:30.
 > Steve Kleene: I kept taking it as a challenge and everything I tried I could work.
 
+TODO:
 > Steve Kleene: It was an unexpected fallout that this could represent all effectively calculable functions.
 
+TODO:
 > Steve Kleene: The basic work was done between January 1932 and the next 5 or 6 months.
 
+TODO:
 > Steve Kleene: Everything I tried, every kind of function I tried to define, every kind of effective operation that I tried to parallel by lambda definability, I probably knocked off within the first 5 months.
 
+TODO:
 > Steve Kleene: For us the first concept of lambda definability was after the fact, after having formulated the notion of lambda definable functions as simply the ones for which you could find formulas in this symbolism. And discovering that everything you thought of that you wanted to prove lambda definable you could!... But it was Church, I have to give the credit to Church, I can't take it myself, he said "Y'know, don't you think maybe we've really got ALL the effectively calculable functions?"
 
 ---

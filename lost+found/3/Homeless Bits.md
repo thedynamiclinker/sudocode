@@ -5,41 +5,7 @@ TODO: Find a place for these. They got ophaned during refactors.
 
 ## Kleene as the first programmer
 
-1: What's so frightening about it?
 
-0: It's code.
-
-1: What's so frightening about code?
-
-0: I mean, the book is from 1952, based on work from the 1930s and 1940s. So there's no "computer code" in there in the usual sense.
-
-1: So how's it code?
-
-0: Because Kleene doesn't skip steps or hand-wave or say "it can be shown." He works inside the formal system. He adds a ton of documentation -- English explanations of what's happening -- but the way he behaves as the author of that book is exactly how you'd behave if you were a programmer.
-
-1: I am a programme---
-
-0: I know. But that's an extremely unusual way to behave in a math book, when you're the author. I mean he behaves as if everything he claims actually has to be implemented. He doesn't write as if he's trying to convince a human mind where you can just handwave or say "obviously" or "exercise for the reader." He writes as if he's trying to convince a machine, and then documenting heavily so humans can read the code too. Kleene was pretty clearly the first programmer.
-
-1: Wait, I thought the first programmer was Church and Gödel and Turing?
-
-0: Exactly. They're the first. And Kleene is the glue. Like this.
-
-$$3 = \{ 0, 1, 2 \}$$
-
-1: Do you try to be confusing on purpose?
-
-0: What's confusing about that?
-
-1: Everything?
-
-0: Ok so, in Cantor's set theory, the number N is defined to be the set of all the natural numbers less than it. So 3 is the set containing 0, 1, and 2.
-
-1: That's weird. But ok.
-
-0: And Kleene is the curly braces and commas. The bits that hold it all together and make the set be one thing. He's the glue.
-
-1: That feels like a stretch.
 
 ---
 

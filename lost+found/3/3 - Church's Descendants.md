@@ -26,6 +26,8 @@
 
 0: And here's Steve Kleene talking to Gerald Sacks about Alonzo Church and J. B. Rosser.
 
+1: Ok nevermind this was pretty well planned after all.
+
 ---
 
 > John Crossley: What did you do Steve? When you first started learning logic. You didn't have books did you?
@@ -35,11 +37,21 @@
 > Gerald Sacks: You had _Principia Mathematica._
 > 
 > _(Everyone laughs)_
-> 
+
+1: Why did everyone laugh there?
+
+0: Nobody reads _Principia Mathematica._
+
 > Steve Kleene: Well, I never read _Principia_. Of course I thumbed it a little bit... Rosser I guess started his logic that way... But I learned logic by learning Church's system which was subsequently proved inconsistent.
 > 
 > _(Everyone laughs)_
-> 
+
+1: Why did everyone laugh there?
+
+0: Inconsistent systems are supposed to be useless in logic. But that can't be entirely true because Kleene's one of the best logicians in the past century and he learned logic from a system like that.
+
+1: Logic is trippy.
+
 > Steve Kleene: And y'know, it all consists of abstract lambda definability. And uh, and it was only after I got my degree that I really began to read much of the litchrachoar.
 
 1: What's "litchrachoar"?
@@ -59,47 +71,7 @@
 0: Ok. Just imagine it. He's got a charming sort of unpretentious midwest thing going on.
 
 > Steve Kleene: It was only after I got my degree that I really began to read much of the literature. Uh let me see. Hilbert Bernays, didn't the first volume of that appear in 1934?... Hilbert Bernays was around... I never read Lewis and Langford.
-
-0: Crazy huh?
-
-1: How so?
-
-0: I mean, this is one of the best logicians of the century.
-
-1: And he just said he learned logic from a system that ended up being inconsistent.
-
-1: So?
-
-0: Well I imagine that sort of thing hammers it into a person that most of what we say about logic is wrong.
-
-1: Not following.
-
-0: The principle of explosion and all that. In standard logic, we always say a single contradiction makes the whole system useless. But it wasn't useless.
-
-1: Wasn't useless how?
-
-0: Well, Steve learned logic from it.
-
-1: What system was that again?
-
-0: Church's first attempt at the lambda calculus. Turned out to be inconsistent. And that means this Kleene guy, easily one of the best logicians of the 20th century, learned logic from an inconsistent system. So it can't have been entirely useless.
-
-1: How did Church figure out his system was inconsistent?
-
-0: From Kleene.
-
-1: Damn.
-
-0: And a friend. That guy from earlier called Rosser who actually read Principia Mathematica.
-
-1: What's Principia Mathematica again?
-
-0: That's Bertrand Russell's book.
-
-1: The paradox guy?
-
-0: Yeah. It's not super readable.
-
+> 
 > Steve Kleene: And \[I read\] a lot of papers... _(Pauses.)_ For instance by Gödel. The first thing we knew of Gödel's paper was one time the mathematics colloquium speaker was gonna be von Neumann. And of course von Neumann had lots of things of his own to talk about but instead of that we got him there and found out he was telling us about Gödel's 1931 results.
 > 
 > Someone: This was at Princeton?
@@ -120,7 +92,7 @@
 
 0: Church was right, but for the wrong reasons. He thought his system would be "good enough" to avoid Gödel's theorem and be complete anyway. Turns out early lambda calculus was complete, it could prove its own consistency, because it was inconsistent and could prove anything.
 
-1: Logic is trippy.
+1: Man, logic is trippy.
 
 > Steve Kleene: For us the first concept of lambda definability was after the fact, after having formulated the notion of lambda definable functions as simply the ones for which you could find formulas in this symbolism. And discovering that everything you thought of that you wanted to prove lambda definable you could!... But it was Church, I have to give the credit to Church, I can't take it myself, he said "Y'know, don't you think maybe we've really got ALL the effectively calculable functions?"
 
