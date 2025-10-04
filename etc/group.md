@@ -65,7 +65,7 @@ The developers at the boundary between the hardware and the software. A mixture 
 ## λ: The lambdas
 0: Descendants of Church. Latter day members include McCarthy, Curry, Howard, Milner, SPJ, and Wadler. Well known languages descend from the lambda calculus, and include Lisp, Scheme, ML, Haskell, Nix, and Lean. The last two of these examples, namely the Nix package manager and the Lean theorem prover represent a recent expansion of the lambda culture far beyond the small academic circles which they have historically inhabited since the early 1930s.
 
-## Λ: The Big Lambdas
+## Λ: The Big Lambda
 
 Mathematical Logic. No elaboration needed.
 
