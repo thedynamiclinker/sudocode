@@ -1,14 +1,17 @@
 
+This following is a comprehensive list of the various cultures in mathematics and computing that we'll encounter throughout the rest of the story, as we track how computing develops from 1937, where we left off, until the modern era of 20XY.
+
+Though our story will follow The Lambdas and The Mus, in order to know how they (i.e. we) fit in to the broader world around us, it is important to gain a better understanding of that world.
+
+So here is a brief summary of that world.
+
+Longer descriptions of the other tribes will be provided as the need arises, in `/etc/apache`.
+
 ---
 
-TODO: The current file is just an extremely skeletal table of contents.
+_(Narrator: No relation to the webserver. I'm assuming he meant [[fsck#The People|this]].)_
 
 ---
-
-This file frames the rest of the book by giving names to the various cultures in mathematics and computing that we'll refer to throughout the rest of the story, as we track how computing develops from 1937 (where we left off) until 20XY (the modern day.)
-
-In this file, we learn about all the other cultures and tribes in mathematics and computing, where The Lambdas and The Mus fit in to that world, and how they're similar and different from each other.
-
 # The /etc/groups
 
 
