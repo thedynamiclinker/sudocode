@@ -69,7 +69,9 @@
 
 1: What?
 
-0: Formal!
+0: _As Formal As Possible!_
+
+1: Still not clea---
 
 _(Narrator: 0 clears 0's throat.)_
 
