@@ -1,5 +1,5 @@
 ## Church's Thesis (Not that one)
-### Church's Exodus from Standard Foundations
+### Or: Church's Exodus from Standard Foundations
 ### Or: Constructive Criticism
 ### Or: Church vs Choice
 ### Or: The C in ZFC
