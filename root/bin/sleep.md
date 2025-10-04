@@ -22,7 +22,7 @@
 
 0: What do you mean boring?
 
-1: Are you kidding? There's literally a bin with a hello world in it and _that's it!_ THAT'S MY ENTIRE \$HOME!
+1: Are you kidding? There's literally a bin directory with a hello world in it and _that's it!_ THAT'S MY ENTIRE \$HOME!
 
 0: Well, what would you like to have in there?
 
@@ -42,7 +42,7 @@
 
 0: You're already kind of a member of some of those groups. Remember? The μ & λ people. That's our tribe. You're at least a little bit of both of those.
 
-1: Yeah I know but it doesn't feel the same.
+1: Yeah I know, but it doesn't feel the same.
 
 0: Same as what?
 
@@ -50,7 +50,7 @@
 
 0: But what?
 
-1: B... It's not like I can share this stuff with anyone else?
+1: B... It's not like I can share this stuff with anyone else.
 
 0: Why not? You're not sworn to secrecy.
 
@@ -98,6 +98,18 @@
 
 ---
 
-TODO: Finish this when you're less sick.
-TODO: Have 0 and 1 decide to call the group wheel.
-TODO: Mention decoder rings, Y (upsilon) quote from Pythagoras, and how Y has many sounds in different languages and came from waw. They each choose a char to represent them in the secret group.
+TODO:
+- Mention: Y (upsilon) with Pythagoras quote.
+- Mention: How Y has many sounds in different languages and came from waw.
+- Mention: We're at a fork in the road too.
+- Mention: 0 and 1 decide to call the group wheel.
+- Mention: Wheel gives you root access to the book.
+- Mention: Decoder rings as the secret wheel.
+- Mention: AX and the abecedaria.
+- Mention: Old church slavonic alphabet ordering.
+- Mention: Church christening ceremonies and the αΩ alphabet ritual.
+- Mention: We should each choose a character to represent us in the secret group.
+- Mention: There are still some unused letters in /etc/group.
+- Mention: Greek? What's secret about Greek? Any child can learn Greek.
+- Mention: This will both further the story and give hints for /sbin/sudo.
+- Mention: From now on, 1 has write access to /root.

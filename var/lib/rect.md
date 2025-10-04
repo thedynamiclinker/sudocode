@@ -123,7 +123,7 @@
 
 1: Who did this to our filesystem?!
 
-0: Must be the previous owners. I don't come in here that often.
+0: Must be the previous owners.
 
 1: Who wants to live like this?
 
@@ -250,8 +250,7 @@
             └── 60000_vm
 
 ```
-
----
+1: That's was fu---
 
 0: Ok look, the most extreme cases of the rectangle degeneration aren't the same as the others.
 
@@ -261,21 +260,9 @@
 
 1: The Rhos?
 
-0: Exactly. Back then we said this.
+0: Exactly.
 
-> Early symptoms of the rectangle disorder manifest as a set of _behaviors_, not as a set of explicitly stated beliefs. Such behaviors can be summarized by the phrase "Everything is a rectangle."  (etc)
->
-> Intermediate symptoms commonly invove either proposing or actually implementing SQL databases of various forms in cases where a simple text file or directory thereof would be sufficient.
->
-> In severe cases, as the disorder progresses, affected individuals often acquire a form of Stockholm Syndrome in which they develop explicit beliefs about the superiority of rectangles as a data structure for all or most problems in computing... (etc)
-> 
-> The most extreme cases of the rectangle disorder do not lie on a continuum with the other three severity levels... the underlying cause has been hypothesized to be different. This is an area of active research, and it is beyond the scope of this file to elaborate on the details. See /var/lib/rect for a more in-depth discussion of these cases.
-
-1: What's in /var/lib/rect?
-
-0: That's where we are now.
-
-1: Ooooooh. So what's the deal?
+1: Ooooooh. So what's the deal with them?
 
 0: Follow me.
 
@@ -378,11 +365,11 @@ _(Narrator: 0 and 1 wait for an undefined amount of time.)_
 
 1: Wow it lets you do things the designers didn't anticipate!
 
-0: That's every programming language. Don't trust the marketing.
+0: That's every programming language! Don't trust the marketing.
 
 1: What marketing?
 
-0: See the highlighted part? These things are popular with businesses. Anything popular with businesses has a massive amount of marketing energy trying to sell it. Don't trust your feelings until you divide by the size of the marketing team.
+0: See the highlighted part? These things are popular with businesses. Anything popular with businesses has a massive amount of marketing energy trying to sell you services and support and all other sorts of fluff. Don't trust your feelings on anything until you divide by the size of the marketing team.
 
 1: Divide by the---
 
@@ -404,7 +391,7 @@ _(Narrator: 0 and 1 wait for an undefined amount of time.)_
 
 1: Predicate. First order logic. Projection. Relation Universe. Schema. There were foundational people here weren't there?
 
-0: Yes. In a sense.
+0: Yes... In a sense.
 
 ![[relational-model-and-lost-logicians-10.png]]
 
