@@ -1,3 +1,10 @@
+
+---
+
+TODO: Finish this file. The dialogues are only like 40% done.
+
+---
+
 ## Archaic Laws, Forgotten Names
 
 0: Ok so naturally, the history logic starts...
