@@ -48,7 +48,9 @@ This includes real analysis, complex analysis, functional analysis, and any semi
 > "We didn't invent categories to study functors; We invented them to study natural transformations."
 > -Saunders MacLane
 
-0: Category Theory. Completely incomprehensible. MacLane said that he didn't invent category theory to study categories or even functors, but rather to study natural transformations. Natural transformations are commonly denoted by η. Hence the name. Often referred to as The Cathedral, The Catedral, The Cat-holics, The Abstract and Concrete Cats, The Easiest Way to Get Tenure By Doing Nothing, The Hardest Way to Get Tenure By Doing Anything, and various other harmless slurs. Members most commonly refer to themselves as "The Naturals," by the term "Generalized Abstract Nonsense," or simply by drawing diagrams and singing .
+0: Category Theory. Completely incomprehensible. Natural transformations are commonly denoted by η. Hence the name.
+
+Often referred to as The Cathedral, The Catedral, The Cat-holics, The Abstract and Concrete Cats, The Easiest Way to Get Tenure By Doing Nothing, The Hardest Way to Get Tenure By Doing Anything, and various other harmless slurs. Members most commonly refer to themselves as "The Naturals," by the term "Generalized Abstract Nonsense," or simply by drawing diagrams and singing .
 
 ## θ: Topology and Homotopy
 Theta, "TH", includes the Topologists and Homotopy theorists, but does not include Topos theory. Topos theory claims to be many things, but it is not yet clear (even to Topos theory) what, in fact, it is. Therefore this group includes the topologists and topology adjacent mathematics cultures, with the exception of the Topos people as they are still [sketching their elephant](https://ncatlab.org/nlab/show/Sketches+of+an+Elephant).
