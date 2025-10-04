@@ -104,9 +104,9 @@ To see the need for a creation story when it comes to the history of computing, 
 
 ---
 
-0:  The Creation Story data type solves this problem. Properly executed, the Creation Story is a pragmatic truncation of history at a finite time in the past, before which all events are declared not to be relevant. This is, of course, in any literal sense, untrue, in no small part because the motivation for creating anything (whether a universe or a book) has as its cause a set of events that came before it.
+0:  The Creation Story data type solves this problem. Properly executed, the Creation Story is a pragmatic truncation of history at a finite time in the past, before which all events are declared not to be relevant. This is, of course, in any literal sense, untrue, in no small part because the motivation for creating anything (whether a universe or a book) has, as its cause, a set of events that came before it.
 
-Nevertheless, the Creation Story is a pragmatic necessity. If history is a Taylor Series, the Creation Story is its truncation to finitely many terms.  The only alternative is the sort of history that the author of a book like "Quantum Computing Since Democritus" pokes fun at in the title, in which quantum computing is traced back to the first human in recorded history who said something roughly like "The world is made of things, not stuff."
+Nevertheless, the Creation Story is a pragmatic necessity. If history is a Taylor Series, the Creation Story is its truncation to finitely many terms.  The only alternative is the sort of history that the author of a (very good) book like "Quantum Computing Since Democritus" pokes fun at in the title, in which a field with a substantial but non-infinite history (e.g. quantum computing) is traced back to the first human in recorded history who said something roughly like "The world is made of things, not stuff."
 
 ---
 
