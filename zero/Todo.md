@@ -9,6 +9,12 @@ Soon:
 - Add "sign of the dollar" password hint somewhere in or around /etc/group. Phoenician Qoph, Phoenician Giml.
 - Need to draw this in Excalidraw or by hand. Fonts aren't good enough to do it properly.
 
+Fundamentally Important and Will Also Be Fun To Write:
+- /mnt/sinai needs to be a dialogue.
+- The little lambs can't absorb raw information without a shepherd, aka entertainment, aka a dialogue.
+- Write one.
+- And give the ~~Authors~~ Λ vibes.
+
 ## Church
 - [ ] Import video notes from what is mathematics vault.
 - [ ] Rewrite "The Little Lambda" from scratch.
