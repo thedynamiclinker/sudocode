@@ -71,7 +71,7 @@
 
 0: _As Formal As Possible!_
 
-1: Still not clea---
+1: That doesn't hel---
 
 _(Narrator: 0 clears 0's throat.)_
 
