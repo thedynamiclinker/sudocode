@@ -66,9 +66,18 @@ The developers at the boundary between the hardware and the software. A mixture 
 0: Descendants of Church. Latter day members include McCarthy, Curry, Howard, Milner, SPJ, and Wadler. Well known languages descend from the lambda calculus, and include Lisp, Scheme, ML, Haskell, Nix, and Lean. The last two of these examples, namely the Nix package manager and the Lean theorem prover represent a recent expansion of the lambda culture far beyond the small academic circles which they have historically inhabited since the early 1930s.
 
 ## Λ: The Big Lambdas
+
 Mathematical Logic. No elaboration needed.
 
 Elaboration: Ancestor of the λ and μ. Loves both children equally. Has praise and criticism for both. While λ was the firstborn and inherited the name, Λ is well aware that μ is several orders of magnitude more successful than λ in its career. Λ doesn't pick favorites. [Λ is what Λ is](https://en.wikipedia.org/wiki/I_Am_that_I_Am).
+
+Known to make really bad dad jokes, like spelling"Land" as ΛΛ b/c Λ is L & Λ is And, in Logic Λ Greek respectively.
+
+Don't ask. Bible thing. Also a dad thing.
+
+Bibles are a big bag of dad jokes.
+
+So sayeth the ΛVΔ.
 
 ## μ: The mus
 0: Descendants of Godel & Turing. Machines, Moore's Law, practical computing, von Neumann architecture, eventually Unix, C, Python, and everything that runs the modern world. Culturally distinct from the lambdas, though the two cultures share a common origin, and have been gradually recognizing their need for a return to a common culture in recent years. Examples include the increasing presence of lambda expressions in μ languages, and the increasing recognition of the need to minimize shared mutable state.
