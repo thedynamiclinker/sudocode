@@ -334,7 +334,7 @@
 
 1: So nobody does that. The basic stuff. Definitions. Theorems. Like if mathematics was a C program, they're not even writing the header files in ZFC.
 
-0: Good analogy? And yes.
+0: Good analogy! And yes.
 
 1: Yes?
 
