@@ -12,7 +12,7 @@
 
 1: I don't know about anything called "Church's Thesis."
 
-0: Ok so there's something else called Church Thesis that we'll get to later. For now, we're not talking about that. We're talking about his PhD Thesis. This is the other Church's Thesis.
+0: Ok so there's something else called Church's Thesis that we'll get to later. For now, we're not talking about that. We're talking about his PhD Thesis. This is the other Church's Thesis.
 
 1: Why does everything related to Alonzo Church have multiple names for the same thing?
 
