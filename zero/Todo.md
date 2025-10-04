@@ -7,6 +7,7 @@ Tl;dr:
 
 Soon:
 - Add "sign of the dollar" password hint somewhere in or around /etc/group. Phoenician Qoph, Phoenician Giml.
+- Need to draw this in Excalidraw or by hand. Fonts aren't good enough to do it properly.
 
 ## Church
 - [ ] Import video notes from what is mathematics vault.
