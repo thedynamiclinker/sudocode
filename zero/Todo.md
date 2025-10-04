@@ -5,6 +5,9 @@ Tl;dr:
 - Book proposal soon.
 - Just need to submit the bash bugfix.
 
+Soon:
+- Add "sign of the dollar" password hint somewhere in or around /etc/group. Phoenician Qoph, Phoenician Giml.
+
 ## Church
 - [ ] Import video notes from what is mathematics vault.
 - [ ] Rewrite "The Little Lambda" from scratch.
