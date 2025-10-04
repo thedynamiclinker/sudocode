@@ -77,6 +77,13 @@ _(Narrator: 0 clears 0's throat.)_
 
 0: _(ahem)_
 
+%%
+Soundtrack: Prince and the Revolution, Let's get Crazy.
+Cf. the meaning of "Purple Banana" in a basic google search.
+That's this era of logic. They're all looking for it. Let's get crazy.
+Don't let the elevator bring you down.
+%%
+
 ---
 
 ABSTRACT
