@@ -85,6 +85,8 @@ The letter "vega" is a non-existent Greek letter, arising from Finance Bros seei
 
 ## Ξ: ???
 
+... UϺ
+
 Nobody knows what this is.
 
 Sure would be nice to know something.
