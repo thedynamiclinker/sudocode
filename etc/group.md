@@ -73,7 +73,7 @@ Elaboration: Father of λ and μ. Loves both children equally. Has praise and cr
 
 Either way, Λ loves them both. Λ doesn't pick favorites. [Λ is what Λ is](https://en.wikipedia.org/wiki/I_Am_that_I_Am).
 
-Known to make really bad dad jokes, like spelling"Land" as ΛΛ b/c Λ is L & Λ is And, in Logic Λ Greek respectively.
+Known to make really bad dad jokes and puns, like spelling "Land" as ΛΛ b/c Λ is L & Λ is And, in Greek Λ Logic respectively.
 
 Don't ask. Bible thing. Also a dad thing.
 
