@@ -107,7 +107,7 @@ end = 26:20
 start = 26:22
 end = 26:52
 
-RESUME 
+RESUME around 28:15 with "The management touch around you was very light" and "You probably succeeded because you were left alone." 💯🎉
 
 
 
