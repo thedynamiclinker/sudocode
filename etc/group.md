@@ -62,6 +62,7 @@ The iotas. One of two greek letters that means "small." Hardware people want the
 The developers at the boundary between the hardware and the software. A mixture of cultures, neither hardware nor software, but primarily software. Their culture is almost exclusively that of The Mus, but a distinct subculture of it with knowledge and skills that are uncommon among the other Mus.
 
 ...(
+
 ## λ: The lambdas
 0: Descendants of Church. Latter day members include McCarthy, Curry, Howard, Milner, SPJ, and Wadler. Well known languages descend from the lambda calculus, and include Lisp, Scheme, ML, Haskell, Nix, and Lean. The last two of these examples, namely the Nix package manager and the Lean theorem prover represent a recent expansion of the lambda culture far beyond the small academic circles which they have historically inhabited since the early 1930s.
 
