@@ -83,8 +83,40 @@ The nus. Cousins of λ & μ, the νs have been around since the beginning of com
 ## νega: Finance
 The letter "vega" is a non-existent Greek letter, arising from Finance Bros seeing the letter "ν" (nu) used as a parameter to describe the volatility of stock options, and then pretending to know what letter it is. This culture is neither part of mathematics nor computing, though the various other cultures described here have often been found working technical jobs in companies alongside them.
 
-## Ξ
-Nobody knows what this is. Variously called the Xi, 11, 3, 三, and San. Appears to use all of Unicode. Found in the /boot directory and in kernel space.
+## Ξ: ???
+
+Nobody knows what this is.
+
+Sure would be nice to know something.
+
+Has variously been called The Xi, The 11, The 3, The 三, The San (sic?), The Word, The Speech, The Call, The LoΓoς (what?), The Yue, The S\*n, The M\*n, The You, The Ni, The 山ξ, Mount S\*n, Mount Sh\*n, Sh\*n S\*n, 山三, The `/*ɢʷad/`, Mount 二二@ (citation needed?), as well as The Γ曰⅂ and The L曰⅂, among others.
+
+Seems to be a mixture of schizophrenic gibberish with essentially all of Unicode.
+
+Often found in the /boot directory, in kernel space, scrawled in manic graffiti under bridges and overpasses, and in corrupted files in lost+found.
+
+Somehow related to the Greek letter [Ξ](https://en.wiktionary.org/wiki/%CE%9E), Chinese character [三](https://en.wiktionary.org/wiki/%E4%B8%89), the Latin letter [L](https://en.wiktionary.org/wiki/L), the Greek letter [Γ](https://en.wiktionary.org/wiki/%CE%93), the Hebrew letter [⅂](https://en.wiktionary.org/wiki/%D7%93), the Chinese characters [日](https://en.wiktionary.org/wiki/%E6%97%A5), [月](https://en.wiktionary.org/wiki/%E6%9C%88), and [曰](https://en.wiktionary.org/wiki/%E6%9B%B0), and sufficiently many others that it's not technically possible to list them all without meeting the DSM-VI's diagnostic criteria for mania, and against that background, it's probably best I wrap up.
+
+So far, no existing group has claimed responsibility for the Ξ inscriptions.
+
+No individual or group appears to possess the ability to write it or read it.
+
+Hence, nothing concrete about this writing style is known.
+
+It's not clear if it belongs to any past or present culture, or whether's it's simply a fabrication of \\
+	patterns where none exist.
+
+Only the inscriptions appear, without any known equivalent as spoken word.
+
+I've got guesses, but nothing I'd be comfortable sharing in a place like this.
+
+Only intuitions and mental constructions, after all.
+
+I haven't got a bit of hard evidence.
+
+Or maybe a bit.
+
+Not positive.
 
 ## ο: The little omicrons
 The leetcode kids. Puzzle solvers, lovers of structured homework problems, frantic studyers of how to invert a binary tree on a white board. These may or may not be developers at heart. All we can know for sure is that they're nervous kids doing their best, and studying in precisely the worst way imaginable. There are no interesting polynomial time problems at work. Work involves syscalls and ill-posed problems. Always. Someone tell these kids they're playing sudoku, for the love of god. I mean Christ, it's not their fault.
@@ -95,7 +127,7 @@ The culture of Complexity theory and thick books on algorithms. The people who w
 ## Π: The Pis
 The culture of Computability theory. Part of the orthodocs. The name Π comes from the [Kleene Mostowski hierarchy](https://en.wikipedia.org/wiki/Arithmetical_hierarchy), in which the complexity of the first-order formula that describes a given set is related to its degree of unsolvability.
 
-## Ϻ: Misunderstood (San)
+## Ϻ: The Misunderstood (The Sans)
 The Constructivists.
 
 Named for the deprecated Greek letter [San](https://en.wikipedia.org/wiki/San_(letter)), written Ϻ in uppercase and ϻ in lowercase, and pronounced "S or Sh." Nothing like what one expects at first glance.
