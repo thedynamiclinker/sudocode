@@ -65,7 +65,7 @@
 
 1: I can't imagine what that's like.
 
-0: But that's the backdrop against which the remainder of this file occurs. The history of logic has one of the strangest histories of any field. The people involved didn't build on each other's work for most of the field's history, and until somewhere between 1900 and 1930, "doing logic" meant "constructing an entirely new system to capture "all mental activity" or "all reasoning" or at least a large part thereof -- from scratch -- using new symbols and new notations no one had ever seen before. In short, in these situations, it's important to be...
+0: But that's the backdrop against which the remainder of this file occurs. The history of logic has one of the strangest histories of any field. The people involved didn't build on each other's work for most of the field's history, and until somewhere between 1900 and 1930, "doing logic" meant constructing an entirely new system to capture "all mental activity" or "all reasoning" or at least a large part thereof -- from scratch -- using new symbols and new notations no one had ever seen before. In short, in these situations, it's important to be...
 
 1: What?
 
