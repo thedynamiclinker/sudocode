@@ -115,7 +115,7 @@ Often found in the /boot directory, in kernel space, scrawled in manic graffiti 
 
 Somehow related to the Greek letter [Ξ](https://en.wiktionary.org/wiki/%CE%9E), Chinese character [三](https://en.wiktionary.org/wiki/%E4%B8%89), the Latin letter [L](https://en.wiktionary.org/wiki/L), the Greek letter [Γ](https://en.wiktionary.org/wiki/%CE%93), the Hebrew letter [⅂](https://en.wiktionary.org/wiki/%D7%93), the Chinese characters [日](https://en.wiktionary.org/wiki/%E6%97%A5), [月](https://en.wiktionary.org/wiki/%E6%9C%88), and [曰](https://en.wiktionary.org/wiki/%E6%9B%B0), and sufficiently many others that it's not technically possible to list them all without meeting the DSM-$\forall$[^1]'s diagnostic criteria for mania, and against that background, it's probably best I wrap up.
 
-[^1]: Pronounced: A universal quantification over all current and future versions of the Diagnostic and Statistical Manual of Mental Disorders. Pronounced "Dismal."
+[^1]: A universal quantification over all current and future versions of the Diagnostic and Statistical Manual of Mental Disorders. Pronounced "Dismal."
 
 So far, no existing group has claimed responsibility for the Ξ inscriptions.
 
