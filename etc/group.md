@@ -1,5 +1,5 @@
 
-This following is a comprehensive list of the various cultures in computing and mathematics that we'll encounter throughout the rest of the story, as we track how computing develops from 1937, where we left off, until the modern era of 20XY.
+The following is a comprehensive list of the various cultures in computing and mathematics that we'll encounter throughout the rest of the story, as we track how computing develops from 1937, where we left off, until the modern era of 20XY.
 
 Though our story will follow The Lambdas and The Mus, in order to know how they (i.e. we) fit in to the broader world around us, it is important to gain a better understanding of that world.
 
