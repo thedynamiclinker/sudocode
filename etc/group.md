@@ -69,7 +69,9 @@ The developers at the boundary between the hardware and the software. A mixture 
 
 Mathematical Logic. No elaboration needed.
 
-Elaboration: Father of λ and μ. Loves both children equally. Has praise and criticism for both. While λ was the firstborn and inherited the name, Λ is well aware that μ is several orders of magnitude more successful than λ in its career. Λ doesn't pick favorites. [Λ is what Λ is](https://en.wikipedia.org/wiki/I_Am_that_I_Am).
+Elaboration: Father of λ and μ. Loves both children equally. Has praise and criticism for both. While λ was the firstborn and inherited the name, Λ is well aware that μ is several orders of magnitude more successful than λ in its career. Then again, λ may be the solution to many of μs problems, if they can find a way to get along. 
+
+Either way, Λ loves them both. Λ doesn't pick favorites. [Λ is what Λ is](https://en.wikipedia.org/wiki/I_Am_that_I_Am).
 
 Known to make really bad dad jokes, like spelling"Land" as ΛΛ b/c Λ is L & Λ is And, in Logic Λ Greek respectively.
 
