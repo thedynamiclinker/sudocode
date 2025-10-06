@@ -1,8 +1,10 @@
 ## The Word
 
-In the beginning of the Authors' creating the book, the book was shapeless and formless, and the Authors thoughts were hovering over the face of the paper.
+In the beginning of the Authors' creating of the book, the book was shapeless and formless, and the Authors thoughts were hovering over the face of the paper.
 
-And the Authors said "Let there be a space, and let it separate the code above from the code below."
+The Authors said "L", and there was an L.
+
+And the authors said "et there be a space, and and let it separate the code above from the code below."
 
 The Authors called the code above "kernel space," and the code below "user space."
 

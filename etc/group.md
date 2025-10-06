@@ -14,13 +14,14 @@ _(Narrator: No relation to the webserver. I'm assuming he meant [[fsck#The Peopl
 ---
 # The /etc/groups
 
-
 ## α: Algebra
 
 > _Abstract Algebra PhD student, to her mentor: What do you picture when you picture a Group?_
 > _Abstract Algebra Professor: A capital G._
 >
 > -Anonymous Algebraist
+
+TODO: Give 1 a repl on group theory, ring theory, and field theory. Give examples and do one simple proof.
 
 ## β: Unassigned
 
@@ -35,10 +36,10 @@ It's not polite to call a group the betas.
 Began with Euclid. Was considered foundations for roughly 2000 years. Now consists of differential geometry and all manner of tensors. Basically fancy calculus on shapes.
 
 ## δ: Calculus
-This includes differential and integral calculus in one variable, multiple variables, or infinitely many variables in the so-called calculus of variations. This culture is marked by its use of infinitesimals rather than the semi-formal methods of "analysis" popularized by Weierstrass, Dedekind, Cauchy, et al. This culture is found primarily in physics departments, though it is equally at home in applied mathematics.
+The subjects that began with Newton and Leibniz and which are now called Calculus. This includes differential and integral calculus in one variable, multiple variables, or infinitely many variables in the so-called calculus of variations. This culture is marked by its use of infinitesimals rather than the semi-formal methods of "analysis." Found primarily in physics departments, though it is equally at home in applied mathematics. 
 
 ## ε: Analysis
-This includes real analysis, complex analysis, functional analysis, and any semi-formal approach to the subjects that began with Newton and Leibniz and which are now called Calculus. Distinguished by their use of ε-δ arguments.
+This includes real analysis, complex analysis, functional analysis, and any of the semi-formal methods popularized by Weierstrass, Dedekind, Cauchy, et al. in an attempt to make the arguments of the δs "rigorous." Distinguished by their use of ε-δ arguments.
 
 ## ζ: Number theory
  Don't be misled by the name. This field isn't just about numbers. In fact it barely even involves numbers at all these days, except perhaps a prime here and there. This group is named for the Riemann Zeta function. I won't elaborate further. Suffice it to say this group is culturally distinct in nearly every way from the "formal number theory" of first order arithmetic, commonly seen in foundational cultures.
@@ -53,7 +54,7 @@ This includes real analysis, complex analysis, functional analysis, and any semi
 Often referred to as The Cathedral, The Catedral, The Cat-holics, The Abstract and Concrete Cats, The Easiest Way to Get Tenure By Doing Nothing, The Hardest Way to Get Tenure By Doing Anything, and various other harmless slurs. Members most commonly refer to themselves as "The Naturals," by the term "Generalized Abstract Nonsense," or simply by drawing diagrams.
 
 ## θ: Topology and Homotopy
-Theta, "TH", includes the Topologists and Homotopy theorists, but does not include Topos theory. Topos theory claims to be many things, but it is not yet clear (even to Topos theory) what, in fact, it is. Therefore this group includes the topologists and topology adjacent mathematics cultures, with the exception of the Topos people as they are still [sketching their elephant](https://ncatlab.org/nlab/show/Sketches+of+an+Elephant).
+Theta, "TH", includes the Topologists and Homotopy theorists, but does not include Topos theory.
 
 ## ι: Hardware
 The iotas. One of two greek letters that means "small." Hardware people want the hardware smaller. Software people want the software smaller. These are the hardware people. The IOtas.
@@ -87,14 +88,14 @@ Bibles are a big bag of dad jokes.
 So sayeth the ΛVΔ.
 
 ## μ: The mus
-0: Descendants of Godel & Turing. Machines, Moore's Law, practical computing, von Neumann architecture, eventually Unix, C, Python, and everything that runs the modern world. Culturally distinct from the lambdas, though the two cultures share a common origin, and have been gradually recognizing their need for a return to a common culture in recent years. Examples include the increasing presence of lambda expressions in μ languages, and the increasing recognition of the need to minimize shared mutable state.
+0: Descendants of Turing. Machines, Moore's Law, practical computing, von Neumann architecture, eventually Unix, C, Python, and everything that runs the modern world. Culturally distinct from the lambdas, though the two cultures share a common origin, and have been gradually recognizing their need for a return to a common culture in recent years. Examples include the increasing presence of lambda expressions in μ languages, and the increasing recognition of the need to minimize shared mutable state.
 
 )...
 ## ν: Artificial Intelligence
 > _Have you heard the good news?_
 > -An absolute fanatic.
 
-The nus. Cousins of λ & μ, the νs have been around since the beginning of computing, though they are a culturally separate people with distinct norms and traditions from the λs and μs, primarily due to the influence of the δs via backpropagation and the concept of "training" via the concept of gradient descent. The culture of the nus has been shaped by repeated mass immigrations and emigrations of outsiders due to hype. The culture therefore consists of an unusual mixture of devoted intellectuals and distracted business types and assorted hype gremlins. In this sense it is not dissimilar from the culture found in cryptocurrency circles. Always focusing on the "new," the nus are the only culture in computing and mathematics known to undergo regular boom-bust cycles, known in the field as "AI winters." The existence of these boom-bust cycles is not due to the nature of the discipline itself, but rather due to the popular appeal of its core goals which has a tendency to attract non-technicals who are interested in anything "nu." Predictably, the non-technicals often grow bored and leave as quickly as they came. As a result, members have grown wary of any mention from outsiders that their field has become "over-hyped," and members were often heard in past eras to utter among themselves the phrase "winter is coming", as they prepared for the funding to dry up and the excitement to abate for another generation. Many believe that the final AI winter has now passed, though the elder members are split among themselves on this issue, both with regard to whether they believe this is in fact the case, and with regard to their individual "p doom" -- the probability each person assigns to the proposition that the accelerating advances in their field will literally lead to the collapse of civilization and/or the destruction of all human life.
+The nus. Cousins of λ & μ, the νs have been around since the beginning of computing, though they are a culturally separate people with distinct norms and traditions from the λs and μs, primarily due to the influence of the δs via backpropagation and the concept of "training" via gradient descent. The culture of the nus has been shaped by repeated mass immigrations and emigrations of outsiders due to hype. The culture therefore consists of an unusual mixture of devoted intellectuals and distracted business types and assorted hype gremlins. In this sense it is not dissimilar from the culture found in cryptocurrency circles. Always focusing on the "new," the nus are the only culture in computing and mathematics known to undergo regular boom-bust cycles, known in the field as "AI winters." The existence of these boom-bust cycles is not due to the nature of the discipline itself, but rather due to the popular appeal of its core goals which has a tendency to attract non-technicals who are interested in anything "nu." Predictably, the non-technicals often grow bored and leave as quickly as they came. As a result, members have grown wary of any mention from outsiders that their field has become "over-hyped," and members were often heard in past eras to utter among themselves the phrase "winter is coming", as they prepared for the funding to dry up and the excitement to abate for another generation. Many believe that the final AI winter has now passed, though the elder members are split among themselves on this issue, both with regard to whether they believe this is in fact the case, and with regard to their individual "p(doom)" -- the probability each person assigns to the proposition that the accelerating advances in their field will literally lead to the collapse of civilization and/or the destruction of all human life.
 
 ## νega: Finance
 The letter "vega" is a non-existent Greek letter, arising from Finance Bros seeing the letter "ν" (nu) used as a parameter to describe the volatility of stock options, and then pretending to know what letter it is. This culture is neither part of mathematics nor computing, though the various other cultures described here have often been found working technical jobs in companies alongside them, with varying degrees of amusement and nihilism.
@@ -139,7 +140,7 @@ Or maybe a bit.
 Not positive.
 
 ## ο: The little omicrons
-The leetcode kids. Puzzle solvers, lovers of structured homework problems, frantic studyers of how to invert a red-black tree on a white board. These may or may not be developers at heart. All we can know for sure is that they're nervous kids doing their best, and studying in precisely the worst way imaginable. There are no interesting polynomial time problems at work. Work involves syscalls and ill-posed problems, often presented in the form of mysteries that no one is even attempting to solve, let alone assign to you as work. It's your job to find out what the interesting problems are, and learn to tell the signal from the noise, because in the real world no one's gonna be there to do it for you. Someone tell these kids they're playing sudoku. They don't know. They're new. I mean Christ, it's not their fault. Academia's dead.
+The leetcode kids. Puzzle solvers, lovers of structured homework problems, frantic studyers of how to invert a red-black tree on a white board. These may or may not be developers at heart. All we can know for sure is that they're nervous kids doing their best, and studying in precisely the worst way imaginable. There are no interesting polynomial time problems at work, kids. Work involves syscalls and ill-posed problems, often presented in the form of mysteries that no one is even attempting to solve, let alone assign to you as work. It's your job to find out what the interesting problems are, and learn to tell the signal from the noise, because in the real world no one's gonna be there to do it for you. Someone tell these kids they're playing sudoku. They don't know. They're new. I mean Christ, it's not their fault. Academia's dead.
 
 ## Ο: The big Omicrons
 The culture of Complexity theory and thick books on algorithms. The people who write the leetcode problems consumed exclusively by the little omicrons. This is a largely insular two-sided subculture, and it is nearly but not entirely orthogonal from developer culture at large. Adjacent to big Pi, computability theory. Part of the orthodocs.
@@ -154,7 +155,7 @@ Named for the deprecated Greek letter [San](https://en.wikipedia.org/wiki/San_(l
 
 Often described as a Σ turned sideways, both in its shape, and culturally as an area of mathematics (see Σ below).
 
-Visually similar to Ξ if we allow a cross-language pun, but it's generally assumed that this is an accident, and definitely not some kind of blessing from the gods or an omen about how the ϻeek will inherit the earth. I mean wtf even is San? That's not even Greek.
+Similar to Ξ if we allow a cross-language pun, but it's generally assumed that this is an accident, and definitely not some kind of blessing from the gods or an omen about how the ϻeek will inherit the earth. I mean wtf even is San? That's not even Greek.
 
 (Linguistic Note: Though San had become largely deprecated and fallen into disuse by the latter half of the 5th century BC, it is often found in abecedaria, particularly those recovered from churches. San became largely obsolete by the second half of the fifth century BC, when it was generally replaced by sigma. Represents no known culture or people in userspace. Despite this, it is often found in enumerations of the /etc/groups, for unknown reasons. See [[abecedarium|/usr/share/dict/abecedarium]] for more details.)
 
@@ -200,6 +201,7 @@ Sitting here between two weirdos, others often fail to notice it. Named sigma, d
 - Claims to be theta.
 - Speaks like eta.
 - All introductions and and prose paragraphs sound like Λ, λ, μ or Ϻ (san).
+- Topos theory claims to be many things, but it is not yet clear (even to Topos theory) what, in fact, it is. For this reason, the group θ described above includes the topologists and topology adjacent mathematics cultures of homotopy theory, but not the Topos people as they are still [sketching their elephant](https://ncatlab.org/nlab/show/Sketches+of+an+Elephant).
 
 ## Υ / υ: The Fork
 

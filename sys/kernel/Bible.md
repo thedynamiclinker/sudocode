@@ -66,7 +66,7 @@ This date is often predetermined as early as page one of the creation story, and
 Against that background, in what follows, we will take the end of time to be January 19th, 2038.
 
 
-![[unix-time-end.png]]
+![[include/boot/unix-time-end.png]]
 
 ## Frequently Asked Questions
 

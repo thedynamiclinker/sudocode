@@ -1,7 +1,70 @@
 
----
+![[the-first-draft-of-anything-is-shit-wallpaper.jpg|300]]
 
-Above all else, you must do this:
+
+## Summary
+
+1. Write the five "repl" dialogues in lost+found.
+2. Submit the bash bugfix.
+
+## The Repl
+
+Since 1 is a programmer, 1's not super articulate in words, so for the first part of the book (before lost+found) 1 is mostly a supporting character and is mostly listening and learning, but the knowledge flows in one direction.
+
+In the two files:
+
+- lost+found/1/5 (the technical part of infinity and Cantor)
+
+- lost+found/2/5 (the technical part of logic and Russell)
+
+0 starts to notice that 1 is extremely good at asking deep insightful questions _once things get technical._
+
+0 is super impressed by how deep 1's questions are about technical stuff.
+
+1 insists they're not deep, she's just a programmer, and she just wants a repl.
+
+Since 1 grew up in the era of interpreted languages with interactive shells (as opposed to the older era of only compiled languages or the even older era of math) the idea is that she grew up expecting to be able to experiment with technical stuff and see how it works, because documentation is always crap even when it's good.
+
+We've established that 0 loves the shell.
+
+What we learn once we get to the technical dialogues in lost+found is that 1 needs a repl to feel like she understands something. A repl is the best teacher.
+
+So whenever they're doing cantor's infinity stuff or first order logic or lambda calculus or whatever, 1 keeps wanting a repl so she can interactively see wtf the books mean because she feels like the books are vague and unclear.
+
+Etc etc roughly this idea: 
+
+0: Most of the time I think you don't know anything
+
+1: Hey!
+
+0: No no, it's a compliment.
+
+1: Didn't sound like one.
+
+0: I was gonna say most of the time it doesn't seem like you know anythi---
+
+1: You don't need to say it again!
+
+0: ---BUT once things get technical suddenly you seem like you know everything about this stuff---
+
+1: That's because I don't know anything about this stuff. I'm a developer.
+
+0: No I mean once things get technical, suddenly you seem to know everything about this stuff that's missing or incompletely specified.
+
+1: I just want a repl!
+
+0: Exactly! Because you're always wanting a repl on things, you're able to see things no one else usually sees.
+
+1: Is a repl so much to ask?
+
+0 and 1 then agree at the end of lost+found/2/5 (right before we get to Church Gödel Turing) that when it's time for the technical stuff, 0 will act as 1's repl, and let her try things interactively while 1 says "ok" or "error: explanation of why."
+
+We eventually get:
+- a repl on infinity
+- a repl on logic
+- a repl on lambda calculus 
+- a repl on general recursive functions (for this one she has basically no questions and just goes "yeah this is obvious," but then hears what Gödel's theorem actually says and gets mad because it's basically doing the same kind of thing she was told earlier isn't allowed: mixing the formal language and the informal meta language.)
+- a repl on turing's paper (for this one she also isn't particularly confused. once you have a repl on a turing machine you realize you're just using it to interactively write on paper, so the whole thing is pointless if it isn't automatic.)
 
 ## N + P = Complete
 
@@ -18,25 +81,6 @@ Thought: The N and P volumes.
 - This is it.
 
 - This is the way.
-
----
-
-
-![[the-first-draft-of-anything-is-shit-wallpaper.jpg|300]]
-
-Tl;dr:
-- Book proposal soon.
-- Just need to submit the bash bugfix.
-
-Soon:
-- Add "sign of the dollar" password hint somewhere in or around /etc/group. Phoenician Qoph, Phoenician Giml.
-- Need to draw this in Excalidraw or by hand. Fonts aren't good enough to do it properly.
-
-Fundamentally Important and Will Also Be Fun To Write:
-- /mnt/sinai needs to be a dialogue.
-- The little lambs can't absorb raw information without a shepherd, aka entertainment, aka a dialogue.
-- Write one.
-- And give the ~~Authors~~ Λ vibes.
 
 ## Church
 - [ ] Import video notes from what is mathematics vault.
@@ -73,15 +117,20 @@ Fundamentally Important and Will Also Be Fun To Write:
 - [ ] /mnt/sinai: Maybe this contains a dialogue, and the point of it is for the Authors to show 0 that the same thing can have different names (Sinai and Horeb maybe being the same mountain), or different things can have the same name (El and YHWH being called "Lord"). 0 then realizes how to structure the creation story of computing from the source documents.
 - [ ] /mnt/sinai: There needs to be enough in here or elsewhere to allow for the privesc via /sbin/sudo. Some hints are in here. Others can be elsewhere. The images now in /var/include/learn-the-alphabet are relevant.
 
+## The Tiger: The Tora Data structure
+
+- Genesis: In the beginning, there was simplicity and background information about how we got to the actual beginnind.
+- Exodus: Ok, begin story. Once upon a time life sucked and everything was way too complex so we left to make something new and simple. We started with simple code: ten rules, one line each. The people didn't like this and complained that the old way was better. Tl;dr: We tried simplicity and founder mode but the people didn't like it and complained that the old way was better.
+- Leviticus: Every time something bad happened the people demanded we add new commandments. We ended up with eight million goddamn unhelpful laws. Our simple thing got complex just like the place we left.
+- Numbers: That led to endless bitching and moaning and complaining by the normies about how things suck now and used to be better before, because they don't remember they were unhappy back then too so they're just blaming the new thing now cuz it's the thing. Tl;dr: We tried complexity and structure and bureaucracy mode but the people didn't like it and complained that the old way was better.
+- The Second Law: The Leaders are getting old. The people aren't remotely capable of filling their shoes, and the first round of complainers is mostly dead. But their kids have now grown up in the new system, and it's time to pass on the lessons we've learned in this lifetime before we pass on. Kids hate complexity anyway, so "Turn the lessons into a kids book" is a great excuse to delete the complexity that accumulated over the years. So we refactor the complex pile that our simple idea became, and reiterate it in its simple form. Also bring along a small subset of the detailed complex stuff we learned along the way, but mostly return to where we were in step two so we don't become the thing we left in step two. Repeat until the lesson is forgotten and you become Egypt and it's just time to die.
+
 ## /lib/tor.a
 
-- [ ] Use Richard Elliot Friedman's "Commentary on the Torah" to show the reader what a strange writing style we're actually dealing with.
+- [ ] Use [[The Bible Translated]] to show 1 what a strange writing style we're actually dealing with. This convinces 1 that the bible genre is hilarious and fun and we need one.
+
 - [ ] In this file, make it clear that lost+found was our first attempt at the lost art of bible authorship.
 
-
-- [ ] Harvey Friedman "formalization-of-mathematics.pdf" needs a chapter SO BAD that I think it maybe matters more than anything else in the book. This is a revolution larger than Gödel that has been entirely ignored because people don't notice things when they matter. People notice things when noticing them makes their life better somehow. We'd like to clarify that this isn't a criticism and we remain agnostic about the "somehow." But people noticed Gödel because it made their lives better, and people haven't noticed Friedman because it doesn't. But he loves mathematics, at least as much as Gödel. He's more extroverted than Gödel in none of the obnoxious ways and all the positive ways. And he's completely not a public figure in any way, even though he's an incredible teacher. In other words there's a man who falls into all the cracks that allow a person to be maximally valuable to history while being minimally noticed. So fuck that shit. He gets a chapter in the bible. Several probably. Because he matters more than docker or postgresql or any of the dumb shit we in computing focus on. So here's Harvey. He belongs in our history. He's already made a place for himself in some history. But it's the history of foundations of mathematics, and nobody pays attention to foundations of mathematics these days. Here's Harvey. (Begin commentary on "The Formalization of Mathematics." Take the screenshots on your phone. It's a masterpiece, all in monospace, and it looks better in phone format. Get this published. Otherwise no one outside the obscure foundationals is gonna hear.)
-
-- [ ] Walter Pitts of McCullough and Pitts is a fascinating character. Used to crash Bertrand Russell lectures at age 15. Was homeless when he presented Carnap with an annotated copy of his book. Carnap looked around forever trying to find who this kid was. Pitts was extremely eccentric and avoided any situation that would require him to sign his name. He was aware of Leibniz's ideas about a universal language or universal computing machine, and he used that and Turing's ideas as the basis for the first ever paper on neural networks.
 
 - [ ] Gödel dialogue: "Mr Why."
 - [ ] Gödel dialogue: The incomplete story of incompleteness: Definitely need to mention the rarely discussed side effect of the incompleteness theorems: If mathematics is more limited than we thought, suddenly it becomes a lot more plausible to define "computation." Even the space of "all possible computations" is potentially within the reach of a formal definition. Though many of the main players involved in the early theory of "effective calculability" didn't expect that they were capturing all possible computations in their definitions, it's probably not an accident that all 3 of our definitions of "computable" appeared within 5 years of Gödel's incompleteness theorems. In the years from 1900 to 1931, it simply didn't feel plausible to give a definition that might hope to capture all possible computations. In a very real sense, we may owe the origins of modern computing to the discovery of incompleteness.
@@ -178,49 +227,7 @@ Testament +1
 - [ ] /var/lib/rectangles: At some point, in the course of explaining the /etc/groups, we visit a relational database as a location in the filesystem and be like "this is a fucking abomination."
 - [ ] Make this point somewhere: The "ALU" field -- formal logic and formal arithmetic -- is unique among all technical fields in that it requires no outside prerequisites in order to understand the advanced results in the field and to read the original papers. To be sure, these original papers are often extremely technical, much more technical than most advanced mathematics, but they are far more precise and self-contained than standard mathematics. They typically do not assume the reader has a large amount of background provided elsewhere. The exceptions that prove the rule are confined mostly to informal or semi-formal set theory as found in for example Jech (Set Theory) and Kanamori (The Higher Infinite). Reading Jech feels as if one is reading a normal mathematics book that happens to be about sets. Reading Kanamori feels like one is reading an academic paper or series of them that mixes history with definitions and results that are very hard to understand the motivation of without "culture provided elsewhere." The ALU field is different. It's content is quite literally the arithmetic one learns in kindergarten, and the logic one barely has to be taught. Starting from these intuitive primitives, the subject creates formal languages designed to capture these most basic of notions, and this process is open to readers with no background whatsoever in the field. This is less true for monographs on model theory and proof theory, and it becomes less true for post-Kleene 1952 books on computability and eventually complexity, which often manage to read more like standard mathematics than like foundations. Nevertheless, the ALU field provides foundations in the realest sense of the word. It is the historical origin, the cultural origin, and the logical/technical/formal origin story of the field we now call computing. And its most technical results can be appreciated, with some work, by anyone who regularly reads or writes code in any language.
 - [ ] Realization: The first law of mathematics: Semantics beats Syntax. Symbols aren't special. All mathematically meaningful quantities are invariant up to isomorphism, and isomorphism means renaming. The first law of foundations: Syntax beats Semantics. Any interpretation of the symbols is equally permissible, provided it's consistent with the syntax. Model theory results from this. This is not as diametrically opposed to the above law mathematics as it seems, but they are distinct approaches.
-- [ ] When theres nothing left to take away.
-
-- [ ] Put these "document fragments" somewhere or reimplement them in Excalidraw.
-
-![[lost-and-foundations.jpg]]
-
-
-## begat list
-
-If it helps - The "begat" list - How to fast forward the story to 20XY
-
-- [ ] Cantor: Shows vulnerability.
-- [ ] Russell: Exploits vulnerability.
-- [ ] Hilbert: Organizes bounty.
-- [ ] Trinity: Church, Göd, Martyr.
-- [ ] Apostles & Epistles:
-  - [ ] Steve Kleene (next to Gödeliness). Cleaned up Gödel's "first code ever written" and disseminated the Gödel and Turing senses of computation to the world. Original programmer in Lambda calculus under Church.
-  - [ ] John νon Neumann (Neumann János Lajos) the superhuman. Gave a definition of Ordinals that superseded Cantor's definition. Axiomatized Cantor's set theory for his PhD thesis. Studied under David Hilbert. Persistent self doubts, thought Gödel would be remembered with Pythagoras while he would be forgotten. Nobel Laureate Hans Bethe said "I have sometimes wondered whether a brain like von Neumann's does not indicate a species superior to that of man." Go to Accolades on Wikipedia page. Quote: von Neumann "was the first to have a vision of the boundless possibilities of computing, and he had the resolve to gather the considerable intellectual and engineering resources that led to the construction of the first large computer"
-- [ ] Trinity begets three spirits: λ, μ, ν.
-
-- [ ] λ thread: Language, Large, Lisp.
-- [ ] Church & Steve influence McCarthy.
-- [ ] MacCarthy creates Lisp (λ, ν)
-- [ ] Lisp inspires ISWIM and ML. (λ)
-- [ ] ML inspires the Haskell group (λ)
-- [ ] Haskell group: Simon, Philip. John Backus as God. The New Testament of the lambda.
-- [ ] Coq, Idris, Agda: the theorem provers.
-- [ ] Finally: λμν merge in: Lean. The foundational people begin to reach the mathematicians. Mathlib is born. Kevin spreads the word to the normal mathematicians. Tao converted, begins to use @2 (ν) in Lean (λ) to explore pure mathematics founded on a non-human mind (μ).
-
-- [ ] μ thread: Metal, Micro.
-- [ ] Göd & Martyr influence Von Neumann. Martyr is Turing with bits of Post and Gödel. Mental illness and madness mixed with brilliance.
-- [ ] ENIAC built in 1945. "However, instead of the stored-program computers that exist today, ENIAC was just a large collection of arithmetic machines, which originally had programs set up into the machine by a combination of plugboard wiring and three portable function tables (containing 1,200 ten-way switches each)."
-- [ ] Von Neumann meets Herman Goldstine, creator of ENIAC, in 1944. Writes " First Draft of a Report on the EDVAC." Builds IAS machine from 1946 to 1951. The μ family is now under way.
-- [ ] Unix thread and Ken live here.
-- [ ] Most of the book probably takes place here.
-- [ ] Finally: λμν merge in: Nix and Wnix. The classical μ system (Unix) meets the lambda school to become NixOS and combined with @2 creates Wnix.
-
-- [ ] ν thread: Neuro, New.
-- [ ] Began with Turing's paper on the Imitation game.
-- [ ] Led to McCullough and Pitts (Pitts was a logician). Pitts was an amazing character and should be covered. See personal life and death section of wikipedia page. He's clearly one of the Foundational People.
-- [ ] Rumelhart and McClelland PDP.
-- [ ] Geoff Hinton's 40 years in the desert.
-- [ ] Finally: λμν merge in: Unclear. We have the clear meeting of μ and ν with Alexnet, transformers, and GPT, once it becomes practical to run these programs on conventional machines with the addition of GPUs. Tensorflow is now moving in a more functional direction with Jax, but not sure how to make that timeless. To be continued.
+- [ ] The nus: Walter Pitts of McCullough and Pitts is a fascinating character. Used to crash Bertrand Russell lectures at age 15. Was homeless when he presented Carnap with an annotated copy of his book. Carnap looked around forever trying to find who this kid was. Pitts was extremely eccentric and avoided any situation that would require him to sign his name. He was aware of Leibniz's ideas about a universal language or universal computing machine, and he used that and Turing's ideas as the basis for the first ever paper on neural networks.
 
 
 ## shave and a haircut - two bits
@@ -404,16 +411,11 @@ Q: What does it mean to make something truly timeless that represents our age of
 - User space consists of a linear narrative, in the form of dialogues between two characters: 0 and 1.
 - The entire book and all its content must be representable linearly on the page, in printed word, in the form of a conventional book.
 
-## Memories
-
-It's seriously wonderful to be back in real "writing" mode again.
-
-There have been a couple things that felt vaguely like this since Burn Math Class, like the Radicalize era and On The Lamb, but neither of those were technical writing about a technical field where I got a chance to explore how a given set of technical content mixes with basically every possible genre on the planet.
-
-The "bible" theme has been so central since early Radicalize in 2017 because it's the only way to explain _why_ it might be useful to combine essentially every conceivable genre in a book without justifying that decision with something postmodern and dumb.
-
-Back to writing.
-
-Just wanted to put this here.
 
 ![[writing-mode-activated.jpg]]
+
+---
+
+
+
+![[when-theres-nothing-left-to-take-away.png]]

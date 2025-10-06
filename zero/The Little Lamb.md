@@ -1,14 +1,240 @@
 
-TODO: Rewrite all this from scratch, in 0 and 1's proper voices.
-TODO: Teach it to Ra on paper and add in any confusions that come up.
-TODO: Add in some more blind alleys and potential reader confusions in 1's voice.
-TODO: Don't use the overly pretentious terminology.
-TODO: Add excalidraw images whenever a reduction isn't clear.
+## λ0 - Untyped λ-calculus
+### Or: Church's First Try
+
+#### Be My Repl
+
+0: Church did this.
+
+0 := λf. λx. x
+1 := λf. λx. f x
+2 := λf. λx. f (f x)
+3 := λf. λx. f (f (f x))
+4 := λf. λx. f( f (f (f x)))
+succ := λn. λf. λx. f (n f x)
+
+1: I'm not ready to hear what Church did.
+
+0: You're not ready for the definition?
+
+1: No.
+
+0: What do you mean?
+
+1: I mean that definition makes no sense to me. Back up to the part where they derive that.
+
+0: Derive what?
+
+1: The definition.
+
+0: Church doesn't do that in this paper.
+
+1: Ok can we find a textbook that does?
+
+0: Sure, let's go look.
+
+(Narrator: 0 and 1 go find some other textbooks on λ calculus.)
+
+0: This one doesn't have it either.
+
+1: Same with this one.
+
+0: Y'know I've actually never seen the kind of derivation you're asking for before.
+
+1: Well what did Kleene use as a repl? 
+
+0: He didn't have a repl.
+
+1: How did he know if something he tried worked or not?
+
+0: I think Church was his repl.
+
+1: Well we can't do that! He's not here. And his paper isn't finished.
+
+0: Don't blame Church, this is just how mathematicians write.
+
+1: I thought he was a foundational person.
+
+0: He is. I just mean if you publish in academic journals you have to write their way.
+
+1: Be my repl.
+
+0: How so?
+
+1: I'll write stuff. You tell me if it's a syntax error or not. Then when I plug things into functions, you evaluate them.
+
+0: Ok.
+
+1: x
+
+0: (Says nothing)
+
+1: So?
+
+0: What do you want me to say?
+
+1: I dunno, say yes if it's ok, or error if it's an error. Is that ok?
+
+0: yes
+
+1: x
+
+0: yes
+
+1: x y
+
+0: hmm
+
+1: That's not very repl.
+
+0: I'm thinking.
+
+1: About what?
+
+0: I don't know if that's syntactically valid.
+
+1: I thought you knew this system.
+
+0: I mean, you have a free variable, and then you plugged it into another free variable. They're both functions. Cuz everything's functions. But neither of them has any lambdas in it. So idk. Whether or not we decide that that's syntactically ok, either way, we can't reduce it any further. It just sort of sits there.
+
+1: Ok, what about this.
+
+λx. x
+
+0: That's ok.
+
+1: What about λx: 3
+
+0: There's no 3 yet.
+
+1: Oh right. How about this?
+
+λx. y
+
+0: That's ok.
+
+1: You're supposed to say yes
+
+0: Ok
+
+1: λx. λx. x
+
+0: error
+
+1: Why?
+
+0: Try plugging something into it.
+
+1: I thought there was no 3 yet.
+
+0: Treat it like a variable.
+
+1: What?
+
+0: I just mean plug something into that thing you just defined. Something that doesn't feel like a variable, so you don't get confused.
+
+1: 
+
+(λx. λx. x)(3)
+
+= λ3. 3
+
+0: You can't do lambda of three.
+
+1: Why not?
+
+0: 3 isn't a variable.
+
+1: I thought you said treat it like a variable.
+
+0: Ok nevermind. Use a.
+
+1:
+
+(λx. λx. x)(a)
+
+= λa. a
+
+0: Now plug a into this: λx. λy. x
+
+1: 
+
+(λx. λy. x)(a)
+
+= λy. a
+
+(Continue)
 
 ---
 
-## λ0 - Untyped λ-calculus
-### Or: Church's Inconsistent System
+(Later, when trying to define the natural numbers)
+
+1: Why not this?
+
+succ := λn. λf. f n
+
+0 says I dunno, let's see how it works:
+succ 2 = (λn. λf. f n)(λf. λx. f (f x))
+       = λf. f (λf. λx. f (f x))
+       oops I mean
+       = λf. f (λg. λx. g (g x))
+
+1: Ok that looks weird, I dunno how to think about what's going on here.
+
+0: Let's start over. You're trying to define something like this right?
+
+0 ≈ x
+1 ≈ f(x)
+2 ≈ f(f(x))
+3 ≈ f(f(f(x)))
+
+1: Why the squiggly equals signs?
+
+0: I just meant "You're trying to do that, but without the f and x being free variables" right?
+
+1: Yeah exactly.
+
+0: So let's just toss some lambdas outside.
+
+1: What's the point of that?
+
+0: I dunno. It'll get rid of the free variables.
+
+1: Ok, here:
+
+0 := λf. λx. x
+1 := λf. λx. f x
+2 := λf. λx. f (f x)λf. λx. f (f x)
+3 := λf. λx. f (f (f x))
+4 := λf. λx. f( f (f (f x)))
+
+0: What's +1
+1: Just wrap another f around it.
+0: Around the outside?
+1: No, around the inside.
+0: How do we do that if we only have 3 system calls?
+
+---
+
+Lambda Calculus System Calls, since 1 insists.
+
+There's only one type, but we're gonna pull an Alonzo Church and give the one type 3 different names below, depending on how we're thinking about it. It's really all the same type though. Everything's Alonzo Church. I mean functions.
+
+1: mkvar: takes a string, makes a var
+2: mkfun: takes a var x and an expr e, makes λ x: e
+3: rmvar: takes a fun f and an expr e
+
+
+succ := λn. λf. λx. f (n f x)
+
+---
+
+1: I don't think number having free variables inside them is any weirder than numbers having parameters that you can pass stuff into.
+
+
+---
+
+## Raw Materials
 
 0: We have only three syntactic forms:
 
@@ -65,8 +291,71 @@ Every step is a β-step.
 ```
 0 := λf. λx. x
 1 := λf. λx. f x
-2 := λf. λx. f (f x)
+2 := λf. λx. f (f x)λf. λx. f (f x)
+3 := λf. λx. f (f (f x))
+4 := λf. λx. f( f (f (f x)))
 succ := λn. λf. λx. f (n f x)
+
+1 says why not this?
+succ := λn. λf. f n
+
+0 says I dunno, let's see how it works:
+succ 2 = (λn. λf. f n)(λf. λx. f (f x))
+       = λf. f (λf. λx. f (f x))
+       oops I mean
+       = λf. f (λg. λx. g (g x))
+
+1: Ok that looks weird, I dunno how to think about what's going on here.
+
+0: Let's start over. You're trying to define something like this right?
+
+0 ≈ x
+1 ≈ f(x)
+2 ≈ f(f(x))
+3 ≈ f(f(f(x)))
+
+1: Why the squiggly equals signs?
+
+0: I just meant "You're trying to do that, but without the f and x being free variables" right?
+
+1: Yeah exactly.
+
+0: So let's just toss some lambdas outside.
+
+1: What's the point of that?
+
+0: I dunno. It'll get rid of the free variables.
+
+1: Ok, here:
+
+0 := λf. λx. x
+1 := λf. λx. f x
+2 := λf. λx. f (f x)
+3 := λf. λx. f (f (f x))
+4 := λf. λx. f( f (f (f x)))
+
+0: What's +1
+1: Just wrap another f around it.
+0: Around the outside?
+1: No, around the inside.
+0: How do we do that if we only have 3 system calls?
+
+---
+
+Lambda Calculus System Calls, since 1 insists.
+
+There's only one type, but we're gonna pull an Alonzo Church and give the one type 3 different names below, depending on how we're thinking about it. It's really all the same type though. Everything's Alonzo Church. I mean functions.
+
+1: mkvar: takes a string, makes a var
+2: mkfun: takes a var x and an expr e, makes λ x: e
+3: rmvar: takes a fun f and an expr e
+
+
+succ := λn. λf. λx. f (n f x)
+
+---
+
+1: I don't think number having free variables inside them is any weirder than numbers having parameters that you can pass stuff into.
 ```
 
 Compute `(succ 1)`:
