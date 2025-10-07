@@ -121,4 +121,4 @@
 
 - So sayeth the L||D.
 
-- [[sh#First Principles|EOF]].
+- [[bin/sh#First Principles|EOF]].

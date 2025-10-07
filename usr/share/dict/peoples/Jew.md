@@ -1,0 +1,1 @@
+Type: [[First]], [[usr/share/dict/religion/Bible|Bible]], [[People]]

@@ -109,4 +109,4 @@ echo "$(case a in b) echo 'hi!';; esac)"
 
 So as I was saying...
 
-goto: [[sh#There|There]].
+goto: [[bin/sh#There|There]].
