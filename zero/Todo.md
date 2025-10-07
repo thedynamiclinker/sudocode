@@ -6,6 +6,19 @@
 1. The Book of Users: /usr
 ```
 ![[the-first-draft-of-anything-is-shit-wallpaper.jpg|300]]
+## Todo
+3:20 Add "For some random reason, set theory won." both to the dev directory and also to the Church ZFC section.
+
+13:40. The software I just showed you is called Lean. Major mathematics funding agencies are now involved.
+
+17:06. Everything is wrong!
+
+Submit refill.
+Do +=1 n.a. & mv vdo.
+Do mm AMZN thing.
+Fix up the book with a quick run.
+San Sigma con Nus L8
+
 
 ## Summary
 
