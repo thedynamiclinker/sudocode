@@ -6,7 +6,7 @@ The Authors said "L", and there was an L.
 
 The Authors said "d", and there was a d, because they meant to press "e", and the letters are right next to each other.
 
-So the Authors said "backspace", and continued where they left off, by saying
+So the Authors said "backspace", and continued where they left off, saying
 
 "et there be a space, and and let it separate the code above from the code below."
 

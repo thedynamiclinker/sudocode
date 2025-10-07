@@ -20,14 +20,6 @@ Speaking of open source, the communities that grew up around these odd data stru
 
 This is an impressive set of features, to say the least.
 
-%%
-Whatever you believe about the issues above, there is something to be admired in a group that can combine fearless lawbreaking with sufficient cultural stability to pass on their stories for multiple millennia.
-
-Centuries from now, what will be remembered of our people, the developers from the era of `/(19|20)\d{2}/`?
-
-We can't say. But we believe there are stories and lessons from this first century of computing that are worth transmitting to our counterparts in the future, in as lossless and timeless a manner as possible.
-%%
-
 We therefore see it as our job to reverse-engineer and understand the data storage format known as bibles, and the open source communities that maintain them, so that this technology may be more widely deployed in non-religious contexts like filesystems, databases, distributed object stores, artificial neural networks, or anywhere the need for persistent data storage is found.
 
 Jokes aside, the technology we're most concerned with improving is education. Specifically the intersection of education and technical writing. Despite the existence of countless high quality textbooks in our field, we believe the genre as a whole is still deeply inadequate in its ability to transmit acquired wisdom from one generation to the next.
