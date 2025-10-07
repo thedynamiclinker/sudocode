@@ -68,4 +68,4 @@ After a long search for data structures and algorithms that offer a portable, di
 
 Much to our surprise, we eventually found that the only tool possessing all the properties we needed was an ancient, battle-hardened data structure, one optimized for storing timeless wisdom about a culture for arbitrary lengths of time, a data structure which, for lack of a better term, we'll call a bible.
 
-Goto: [[sys/kernel/Bible]]
+Goto: [[sys/kernel/Bible|Bible]]
