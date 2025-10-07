@@ -225,15 +225,15 @@ This group represents those who, whether from disillusionment or inspiration, be
 
 These individuals begin in the other cultures of /etc/group, primarily mathematics.
 
-Sometimes they're ζs, like Kevin Buzzard.
+Sometimes they come from θ, like the Fields medalist Vladimir Voevodsky, who after losing faith in traditional peer review discovered the new foundations, and contributed an entirely new branch to it before dying tragically young.
 
-Sometimes θ, like Vladimir Voevodsky.
+Sometimes they're world class ζs, like Kevin Buzzard, who reached the top of number theory before becoming disillusioned with the state of modern Langlands and peer review, and who has since spent years building a community around the new foundations.
 
-Others touch so much of mathematics that it would not have been inappropriate to give them an entire letter for themselves, like Terence Tao, though unfortunately τ is already taken.
+Others who come to upsilon have touched so much of mathematics that it would not have been inappropriate to give them an entire letter for themselves, like Terence Tao, though unfortunately τ is already taken.
 
 In many ways, these individuals remain members of the cultures of their origin after they discover the new foundations. 
 
-They were usually never much interested in the old foundations. Somehow through a personal journey they come to see the light of the new foundations and are converted.
+They were usually never much interested in the old foundations. But somehow through a personal journey they come to see the light of the new foundations and are converted.
 
 There tends to follow a period of proselytization, where these new converts travel around the globe giving talks to the youth of their native fields, explaining the need for the new foundations, and the promise that they hold for their home culture.
 
