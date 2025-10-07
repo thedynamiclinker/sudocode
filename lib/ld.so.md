@@ -354,4 +354,4 @@ It is the bottom of all things. It is the beginning. The fundamentals. It is the
 
 ---
 
-[[sys/class/foundational|SYSCALL]]
+[[Definition|SYSCALL]]

@@ -63,4 +63,4 @@ In every field, the Foundational mind asks:
 
 ---
 
-We now return to our regularly scheduled [[sys/class/punchlines/1|...]]
+We now return to our regularly scheduled [[sys/devices/punchlines/1|...]]
