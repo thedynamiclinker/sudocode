@@ -86,6 +86,9 @@
 > _These axioms are the official doctrine - Remarkably, this is not just the official doctrine for set theory, it turns out that this is the official doctrine for mathematics! - Very few people seem to have a problem with that which I find quite remarkable._
 > -NJ Wildberger
 
+> _For some random reason, set theory won._
+> -Kevin Buzzard
+
 0: Well ZFC has never really been _used_ as foundations in any real sense.
 
 1: What do you mean "used as foundations."
