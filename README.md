@@ -1,6 +1,6 @@
 
 ![[include/boot/sudo-code.png]]
-<span style="display: block; text-align: center; font-style: italic;">The Book of Tech</span>
+<span style="display: block; text-align: center; font-style: italic;">The Book of Roots</span>
 
 > _Company. (noun)._
 > 
