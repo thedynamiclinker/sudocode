@@ -237,7 +237,7 @@ They were usually never much interested in the old foundations. Somehow through 
 
 There tends to follow a period of proselytization, where these new converts travel around the globe giving talks to the youth of their native fields, explaining the need for the new foundations, and the promise that they hold for their home culture.
 
-Though no /etc/group is a monolith, the upsilons are especially diverse. They have varying beliefs about the importance of constructive foundations, and about the important of The Nus in the future of mathematics.
+Though no /etc/group is a monolith, the upsilons are especially diverse in their views. They have widely varying beliefs about the importance of constructive foundations, and about the important of The Nus in the future of mathematics.
 
 But all of them eventually discover the modern merger of Lambda and Mu, and what they see convinces them that the future of mathematics lies with the new foundations.
 
