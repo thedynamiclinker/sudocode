@@ -42,11 +42,15 @@ The subjects that began with Newton and Leibniz and which are now called Calculu
 This includes real analysis, complex analysis, functional analysis, and any of the semi-formal methods popularized by Weierstrass, Dedekind, Cauchy, et al. in an attempt to make the arguments of the δs "rigorous." Distinguished by their use of ε-δ arguments.
 
 ## ζ: Number theory
- Don't be misled by the name. This field isn't just about numbers. In fact it barely even involves numbers at all these days, except perhaps a prime here and there. This group is named for the Riemann Zeta function. I won't elaborate further. Suffice it to say this group is culturally distinct in nearly every way from the "formal number theory" of first order arithmetic, commonly seen in foundational cultures.
+ Don't be misled by the name. This field isn't just about numbers. In fact it barely even involves numbers at all these days, except perhaps a prime here and there. This group is named for the Riemann Zeta function. I won't elaborate further.
+
+ Suffice it to say this group is among the most advanced, wide ranging, and culturally "mathematical" parts of mathematics. In a sense, it is the capital city of mathematics itself. A number theorist is a mathematician's mathematician, a true team member, not regarded with suspicion by any subfield of mathematics. They belong in the field, and they speak its native language more expertly and fluently than any other group. In this way, the culture of the zetas is distinct in nearly every way from the "formal number theory" of first order arithmetic commonly seen in foundational cultures.
+ 
+ As such, a native ζ who chooses to join the culture of foundations has perhaps the most difficult journey that is possible to make, and the largest cultural transition that any mathematician can undergo in discovering the light of the new foundations. See the Upsilons for an example a zeta who made this heroic journey.
 
 ## η: The Catedral
 
-> "We didn't invent categories to study functors; We invented them to study natural transformations."
+> _We didn't invent categories to study functors; We invented them to study natural transformations._
 > -Saunders MacLane
 
 0: Category Theory. Completely incomprehensible. Natural transformations are commonly denoted by η. Hence the name.
@@ -203,17 +207,39 @@ Sitting here between two weirdos, others often fail to notice it. Named sigma, d
 - All introductions and and prose paragraphs sound like Λ, λ, μ or Ϻ (san).
 - Topos theory claims to be many things, but it is not yet clear (even to Topos theory) what, in fact, it is. For this reason, the group θ described above includes the topologists and topology adjacent mathematics cultures of homotopy theory, but not the Topos people as they are still [sketching their elephant](https://ncatlab.org/nlab/show/Sketches+of+an+Elephant).
 
-## Υ / υ: The Fork
+## Υ | υ: The Upsilons
 
-> Upsilon is known as Pythagoras' letter, because Pythagoras used it as an emblem of the path of virtue or vice. As the Roman writer Persius wrote in Satire III: and the letter which spreads out into Pythagorean branches has pointed out to you the steep path which rises on the right.
+The Converts.
+
+The letter upsilon represents a Fork (Υ) or a U turn (υ).
+
+This group represents those who, whether from disillusionment or inspiration, become converted in some way to the new Foundations.
+
+> Upsilon is known as Pythagoras' letter, because Pythagoras used it as an emblem of the path of virtue or vice.
 >
-> Lactantius, an early Christian author (ca. 240 - ca. 320), refers to this: For they say that the course of human life resembles the letter Y, because every one of men, when he has reached the threshold of early youth, and has arrived at the place "where the way divides itself into two parts," is in doubt, and hesitates, and does not know to which side he should rather turn himself.
+> Lactantius, an early Christian author (ca. 240 - ca. 320), refers to this:
+> 
+> For they say that the course of human life resembles the letter Y, because every one of men, when he has reached the threshold of early youth, and has arrived at the place "where the way divides itself into two parts," is in doubt, and hesitates, and does not know to which side he should rather turn himself.
 > 
 > -The Dynamic Read-Writable Free Encyclopedic Repository of the Modern State of Human Knowledge
 
-The transitional state of switching cultures, between any two of the above, or feeling split between two cultures because you realize the field you call home is lacking something another has figured out, but no one at home seems willing to listen.
+These individuals begin in the other cultures of /etc/group, primarily mathematics.
 
-For instance, Kevin Buzzard has been in Υ / υ mode between high level ζ theory (FLT) and high level λ-cube (Lean) for almost a decade now, and has built a massive community as a result. Wielded properly, the Υ / υ state lead to one's end, or one's beginning.
+Sometimes they're ζs, like Kevin Buzzard.
+
+Sometimes θ, like Vladimir Voevodsky.
+
+Others touch so much of mathematics that it would not have been inappropriate to give them an entire letter for themselves, like Terence Tao, though unfortunately τ is already taken.
+
+In many ways, these individuals remain members of the cultures of their origin after they discover the new foundations. 
+
+They were usually never much interested in the old foundations. Somehow through a personal journey they come to see the light of the new foundations and are converted.
+
+There tends to follow a period of proselytization, where these new converts travel around the globe giving talks to the youth of their native fields, explaining the need for the new foundations, and the promise that they hold for their home culture.
+
+Though no /etc/group is a monolith, the upsilons are especially diverse. They have varying beliefs about the importance of constructive foundations, and about the important of The Nus in the future of mathematics.
+
+But all of them eventually discover the modern merger of Lambda and Mu, and what they see convinces them that the future of mathematics lies with the new foundations.
 
 ## φ: Physics
 Phi. Physics. Self explanatory.
@@ -226,7 +252,7 @@ Note: Probability theory ala E. T. Jaynes is Λ. The rest is statistics.
 ## ψ: Scientific computing
 Psi. Scientific computing. Self explanatory.
 
-## ω: The little omegas
+## ω: The omegas
 Standard Foundations. Set Theory, Model theory, Proof theory. Descended from Cantor and Gödel. ZFC and NBG live here. Culturally part of the Orthodocs. Was believed to be the foundations of mathematics for over a century, until recently beginning to lose ground to computing as the mus and lambdas began to merge again for the first time in a century.
 
 ## Ω: The Big Omegas

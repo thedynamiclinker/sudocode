@@ -16,6 +16,7 @@
 ## Before anything else
 - [ ] Import video notes from what is mathematics vault.
 - [ ] Get /etc/apache screenshots off of phone and onto laptop.
+- [ ] Update "The Upsilons": The Fork, or the U turn. 
 
 ## Church
 
