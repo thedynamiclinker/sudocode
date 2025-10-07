@@ -231,9 +231,7 @@ Sometimes they're world class ζs, like Kevin Buzzard, who reached the top of nu
 
 Others who come to upsilon have touched so much of mathematics that it would not have been inappropriate to give them an entire letter for themselves, like Terence Tao, though unfortunately τ is already taken.
 
-In many ways, these individuals remain members of the cultures of their origin after they discover the new foundations. 
-
-They were usually never much interested in the old foundations. But somehow through a personal journey they come to see the light of the new foundations and are converted.
+In many ways, these individuals remain members of the cultures of their origin after they discover the new foundations. They were usually never much interested in the old foundations. But somehow through a personal journey they come to see the light of the new foundations and are converted.
 
 There tends to follow a period of proselytization, where these new converts travel around the globe giving talks to the youth of their native fields, explaining the need for the new foundations, and the promise that they hold for their home culture.
 
