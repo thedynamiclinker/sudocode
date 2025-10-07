@@ -4,12 +4,13 @@ The Big LD Dict. (noun).
 1. a dictionary shaped like a codebase.
 2. a dictionary in which all non-atomic terms must be implemented.
 
-It is a corpus of unmatched breadth, veritably pulsating with definitions.
+In this directory you'll find a corpus of unmatched breadth, pulsating with definitions, more firm than any other dict in its foundations, which can be followed all the way down to their roots.
 
-The Big LD Dict is wide, runs deep, and can be hard to take in, especially all at once.
+The Big LD Dict is wide, it runs deep, and can be hard to take in, especially in its entirety, and most especially for newcomers.
 
-So open your mind wide, and let it fill you with its semantics. We've got:
+So for those who have ears to hear, lay open your mind, and let the Big LD Dict fill you with its semantics.
 
+Come inside and you'll find the fruits from every branch of the tree of knowledge, including but not limited to:
 
 Geopolitics
 - [[Arab]]

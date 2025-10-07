@@ -43,4 +43,4 @@ Whether you're here to stay or just visiting, we're glad to have you in the comm
 Love always,
 -LD
 
-See you in [[root/0|user space]].
+See you in [[sys/kernel/Creation|the beginning]].
