@@ -15,6 +15,10 @@ end = 0:40
 start = 0:35
 end = 0:55
 
+### Kleene tells the story of how the concept of lambda definability arose, Church didn't even expect the system would be powerful enough to compute the predecessor function n-1, but Kleene kept challenging himself to define stuff and it kept working
+start = 5:02
+end = 9:38
+
 ### Kleene realizing how to implement predecessor at the dentist
 start = 6:55
 end = 7:10
@@ -55,9 +59,17 @@ end = 9:45
 start = 9:25
 end = 10:35
 
+### Gödel arrives on the scene with the General Recursive Functions, and they'd proved them equivalent before they ever heard of Turing
+start = 9:38
+end = 10:40
+
 ### Was Church's thesis just an offhand remark? He spent some months sweating over it. And saying "Don't you think it's so?" And I was a skeptic! When he came out and asserted the thesis I said "He can't be right." So I went home and I thought I would diagonalize myself out. Out of the class of the lambda definable functions and get another effectively calculable function that wasn't lambda definable. Well just in one night I realized you couldn't do that, and from that point on I was a convert.
 start = 10:30
 end = 11:30
+
+### Kleene didn't believe Church's thesis at first, goes home and tries to diagonalize himself out of the lambda definable functions and realizes he can't do it, and gets converted
+start = 10:35
+end = 12:00
 
 ### I left Princeton in June of 1935, and of course we already had Church's Thesis in, it must have been the late spring of '34. That's when Gödel was talking about his General Recursive Functions.
 start = 11:35
@@ -70,3 +82,8 @@ end = 16:38
 ### Well as I say, I don't know how firmly convinced Gödel was that his General Recursive Functions represented all effectively calculable functions.
 start = 16:38
 end = 17:38
+
+### Kleene says Gödel didn't even believe his General Recursive Functions could represent all effectively calculable functions, but seeing Turing's presentation brought him around
+start = 16:30
+end = 20:30
+
