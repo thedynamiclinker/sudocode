@@ -1,1 +1,1 @@
-Type: [[Name]], [[Of]], [[Yahweh]], [[Because]], [[Jews]], [[Write]], [[Without]], [[Vowels]]
+Type: [[Name]], [[Of]], [[Yahweh]], [[Because]], [[usr/share/dict/peoples/Jews]], [[Write]], [[Without]], [[Vowels]]
