@@ -5,27 +5,17 @@
 0. The Book of Roots: /
 1. The Book of Users: /usr
 ```
+
 ![[the-first-draft-of-anything-is-shit-wallpaper.jpg|300]]
-## Todo
 
-Phone pull.
-Submit refill.
-Do +=1 n.a. & mv vdo.
-Do mm AMZN thing.
-Fix up the book with a quick run.
-San Sigma con Nus L8
+```
+# Near Term Goals
 
+0. Write the five "repl" dialogues in lost+found.
+1. Submit the bash bugfix.
+```
 
-## Summary
-
-1. Write the five "repl" dialogues in lost+found.
-2. Submit the bash bugfix.
-
-
-## Before anything else
-- [ ] Import video notes from what is mathematics vault.
-- [ ] Get /etc/apache screenshots off of phone and onto laptop.
-- [ ] Update "The Upsilons": The Fork, or the U turn. 
+---
 
 ## Church
 
@@ -97,6 +87,8 @@ Or: The Tiger's stripes: A generalized story schema about what it's like to crea
 
 ## Eventually
 
+
+- [ ] Mention: The gospels were written about the same time after the Jesus story as the gap between Unix version 1 and 20XY.
 - [ ] Mention: _Proofs are computations with partially defined values._
 - [ ] /bin/bash: Church received an honorary Doctor of Science degrees from Case Western Reserve University in 1969!
 - [ ] /bin/bash: Contact Chet Ramey, explain that you've found a bug, and would like to include it in a book. The book is called "sudo code", and it's a series of technical dialogues between two characters, 0 and 1.
