@@ -11,7 +11,7 @@
 
 AUTHORS NOTE
 
-As a trivial examples of the less secret secrets that We the Authors have hidden throughout the world, consider the following code.
+As a trivial examples of the less secret secrets that We the Authors have hidden throughout the world throughout the history of world history, consider the following code.
 
 ```sh
 python -c "print(ord('א'))"
@@ -19,7 +19,9 @@ python -c "print(ord('א'))"
 
 This code prints the numerical value of the Unicode character "א", the first letter in the Hebrew alphabet.
 
-Now while we know most of you don't pay attention and aren't that smart, the attentive reader, upon running this code, may demand an answer to the entirely reasonable question:
+Run it.
+
+Now, while we know most of you don't pay attention and aren't that smart, the attentive reader, upon running this code, may demand an answer to the entirely reasonable question:
 
 1. [Who's](https://www.unicode.org/consortium/consort.html)
 2. [א](https://www.compart.com/en/unicode/U+2135)
