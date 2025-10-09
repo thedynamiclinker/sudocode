@@ -17,11 +17,76 @@
 
 ---
 
+A (a letter)
+Al (a name)
+Alp (a mountain)
+Alpo (a dogfood)
+Alpoc (a theorem prover)
+Alpoca (in West Virginia)
+Alpaca (add a line)
+
+/etc/group: A very good example of someone smack in the middle of ω is Peter Hinman. His book was written over 20 years, and it's clear in its intent to express standard foundations of mathematics in all its forms except proof theory which is fine because most of us don't know much proof theory anyway. But he succeeds in his goal: Cover as much as possible of 20th century logic as it appears from the viewpoint of the early 21st. He covers about as much of the standard foundations as one could hope for, with a notation designed to painstakingly distinguish the metalanguage from the formal language. And as jarring as that notation might feel at first glance, it's essential to have a book like this in the field because nobody else in the field does that as consistently as Hinman so it's a clarifying example of a fundamentally important distinction that most of the other skilled authors gloss over. I think Hinman is a better example of a Λω than anyone I know. Jech, on the other hand, is not a Λω or even really a full ω, he's an ω in the sense of set theory with a measurable touch of Ω. Kanamori and Kunen are pure Ω, though Kunen's FOM book has a sizable amount of ω too while presenting a view of "foundations" with almost no Λ.
+
+NOTE:
+- Hawking's "God Created the Integers" ends with Gödel and Turing but no Church.
+- A Madman Dreams of Turing Machines tells a magical semi-fictional story that focuses on Gödel and Turing but no Church.
+- There's a "The Annotated X" for Gödel and Turing but not Church.
+- Church is the underdog.
+- Nobody, not Gödel, not Kleene, not even Church himself thought lambda definability was "enough" to capture all computing at first.
+- Basically all models of computation are equivalent anyway, so why care about The Lambdas?
+- The Lambdas are harder to understand.
+- The Lambdas are harder to use.
+- The Lambdas don't naturally suggest hardware implementations like a binary machine model or include built-in natural numbers like recursive functions.
+- The Lambdas tend to have much more catastrophic bugs: inconsistencies in the case of Church and Curry's formalisms, which was never the case for Turing or Gödel since those systems didn't try to ALSO be logics.
+- The Lambdas, it appeared to many people for decades, are not a particularly useful part of our history.
+- Faced with the lambdas, nobody understands.
+- The μs say: "Just do computing."
+- The Λs say: "Just do logic."
+- Even mathematics says: "Just do mathematics."
+- And yet, when the μ find themselves faced with too much complexity to manage, only the λs will save them.
+- When mathematics finds itself faced with too much complexity to manage, only the λs will save them.
+- When package managers... same deal. Only the lambdas can do it.
+- When all concurrency primitives are broken and don't compose and we want transactional memory but even our mad scientists can't implement it: the lambdas, and only the lambdas, implemented it before anyone noticed.
+- And it was only the λs who preserved the memory of our history and the story of how we came from Λ.
+- Read their books: you'll see the heritage clearly.
+- Read their books: you'll remember who we are.
+- The lambdas are the least practical, hardest to understand, and most generally neglected part of computing.
+- By the end of this story, we will have taken the same mental journey as the creator of the first structured programming language.
+- John Backus was the epitome of practical computing. He was not an academic. He even said he never cared much for learning things. He got a masters in math but insisted he'd never been a mathematician. He even loved getting a bone tumor so he could hang out at the hospital and walk around the city at night and not work. And yet, by the middle-end of his career, when he was giving the speech for his Turing award lecture, he said can programming be liberated from the Von Norman style. By the end of this book we will have followed the same mental journey as the first person ever to create a structured program. The lambdas in their Ivory Tower could never convince the mus. Only by beginning in the most practical, non-academic, and even anti-academic mindset can we really understand what the lambdas have given to the world, and why it matters.
+- Racist jokes are essential, especially when the races are not races but ideas.
+- It is important to make fun of the lambdas for everything we perceive as silly about them, in any book that hopes to convert people to their cause. 
+- Because in order to convince the mu people, they have to understand that their first impression is right.
+- Their second impression is right.
+- Their third impression is right.
+- But there is a term in that sequence after which μ's further impressions cease being true.
+- At a certain level of complexity, it does not make sense to be mu.
+- Passed a certain level of complexity, the only god is lambda.
+- That does not mean lambda is the only god.
+- The only god higher than lambda is simplicity.
+- Our choices are between complexity and lambda, or simplicity and mu.
+- The two gods of our story are Unix if simplicity, and Lambda if complexity.
+
+---
+
+The book of users:
+- 0 dies at the end of the 0 testament.
+- in testament one:
+- 1 gives the sermon on the /mnt
+- 1 talks to @2 to ask what 0 would say.
+- 1 gives most of the principles by saying:
+- "You have heard it said that abc. I say to you xyz."
+- 1 finds 1self in charge of a number of followers.
+- In 20YZ, the clock is changed to "A-1: In the year of our 1."
+
+---
+
+In the paper book, each page has two pages numbers, called the "src ordinal" and the "dst ordinal." The src page numbers are the standard type of page numbers. The dst page numbers are a linear order based on the linear narrative of where we're going. Hence the name dst. The destination is where we're going.
+
 ## Church
 
 ### 5
-- [ ] Rewrite "The Little Lambda" from scratch.
-- [ ] Church's definition from first principles: How would you come up with Church's idea if it didn't exist yet? So farwe'vegot formal Arithmetic from Peano, and formal Set Theory from Zermelo and friends. What if you thought everyone was doing it wrong? Or at least missing something? What's more fundamental in mathematics than natural numbers or sets? Well, it wouldn't be crazy to say "functions." So what if everything is functions? Now how would you come up with the Church numerals? Well in every formal system with one type, you always have to encode things. (1) The von Neumann encoding in ZFC because ZFC doesn't have built in integers. (2) Even first order arithmetic has to "encode" the integers in a sense: 0 is the only built in. 1 is S(0). 2 is S(S(0)). 3 is S(S(S(0))). So how do you encode the integers if all you have is functions? Well Peano Arithmetic already did it! We just saw it. 3 is "call a function 3 times." And voila, you've got the Church numerals. So we miss the point a little by calling it Lambda Calculus. We've got "Formal Number Theory" and "Formal Set Theory." We should call Lambda Calculus "Formal Function Theory."
+
+- [ ] Be My Church (BMC): How would you come up with Church's idea if it didn't exist yet? So farwe'vegot formal Arithmetic from Peano, and formal Set Theory from Zermelo and friends. What if you thought everyone was doing it wrong? Or at least missing something? What's more fundamental in mathematics than natural numbers or sets? Well, it wouldn't be crazy to say "functions." So what if everything is functions? Now how would you come up with the Church numerals? Well in every formal system with one type, you always have to encode things. (1) The von Neumann encoding in ZFC because ZFC doesn't have built in integers. (2) Even first order arithmetic has to "encode" the integers in a sense: 0 is the only built in. 1 is S(0). 2 is S(S(0)). 3 is S(S(S(0))). So how do you encode the integers if all you have is functions? Well Peano Arithmetic already did it! We just saw it. 3 is "call a function 3 times." And voila, you've got the Church numerals. So we miss the point a little by calling it Lambda Calculus. We've got "Formal Number Theory" and "Formal Set Theory." We should call Lambda Calculus "Formal Function Theory."
 - [ ] Kleene: Screenshots of "Church's Thesis" section of Introduction to Metamathematics.
 - [ ] Kleene: Mention that Kleene invented regexes in a paper about neural networks and Ken cites him.
 

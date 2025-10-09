@@ -69,11 +69,11 @@ end = 21:20
 
 ### The language model and mathematics
 start = 21:15
-end = 
+end = 23:15
 
 ### Then there's this more exotic thing, the computer proof assistant. Explaining why mathematics is so much harder to capture than other forms of reasoning
 start = 27:25
-end = 
+end = 29:25
 
 ### These tools are not a recent thing. They've existed for decades. But they were not on the mathematicians radar. They were being designed and used by computer scientists and mathematician adopters you could count on the fingers of one hand up until about 2020.
 start = 29:25
@@ -102,7 +102,3 @@ end = 35:00
 ### We've taught the language models python, why not teach them Lean? So that when you ask it a proving question, it writes Lean code.
 start = 36:00
 end = 37:00
-
-### 
-start = 
-end = 
