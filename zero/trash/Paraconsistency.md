@@ -1,16 +1,4 @@
 
-## Logicians and Inconsistency
-
-- Frege's system was inconsistent, Russell learned logic from it.
-- Church's first system was inconsistent. Kleene learned logic from it.
-- Haskell Curry's combinatory logic was inconsistent. I don't know if any logicians learned logic from it, but it's not implausible to suppose some did.
-
-According to our standard informal reasoning about inconsistent formal systems, this should be impossible.
-
-In practice, inconsistent formal systems have surprised us not by their uselessness, but by their usefulness. Not by their triviality, but by their similarity to consistent systems.
-
-Of all facts in logic, no other is more important and less explored.
-
 ## Our blindspot
 
 To a first approximation, the view on inconsistency in mathematics and logic has been that it is the worst thing a system can possess.

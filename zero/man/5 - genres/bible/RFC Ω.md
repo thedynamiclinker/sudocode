@@ -1,7 +1,6 @@
 ```
-					Request for Comments: Ω
-					
-                    Title:    The Bible Data Structure
+					RFC Ω:    Specification of the Bible Data Structure
+
 	                Authors:  0 & 1
                     Location: The Filesystem
                     Date:     echo $(date | awk '{print $2, $3}') 20XY
@@ -129,7 +128,7 @@ A Song of the Sea
 - Example: Exodus 15.
 - Docstring: "Submerge egypt, Emerge world."
 - Summary: A war song describing the sea as a force that defeats our enemies but not our people.
-- Reference Implementation: [[Song of the Sea]]
+- Reference Implementation: [[zero/man/5 - genres/bible/psalms/Song of the Sea]]
 
 ---
 

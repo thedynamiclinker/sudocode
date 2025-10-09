@@ -1,0 +1,1 @@
+The directory `/sys/fs` contains a filesystem hierarchy that maps roughly onto a corresponding structure within kernel space.

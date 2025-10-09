@@ -1,7 +1,6 @@
 ## He called it "He"
 ### Or: So did Kleene
 ### Or: Minds and Machines
-
 ### Or: Applied philosophy that actually works
 
 

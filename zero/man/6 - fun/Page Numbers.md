@@ -1,0 +1,1 @@
+In the paper book, each page has two pages numbers, called the "src ordinal" and the "dst ordinal." The src page numbers are the standard type of page numbers. The dst page numbers are a linear order based on the linear narrative of where we're going. Hence the name dst. The destination is where we're going.

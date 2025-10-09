@@ -1,0 +1,40 @@
+
+## The lambdas as the underdogs
+
+- Hawking's "God Created the Integers" ends with Gödel and Turing but no Church.
+- A Madman Dreams of Turing Machines tells a magical semi-fictional story that focuses on Gödel and Turing but no Church.
+- There's a "The Annotated X" for Gödel and Turing but not Church.
+- Church is the underdog.
+- Nobody, not Gödel, not Kleene, not even Church himself thought lambda definability was "enough" to capture all computing at first.
+- Basically all models of computation are equivalent anyway, so why care about The Lambdas?
+- The Lambdas are harder to understand.
+- The Lambdas are harder to use.
+- The Lambdas don't naturally suggest hardware implementations like a binary machine model or include built-in natural numbers like recursive functions.
+- The Lambdas tend to have much more catastrophic bugs: inconsistencies in the case of Church and Curry's formalisms, which was never the case for Turing or Gödel since those systems didn't try to ALSO be logics.
+- The Lambdas, it appeared to many people for decades, are not a particularly useful part of our history.
+- Faced with the lambdas, nobody understands.
+- The μs say: "Just do computing."
+- The Λs say: "Just do logic."
+- Even mathematics says: "Just do mathematics."
+- And yet, when the μ find themselves faced with too much complexity to manage, only the λs will save them.
+- When mathematics finds itself faced with too much complexity to manage, only the λs will save them.
+- When package managers... same deal. Only the lambdas can do it.
+- When all concurrency primitives are broken and don't compose and we want transactional memory but even our mad scientists can't implement it: the lambdas, and only the lambdas, implemented it before anyone noticed.
+- And it was only the λs who preserved the memory of our history and the story of how we came from Λ.
+- Read their books: you'll see the heritage clearly.
+- Read their books: you'll remember who we are.
+- The lambdas are the least practical, hardest to understand, and most generally neglected part of computing.
+- By the end of this story, we will have taken the same mental journey as the creator of the first structured programming language.
+- John Backus was the epitome of practical computing. He was not an academic. He even said he never cared much for learning things. He got a masters in math but insisted he'd never been a mathematician. He even loved getting a bone tumor so he could hang out at the hospital and walk around the city at night and not work. And yet, by the middle-end of his career, when he was giving the speech for his Turing award lecture, he said can programming be liberated from the Von Norman style. By the end of this book we will have followed the same mental journey as the first person ever to create a structured program. The lambdas in their Ivory Tower could never convince the mus. Only by beginning in the most practical, non-academic, and even anti-academic mindset can we really understand what the lambdas have given to the world, and why it matters.
+- Racist jokes are essential, especially when the races are not races but ideas.
+- It is important to make fun of the lambdas for everything we perceive as silly about them, in any book that hopes to convert people to their cause. 
+- Because in order to convince the mu people, they have to understand that their first impression is right.
+- Their second impression is right.
+- Their third impression is right.
+- But there is a term in that sequence after which μ's further impressions cease being true.
+- At a certain level of complexity, it does not make sense to be mu.
+- Passed a certain level of complexity, the only god is lambda.
+- That does not mean lambda is the only god.
+- The only god higher than lambda is simplicity.
+- Our choices are between complexity and lambda, or simplicity and mu.
+- The two gods of our story are Unix if simplicity, and Lambda if complexity.
