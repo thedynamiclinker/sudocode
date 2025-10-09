@@ -17,6 +17,53 @@
 
 ---
 
+## Shonfinkel
+
+After his 1924 paper, Schönfinkel published nothing more on combinators. In
+fact only one other paper bears his name: \[Bernays and Schönfinkel, 1928\], on
+certain special cases of the Entscheidungsproblem. Both papers were prepared for
+publication largely by helpful colleagues: the earlier one by Heinrich Behmann
+and the later by Paul Bernays. By 1927, he was said to be mentally ill and in a
+sanatorium \[Curry, 1927, p.3\], \[Kline, 1951, p.47\]. Alexander Kuzichev in Moscow
+relates that Schönfinkel’s later years were spent in Moscow in hardship and poverty,
+helped by a few friends, and he died in a hospital there in 1942 following some years
+of illness. After his death, wartime conditions forced his neighbours to burn his
+manuscripts for heating.
+
+That's now:
+- Chapter 1: Cantor (mania, depression, sanatorium)
+- Chapter 2: Frege (depression)
+- Chapter 3: Schönfinkel (unspecified mental illness)
+- Chapter 4: Gödel. (paranoia, possibly schizophrenia)
+- Chapter 5: Turing (basically just being gay)
+
+## Curry
+
+Curry also wrote and taught mathematical logic more generally; his teaching in this area culminated in his 1963 Foundations of Mathematical Logic. His preferred philosophy of mathematics was formalism (cf. his 1951 book), following his mentor Hilbert, but his writings betray substantial philosophical curiosity and a very open mind about intuitionistic logic.
+
+## Turing published the first Fixed Point Combinator
+
+Incidentally, in the course of his doctoral work Turing gave the first published
+fixed-point combinator, \[Turing, 1937b, term Θ\]. This was seen as only having minor
+interest at that time, but in view of the later importance given to such combinators
+(see §8.1.2 below), we digress here to discuss them.
+A fixed-point combinator is any closed term Y such that Yx converts to x(Yx).
+Turing’s was
+
+(λxy.y(xxy)) (λxy.y(xxy)).
+
+The next one to appear was in \[Rosenbloom, 1950, pp.130–131, Exs. 3e, 5f\]. It was
+λx. W(Bx)(W(Bx)), which is convertible to λx. (λy.x(yy))(λy.x(yy)). The latter
+has often been called Curry’s Y; in fact Curry gave no explicit fixed-point combi-
+nator before \[Curry and Feys, 1958, §5G\], but the accounts of Russell’s paradox in
+\[Church, 1932, p.347\] and \[Curry, 1934a, §5\] both mentioned (λy.N (yy))(λy.N (yy)),
+where N represented negation, and Curry’s use of the latter term dated back to a
+letter to Hilbert in 1929.
+-From Hindley 2006 The History of Lambda Calculus and Combinatory Logic
+
+
+---
+
 A (a letter)
 Al (a name)
 Alp (a mountain)

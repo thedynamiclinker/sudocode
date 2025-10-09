@@ -136,4 +136,5 @@ Then, without yet deciding on how to define the natural numbers, they proceed to
 - exponentiation, and finally
 - the predecessor function x-1
 
-Interleave Kleene's dialogue about Church when it's rel3
+Interleave Kleene's dialogue about Church when it's relevant.
+
