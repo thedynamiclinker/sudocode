@@ -257,7 +257,7 @@ _(Narrator: 0 types some commands into a shell.)_
 
 1: Well one of the first things you ever said to me was that languages are a scam. This part.
 
-> 0: Not just the languages. Language communities. Language conferences. Language dot org. How to install our Language. Language files full of Language code. Dot lang files. Language commands like `Pumpkin install` or whatever the fuck you kids do these days. Languages, 1. It's all a scam. We've got the only language we need right here.
+> 0: Not just the languages. Language communities. Language conferences. Language dot org. How to install our Language. Language files full of Language code. Dot lang files. Language commands like `Pumpkin install` or whatever the f$@k you kids do these days. Languages, 1. It's all a scam. We've got the only language we need right here.
 
 1: Then you went off on a long sermon about the shell.
 

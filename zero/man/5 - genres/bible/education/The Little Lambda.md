@@ -115,10 +115,10 @@ id [Bool] true
 0: Encode `Bool` as:
 
 ```
-BoolF := ∀R. R → R → R
-trueF  := ΛR. λt:R. λf:R. t
-falseF := ΛR. λt:R. λf:R. f
-ifF    := λb:BoolF. ΛR. λt:R. λf:R. b [R] t f
+Bool  := ∀R. R → R → R
+true  := ΛR. λt:R. λf:R. t
+false := ΛR. λt:R. λf:R. f
+if    := ΛR. λc:Bool. λa:R. λb:R. [R] c a b
 ```
 
 Check `ifF trueF [X] T F → T`:

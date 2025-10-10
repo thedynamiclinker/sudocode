@@ -291,7 +291,6 @@ goto: [[bin/bash]]
 > 
 > 0: Suppose I claimed you were not done. What would you do next?
 
-
 1: Oh. What would I do after this?
 
 0: Exactly.
@@ -548,7 +547,7 @@ bash: 1:: command not found
 
 1: What just happened?
 
-0: Sorry, history expansion again. It's really an awful feature. We need to fix that bug. Not that that was the bug. But still. We need to fix that bug in bash as soon as possible.
+0: Sorry, history expansion again. It's really an awful feature. We need to fix that bug. Not that _that_ was the bug. But still. We need to fix that bug in bash as soon as possible.
 
 1: Looking forward to it. :)
 
@@ -564,7 +563,7 @@ _(Narrator: 1 attempts to log in and figure this out once and for all.)_
 
 _(Narrator: Time passes, as 1 works on logging in and finally finishing hello world.)_
 
-1: _(Talking to 1self)._ Ok, `cd` into `$HOME`, `mkdir bin`, put the code in `bin/hello`, add `export PATH="$HOME/bin:$PATH"` to `~/.bashrc`. Why isn't it... Oh ok, source `~/.bashrc`, log out and back in just to make absolutely sure it still works. Got it.
+1: _(Talking to 1self)._ Ok, `cd` into `$HOME`, `mkdir bin`, put the code in `bin/hello`, add `export PATH="$HOME/bin:$PATH"` to `~/.bashrc`. Why isn't it... Oh ok, source `~/.bashrc`, try to run it, great! Got it.
 
 _(Narrator: As 1 returns to /root to show 0, 0 seems to be focused on something else.)_
 

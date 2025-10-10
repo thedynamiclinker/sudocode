@@ -16,7 +16,7 @@ Writing a bible takes place in two stages:
 1. assembly 
 2. runtime
 
-The attentive reader will note that bibles frequently appear to contradict themselves. This is intentional, though not every reader is guaranteed to get every [joke](https://martinfowler.com/bliki/TwoHardThings.html).
+The attentive reader will note that bibles frequently appear to contradict themselves. This is intentional, though not every reader is guaranteed to get every joke.
 
 ## Beginnings
 
@@ -45,7 +45,7 @@ Unlike other genres, the fictional sections need not be marked as such. The gene
 
 The inclusion of fiction in a largely nonfiction format is most common when an important piece of oral tradition or spoken word is included in the data structure, in order to preserve it for posterity in a more lossless format than spoken word allows.
 
-Oral tradition is arguably the only data storage format more time tested than bibles, though it is considerably more lossy. The same is true in [[Bryan Cantrill - Oral Tradition in Software Engineering|our culture]].
+Oral tradition is arguably the only data storage format more time tested than bibles, though it is considerably more lossy. The same is true in our culture.
 
 Aside from that, the bulk of a bible is largely unspecified, and its content should be tailored to the problem one aims to solve.
 
