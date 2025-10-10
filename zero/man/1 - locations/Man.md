@@ -1,0 +1,1 @@
+- [ ] /usr/share/man: The man dialogue: 0 shows 1 the first edition Unix man pages.

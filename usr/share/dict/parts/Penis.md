@@ -1,1 +1,1 @@
-Type: [[Man]], [[Pants]], [[Parts]]
+Type: [[usr/share/dict/atomic/Man]], [[Pants]], [[Parts]]

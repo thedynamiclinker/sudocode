@@ -196,7 +196,7 @@ _(Narrator: 1 pauses, as if waiting for a response from 0.)_
 
 1: Um... what was that?
 
-0: It's a [[bash]] thing.
+0: It's a [[bin/bash]] thing.
 
 1: What kind of bash thing?
 
@@ -219,7 +219,7 @@ cat << EOF
 EOF
 ```
 
-goto: [[bash]]
+goto: [[bin/bash]]
 
 ## There
 

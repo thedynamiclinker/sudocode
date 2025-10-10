@@ -1,0 +1,1 @@
+- [ ] /bin/vi: Show Bill Joy's vi keyboard with the arrows on the letter keys. A lot of stuff in life that never makes sense unless you know how the original authors wrote.

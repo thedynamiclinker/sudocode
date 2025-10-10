@@ -22,7 +22,7 @@ Seen as mentally ill for being gay. Doesn't exactly count, but counted enough at
 Manic depression. Ordered by his doctor to spend at most three hours a day on research in order to avoid manic attacks. Died in April 1954 of a heart attack following electroshock treatment for depression.
 
 ## Walter Pitts
-Taught himself logic and mathematics as a child and became a proficient reader in several languages, including Greek and Latin. Spent three days in a library at the age of 12, reading Principia Mathematica and sent a letter to Bertrand Russell pointing out what he considered serious problems with the first half of the first volume. Russell invited him to study at Cambridge University at age 12. Described as an eccentric, refusing to allow his name to be made publicly available. He continued to refuse all offers of advanced degrees or positions of authority at MIT, in part as he would have to sign his name. Pitts declined, but decided to become a logician anyway. At age 15 he left home to study. Regexes were invented when Kleene wrote a paper about one of Pitts' papers, and Ken Thompson pulled the core of the definition from Kleene and generalized it. Pitts died in 1969 of bleeding esophageal varices, a condition usually associated with cirrhosis and alcoholism.
+Extremely ccentric, avoided any situation that would require him to sign his name or to make his name publicly available. Pitts died in 1969 of bleeding esophageal varices, a condition usually associated with cirrhosis and alcoholism.
 
 ## L. E. J. Brouwer
 

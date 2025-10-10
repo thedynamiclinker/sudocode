@@ -203,3 +203,6 @@ A Song of the Sea
 - Answers to any problem can be found in text files.
 - Subset of members claim V1 worships devil.
 
+---
+
+Note: The gospels were written about the same time after the Jesus story as the gap between Unix version 1 and 20XY.

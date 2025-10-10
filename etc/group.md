@@ -255,3 +255,6 @@ Standard Foundations. Set Theory, Model theory, Proof theory. Descended from Can
 
 ## Ω: The Big Omegas
 Large Cardinals. The most unhinged subculture. Somehow ended up in "foundations of mathematics." Ingests heroic doses of the most potent substances daily. Part of the orthodocs. Mathematics now loops back around to α, and the cycle continues infinitely.
+
+## א: The Alephs
+The alephs. Bible authors. Little is known about this group, but whatever is known (e.g., of the J, E, and P sources and the various redactors) will be referred to under the broad label of "The Alephs."

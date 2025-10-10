@@ -1,1 +1,1 @@
-Type: [[Boot]], [[Country]]
+Type: [[usr/share/dict/builtin/Boot]], [[Country]]
