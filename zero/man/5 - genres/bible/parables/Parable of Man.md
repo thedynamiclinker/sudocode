@@ -1,4 +1,4 @@
-Type: [[Learnable]], [[System]], [[sys/kernel/Creation]], [[Parable]]
+Type: [[Learnable]], [[System]], [[usr/share/dict/builtin/Creation|Creation]], [[Parable]]
 
 IN PROGRESS
 Sources:

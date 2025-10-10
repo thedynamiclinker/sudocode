@@ -2,8 +2,7 @@ _A Love Poem to the Lean Agile Enterprise™_
 
 ---
 
-## Act I: Egypt
-
+## Act I
 - Love code.
 - Get job.
 - Go to job.
@@ -21,14 +20,14 @@ _A Love Poem to the Lean Agile Enterprise™_
 
 ---
 
-## Act II: Exodus
+## Act II
 
 - Quit work.
 - Start working.
 
 ---
 
-## Act III: Promised L&
+## Act III
 
 - Code: Do it.
 - Tests: Check if we did it.

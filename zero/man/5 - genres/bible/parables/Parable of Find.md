@@ -1,4 +1,4 @@
-Type: [[Painful]], [[System]], [[sys/kernel/Creation]], [[Parable]]
+Type: [[Painful]], [[System]], [[usr/share/dict/builtin/Creation|Creation]], [[Parable]]
 
 ---
 

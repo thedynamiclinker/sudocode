@@ -4,9 +4,9 @@ Was homeless when he presented Carnap with an annotated copy of his book. Carnap
 
 Spent three days in a library at the age of 12, reading Principia Mathematica and sent a letter to Bertrand Russell pointing out what he considered serious problems with the first half of the first volume.
 
-Russell invited him to study at Cambridge University at age 12. Described as an eccentric, refusing to allow his name to be made publicly available.
+Russell invited him to study at Cambridge University at age 12. Pitts declined, but decided to become a logician anyway.
 
-Pitts declined, but decided to become a logician anyway.
+Described as an eccentric, refusing to allow his name to be made publicly available.
 
 He continued to refuse all offers of advanced degrees or positions of authority at MIT, in part as he would have to sign his name. (Pitts was extremely eccentric and avoided any situation that would require him to sign his name.)
 

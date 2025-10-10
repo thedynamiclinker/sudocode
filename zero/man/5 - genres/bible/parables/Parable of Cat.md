@@ -1,4 +1,4 @@
-Type: [[Simple]], [[System]], [[sys/kernel/Creation]], [[Parable]]
+Type: [[Simple]], [[System]], [[usr/share/dict/builtin/Creation|Creation]], [[Parable]]
 
 ---
 

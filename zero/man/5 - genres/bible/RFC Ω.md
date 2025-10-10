@@ -128,7 +128,7 @@ A Song of the Sea
 - Example: Exodus 15.
 - Docstring: "Submerge egypt, Emerge world."
 - Summary: A war song describing the sea as a force that defeats our enemies but not our people.
-- Reference Implementation: [[zero/man/5 - genres/bible/psalms/Song of the Sea]]
+- Reference Implementation: [[zero/man/5 - genres/bible/psalms/Song of the Sea|Song of the Sea]]
 
 ---
 
@@ -170,7 +170,7 @@ A Song of the Sea
 - A Jews: A simple refactor, with extremely simple methods of writing derived from Hieroglyphs, namely a generalized Proto Sinaitic (Unix)
 - An Exodus: A story in which the generalized Jews find themselves unhappy in the generalized Egypt, and then eventually leave in search of a generalized Promised Land, once the higher-ups kill their children (Exodus 1, Bell Labs killing Multics).
 - An Abraham: A Prolific patriarch who insists he doesn't want to job, seems at first to be disorganized and not really have his shit together but turns out to be the person who basically everything descends from. Descendants as numerous as the stars in the sky. (Ken)
-- A Lucifer: A fallen angel, with a name meaning something universally positive, and a personality marked by an abundance of pride. (Best Practices)
+- A Lucifer: A fallen angel, with a name meaning something universally positive, and a personality marked by an abundance of pride.
 - A Creation Story or beginning of time, containing a narrative in which everything began.
 - A Beginning of Time at which calendars are set to zero, and which is distinct from the beginning of time in the creation story. (Unix Epoch)
 - A set of Commandments (The principles)

@@ -1,6 +1,5 @@
 
 ## The lambdas as the underdogs
-
 - Hawking's "God Created the Integers" ends with Gödel and Turing but no Church.
 - A Madman Dreams of Turing Machines tells a magical semi-fictional story that focuses on Gödel and Turing but no Church.
 - There's a "The Annotated X" for Gödel and Turing but not Church.
@@ -27,7 +26,7 @@
 - By the end of this story, we will have taken the same mental journey as the creator of the first structured programming language.
 - John Backus was the epitome of practical computing. He was not an academic. He even said he never cared much for learning things. He got a masters in math but insisted he'd never been a mathematician. He even loved getting a bone tumor so he could hang out at the hospital and walk around the city at night and not work. And yet, by the middle-end of his career, when he was giving the speech for his Turing award lecture, he said can programming be liberated from the Von Norman style. By the end of this book we will have followed the same mental journey as the first person ever to create a structured program. The lambdas in their Ivory Tower could never convince the mus. Only by beginning in the most practical, non-academic, and even anti-academic mindset can we really understand what the lambdas have given to the world, and why it matters.
 - Racist jokes are essential, especially when the races are not races but ideas.
-- It is important to make fun of the lambdas for everything we perceive as silly about them, in any book that hopes to convert people to their cause. 
+- It is important to make fun of the lambdas for everything we perceive as silly about them, in any book that hopes to convert people to their cause.
 - Because in order to convince the mu people, they have to understand that their first impression is right.
 - Their second impression is right.
 - Their third impression is right.

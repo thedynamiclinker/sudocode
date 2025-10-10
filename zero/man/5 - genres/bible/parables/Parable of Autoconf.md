@@ -1,4 +1,4 @@
-Type: [[Legacy]], [[System]], [[sys/kernel/Creation]], [[Parable]]
+Type: [[Legacy]], [[System]], [[usr/share/dict/builtin/Creation|Creation]], [[Parable]]
 
 ---
 
@@ -13,7 +13,7 @@ Type: [[Legacy]], [[System]], [[sys/kernel/Creation]], [[Parable]]
 - That system is something called the GNU autotools.
 - To a first approximation, the autotools are used by every project in the universe (bash, zsh, cpython, git, coreutils, etc.)
 
-![[everyone-uses-the-autotools.png]]
+![[autotools-everyone-uses-the-autotools.png]]
 
 - The autotools are a GNU era artefact, from the 80s-90s during the height of the free software foundation's influence. The era when python and linux were born.
 - The autotools are widely recognized as being [crufty as hell](https://en.wikipedia.org/wiki/File:Autoconf-automake-process.svg "https://en.wikipedia.org/wiki/file:autoconf-automake-process.svg") 

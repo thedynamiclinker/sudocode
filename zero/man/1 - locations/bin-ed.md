@@ -1,0 +1,1 @@
+Same as the point made in /bin/vi, have a short section showing ed, and how it only makes sense as an editor if you're using a type writer as stdout.

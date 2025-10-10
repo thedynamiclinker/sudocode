@@ -87,4 +87,4 @@ of MIPS are at each one's fingertips.
 
 From: https://users.cs.utah.edu/~elb/folklore/C-bible.html
 
-![[the-c-programming-language.jpg]]
+![[unix-history-the-c-programming-language.jpg]]

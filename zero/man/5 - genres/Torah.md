@@ -39,8 +39,8 @@ DESCRIPTION
 		   had spent a significant amount of time prior to doing so.
 		
 		2. The First Law: An expression of some remarkably small, simple,
-		   and memorable set of principles, ideas, or laws that the man in
-		   question believes should govern the new system, field, or world
+		   and memorable set of principles, ideas, or laws that the protagonist
+		   believes should govern the new system, field, or world
 		   that they've set out to create. This expression of the law is also
 		   known as the commandments. These simple laws often fail to work
 		   and have to be reworked a bit. See for example:
@@ -106,7 +106,7 @@ DESCRIPTION
 		their entire lives in the new system in the desert. The original founders are
 		getting old, and the task at hand is now to educate the youth. The purpose
 		of this section is to deliver a final return to simplicity in:
-			
+		
 		1. The Second Law: A refactor of the complex system that eventually resulted
 		   from the original act of quitting to make things simpler. The second law
 		   preserves any essentials from the complex era that are worth keeping
