@@ -31,7 +31,7 @@
 
 1: For what?
 
-0: Arithmetic Run Time. The common object files that get linked into any formal theory that's powerful enough to express arithmetic, whether you ask for it or now. And all the consequences that come along with that. One of which is something like Turing completeness. Another of which is exactly Gödel's incompleteness.
+0: Arithmetic Run Time. The common object files that get linked into any formal theory that's powerful enough to express arithmetic, whether you ask for it or not. And all the consequences that come along with it, one of which is something like Turing completeness, the other of which is Gödel incompleteness.
 
 1: Hmmmm I think that's a stretch, zero.
 

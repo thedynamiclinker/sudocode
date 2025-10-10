@@ -34,7 +34,7 @@
 
 ## The People
 
-1: ...doesn't basically every group call themselves "The Foundational People"?
+1: Doesn't basically every group call themselves "The Foundational People"?
 
 0: I don't think so. What do you mean?
 

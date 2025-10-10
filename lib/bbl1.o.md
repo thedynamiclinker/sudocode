@@ -199,7 +199,7 @@
 
 1: So the bible is copy-pasta from various stages of Hebrew?
 
-0: Well sort of. A lot of it seems to be new content. Other bits are pretty similar to old Sumerian and Babylonian stuff. But there's definitely different authors, and you can tell from how they write. Same as the above, but a bit harder to tease apart.
+0: Well sort of. A lot of it seems to be new content. Other bits are pretty similar to old Sumerian and Babylonian and especially Ugaritic stuff. Ugarit was founded around 7000BC. Not clear when the old books started, but the old legends and culture they pull from all clearly go way back. Regardless of when it started, there's definitely different authors, and you can tell from how they write. Same as the above, but a bit harder to tease apart.
 
 1: In what sense does this make the bible a "codebase"?
 

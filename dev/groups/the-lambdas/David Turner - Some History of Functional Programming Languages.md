@@ -54,4 +54,3 @@ end = 21:00
 ### SASL was consciously designed based on the lambda calculus and it has multi level pattern matching which really increases readability
 start = 19:00
 end = 21:00
-

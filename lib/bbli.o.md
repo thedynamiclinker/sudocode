@@ -15,7 +15,7 @@
 
 1: What are---
 
-0: And then you started complaining we weren't doing enough "advanced programming" so I hacked this file together in 10 minutes and got us here quick to make a point.
+0: And then you started complaining we weren't doing enough "advanced programming" so I hacked this file together in 5 minutes and got us here quick to make a point.
 
 1: Am I allowed to ask what the point is?
 
@@ -189,7 +189,7 @@
 
 0: Extremely bible. Even more so than the "bible" bible in some places. Dude constantly referenced the Silmarillion throughout Lord of the Rings as if you were just supposed to know it, even though he never even published the Silmarillion while he was alive. Extremely bible-author behavior. Plus he got the divine council right which was mostly edited out by the latter day redactors of bbl1. Dude was a king.
 
-1: I maintain that you have options. Lots of th---
+1: I maintain that you have opinions. Lots of th---
 
 0: Ooh look down here. More necessities.
 

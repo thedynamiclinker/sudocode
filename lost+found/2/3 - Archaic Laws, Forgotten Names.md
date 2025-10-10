@@ -313,6 +313,43 @@ _(Narrator: Lights flash and music plays for like two seconds before zero procee
 
 ## Peirce
 
+0: Check out this quote. It's one of my favorites ever.
+
+![[history-of-logic-peirce-01.jpg]]
+
+1: I'm having trouble understanding what he's saying.
+
+0: Let's read it slow. I'll translate.
+
+> Much of my work will never be published.
+> If I can, before I die, get so much of my stuff out into the world that folks will have trouble finding it all or reading it all, then I'll feel comfortable that I've written enough, and I won't blame myself for not doing more.
+
+1: This just sounds like a guy wanting to be remembered.
+
+0: Keep reading. It's coming up.
+
+> I can't stand publishing stuff, but it isn't because people haven't been asking me to write more.
+> 
+> It's because some ideas can only be properly conveyed in dialogue. I need someone to push back, interrupt me, ask questions. In dialogue, I can explain.
+> 
+> But we aren't allowed to write like that in serious adult publications. So fuck em, I'd rather leave my stuff unpublished than write their way.
+
+1: Aahahah.
+
+0: Right?
+
+1: That's a pretty loose translation but I see it now.
+
+0: Love that quote.
+
+1: I always felt like I love ideas and hate textbooks.
+
+0: Same.
+
+1: Ooh, we should write a book with dialogues!
+
+0: Let's not get distracted. We have work to do.
+
 - Peirce has a totally wacky notation for e and pi, and ends up developing a "Logic of Relatives." 
 
 - Peirce: Absolute terms are in Roman font, Relative terms are in Italic, and Conjugate terms are in a type face called Madisonian (seeing a spiritual ancestor of APL and K here.)
@@ -340,6 +377,16 @@ _(Narrator: Lights flash and music plays for like two seconds before zero procee
 
 
 ![[history-of-logic-notation-15.png]]
+
+
+![[history-of-logic-peirce-03.jpg]]
+
+![[history-of-logic-peirce-02.jpg]]
+
+
+![[history-of-logic-peirce-04.jpg]]
+
+![[history-of-logic-peirce-05.jpg]]
 
 ## Frege
 

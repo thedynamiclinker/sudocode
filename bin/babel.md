@@ -281,7 +281,7 @@ _(Narrator: 0 types some commands into a shell.)_
 
 1: Pretty great? It's amazing. What's the point of executables?  Why not just make everything object files? Download some object files and link it with your thing. I'm starting to see what you mean about languages being a scam. I mean sure it's great to be able to write in your favorite language, but it's all just object files at the end of the day. Y'know I didn't know why you were ranting about the linker before, but this is actually pretty cool. I've already got some ideas of new things I want to try. Do you know any good books about linkers?
 
-0: There's one. Maybe two one day, but not yet.
+0: There's one. Maybe two, one day. But not yet.
 
 1: What? That's insane. These things deserve more credit. It's like a universal translator for code but without actually requiring you to read stuff in languages you don't know. Ok I definitely get the point of this repo now. Got to admit I was pretty confused at first.
 

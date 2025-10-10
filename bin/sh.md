@@ -196,7 +196,7 @@ _(Narrator: 1 pauses, as if waiting for a response from 0.)_
 
 1: Um... what was that?
 
-0: It's a [[bin/bash]] thing.
+0: It's a [[bin/bash|bash]] thing.
 
 1: What kind of bash thing?
 
@@ -312,7 +312,7 @@ _(Narrator: 1 thinks for awhile.)_
 
 1: That would be absurd.
 
-0: Why would it be absurd.
+0: Why would it be absurd?
 
 1: They already exist.
 
@@ -527,7 +527,7 @@ useradd -m -s /bin/sh user
 
 0: Any tty will do. Your password is `password`.
 
-1: Isn't that a bit insecure.
+1: Isn't that a bit insecure?
 
 0: Against what?
 

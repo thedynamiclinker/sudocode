@@ -59,7 +59,7 @@ echo "$(case a in b) echo 'hi!';; esac)"
 					- pair of double quotes
 						- inside an echo
 
-1: (sarcastically) ...Simple enough.
+1: _(Sarcastically)_ ...Simple enough.
 
 0: Well the `!` is getting interpreted as history expansion even inside single quotes, and even inside a clause that should never execute. That's definitely wrong.
 

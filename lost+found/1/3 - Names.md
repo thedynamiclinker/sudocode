@@ -1,3 +1,8 @@
+> _Mathematics is the most unclear of all sciences._
+> -Carl Johannes Thomae[^1]
+
+[^1]: The Search for Mathematical Roots, section 4.5, page 198.
+
 1: Where were we?
 
 0: You said:
