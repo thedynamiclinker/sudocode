@@ -7,9 +7,7 @@
 
 ## /zero (admin)
 
-- [ ] Move images in stuff from phone to sudocode.
-- [ ] Organize everything in /zero/include using the /etc/group layout currently observed in /zero/etc-apache.
-- [ ] Put everything currently in /include into /zero/include, using the /etc/group layout.
+- [ ] Organize everything in /zero/include and /include using the /etc/group layout as in /zero/etc-apache.
 
 ## /usr/sbin/shutdown
 

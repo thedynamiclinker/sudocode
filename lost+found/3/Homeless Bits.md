@@ -1,4 +1,7 @@
 
+## Church as underdog
+
+
 ## Church early logic work and the inconsistency
 
 0: So Church starts in standard foundations. He's like "Wow this sucks." So then fast forward, Church goes to work on foundations. Real foundations. Stuff that feels a lot more like programming.
