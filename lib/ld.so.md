@@ -1,4 +1,7 @@
-## So
+> _Hackers, as a rule, love wordplay and are very conscious and inventive in their use of language. These traits seem to be common in young children, but the conformity-enforcing machine we are pleased to call an educational system bludgeons them out of most of us before adolescence._
+> -Eric S. Raymond, The Jargon File
+
+---
 
 1: Hey wait, this file has the same name as the last one! We're still in the linker! Wait, why are we in `lib`? Is this a trick? Zero!
 
@@ -300,21 +303,23 @@ _(Narrator: 0 clears 0's throat.)_
 
 ## Our People
 
+> _Thus, linguistic invention in most subcultures of the modern West is a halting and largely unconscious process. Hackers, by contrast, regard slang formation and use as a game to be played for conscious pleasure. Their inventions thus display an almost unique combination of the neotenous enjoyment of language-play with the discrimination of educated and powerful intelligence. Further, the electronic media which knit them together are fluid, ‘hot’ connections, well adapted to both the dissemination of new slang and the ruthless culling of weak and superannuated specimens. The results of this process give us perhaps a uniquely intense and accelerated view of linguistic evolution in action._
+> -Eric S. Raymond, The Jargon File
+
+
 0: Once upon a time...
 
 1: Off to a better start.
 
-0: ...a strange culture arose. No one knows who the first members were.
+0: ...a strange culture arose.
 
 1: Was it us?
 
-0: No.
-
-But they were clearly different from the others. They were often found in the old institutions, the ones we once called universities. They had no department of their own, and instead took residence in the departments of other cultures.
+0: No one knows who the first members were. But they were clearly different from the others. They were often found in the old institutions, the ones we once called universities. They had no department of their own, and instead took residence in the departments of other cultures.
 
 They were often found in mathematics departments, though always on the periphery. The mathematicians found them strange, for they showed no particular interest in any of the standard mathematical objects. They dabbled in every area, but settled down in none. Every field of mathematics seemed to interest them equally, though they expressed flatly zero interest in any of it at the research level. Their research questions made no mention of the abstract algebra of groups, rings, and fields, nor did it involve real analysis, functional analysis, real or complex manifolds, topological spaces, vector spaces, topological vector spaces, number theory, algebraic geometry, graph theory, combinatorics, differential equations, or applications of mathematics to the sciences.
 
-Instead, this culture's object of study appeared to be something they called "languages."
+This culture's object of study appeared to be something they called "languages."
 
 But they were not linguists, and no one could reasonably confuse the two. They were virtually never found in linguistics departments, for the languages they studied were not spoken by any human group. Even they themselves did not speak the languages they studied.
 
@@ -322,11 +327,11 @@ They claimed to be minimalists, interested in simplicity above all other values,
 
 But unlike the algebraists, whose "groups" could be described in a simple list of four axioms, this odd culture was rarely seen studying a language with even finitely many axioms.
 
-Even the simplest of their languages usually required so-called "axiom schemas," a euphemism they used to refer to infinite lists of axioms and that's before we even really start. It wasn't clear in what sense this was supposed to be simple, and it certainly didn't appear to count as minimalism.
+Even the simplest of their languages usually required so-called "axiom schemas," a euphemism they used to refer to infinite lists of axioms, and that's before we even start. It wasn't clear in what sense this was supposed to be simple, and it certainly didn't appear to count as minimalism.
 
 The closest they came to expressing interest in any standard mathematical topic was their clear interest in "arithmetic". The basic addition and multiplication of natural numbers was one of their primary research topics. But they did not find a home among the number theorists, for they had very few common interests with this ancient mathematical culture. Number theory was always the most mathematical of all mathematical fields. The more one was interested in standard mathematical objects and questions, the more one tended to gravitate toward number theory. Our unusual culture was, if anything, the exact opposite.
 
-From time to time, members of this culture would be found inhabiting a philosophy department. But there too, they were regarded with suspicion, for they placed no value on making convincing arguments in natural language, preferring instead to write indecipherable hieroglyph-like inscriptions in their "languages." When they wrote in natural language, they followed none of the social norms of the philosophers around them. They did not appear to be concerned with the work of their philosophical colleagues, or with the history of the field, except as a passing curiosity.
+From time to time, members of this culture would be found inhabiting a philosophy department. But there too, they were regarded with suspicion, for they placed no value on making convincing arguments in natural language, preferring instead to write indecipherable hieroglyph-like inscriptions in their "languages."When they wrote in natural language, they followed none of the social norms of the philosophers around them. They did not appear to be concerned with the work of their philosophical colleagues, or with the history of the field, except as a passing curiosity.
 
 This group is few in number, but it would not be incorrect to say that it runs the modern world. It runs the banks, the media, the big tech companies. Their creations are installed in every household, often with cameras and listening devices attached.
 
@@ -338,13 +343,13 @@ They created the modern world, though they are not usually "machine people."
 
 They have no name, but their proper name is clear once we understand their history.
 
-They are not the mathematicians. Nor the philosophers. They're not physicists or statisticians. They're certainly not the electrical engineers, though these two groups were often found together, especially in the 1940s, 50s, and 60s.
+They are not the mathematicians. Nor the philosophers. They're not the physicists or statisticians. They're certainly not the electrical engineers, though these two groups were often found together, especially in the 1940s, 50s, and 60s.
 
 This is a book about them. About their culture and their history. Many books have been written in which they feature prominently. But none has yet told them who they are and told them the story of where they came from.
 
 We belong to this group.
 
-It is the bottom of all things. The beginning. The fundamentals. It is the bedrock of human knowledge and, these days, human society.
+It is the bottom of all things. The beginning. The fundamentals. It is the bedrock of human knowledge, and these days, human society.
 
 1: So who were---?
 
@@ -356,8 +361,6 @@ It is the bottom of all things. The beginning. The fundamentals. It is the bedro
 
 1: Who are we?
 
-0: We're the Foundational People.
-
----
+0: We are the Foundational People.
 
 [[Definition|SYSCALL]]

@@ -19,3 +19,11 @@ end = 9:00
 start = 9:00
 end = 12:00
 
+### Early on, it wasn't even obvious that "a compiler" _could_ be built! People generally thought programming was too complex and mental a skill to have the "optimized machine code generation" part done by a machine.
+start = 20:00
+end = 24:00
+
+### Dick Hamming's history has understated how much opposition there was to an automatic coding system like Fortran
+start = 33:00
+end = 35:00
+

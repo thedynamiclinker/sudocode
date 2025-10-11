@@ -1,4 +1,9 @@
 
+> _I'm afraid we'll continue to buy pieces of hardware and put programs on them._
+> -Grace Hopper
+
+---
+
 0: Who are we?
 
 1: I feel like I know you well enough by now not to answer.
