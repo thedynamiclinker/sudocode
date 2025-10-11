@@ -7,6 +7,9 @@
 ### Or: How to make a mark
 ### Or: How to convince Gödel
 
+
+![[the-most-amazing-coincidence.jpg]]
+
 ---
 
 ![[turing-says-we-may-now-construct-a-machine-to-do-the-work-of-this-computer.png]]

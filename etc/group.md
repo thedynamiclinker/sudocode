@@ -60,11 +60,36 @@ Often referred to as The Cathedral, The Catedral, The Cat-holics, The Abstract a
 ## θ: Topology and Homotopy
 Theta, "TH", includes the Topologists and Homotopy theorists, but does not include Topos theory.
 
-## ι: Hardware
-The iotas. One of two greek letters that means "small." Hardware people want the hardware smaller. Software people want the software smaller. These are the hardware people. The IOtas.
+## ι: The Iotas
+The electrical engineers. Named for the "I" in V = IR, representing current or the motion of electric charge, and IO, representing input/output: the interaction of computing systems with hardware. Iota is also one of two greek letters that means "small," the other being μ.
 
-## κ: Kernel
-The developers at the boundary between the hardware and the software. A mixture of cultures, neither hardware nor software, but primarily software. Their culture is almost exclusively that of The Mus, but a distinct subculture of it with knowledge and skills that are uncommon among the other Mus.
+The iotas have a considerable overlap with the kappas, and the "hardware people" subset of modern computing culture could reasonably be described as the combination of the iotas, kappas, and phis.
+
+## κ: The Kappas
+
+![[the-most-amazing-coincidence.jpg]]
+
+The calculator people. Descendants of Charles Babbage. Creators of mechanical and electrical calculating machines, and a variety of special purpose devices for specific tasks.
+
+Includes early pioneers in the creation of physical devices for the automation of computing, such as:
+
+- Percy Ludgate (accountancy, developed an analytical engine independently of Babbage, 1909)
+- Leonardo Torres Quevedo (civil engineering, electromechanical arithmometer, 1920)
+- Konrad Zuse (creator of the Z1, Z2, Z3, Z4, 1936-45)
+- Howard Aiken (physics, Harvard Mark I, 1944)
+- John Presper Eckert (electrical engineering, ENIAC, 1943-46).
+
+There is considerable overlap between the kappas and the early mus, and in many cases, it is possible to make a convincing case that the devices they conceived of were nearly or fully Turing complete.
+
+For example, although Zuse's Z3 lacked conditional branching, and was thus not universal, it could be imagined to be universal by requiring speculative computation of all possible outcomes of a given calculation.
+
+Similarly, Babbage's analytical engine arguably contained the basic primitives required for universality, though this machine was never built.
+
+The separation of the Kappas from the Mus is not meant to diminish their contributions to history. Many of the earliest breakthroughs in the field we now call computing were the work of this culture.
+
+The individuals in this group are not a monolith. Konrad Zuse, for example, was inspired by Hilbert and Ackerman's book _Principles of Mathematical Logic,_ and could therefore be regarded as belonging to the more foundational camp.
+
+Nevertheless, this group has been given a distinct name to highlight the differences in culture, mindset, skillset, and approach from the other cultures throughout computing and the related fields of mathematics, physics, and engineering.
 
 ...(
 
@@ -176,7 +201,7 @@ While object oriented programming may be described by the short-hand "Everything
 
 In other words, it is _adjectives,_ not nouns or verbs, are taken to be primary in this non-culture.
 
-In the "dataframe supremacy" variant of this disorder, all data one recieves is stored in a rectangle with named columns and typically unnamed rows. In this case, it is the adjectives or attributes (namely columns) that recieve names, while the nouns that those attributes belong to (rows) recieve no name, either as types (e.g. Person) or as values (e.g., Dave.) In such situations, the fundamental objects on which the program operates are simply represented by unnamed integer indexes into a large rectangle in which they live.
+In the "dataframe supremacy" variant of this disorder, all data one recieves is stored in a rectangle with named columns and typically unnamed rows. In this case, it is the adjectives or attributes (namely columns) that recieve names, while the nouns that those attributes belong to (rows) recieve no name, either as types (e.g. Person) or as values (e.g., Dave). In such situations, the fundamental objects on which the program operates are simply represented by unnamed integer indexes into a large rectangle in which they live.
 
 Not all uses of rectangles as a data structure are a mistake. For the symptoms to meet the diagnostic criteria for this condition, the use of rectangles must lead to a significant impairment of an individual's decision making ability in technical arenas relative to their overall technical competence.
 
