@@ -146,6 +146,9 @@ Not positive.
 ## ο: The little omicrons
 The leetcode kids. Puzzle solvers, lovers of structured homework problems, frantic studyers of how to invert a red-black tree on a white board. These may or may not be developers at heart. All we can know for sure is that they're nervous kids doing their best, and studying in precisely the worst way imaginable. There are no interesting polynomial time problems at work, kids. Work involves syscalls and ill-posed problems, often presented in the form of mysteries that no one is even attempting to solve, let alone assign to you as work. It's your job to find out what the interesting problems are, and learn to tell the signal from the noise, because in the real world no one's gonna be there to do it for you. Someone tell these kids they're playing sudoku. They don't know. They're new. I mean Christ, it's not their fault. Academia's dead.
 
+![[the-little-omicrons-01.jpg]]
+
+
 ## Ο: The big Omicrons
 The culture of Complexity theory and thick books on algorithms. The people who write the leetcode problems consumed exclusively by the little omicrons. This is a largely insular two-sided subculture, and it is nearly but not entirely orthogonal from developer culture at large. Adjacent to big Pi, computability theory. Part of the orthodocs.
 
