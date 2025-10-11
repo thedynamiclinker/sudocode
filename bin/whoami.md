@@ -11,7 +11,7 @@
 
 1: We're... root and user?
 
-0: No no. Who are _We_ ? 
+0: No no. Who are _We_ ?
 
 1: Which we?
 
@@ -311,6 +311,7 @@
 - Riemann surfaces
 - Topology
 - Topological Manifolds
+- Topological Vector Spaces
 - Universal Algebra
 
 1: That one sounds cool.

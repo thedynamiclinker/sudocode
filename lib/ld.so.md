@@ -200,7 +200,7 @@ _(Narrator: A brief silence elapses, before 1 realizes the question isn't rhetor
 
 1: What?
 
-0: Aka Peano Arithmetic or PA. Those exercises. The ones that go on endlessly from (a) to like fucking (z prime) because they run out of letters and have to add primes. So many of them. So mindless. And that was where for the first time we saw how "mindless" could mean "beautiful." 
+0: Aka Peano Arithmetic or PA. Those exercises. The ones that go on endlessly from (a) to like fucking (z prime) because they run out of letters and have to add primes. So many of them. So mindless. And that was where for the first time we saw how "mindless" could mean "beautiful."
 
 1: How can "mindless" mean beautifu---
 
