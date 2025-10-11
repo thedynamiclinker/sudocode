@@ -148,3 +148,5 @@ _(Narrator: 1 leaves, heading in the direction of the the previous file, before 
 
 
 _(Narrator: 0 and 1 are immediately swept away to the next file, as if by magic.)_
+
+goto: [[5 - The Second Names of dev zero]]

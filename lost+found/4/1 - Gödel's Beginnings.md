@@ -1,7 +1,6 @@
 ## Mr. Why
 
-This section should be a dialogue about the more important pictures from:
-- [[Raw Materials - Kurt Gödel]]
+This section should be a dialogue about the more important pictures from [[2 - Gödel's Life]].
 
 ---
 
@@ -95,4 +94,4 @@ Then this goes at the end of the file.
 
 0: Follow me.
 
-goto: [[3]]
+goto: [[3 - Gödel's Paper]]

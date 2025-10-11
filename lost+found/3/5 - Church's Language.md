@@ -343,3 +343,4 @@ succ := λn. λf. λx. f (n f x)
 
 ---
 
+goto: [[1 - Gödel's Beginnings]]

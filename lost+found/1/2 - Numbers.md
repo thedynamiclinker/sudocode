@@ -123,3 +123,4 @@ $$0, \; 1, \dots, \; \omega, \; \omega+1, \; \dots, \; \omega \cdot 2, \; \omega
 
 0: Names. Here follow me.
 
+goto: [[3 - Names]]

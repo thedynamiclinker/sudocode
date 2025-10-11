@@ -285,4 +285,4 @@ s = [list for list in lists if list not in list]
 
 1: _(Nauseous)_ What?
 
-Goto: [[5 - And He Called|Doctor]].
+Goto: [[5 - And He Called]].

@@ -67,3 +67,5 @@ _(Narrator: 0 clears 0's throat.)_
 1: How are infinite numbers corrupting the youth?
 
 0: I'll explain, follow me.
+
+goto: [[2 - Numbers]]

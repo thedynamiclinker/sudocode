@@ -2,12 +2,10 @@
 
 ### Or: 0 is a two argument function
 ### Or: 1 is a two argument function
-### Or: True is a two argument function
-### Or: False is a two argument function
+### Or: Booleans are two argument functions
 ### Or: If is a three argument function
 ### Or: Plus One is a three argument function
 ### Or: Minus One may be impossible
-### Or: What the hell is going on?
 ### Or: What was Church thinking?
 
 ---

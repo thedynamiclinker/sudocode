@@ -1,4 +1,9 @@
 
+> _The first draft of anything is shit._
+> -Ernest Hemingway
+
+---
+
 0: Here we are.
 
 1: Oh thank G\*d.

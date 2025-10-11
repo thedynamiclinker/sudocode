@@ -67,7 +67,7 @@ end = 14:40
 start = 14:40
 end = 15:53
 
-### How to handle your boss, for the youth. Put this in /sys/kernel/definition
+### How to handle your boss, for the youth.
 start = 15:45
 end = 17:10
 
@@ -75,7 +75,7 @@ end = 17:10
 start = 17:05
 end = 20:10
 
-### I'm an extremely annoying employee. The millisecond, microsecond, nanosecond story.
+### I'm an extremely annoying employee. I always ask why about everything. The millisecond, microsecond, nanosecond story.
 start = 20:10
 end = 25:37
 

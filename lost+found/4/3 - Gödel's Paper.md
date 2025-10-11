@@ -1,7 +1,7 @@
 ## Leviticus
-### Or: Names are Numbers
-### Or: The Book of Names
-### Or: The Book of Numbers
+
+### Or: Things you can't do
+### Or: 17 Gen r
 
 
 ![[godel-collected-works-098.png]]
@@ -35,31 +35,6 @@
 
 
 ![[godel-collected-works-108.png]]
-
-
-![[godel-collected-works-109.png]]
-
-
-![[godel-collected-works-110.png]]
-
-
-![[godel-collected-works-111.png]]
-
-
-![[godel-collected-works-112.png]]
-
-
-![[godel-collected-works-113.png]]
-
-
-![[godel-collected-works-114.png]]
-
-
-![[godel-collected-works-115.png]]
-
-
-![[godel-collected-works-116.png]]
-
 
 ![[godel-collected-works-117.png]]
 
@@ -122,3 +97,4 @@
 
 
 ![[godel-collected-works-137.png]]
+

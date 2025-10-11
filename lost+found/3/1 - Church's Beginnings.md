@@ -1,4 +1,5 @@
-## Church's beginning
+## Church's Beginnings
+### Or: And he called
 ### Or: Let there be calls
 ### Or: Numbers are calls
 ### Or: Booleans are calls
