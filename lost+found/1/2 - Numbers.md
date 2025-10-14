@@ -13,7 +13,6 @@
 ### Or: Questionable Derivations
 
 ---
-
 ## Corruption
 
 1: Corruption?

@@ -26,6 +26,9 @@ This is not, in itself, an unreasonable thing to do.
 
 ## The Foundational People
 
+> _Probably the most dangerous phrase you can ever use in a computer environment is that dreadful one: "But we've always done it that way." That's a forbidden phrase in my office. To emphasize the fact I keep a clock that goes entirely counter clockwise._
+> -Grace Hopper
+
 ### Of Two Minds
 
 The Foundational members (lowercase), in contrast, never fully become  Members (uppercase) of the fields to which they belong.
@@ -118,7 +121,7 @@ It is up to the scientist, the Foundational mind, to write her books for her.
 
 ### 2. The Aspirational Stance
 
-> _Probably the most dangerous phrase you can ever use in a computer environment is that dreadful one: "But we've always done it that way." That's a forbidden phrase in my office. To emphasize the fact I keep a clock that goes entirely counter clockwise._
+> _If anyone says "But we've always done it that way" I will immediately materialize and haunt you for 24 hours._
 > -Grace Hopper
 
 The Foundational are not necessarily unaware of Social Reality.

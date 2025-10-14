@@ -26,3 +26,12 @@ end = 4:10
 ### At Bell Labs, George Stibitz was working to build a reliable calculator for circuit analysis
 start = 3:55
 end = 4:20
+
+### Grace Hopper on the environment of Harvard Mark I and working with Howard Aiken, at that time the teaching of mathematics was a classified profession, the story about the Navy telling her she was underweight. Aiken says where the hell have you been? ENIAC was not a programmed computer, the Harvard Mark I that Hopper and Aiken worked on was.
+start = 31:05
+end = 36:05
+
+### The instruction was essentially a single address instruction though I've never seen anyone call it that
+start = 37:50
+end = 38:50
+

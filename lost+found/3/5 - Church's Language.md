@@ -7,6 +7,9 @@
 ### Or: Be My Church
 ### Or: BMC
 
+> _I'm an extremely annoying employee. I always ask why about everything._
+> -Grace Hopper
+
 0: Ok so in Church's system, everything is functions.
 
 1: You've mentioned this already, but I still don't know what you mean.

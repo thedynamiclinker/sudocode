@@ -1,4 +1,7 @@
 
+> _He loved to have an argument. If you pushed back, he respected you. If you didn't push back, he would run over you. And I **mean** he ran over you._
+> -Fred Brooks, on Howard Aiken
+
 > _I'm afraid we'll continue to buy pieces of hardware and put programs on them._
 > -Grace Hopper
 

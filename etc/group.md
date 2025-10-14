@@ -61,15 +61,25 @@ Often referred to as The Cathedral, The Catedral, The Cat-holics, The Abstract a
 Theta, "TH", includes the Topologists and Homotopy theorists, but does not include Topos theory.
 
 ## ι: The Iotas
-The electrical engineers. Named for the "I" in V = IR, representing current or the motion of electric charge, and IO, representing input/output: the interaction of computing systems with hardware. Iota is also one of two greek letters that means "small," the other being μ.
+```
+  Intelligence
+       ι
+Ivory ι ι Industry
 
-The iotas have a considerable overlap with the kappas, and the "hardware people" subset of modern computing culture could reasonably be described as the combination of the iotas, kappas, and phis.
+      The
+  Institutions
+```
+
+A transition point in the landscape. The crossroads at which various institutions intersect. The three institutions: the ivory tower of academia, the intelligence agencies, and the industry of the private sector. Not strictly a culture of computing, but an important feature in the landscape of computing history. Mirror image of vega, another non-computing culture directly opposite it, flaked by two cultures of aggressive innovation, the kappas and the nus.
+
 
 ## κ: The Kappas
 
 ![[the-most-amazing-coincidence.jpg]]
 
 The calculator people. Descendants of Charles Babbage. Creators of mechanical and electrical calculating machines, and a variety of special purpose devices for specific tasks.
+
+The engineering analogue of the early logicians encountered in lost+found. Wildly innovative, often working alone, with an unclear relationship to what came after them.
 
 Includes early pioneers in the creation of physical devices for the automation of computing, such as:
 
@@ -87,7 +97,7 @@ Similarly, Babbage's analytical engine arguably contained the basic primitives r
 
 The separation of the Kappas from the Mus is not meant to diminish their contributions to history. Many of the earliest breakthroughs in the field we now call computing were the work of this culture.
 
-The individuals in this group are not a monolith. Konrad Zuse, for example, was inspired by Hilbert and Ackerman's book _Principles of Mathematical Logic,_ and could therefore be regarded as belonging to the more foundational camp.
+The individuals in this group are not a monolith. Aiken read Babbage and was inspired by his work. Konrad Zuse was inspired by Hilbert and Ackerman's book _Principles of Mathematical Logic,_ and could therefore be regarded as belonging to the more foundational camp.
 
 Nevertheless, this group has been given a distinct name to highlight the differences in culture, mindset, skillset, and approach from the other cultures throughout computing and the related fields of mathematics, physics, and engineering.
 
@@ -98,7 +108,7 @@ Nevertheless, this group has been given a distinct name to highlight the differe
 
 ## Λ: The Big Lambda
 
-Mathematical Logic. No elaboration needed.
+Logic. No elaboration needed.
 
 Elaboration: Father of λ and μ. Loves both children equally. Has praise and criticism for both. While λ was the firstborn and inherited the name, Λ is well aware that μ is several orders of magnitude more successful than λ in its career. Then again, λ may be the solution to many of μs problems, if they can find a way to get along. 
 
@@ -117,7 +127,7 @@ Bibles are a big bag of dad jokes.
 So sayeth the ΛVΔ.
 
 ## μ: The mus
-0: Descendants of Turing. Machines, Moore's Law, practical computing, von Neumann architecture, eventually Unix, C, Python, and everything that runs the modern world. Culturally distinct from the lambdas, though the two cultures share a common origin, and have been gradually recognizing their need for a return to a common culture in recent years. Examples include the increasing presence of lambda expressions in μ languages, and the increasing recognition of the need to minimize shared mutable state.
+0: Descendants of Turing with influence from Gödel. Machines, Moore's Law, practical computing, von Neumann architecture, eventually Unix, C, Python, and everything that runs the modern world. Culturally distinct from the lambdas, though the two cultures share a common origin, and have been gradually recognizing their need for a return to a common culture in recent years. Examples include the increasing presence of lambda expressions in μ languages, and the increasing recognition of the need to minimize shared mutable state.
 
 )...
 ## ν: Artificial Intelligence
@@ -127,7 +137,10 @@ So sayeth the ΛVΔ.
 The nus. Cousins of λ & μ, the νs have been around since the beginning of computing, though they are a culturally separate people with distinct norms and traditions from the λs and μs, primarily due to the influence of the δs via backpropagation and the concept of "training" via gradient descent. The culture of the nus has been shaped by repeated mass immigrations and emigrations of outsiders due to hype. The culture therefore consists of an unusual mixture of devoted intellectuals and distracted business types and assorted hype gremlins. In this sense it is not dissimilar from the culture found in cryptocurrency circles. Always focusing on the "new," the nus are the only culture in computing and mathematics known to undergo regular boom-bust cycles, known in the field as "AI winters." The existence of these boom-bust cycles is not due to the nature of the discipline itself, but rather due to the popular appeal of its core goals which has a tendency to attract non-technicals who are interested in anything "nu." Predictably, the non-technicals often grow bored and leave as quickly as they came. As a result, members have grown wary of any mention from outsiders that their field has become "over-hyped," and members were often heard in past eras to utter among themselves the phrase "winter is coming", as they prepared for the funding to dry up and the excitement to abate for another generation. Many believe that the final AI winter has now passed, though the elder members are split among themselves on this issue, both with regard to whether they believe this is in fact the case, and with regard to their individual "p(doom)" -- the probability each person assigns to the proposition that the accelerating advances in their field will literally lead to the collapse of civilization and/or the destruction of all human life.
 
 ## νega: Finance
-The letter "vega" is a non-existent Greek letter, arising from Finance Bros seeing the letter "ν" (nu) used as a parameter to describe the volatility of stock options, and then pretending to know what letter it is. This culture is neither part of mathematics nor computing, though the various other cultures described here have often been found working technical jobs in companies alongside them, with varying degrees of amusement and nihilism.
+The letter "vega" is a non-existent Greek letter, arising from Finance Bros seeing the letter "ν" (nu) used as a parameter to describe the volatility of stock options, and then pretending to know what letter it is. This culture is neither part of mathematics nor computing, though the various other cultures described here have often been found working technical jobs in companies alongside them, with varying degrees of amusement and nihilism. The vegas home is known as Vegas, where they are often known to pilgrimage to engage in the rituals of their people. Represents volatility and the hope of fat tailed upside.
+
+## Θ: Finance
+While vega represents fat tailed upside, the dual financial culture of Theta (capital) represents thin tailed upside and fat tailed downside. This group's homeland is quite different from the vegas. While the vegas homeland Vegas is organized around a "strip," the thetas homeland Wall is organized around a "street." At the Wall and all along the street it flanks, the big Thetas prostrate themselves with much crying, wailing, and tragedy. These are the people of institutional finance. While dual in position and name to the theta of topology and homotopy, there is no relationship between these two cultures.
 
 ## Ξ: ???
 

@@ -59,7 +59,7 @@ end = 13:20
 start = 13:00
 end = 14:30
 
-### If anyone says "But we've always done it that way" I will immediately materialize and haunt you for 24 hours
+### If anyone says "But we've always done it that way" I will immediately materialize and haunt you for 24 hours.
 start = 14:20
 end = 14:40
 

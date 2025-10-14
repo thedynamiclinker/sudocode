@@ -1,3 +1,8 @@
+> _If anyone says "But we've always done it that way" I will immediately materialize and haunt you for 24 hours._
+> -Grace Hopper
+
+---
+
 0: What about this?
 
 1: What's "this"?
