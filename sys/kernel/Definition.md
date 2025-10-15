@@ -20,6 +20,7 @@ The Real Members of a field take pains to learn how things are done. In the fiel
 1. Social Reality
 
 This is not to say that Real Members are mindless slaves to the social. They are no less able to understand scientific truth than the group that makes up their yet-to-be-described complement. Nor are Real Members less able to imagine how things might be improved. When engaged in science, they may disagree intensely with their colleagues, on the basis of objective truth, or propose improvements on the basis of ideals that guide them to a vision of how things might be done differently in the future. In asserting that their primary source of truth is Social Reality, we mean only that social truth is the dimension that normal members of any field gravitate to by default. They do so both in order to learn from the accumulated experience of all those who came before them, and in order to establish their findings among their peers through the accepted social methods. These individuals may be rebellious, when compared to their colleagues. Or they may be more conventional in comparison with the mean. Regardless, the primary question this group ask when learning is some question of the form:
+
 1. How _is_ this done?
 
 This is not, in itself, an unreasonable thing to do.
@@ -31,7 +32,7 @@ This is not, in itself, an unreasonable thing to do.
 
 ### Of Two Minds
 
-The Foundational members (lowercase), in contrast, never fully become  Members (uppercase) of the fields to which they belong.
+The Foundational members (lowercase), in contrast, never fully become Members (uppercase) of the fields to which they belong.
 
 Even in fields where they achieve great prestige, the Foundational are never entirely at home in a field, nor are they made to feel at home by the Real Members.
 
@@ -54,13 +55,16 @@ Note the "I" in item one, and the "we" in item two.
 > _So I want to tell something to all the young people here. On many many many occasions you'll find it is much easier to apologize than it is to get permission. You do it! Then if someone comes after ya and says "Were you supposed to do that?" you say "Aw gee I didn't know I wasn't supposed to do that."_
 > -Grace Hopper
 
+> _It's better to ask forgiveness than permission._
+> -Programmer Proverb
+
 For any complex system, from a modern computing device, to the legal code of a nation, to the social norms of a culture, the Foundational mind's first interest -- the objective source of truth -- concerns what one _can_ get away with, in the system _as it currently exists._
 
 When the Foundational look at a system through an objective lens, they put aside all aspirational or revolutionary ambitions, they pass no moral judgements on the system's failings, and do not concern themselves with changing things.
 
-In the objective stance, when the Foundational mind looks at the legal system of a nation, in all its complexity and verbosity and unreadable legalese, their first thought is not "This is too long"  but rather "This is incomplete."
+In the objective stance, when the Foundational mind looks at the legal system of a nation, in all its complexity and verbosity and unreadable legalese, their first thought is not "This is too long"  but rather "This is too short," by which they mean "This is vague, despite the clutter."
 
-Though one does not require a Foundational mind to recognize the obvious fact that legal codes do not simply execute step-by-step on the CPU of society, like computer code runs on a machine, the Foundational feel this fact more viscerally, more immediately, and more constantly than other minds. They cannot feel they understand a law unless they understand the unwritten truths that govern its enforcement too.
+Though one does not require a Foundational mind to recognize the obvious fact that legal codes do not simply execute step-by-step on the CPU of society, like computer code runs on a machine, the Foundational feel this fact more viscerally, more immediately, and more constantly than other minds. They cannot feel they understand a law unless they understand the unwritten truths that govern its enforcement as well.
 
 From the objective stance, legal system of a nation consists not only of its explicit laws, but of which laws are enforced with which frequencies and in response to which cues. Without documentations of the unwritten incentives and constraints that the enforcers are subject to, the Foundational mind feels the written laws are wildly incomplete, and mostly useless.
 
@@ -92,7 +96,7 @@ The answer is that the police do not actually want to enforce this law, in most 
 
 They generally have better things to do, and they do not appear to benefit from enforcing this law, except in cases where failing to enforce it would reflect poorly on them.
 
-As such, there is under of an unwritten agreement between law enforcement and public drinkers. Keep the bottle in a bag and don't make trouble, and the police will have enough plausible deniability to look the other way.
+As such, there arose an unwritten agreement between law enforcement and public drinkers. Keep the bottle in a bag and don't make trouble, and the police will have enough plausible deniability to look the other way.
 
 In other words, the police are willing to pretend they didn't notice, as long as the public drinker does them the favor of making this lie plausible.
 
@@ -106,7 +110,7 @@ Further, given that the average homeless person is aware of the brown bag dynami
 
 The point is that the Foundational mind cannot put these examples aside, or simply view them as special cases.
 
-To the Foundational mind, the entire legal system is a continuous and undocumented form of the brown bag agreement.
+To the Foundational mind, the entire legal system is a continuous and undocumented form of the brown bag phenomenon.
 
 When assurances are needed, the Foundational mind prefers tools that offer more reliability and predictability, for example cryptographic signatures. As one developer so eloquently put it:
 
