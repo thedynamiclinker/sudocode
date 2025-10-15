@@ -26,4 +26,3 @@ end = 11:19
 ### Cygnus was the first business that specialized in free software
 start = 21:15
 end = 24:15
-

@@ -8,5 +8,35 @@
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
-  }
+  },
+  "mobileToolbarCommands": [
+    "editor:configure-toolbar",
+    "editor:undo",
+    "editor:redo",
+    "editor:cut",
+    "editor:copy",
+    "editor:paste",
+    "editor:attach-file",
+    "editor:insert-codeblock",
+    "editor:insert-callout",
+    "editor:insert-table",
+    "editor:insert-footnote",
+    "editor:insert-wikilink",
+    "editor:insert-embed",
+    "editor:insert-tag",
+    "editor:toggle-highlight",
+    "editor:toggle-code",
+    "editor:toggle-blockquote",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:swap-line-up",
+    "editor:swap-line-down",
+    "editor:open-link-in-new-leaf",
+    "editor:insert-mathblock",
+    "editor:add-cursor-below",
+    "insert-current-date",
+    "insert-current-time",
+    "command-palette:open",
+    "bookmarks:bookmark-current-heading"
+  ]
 }
