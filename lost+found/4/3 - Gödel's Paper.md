@@ -1,8 +1,25 @@
-## Leviticus
+意. (noun). /yi/
+1. idea, meaning, thought
 
-### Or: Things you can't do
+奇. (adj). /qi/
+1. strange, odd, unusual
+
+二. (numeral). /er/
+1. the number 2
+
+Gentoo. (noun)
+1. the fastest type of penguin
+2. 
+
+## Gödel's Paper
+
 ### Or: 17 Gen r
-
+### Or: 17 Gen 二
+### Or: 一七 Gen 二
+### Or: Yi qi Gen 二
+### Or: 意奇 Gen 2
+### Or: Idea Strange Gentoo
+### Or: Compilation of Sources on an Unusual Idea
 
 ![[godel-collected-works-098.png]]
 

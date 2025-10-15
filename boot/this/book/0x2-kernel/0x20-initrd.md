@@ -13,6 +13,6 @@ jmp 1
 
 0: Sh! Kernel's about to start. Show some respect.
 
-goto: [[var/trash/boot-dialogues/this/book/0x2-kernel/0x21-bzImage]]
+goto: [[0x21-bzImage]]
 
 [^1]: Hello Corporation is a subsidiary of the [Root enterprise](https://github.com/enterprises/root).
