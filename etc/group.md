@@ -21,7 +21,6 @@ _(Narrator: No relation to the webserver. I'm assuming he meant [[fsck#The Peopl
 >
 > -Anonymous Algebraist
 
-TODO: Give 1 a repl on group theory, ring theory, and field theory. Give examples and do one simple proof.
 
 ## β: Unassigned
 
@@ -60,17 +59,19 @@ Often referred to as The Cathedral, The Catedral, The Cat-holics, The Abstract a
 ## θ: Topology and Homotopy
 Theta, "TH", includes the Topologists and Homotopy theorists, but does not include Topos theory.
 
+## Θ: Finance (institutional)
+While vega represents fat tailed upside, the dual financial culture of Theta (capital) represents thin tailed upside and fat tailed downside. This group's homeland is quite different from the vegas. While the vegas homeland Vegas is organized around a "strip," the thetas homeland Wall is organized around a "street." At the Wall and all along the street it flanks, the big Thetas prostrate themselves with much crying, wailing, and tragedy. These are the people of institutional finance. While near in position and name to the theta of topology and homotopy, there is no relationship between these two cultures.
+
 ## ι: The Iotas
+
 ```
-  Intelligence
-       ι
 Ivory ι ι Industry
 
       The
   Institutions
 ```
 
-A transition point in the landscape. The crossroads at which various institutions intersect. The three institutions: the ivory tower of academia, the intelligence agencies, and the industry of the private sector. Not strictly a culture of computing, but an important feature in the landscape of computing history. Mirror image of vega, another non-computing culture directly opposite it, flaked by two cultures of aggressive innovation, the kappas and the nus.
+A transition point in the landscape. The crossroads at which various institutions intersect. The institutions: the ivory tower of academia, and the industry of the private sector. Not strictly a culture of computing, but an important feature in the landscape of computing history. Mirror image of vega, another non-computing culture directly opposite it, flaked by two cultures of aggressive innovation, the kappas and the nus.
 
 
 ## κ: The Kappas
@@ -139,9 +140,6 @@ The nus. Cousins of λ & μ, the νs have been around since the beginning of com
 ## νega: Finance
 The letter "vega" is a non-existent Greek letter, arising from Finance Bros seeing the letter "ν" (nu) used as a parameter to describe the volatility of stock options, and then pretending to know what letter it is. This culture is neither part of mathematics nor computing, though the various other cultures described here have often been found working technical jobs in companies alongside them, with varying degrees of amusement and nihilism. The vegas home is known as Vegas, where they are often known to pilgrimage to engage in the rituals of their people. Represents volatility and the hope of fat tailed upside.
 
-## Θ: Finance
-While vega represents fat tailed upside, the dual financial culture of Theta (capital) represents thin tailed upside and fat tailed downside. This group's homeland is quite different from the vegas. While the vegas homeland Vegas is organized around a "strip," the thetas homeland Wall is organized around a "street." At the Wall and all along the street it flanks, the big Thetas prostrate themselves with much crying, wailing, and tragedy. These are the people of institutional finance. While dual in position and name to the theta of topology and homotopy, there is no relationship between these two cultures.
-
 ## Ξ: ???
 
 ... UϺ
@@ -202,7 +200,7 @@ Often described as a Σ turned sideways, both in its shape, and culturally as an
 
 Similar to Ξ if we allow a cross-language pun, but it's generally assumed that this is an accident, and definitely not some kind of blessing from the gods or an omen about how the ϻeek will inherit the earth. I mean wtf even is San? That's not even Greek.
 
-(Linguistic Note: Though San had become largely deprecated and fallen into disuse by the latter half of the 5th century BC, it is often found in abecedaria, particularly those recovered from churches. San became largely obsolete by the second half of the fifth century BC, when it was generally replaced by sigma. Represents no known culture or people in userspace. Despite this, it is often found in enumerations of the /etc/groups, for unknown reasons. See [[abecedarium|/usr/share/dict/abecedarium]] for more details.)
+(Linguistic Note: Though San had become largely deprecated and fallen into disuse by the latter half of the 5th century BC, it is often found in abecedaria, particularly those recovered from churches. San became largely obsolete by the second half of the fifth century BC, when it was generally replaced by sigma. Represents no known culture or people in userspace. Despite this, it is often found in enumerations of the /etc/groups, for unknown reasons.
 
 ## Ϙ: ???
 Deprecated Greek letter Qoppa, written Ϙ in uppercase and ϙ in lowercase. Derived from Phoenician [qopf](https://en.wikipedia.org/wiki/Qoph) meaning "eye of needle." Represents no known culture or people in userspace. Despite this, it is often found in enumerations of the /etc/groups, for unknown reasons.
@@ -299,3 +297,4 @@ Large Cardinals. The most unhinged subculture. Somehow ended up in "foundations 
 
 ## א: The Alephs
 The alephs. Bible authors. Little is known about this group, but whatever is known (e.g., of the J, E, and P sources and the various redactors) will be referred to under the broad label of "The Alephs."
+

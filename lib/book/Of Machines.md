@@ -1,4 +1,6 @@
 
+![[the-most-amazing-coincidence-aiken.jpg]]
+
 ## 1939-1944: Harvard Mark I
 
 The Lawnmower.
@@ -48,7 +50,6 @@ The First Stdio Library.
 ## 1948: SSEC
 
 The First "80 Column Line" 
-(But not really. See [[Of Code#The 80 Char Line]].)
 
 1948: SSEC. Put into operation at IBM headquarters in Manhattan in 1948. Cleverly placed at street level behind large plate glass windows so passers-by could see it working.
 
