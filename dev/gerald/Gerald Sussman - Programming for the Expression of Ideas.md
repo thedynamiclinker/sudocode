@@ -15,7 +15,7 @@ end = 2:30
 start = 5:50
 end = 6:20
 
-### I'm gonna talk a little bit about that. How programming helps you understand things that are usually written very poorly. No matter how good the authors are. It turns out that the traditional methods of writing these things are terrible.
+### I'm gonna talk a little bit about that. How programming helps you understand things that are usually written very poorly. No matter how good the authors are. It turns out that the traditional methods of writing these things are terrible
 start = 6:45
 end = 7:10
 

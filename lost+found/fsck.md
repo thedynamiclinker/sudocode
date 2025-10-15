@@ -122,4 +122,4 @@ _(Narrator: The scene. Two abstract caricatures stand together, a long time ago,
 
 1: What are the foundations?
 
-0: The bottom. The bedrock. The [[1 - In the Beginning|beginning]] of all things.
+0: The bottom. The bedrock. The [[lost+found/1/1|beginning]] of all things.
