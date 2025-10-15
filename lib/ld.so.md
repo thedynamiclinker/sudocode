@@ -73,7 +73,7 @@
 
 1: Promising?
 
-0: Salvageable.
+0: Salvageable. With some work.
 
 1: Zeroooooo don't ruuin it.
 
