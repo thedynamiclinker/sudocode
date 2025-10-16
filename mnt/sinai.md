@@ -15,7 +15,9 @@ as "a dream.")_
 
 ---
 
-Authors: The dream type,
+Authors:
+
+The dream datatype,
 
 ![[mnt-sinai-01.png]]
 
