@@ -11,6 +11,7 @@
   },
   "mobileToolbarCommands": [
     "editor:configure-toolbar",
+    "command-palette:open",
     "editor:undo",
     "editor:redo",
     "editor:cut",
@@ -36,7 +37,6 @@
     "editor:add-cursor-below",
     "insert-current-date",
     "insert-current-time",
-    "command-palette:open",
     "bookmarks:bookmark-current-heading"
   ]
 }

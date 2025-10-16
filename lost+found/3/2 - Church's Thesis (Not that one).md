@@ -698,7 +698,7 @@ $$A \lor \lnot A$$
 
 0: No, I'm being a mathematician. But that's a fair point. If I was being a programmer, or a statistician, or a normal human being, I'd definitely be more and more convinced as we saw more zeros and gathered more evidence. But if I'm being a mathematician, then I would object and say no amount of evidence counts as a proof.
 
-1: Ok I'm not sure what just happened, but I feel like it's more about the sequence being infinnite than it is about "OR".
+1: Ok I'm not sure what just happened, but I feel like it's more about the sequence being infinite than it is about "OR".
 
 0: In mathematics, those are the same thing.
 
@@ -807,9 +807,9 @@ under any circumstances.
 
 1: I think so. The branch that worked was when a "1" existed somewhere in the sequence. If it exists we can find it, so we can eventually take that branch.
 
-0: What about situations like this? 
+0: What about situations like this?
 
-Suppose A is the sentence "There exists a 1 in this sequence", or equivalently, "This generator will eventually yield 1.
+> Suppose A is the sentence "There exists a 1 in this sequence", or "This generator will eventually yield a 1."
 
 1: Isn't that the first example up above? The one that didn't have problems?
 
