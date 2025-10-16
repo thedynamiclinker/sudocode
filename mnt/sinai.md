@@ -81,7 +81,7 @@ rather than doing the hard work of actually constructing a coherent narrative,
 
 ![[mnt-sinai-16.png]]
 
-simply cat a series of images of another another, into the mind,
+simply cat a series of images one after another, into the mind,
 
 ![[mnt-sinai-17.png]]
 
