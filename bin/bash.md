@@ -1,3 +1,7 @@
+![[1945-first-actual-bug-found.jpeg]]
+
+---
+
 0: A shell history expansion. It expands to whatever the most recent line was in our chat history where one of us said the word "programmers." Sorry, old habit.
 
 1: Wow that sounds useful!

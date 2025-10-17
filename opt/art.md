@@ -1,4 +1,9 @@
 
+> _I had a running compiler and nobody would touch it. ... They carefully told me, computers could only do arithmetic; they could not do programs._
+> -Grace Hopper
+
+---
+
 0: ---read it. Just enough to realize what's going on.
 
 1: Why are we in a file called "art"?

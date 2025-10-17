@@ -1,4 +1,9 @@
 
+> _Don't worry about people stealing an idea. If it's original, you will have to ram it down their throats._
+> -Howard Aiken
+
+---
+
 1: What's with this bbl thing?
 
 0: What bbl thing?

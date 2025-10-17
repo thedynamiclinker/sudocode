@@ -1,9 +1,8 @@
+> _I am a simple man and I want simple answers._
+> -Howard Aiken 
 
-> _He loved to have an argument. If you pushed back, he respected you. If you didn't push back, he would run over you. And I **mean** he ran over you._
-> -Fred Brooks, on Howard Aiken
-
-> _I'm afraid we'll continue to buy pieces of hardware and put programs on them._
-> -Grace Hopper
+> _It's easier to ask forgiveness than it is to get permission._
+> -Grace Hopper, employee of Howard Aiken
 
 ---
 
@@ -196,6 +195,13 @@
 0: Intel 80386, x86-64.
 
 1: I know that last one!
+
+---
+
+> _I'm afraid we'll continue to buy pieces of hardware and put programs on them._
+> -Grace Hopper
+
+---
 
 0: How do you feel?
 
