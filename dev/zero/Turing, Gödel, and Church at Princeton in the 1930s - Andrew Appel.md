@@ -11,5 +11,6 @@ end = 13:13
 start = 11:32
 end = 11:52
 
-
-
+### Even the topologists regarded mathematical logicians as living in outer space
+start = 35:00
+end = 35:30

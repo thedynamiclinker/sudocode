@@ -4,14 +4,6 @@
 
 ## Todo
 
-Andrew Appel has a great begat list at 9:20.
-- Oswald Veblen.
-- Solomon Lefschetz.
-- Alonzo Church.
-- Kurt Gödel was visiting.
-- John von Neumann.
-- Throughout the 1930s, the IAS shared its office with the mathematicians in Fine hall.
-- Transcribe the whole begat list and put it immediately after /etc/group and the rhos digression.
 
 Voevodsky How I became interested in Foundations of Mathematics 3:40. Transcribe this quote! It belongs at the very top of /etc/group!
 
