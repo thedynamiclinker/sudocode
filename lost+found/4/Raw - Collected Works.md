@@ -4,15 +4,16 @@
 ![[godel-collected-works-014.png]]
 
 
+Hardly ever spoke.
 ![[godel-collected-works-015.png]]
 
-
+Studied Principia years later.
 ![[godel-collected-works-016.png]]
 
-
+Did his dissertation with no guidance.
 ![[godel-collected-works-017.png]]
 
-
+Curt style.
 ![[godel-collected-works-018.png]]
 
 
