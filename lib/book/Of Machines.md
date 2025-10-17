@@ -15,6 +15,9 @@ The von Neumann architecture.
 
 ## 1945: ENIAC
 
+> _The ENIAC computer. Well, we can call it a computer. It's a calculator. It's not really universal._
+> -Andrew Appel, Turing, Gödel and Church at Princeton in the 1930s
+
 The First Egypt.
 
 1945: ENIAC. Electronic Numerical Integrator And Calculator. J.W. Mauchly and J.P. Eckert of the University of Pennsylvania. 18,000 tubes and 1,500 relays. Commissioned by the Ballistics Research Laboratory at the Aberdeen Maryland proving ground. Was the electrical analogue of the Mark I, but ran several hundred times faster since it was not a lawnmower.
