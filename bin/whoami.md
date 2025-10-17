@@ -201,6 +201,9 @@
 > _I'm afraid we'll continue to buy pieces of hardware and put programs on them._
 > -Grace Hopper
 
+> _Mainframes were replaced by minicomputers which were replaced by microcomputers which are being replaced by smartphones, it's a standard disruptive technology cycle._
+> -Rob Landley
+
 ---
 
 0: How do you feel?
