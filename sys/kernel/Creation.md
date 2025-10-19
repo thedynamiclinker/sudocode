@@ -1,4 +1,4 @@
-![[leibniz-creation-as-binary-2 1.png]]
+![[leibniz-creation-as-binary-2.png]]
 
 
 ```

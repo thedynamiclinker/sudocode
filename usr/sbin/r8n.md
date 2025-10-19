@@ -136,7 +136,7 @@ Error: system not booted.
 # will be subject to this endless
 # light, for the new root makes
 # no distinction between the
-# privilege of those within in.
+# privilege of those within it.
 echo 100 | sudo tee /sys/class/backlight/brightness
 sudo: command not found
 
