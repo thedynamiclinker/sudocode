@@ -10,6 +10,26 @@ possible.
 
 ---
 
+In Rev 4:7, the bit with:
+
+```
+cd /usr/share
+
+# The first living creature was like a lion,
+mkdir l10n
+
+# the second was like a calf,
+mkdir cowsay
+
+# the third had a face like a man,
+mkdir man
+
+# the fourth was like an eagle
+mkdir egl
+```
+
+---
+
 Chapters (Octal)
 
 1: Λ111. Seven churches, First and Last, Alpha and Omega, "The Living One"
@@ -38,15 +58,14 @@ The seven stars are seven seals, and their names
 
 ```
 	  λ
-
-L     Λ     
+L
+      Λ     
       Δ     Ꞁ
-
+				 LꞀ
       Ϙ     ⅃
-Γ     𐤂
-
+      𐤂
+Γ
       γ
-LꞀ Γ
 ```
 
 3: More about the seven stars. Coming soon.

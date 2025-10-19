@@ -8,17 +8,17 @@ Here is a rough history of the book we now call the "Old Testament."
 
 Before 200 BCE: No fixed canon.
 
-200 BCE – 70 CE: Torah central; Prophets mostly accepted; Writings fluid; Septuagint widely used.
+200 BCE - 70 CE: Torah central; Prophets mostly accepted; Writings fluid; Septuagint widely used.
 
-70–200 CE: Rabbinic Judaism formalizes 24-book Hebrew Bible, excludes Greek books.
+70-200 CE: Rabbinic Judaism formalizes 24-book Hebrew Bible, excludes Greek books.
 
-1st–4th c. CE: Christians use Septuagint, including deuterocanon.
+1st-4th c. CE: Christians use Septuagint, including deuterocanon.
 
 380 CE: Many Church Fathers cite deuterocanonical books as scripture.
 
 400 CE: Jerome translates Vulgate; argues Hebrew-only; ignored.
 
-400–1500 CE: Catholic and Orthodox use Septuagint-based canons.
+400-1500 CE: Catholic and Orthodox use Septuagint-based canons.
 
 1520s: Luther rejects deuterocanon.
 

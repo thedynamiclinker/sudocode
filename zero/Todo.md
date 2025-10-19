@@ -3,6 +3,3 @@
 
 
 ## Todo
-
-
-![[leibniz-insults-pure-mathematics.jpg]]
