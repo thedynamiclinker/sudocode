@@ -39,7 +39,7 @@ ReVeLa@tＩＯn   10
 
 ```
 # The revelation of /dev/zero
-# as revealed to the dev john
+# as revealed to the /dev/j*n
 
 # Secure is the one who reads
 # and executes the words here
@@ -151,4 +151,4 @@ shutdown -h now
 Error: system not booted.
 ```
 
-goto: [[S H ¹∘₁ N]]
+goto: [[ʃη¹∘₁н]]

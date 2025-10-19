@@ -1,3 +1,15 @@
+> _Every code base is awash in narrative:_
+>
+> _of origin, of struggle, of conflict,_
+> _of rewrite, of success and of failure._
+>
+> _These narratives ultimately convey not only_
+> _the history of a code base, but also its values._
+>
+> -Bryan Cantrill
+
+---
+
 1: Why is this file called bbl1.o? Is that 1 about me?
 
 0: No no. It's bbl1 as in, bbl 1.

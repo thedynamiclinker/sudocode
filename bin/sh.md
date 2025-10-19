@@ -581,10 +581,10 @@ _(Narrator: As 1 returns to /root to show 0, 0 seems to be focused on something 
 
 1: Um, 0?
 
-0: Oh 0!! I didn't see you there.
+0: Oh 1!! I didn't see you there.
 
 ```sh
-0: Oh, 0echo 1: Um, 0? I didn't see you there.
+0: Oh, 1echo 1: Um, 0? I didn't see you there.
 >>
 ```
 

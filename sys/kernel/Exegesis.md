@@ -32,9 +32,11 @@ Then Jacob goes "Ma, c'mon, Esau is really hairy and I'm all smooth. Dad's gonna
 
 So the mom goes "Whatever, tell him to blame me. Just follow my lead."
 
-Then she LITERALLY goes and takes hairy brother's clothes and puts them on Jacob, and then puts goat skin from the food goats onto his hands and the smooth part of his neck.
+Then she LITERALLY goes and takes hairy brother's clothes and puts them on Jacob, and then puts goat skin from the recently dead food-goats onto his hands and, I quote, "the smooth part of his neck," which is presumably all of it because as Jacob said twelve seconds ago "Ma, I'm all smooth."
 
-She goats out her smooth son because OBVIOUSLY this is normal motherly behavior and not at all a joke about Edom, the tribe right below Israel and Judah who Esau represents.
+So mom goats out her smooth son because OBVIOUSLY this is normal motherly behavior and not at all a joke about Edom, the tribe right down South below Israel and Judah who Esau represents and this isn't some interpretation I'm making up. This is North Carolina literally saying word for word "And Esau was South Carolina."
+
+Ok.
 
 So mom dresses Jacob in goat skin like silence of the fucking lambs, and sends him to her senile husband like "Hey dad, it's me the hairy one. I goat (ahem) I mean got you some food."
 
@@ -44,7 +46,8 @@ So the dad feels his smooth son who's currently dressed in a makeshift goat cost
 
 "The voice is the voice of Jacob, and the hands are the hands of Esau."
 
-Tell me this isn't fucking satire.
+_Tell me this isn't fucking satire._
 
-Rachel's name means "sheep", she shows up with a bunch of sheep in Gen 29.
+---
 
+Additional note for later: Rachel's name means "sheep", she shows up with a bunch of sheep in Gen 29.

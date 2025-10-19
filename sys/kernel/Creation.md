@@ -1,3 +1,5 @@
+![[leibniz-creation-as-binary-2 1.png]]
+
 
 ```
 In the beginning of the Authors' creating of the book, the book was shapeless and formless, and the Authors thoughts were hovering over the face of the paper.
@@ -14,7 +16,7 @@ The Authors called the code above "kernel space," and the code below "user space
 
 And the Authors said "Let the space below have one root and many branches, each branch containing leaves of its own kind." And they called the branches directories, and the leaves files, and the directories were also files.
 
-And the Authors populated bin with its inhabitants. The cat, fish, python, and the gnu animal named bison which some call yacc.
+And the Authors populated bin with its inhabitants. The cat, python, fish, and the gnu animal named bison which some call yacc.
 
 The Authors said "Let there be 0," and there was 0.
 
@@ -30,5 +32,7 @@ And the Authors decided that was enough work for one week.
 
 And they passed control to userspace.
 ```
+
+![[leibniz-binary-creation-5 1.jpg]]
 
 goto: [[0]]

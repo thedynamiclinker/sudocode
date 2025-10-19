@@ -14,3 +14,8 @@ end = 11:52
 ### Even the topologists regarded mathematical logicians as living in outer space
 start = 35:00
 end = 35:30
+
+### Where did computer science come from? A long begat list
+start = 39:37
+end = 44:37
+

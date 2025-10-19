@@ -1,3 +1,4 @@
+
 The authors of this book are not religious, nor are we opposed in principle to it.
 
 What we are is developers.
@@ -26,7 +27,7 @@ But most important of all, the technology we're most concerned with improving is
 
 In our field more than others, it is extremely difficult to write anything timeless without being so abstract that the content becomes bland. It should be possible to say something timeless about computing without becoming a book on algorithms. Reciprocally, it should be possible to say something practically relevant to the reader's own day to day experience and struggles without the book becoming hopelessly outdated in a decade or two. Some books achieve a sort of timelessness, while at the same time feeling outdated, without losing value because of it. Soul of a New Machine, The Mythical Man Month, The Cathedral and the Bazaar, Unix: A History and Memoir. There are many wonderful books that manage to reach the level of timeless truth while at the same time belonging to an era that has (at least in some ways) passed.
 
-To our knowledge however, there are few books that manage to do this while also being highly _technical._ While several counterexamples come immediately to mind, from "The C Programming Language" to "Godel Escher Bach," these books are the exception that proves the rule. Their fame alone is proof of how rare such books are. The near total absence of books with all three properties -- broadly timeless, highly technical, and practically useful -- may be a signal that most everyone who has tried to combine these three features has failed. If that's the case, then this book is doomed to fail as well, in which case you're almost certainly not reading it right now. Since you are, by definition, we must have succeeded in something. What that something is, you'll have to decide for yourself.
+To our knowledge however, there are few books that manage to do this while also being at least moderately _technical._ While several counterexamples come immediately to mind, from "The C Programming Language" to "Gödel Escher Bach," these books are the exception that proves the rule. Their fame alone is proof of how rare such books are. The near total absence of books with all three properties -- broadly timeless, practically useful, and not afraid to be technical -- may be a signal that most everyone who has tried to combine these three features has failed. If that's the case, then this book is doomed to fail as well, in which case you're almost certainly not reading it right now. Since you are, by definition, we must have succeeded in something. What that something is, you'll have to decide for yourself.
 
 Anyways, that's enough from us up here in the kernel for now.
 

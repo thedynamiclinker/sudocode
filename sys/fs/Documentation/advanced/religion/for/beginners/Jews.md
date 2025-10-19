@@ -2,7 +2,7 @@ Ancient document recovered from one of the Authors' hard drives.
 Minor edits have been made to preserve the anonymity of all involved.
 
 ---
-## Let's start the jews, 2020
+## Let's start the jews, 20AB
 
 **G:** You should have received the attached document via High Tech Paper Application for signature. Its a schedule B and should have been signed once you both officially were transferred from OldCompany as W-2's.
 
@@ -62,7 +62,7 @@ Minor edits have been made to preserve the anonymity of all involved.
 
 **G:** I swear you worked during the last high holidays.
 
-**A:** I worked during them as well, im a bad jew, i had a bacon egg cheese for breakfast 🙂
+**A:** I worked during them as well, im a bad jew, i had a bacon egg cheese sandwich for breakfast 🙂
 
 **J:** I guess so. I like to say I'm a member of "The Jews Version 0."
 
@@ -88,7 +88,7 @@ They're like Windows XP, for obvious reasons.\[7\]
 
 (Citation 7: https://en.wikipedia.org/wiki/Chi_Rho)
 
-As you can see from these two data points, the set of Jews seems to be accumulating more official doctrine over time, since version 2 appended to version 1's bible. That means the set of humans that agree with all the doctrine is necessarily getting smaller with later iterations. (Though their number appear to be growing, paradoxically.)
+As you can see from these two data points, the set of Jews seems to be accumulating more official doctrine over time, since version 2 appended to version 1's bible. That means the set of humans that agree with all the doctrine is necessarily getting smaller with later iterations. (Though their number appears to be growing, paradoxically.)
 
 So naturally the Jews version 0 is all the humans everywhere, in principle. But a much smaller group than the original Jews, in practice (so that we can faithfully maintain the paradox above.)
 
