@@ -1,3 +1,11 @@
+
+> _This is the kind of thing we see all over the place in the Dead Sea Scrolls. We see active scribal involvement in the texts of the bible in such a way that quite frankly is fairly surprising. It was fairly surprising to scholars when they started to dig in to the texts of the bible just how active scribes were in the Authorial process and the transmission process of these texts._
+> -Kipp Davis
+
+![[dead-sea-scrolls-redactor-spotted-2.jpg|300]]
+
+---
+
 ## Or: Burning 0-day so we can say ord('א') in print()
 ## Or: Previously unpublished results
 ## Or: The G8s of H8
@@ -135,7 +143,6 @@ Love always,
 -The Authors
 
 <span style="font-size: 22pt;">Lλ𐡀𐤀𐤋' && Γג𐤂ϙ𐤒  && LꞀ</span>
-
 
 ---
 

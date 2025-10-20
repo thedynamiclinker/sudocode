@@ -508,4 +508,3 @@ Large Cardinals. The most unhinged subculture. Somehow ended up in "foundations 
 ## א: The Alephs
 
 The alephs. Bible authors. Little is known about this group, but whatever is known (e.g., of the J, E, and P sources and the various redactors) will be referred to under the broad label of "The Alephs."
-
