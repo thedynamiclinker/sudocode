@@ -133,6 +133,8 @@
 
 0: Yeah you know `git blame` right?
 
+![[friedman-source-map-documentary-hypothesis-j-e-p-sources.jpg]]
+
 1: Of course. It shows you who wrote which lines. But the bible wasn't stored in git. How is it possible to figure out who wrote what?
 
 0: Well they can't give the names of specific authors, but they can do a reasonably good job of telling when the person writing switches.
