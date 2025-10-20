@@ -23,7 +23,7 @@ Religion
 - [[God]]
 - [[Jesus]]
 - [[usr/share/dict/religion/Bible|Bible]]
-- [[usr/share/dict/religion/Torah]]
+- [[usr/share/dict/religion/Torah|Torah]]
 - [[YHWH]]
 
 Government

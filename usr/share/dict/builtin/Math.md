@@ -1,1 +1,1 @@
-Type: [[usr/share/dict/builtin/Code]], [[With]], [[No]], [[Computer]]
+Type: [[Code]], [[With]], [[No]], [[Computer]]
