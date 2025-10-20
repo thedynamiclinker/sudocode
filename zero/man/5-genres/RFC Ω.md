@@ -100,7 +100,7 @@ Cut, Copy, Paste, & Refactor
 - The book of Matthew: Written about as long after the Jesus story as the gap between the current book and Unix version 1. Matthew is structured as a mirror image of the Torah, divided into five main parts that each reflect the same themes as the corresponding books in the Torah. Matthew appears to have been cut together from prior sources including the book of Mark, and a lost document referred to as Q that some have argued was the later discovered Gospel of Thomas, though consensus on this point is not universal.
 - The Quran and the Christian bible, which import Abraham and other Old Testament themes from the Torah.
 
-The רꞀΠΓг genre (RPG)
+The רΠг genre (RPG)
 - A linear narrative that one is more or less forced through.
 - Plus optional side-quests scattered around, for the curious.
 
