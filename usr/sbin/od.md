@@ -24,5 +24,5 @@
 > 
 > -Grace Hopper
 
-goto: [[c8n|/usr/sbin/c8n]]
+goto: [[usr/sbin/c8n|/usr/sbin/c8n]]
 

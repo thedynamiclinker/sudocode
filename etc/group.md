@@ -374,9 +374,7 @@ Only the inscriptions appear, without any known equivalent as spoken word.
 
 I've got guesses, but nothing I'd be comfortable sharing in a place like this.
 
-Only intuitions and mental constructions, after all.
-
-I haven't got a bit of hard evidence.
+Only intuitions, not a bit of hard evidence.
 
 Or maybe a bit.
 
@@ -385,9 +383,6 @@ Not positive.
 ## ο: The little omicrons
 
 The leetcode kids. Puzzle solvers, lovers of structured homework problems, frantic studyers of how to invert a red-black tree on a white board. These may or may not be developers at heart. All we can know for sure is that they're nervous kids doing their best, and studying in precisely the worst way imaginable. There are no interesting polynomial time problems at work, kids. Work involves syscalls and ill-posed problems, often presented in the form of mysteries that no one is even attempting to solve, let alone assign to you as work. It's your job to find out what the interesting problems are, and learn to tell the signal from the noise, because in the real world no one's gonna be there to do it for you. Someone tell these kids they're playing sudoku. They don't know. They're new. I mean Christ, it's not their fault. Academia's dead.
-
-![[the-little-omicrons-01.jpg]]
-
 
 ## Ο: The Big Omicrons (Complexity)
 

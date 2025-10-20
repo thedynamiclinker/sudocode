@@ -1,4 +1,3 @@
-# 
 ![[a-secret-invisible-mystery-01.jpg]]
 
 
