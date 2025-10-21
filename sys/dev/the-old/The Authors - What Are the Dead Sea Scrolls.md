@@ -7,7 +7,6 @@ https://www.youtube.com/watch?v=EConZYgDPNM
 start = 50:50
 end = 58:50
 
-
 ### This is all intensely interesting to me, and this is the kind of thing we see all over the place in the Dead Sea Scrolls. We see active scribal involvement in the texts of the bible in such a way that quite frankly is fairly surprising. It was fairly surprising to scholars when they started to dig in to the texts of the bible just how active scribes were _in the Authorial_ process and the transmission process of these texts
 start = 53:25
 end = 58:25
