@@ -1,6 +1,8 @@
 
 ![[the-most-amazing-coincidence-aiken.jpg]]
 
+![[family-tree-of-machines.png]]
+
 ## 1939-1944: Harvard Mark I
 
 The Lawnmower.
