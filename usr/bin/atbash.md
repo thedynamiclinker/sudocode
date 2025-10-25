@@ -63,6 +63,7 @@ Sheshak. (proper noun).
 בבל (noun)
 1. Babel.
 ```
+
 ---
 
 ![[bbl-meaning-1.png]]
