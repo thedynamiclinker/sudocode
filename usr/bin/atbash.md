@@ -27,9 +27,9 @@ Leb Kamai. (proper noun).
 
 ```
 ~ $ atbash --hebrew לבקמי
-כשדימ
-
+כשדים
 ```
+
 ---
 
 > _And all the kings of the north, near and far, one after the other
@@ -63,6 +63,7 @@ Sheshak. (proper noun).
 בבל (noun)
 1. Babel.
 ```
+---
 
 ![[bbl-meaning-1.png]]
 
@@ -77,12 +78,12 @@ Sheshak. (proper noun).
 atbash. (noun).
 1. A simple cryptosystem, providing no security whatsoever, unless the people one aims to hide from are completely retarded, which they usually are.
 
----
-
 ![[atbash-definition.png]]
+
+
+![[atbash-table-greek.png]]
 
 ---
 
 > _I am the Alpha and the Omega, the First and the Last, the Beginning and the End._
 > -Some guy
-
