@@ -1,6 +1,3 @@
-```
-# Turn this into a repl session
-
 var. /ואר/
 1. War
 
@@ -12,4 +9,9 @@ shit. /שית/
 
 bra. /ברא/
 1. Create
-```
+   
+rʾšt (rʾšt)
+1. Ugaritic. Beginning, first part.
+
+zbl (z-b-l)
+1. Ugaritic. Storm-god / rider of the clouds ~~(see: Baal)~~
