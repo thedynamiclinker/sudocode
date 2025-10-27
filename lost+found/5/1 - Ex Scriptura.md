@@ -7,22 +7,12 @@
 ### Or: How to make a mark
 ### Or: How to convince Gödel
 
+> _We may now construct a machine to do the work of this computer._
+> -Alan Turing, 1936
 
 ![[the-most-amazing-coincidence.jpg]]
 
----
-
-![[turing-says-we-may-now-construct-a-machine-to-do-the-work-of-this-computer.png]]
-
----
-
-> Steve Kleene: Well as I say, I don't know how firmly convinced Gödel was that his General Recursive Functions represented all effectively calculable functions.
->
-> Gerald Sacks: He seemed very skeptical.
->
-> Steve Kleene: I think he was skeptical. And it may well be that Turing's presentation was what brought Gödel around.
-
-0: So Church comes up with Lambda Calculus. Gödel comes up with General Recursive Functions. Kleene proves the two systems are equivalent. And legend has it that when Gödel realized his system was equivalent to Church's Gödel says "Oh. Well then I guess mine was wrong."
+0: Ok so, let's recap. Church comes up with Lambda Calculus. Gödel comes up with General Recursive Functions. Kleene proves the two systems are equivalent. And legend has it that when Gödel realized his system was equivalent to Church's Gödel says "Oh. Well then I guess mine was wrong."
 
 1: Did that actually happen?
 
