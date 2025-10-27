@@ -3,12 +3,6 @@
 ![[godel-goldstein-00.jpg|400]]
 
 
-![[godel-goldstein-01.png]]
-
-
-![[godel-goldstein-02.png]]
-
-
 ![[godel-goldstein-03.png]]
 
 

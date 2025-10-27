@@ -442,6 +442,10 @@ Progression of Symptoms:
 
 ## Σ: The Sigmas (Reverse Mathematics)
 
+![[godel-collected-works-092.png]]
+>
+> Kurt Godel, collected works
+
 Sitting here between two weirdos, others often fail to notice it. Named sigma, due to their common use of the Kleene Mostowski hierarchy, shared with Π. Everything is Σ separation or Σ comprehension.
 
 ## τ: The Taus (Topoi)
