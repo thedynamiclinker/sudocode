@@ -1,1 +1,0 @@
-The `/sys/devices` directory contains various plot devices that the Authors have found useful in transitioning the chars between various bits of user space.

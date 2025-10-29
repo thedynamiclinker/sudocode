@@ -1,1 +1,0 @@
-The `/sys/dev` directory contains a small subset of the kernel's equivalent of the userspace `/dev` directory.

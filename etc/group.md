@@ -11,6 +11,8 @@ The basis vectors of the many nations of stem.
 
 This is...
 
+![[the-32-tribes-of-etc-group-01.png]]
+
 # The /etc/groups
 
 - [[#α: The Alphas (Abstract Algebra)|α: The Alphas (Abstract Algebra)]]
@@ -495,7 +497,7 @@ Phi. Physics. Self explanatory.
 
 Names for the Chi squared statistic. Self explanatory.
 
-Note: Probability theory ala E. T. Jaynes is Λ. The rest is statistics.
+Note: Probability theory ala E. T. Jaynes is Λχ. The rest is statistics.
 
 ## ψ: The Psis (Scientific computing)
 

@@ -1,1 +1,0 @@
-The `/sys/kernel` directory is the only directory in the filesystem in which the Authors can be consistently heard to speak at length, uninterrupted, about their intentions for the book.
