@@ -1,10 +1,20 @@
+
+The Authors:
+
 ## A report on previous attempts to map /etc/group
 
 The 32 tribes of /etc/group are of historical and modern interest to every culture of the hard sciences.
 
-Many maps of of /etc/group have been proposed, but equally many questions remain.
+Many maps of of /etc/group have been proposed, but the most influential to date is the map below, published by a pseudonymous Author known simply as "Gen", also known as 根 or "Root". It is unlikely that this "Root" has any relation to the character 0 in the surrounding text, as 0 appears to have no knowledge of this map, nor does the "Root" who composed the map appear to have written any works of prose that could be used to determine a similarity or lack thereof of this map-maker to other Authors.
 
-Here's what we know for sure.
+The Root map is as follows.
+
+![[the-32-tribes-of-etc-group-01.png]]
+
+
+The map's influence has been to establish a set of basic assumptions as a de facto standard, though the evidence is in some places scant.
+
+The assumptions are as follows:
 
 0. The μs are in the central south.
 
@@ -34,6 +44,10 @@ Here's what we know for sure.
 
 13. Even less is known about the Ξ, but strong opinions abound as to the meaning of the Ξ inscriptions.
 
-14. That's it. That's all I know.
+14. That's it. That's all we know.
 
-![[the-32-tribes-of-etc-group-01.png]]
+That's enough from us up here in the kernel for now.
+
+We now return to our regularly scheduled programming.
+
+goto: [[etc/group|/etc/group]]
