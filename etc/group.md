@@ -1,4 +1,6 @@
 
+0: _(ahem)_
+
 At long last!
 
 The long awaited categorization.
@@ -261,11 +263,16 @@ Ivory ι ι Industry
 A transition point in the landscape. The crossroads at which various institutions intersect. The institutions: the ivory tower of academia, and the industry of the private sector. Not strictly a culture of computing, but an important feature in the landscape of computing history. Mirror image of vega, another non-computing culture directly opposite it, flaked by two cultures of aggressive innovation, the kappas and the nus.
 
 
-## κ: The Kappas (The Calculator People)
+## κ: The Kappas (The Engineers)
+
 
 ![[the-most-amazing-coincidence.jpg]]
 
-The calculator people. Descendants of Charles Babbage. Creators of mechanical and electrical calculating machines, and a variety of special purpose devices for specific tasks.
+Descendants of Charles Babbage. 
+
+Often known as the Engineers, the Machine People, or (among their detractors) the Calculator People.
+
+Creators of mechanical and electrical calculating machines, and a variety of special purpose devices for specific tasks.
 
 An engineering culture, the kappas are in some ways the analogue of the early logicians encountered in lost+found. Wildly innovative, often working alone, with an unclear relationship to what came after them.
 

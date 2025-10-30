@@ -52,4 +52,4 @@ Copyright info: https://turingarchive.kings.cam.ac.uk/copyright-and-terms-use
 > Alan
 
 
-goto: [[lost+found/4/4|4]]
+goto: [[0001]]
