@@ -35,7 +35,7 @@ without commentary.
 
 The images in a dream,
 
-![[mnt-sinai-05.png]]
+![[proto-sinaitic-decipherment-01.jpg]]
 
 according to all known human sources,
 
