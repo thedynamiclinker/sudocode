@@ -3,7 +3,7 @@ https://youtu.be/E9WIP5YqQt8
 
 ## Clips
 
-### For some random reason, set theory won
+### Somehow set theory won, for some random reason.
 start = 3:20
 end = 4:20
 

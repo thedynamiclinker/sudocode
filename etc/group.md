@@ -1,11 +1,17 @@
+> _When I was studying in Moscow University, Foundations of Mathematics was really a subject which was extremely unfashionable. We had this different - as we called them "cathedrals" - different groups inside the university, different groups of faculty. So there was the group of algebra, and the group of topology, and then there was also the group of analysis and the group of differential equations. And there was also a group of Foundations of Mathematics. And at the end of the second year of studies, every student had to choose a specialization. Every student had to choose which of the groups to continue to study with. That was of course a big deal, so we discussed things a lot, and different groups had different reputations. Some groups were considered to be very cool and fashionable, and some groups were considered to be very uncool. At my time, the group of algebra was considered to be cool because there were some very famous people there like Manin, and people about whom various legends were going around in the University. The group of topology and geometry was cool, also because there were some very great people there, like Novikov (Sergei Petrovich). Some other groups were kind of less cool. But the group of Foundations of Mathematics was probably the least cool group of all. Worse than that was only the History of Mathematics. Nobody really considered going there. At least nobody from "us" who thought about ourselves as good mathematicians considered going there. And back then I went to the group of algebra and started to study there, and I still consider myself to be mostly an algebraist, and applying the methods of algebra in various other areas of mathematics. So that's in a sense the beginning of the story. Today, I'm working full time on Foundations of Mathematics. So the question is "How did I get here?" and does it mean that I become entirely uncool over all these years, or is there some other reason? So I'm going to try to explain why Foundations of Mathematics the way we're doing them now is really a cool subject again._
+> -Vladimir Voevodsky, Fields Medalist 2002, How I became interested in foundations of mathematics.
+
+---
 
 0: _(ahem)_
+
+_(Narrator: 0 clears 0's throat.)_
 
 At long last!
 
 The long awaited categorization.
 
-The 32 cultures of the hard sciences.
+The 32 cultures of the hardest of sciences.
 
 The basis vectors of the many nations of stem.
 
@@ -25,7 +31,7 @@ This is...
 - [[#θ: The Thetas (Topology and Homotopy)|θ: The Thetas (Topology and Homotopy)]]
 - [[#Θ: The Big Thetas (Finance, institutional)|Θ: The Big Thetas (Finance, institutional)]]
 - [[#ι: The Iotas (The Institutions)|ι: The Iotas (The Institutions)]]
-- [[#κ: The Kappas (The Calculator People)|κ: The Kappas (The Calculator People)]]
+- [[#κ: The Kappas (The Engineers)|κ: The Kappas (The Engineers)]]
 - [[#λ: The Lambdas (Descendants of Church)|λ: The Lambdas (Descendants of Church)]]
 - [[#Λ: The Big Lambdas (Foundations)|Λ: The Big Lambdas (Foundations)]]
 - [[#μ: The Mus (Descendants of Turing)|μ: The Mus (Descendants of Turing)]]
@@ -464,6 +470,12 @@ Sitting here between two weirdos, others often fail to notice it. Named sigma, d
 
 ## Υ / υ: The Upsilons (Converts)
 
+> _It's not easy, but I think it is possible. And such a possibility is emerging for the kind of foundations which are now being developed based on ideas coming from theoretical computer science mostly, at this time. So we need new foundations which will be formulated in a formal system which can be used, despite its inconsistency or possible inconsistency, can be used to construct reliable proofs. So the classical first order logic is not good at it, because of it has an inconsistency then one can prove everything and it stops being informative. However there are other types of formal systems which can be used for the formalization of mathematics. Which react to inconsistency in a much less drastic way in a sense. So inconsistency in such systems doesn't mean the system becomes totally uninformative. And one example of such classes of systems is the so called constructive type theories. And that is a class of formal systems which have been used extensively in the theory of programming languages._
+> -Vladimir Voevodsky
+
+> _My biggest regret is that I never got to talk to Voevodsky about this, two months after I started playing with Lean, Voevodsky died, so I never got to ask him why he never defined schemes. I think he'd lost interest in Algebraic Geometry, I think he'd become a constructivist, he got interested in Foundations of Mathematics._
+> -Kevin Buzzard
+
 The Converts.
 
 The letter upsilon represents a Fork (Υ) or a U turn (υ).
@@ -510,12 +522,37 @@ Psi. Scientific computing. Self explanatory.
 
 ## ω: The Omegas (Standard foundations)
 
-Standard Foundations. Set Theory, Model theory, Proof theory. Descended from Cantor and Gödel. ZFC and NBG live here. Culturally part of the Orthodocs. Was believed to be the foundations of mathematics for over a century, until recently beginning to lose ground to computing as the mus and lambdas began to merge again for the first time in a century.
+> _Somehow set theory won, for some random reason._
+> -Kevin Buzzard
+
+Standard Foundations.
+
+Set Theory, Model theory, Proof theory.
+
+Descended from Cantor and Gödel. ZFC and NBG live here. Culturally part of the Orthodocs.
+
+Was believed to be the foundations of mathematics for over a century, until recently beginning to lose ground to computing as the mus and lambdas began to merge again for the first time in a century.
 
 ## Ω: The Big Omegas (Large Cardinals)
 
-Large Cardinals. The most unhinged subculture. Somehow ended up in "foundations of mathematics." Ingests heroic doses of the most potent substances daily. Part of the orthodocs. Mathematics now loops back around to α, and the cycle continues infinitely.
+> _The ultimate Large Cardinal axiom is "0 = 1"._
+> -Anonymous
+
+> _The "0 = 1" axiom is sort of a joke (though it's not wrong). The large cardinal axioms are stronger and stronger in consistency strength meaning they prove more and more. Taking "0 = 1" as an axiom is then the strongest thing you can assume since you can then prove everything._
+> -A user named \[deleted\], somewhere on the internet
+
+Large Cardinals.
+
+The most unhinged subculture in all of human thought.
+
+Somehow ended up in "foundations of mathematics," despite doing exactly the same things that led to the original paradoxes, in much more concentrated form.
+
+Ingests heroic doses of the most potent substances daily.
+
+Part of the orthodocs.
+
+Mathematics now loops back around to α, and the cycle continues infinitely.
 
 ## א: The Alephs
 
-The alephs. Bible authors. Little is known about this group, but whatever is known (e.g., of the J, E, and P sources and the various redactors) will be referred to under the broad label of "The Alephs."
+The alephs. The Nameless authors of the books we call Bibles, and of many books in the same genre but not known by the name. Little is known about this group, but whatever is known (e.g., of the J, E, and P sources and the various redactors of the Torah) will be referred to under the broad label of "The Alephs."

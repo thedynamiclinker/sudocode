@@ -5,7 +5,6 @@
 
 ![[godel-goldstein-03.png]]
 
-
 ![[godel-goldstein-04.png]]
 
 
