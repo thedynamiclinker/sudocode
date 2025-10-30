@@ -5,7 +5,11 @@ The Authors:
 
 The 32 tribes of /etc/group are of historical and modern interest to every culture of the hard sciences.
 
-Many maps of of /etc/group have been proposed, but the most influential to date is the map below, published by a pseudonymous Author known simply as "Gen", also known as 根 or "Root". It is unlikely that this "Root" has any relation to the character 0 in the surrounding text, as 0 appears to have no knowledge of this map, nor does the "Root" who composed the map appear to have written any works of prose that could be used to determine a similarity or lack thereof of this map-maker to other Authors.
+Many maps of of /etc/group have been proposed, but the most influential to date is the map below, published by a pseudonymous Author known simply as "Gen", also known as 根 or "Root".
+
+It is unlikely that this "Root" has any relation to the character 0 in the surrounding text, as 0 appears to have no knowledge of this map, nor does the "Root" who composed the map appear to have written any works of prose that could be used to determine a similarity or lack thereof of this map-maker to other Authors.
+
+Though the map contains only 21 of the 32 cultures of /etc/group, it remains the most influential map of the territory to date.
 
 The Root map is as follows.
 
