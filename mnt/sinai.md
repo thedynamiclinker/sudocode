@@ -206,7 +206,7 @@ Love always,
 
 <img src="proto-sinaitic.png"
      style="float:right; width:22%; height:auto;object-fit:contain; margin-left:1rem;">
-𐤁𐤔𐤋𐤔𐤉𐤌
+𐤁𐤔𐤋𐤔𐤌𐤉𐤌
 
 𐤅𐤔𐤕𐤉𐤌
 
