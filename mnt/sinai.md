@@ -137,7 +137,7 @@ this is an extremely convenient fact.
 
 ![[proto-sinaitic-decipherment-03.jpg]]
 
-The Author of dreams need not be skilled
+The Author of dreams need not be skilled,
 
 ![[proto-sinaitic-decipherment-04.jpg]]
 
@@ -149,7 +149,7 @@ or in the art of telling stories.
 
 ![[proto-sinaitic-decipherment-07.jpg]]
 
-The Author need only provide the images.
+The Authors need only to provide the images.
 
 ![[mnt-sinai-30.png]]
 
@@ -157,7 +157,7 @@ Real or imaginary.
 
 ![[mnt-sinai-31.png]]
 
-And trust that the genre itself will take care of the rest.
+And trust that the genre will take care of the rest.
 
 ![[proto-sinaitic-decipherment-14.jpg]]
 
@@ -177,26 +177,36 @@ Anyways,
 
 ![[proto-sinaitic-decipherment-23.jpg]]
 
-![[proto-sinaitic-decipherment-17.jpg|300]]
-
 that's enough from us for now.
 
-![[proto-sinaitic-decipherment-19.jpg]]
+![[proto-sinaitic-decipherment-17.jpg|300]]
 
 Get some rest.
 
-![[proto-sinaitic-decipherment-20.jpg|300]]
+![[proto-sinaitic-decipherment-19.jpg]]
 
 We'll let you fill in the rest.
 
+![[proto-sinaitic-decipherment-20.jpg|300]]
+
+Sincerely,
+
+𐤁𐤔𐤋𐤔𐤉𐤌 𐤅𐤔𐤕𐤉𐤌 𐤍𐤕𐤉𐤁𐤅𐤕 𐤐𐤋𐤉𐤀𐤅𐤕 𐤇𐤊𐤌𐤄 𐤇𐤒𐤒 𐤉𐤄
+
 ![[mnt-sinai-54.png]]
 
-Love always,
+Until next time,
+
+𐤏𐤔𐤓𐤉𐤌 𐤅𐤔𐤕𐤉𐤌 𐤀𐤅𐤕𐤉𐤅𐤕 𐤉𐤎𐤅𐤃 𐤇𐤒𐤒𐤍 𐤇𐤑𐤁𐤍 𐤑𐤓𐤐𐤍 𐤔𐤒𐤋𐤍
 
 ![[mnt-sinai-55.png]]
 
-Sincerely,
+𐤅𐤄𐤌𐤉𐤓𐤍 𐤅𐤑𐤓 𐤁𐤄𐤌 𐤀𐤕 𐤊𐤋 𐤄𐤉𐤑𐤅𐤓 𐤅𐤀𐤕 𐤊𐤋 𐤄𐤏𐤕𐤉𐤃 𐤋𐤑𐤅𐤓
+
+Love always,
 
 -LD
 
 [[lost+found/2/2|IRET]]
+
+![[proto-sinaitic.png]]
