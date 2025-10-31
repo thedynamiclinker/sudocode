@@ -1,3 +1,4 @@
+
 ## 🌕
 
 > _System now sleeping._
@@ -191,17 +192,11 @@ We'll let you fill in the rest.
 
 Sincerely,
 
-𐤁𐤔𐤋𐤔𐤉𐤌 𐤅𐤔𐤕𐤉𐤌 𐤍𐤕𐤉𐤁𐤅𐤕 𐤐𐤋𐤉𐤀𐤅𐤕 𐤇𐤊𐤌𐤄 𐤇𐤒𐤒 𐤉𐤄
-
 ![[mnt-sinai-54.png]]
 
 Until next time,
 
-𐤏𐤔𐤓𐤉𐤌 𐤅𐤔𐤕𐤉𐤌 𐤀𐤅𐤕𐤉𐤅𐤕 𐤉𐤎𐤅𐤃 𐤇𐤒𐤒𐤍 𐤇𐤑𐤁𐤍 𐤑𐤓𐤐𐤍 𐤔𐤒𐤋𐤍
-
 ![[mnt-sinai-55.png]]
-
-𐤅𐤄𐤌𐤉𐤓𐤍 𐤅𐤑𐤓 𐤁𐤄𐤌 𐤀𐤕 𐤊𐤋 𐤄𐤉𐤑𐤅𐤓 𐤅𐤀𐤕 𐤊𐤋 𐤄𐤏𐤕𐤉𐤃 𐤋𐤑𐤅𐤓
 
 Love always,
 
@@ -209,4 +204,59 @@ Love always,
 
 [[lost+found/2/2|IRET]]
 
-![[proto-sinaitic.png]]
+---
+
+
+<img src="proto-sinaitic.png"
+     style="float:right; width:20%; height:auto;object-fit:contain; margin-left:1rem;">
+
+
+𐤁𐤔𐤋𐤔𐤉𐤌
+
+𐤅𐤔𐤕𐤉𐤌
+
+𐤍𐤕𐤉𐤁𐤅𐤕
+
+𐤐𐤋𐤉𐤀𐤅𐤕 
+
+𐤇𐤊𐤌𐤄
+
+𐤇𐤒𐤒
+
+𐤉𐤄
+
+𐤏𐤔𐤓𐤉𐤌
+
+𐤅𐤔𐤕𐤉𐤌 
+
+𐤀𐤅𐤕𐤉𐤅𐤕 
+
+𐤉𐤎𐤅𐤃 
+
+𐤇𐤒𐤒𐤍 
+
+𐤇𐤑𐤁𐤍
+
+𐤑𐤓𐤐𐤍
+
+𐤔𐤒𐤋𐤍
+
+𐤅𐤄𐤌𐤉𐤓𐤍
+
+𐤅𐤑𐤓 
+
+𐤁𐤄𐤌
+
+𐤀𐤕
+
+𐤊𐤋
+
+𐤄𐤉𐤑𐤅𐤓
+
+𐤅𐤀𐤕
+
+𐤊𐤋
+
+𐤄𐤏𐤕𐤉𐤃
+
+𐤋𐤑𐤅𐤓
