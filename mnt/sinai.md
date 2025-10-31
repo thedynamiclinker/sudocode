@@ -202,15 +202,10 @@ Love always,
 
 -LD
 
-[[lost+found/2/2|IRET]]
-
 ---
 
-
 <img src="proto-sinaitic.png"
-     style="float:right; width:20%; height:auto;object-fit:contain; margin-left:1rem;">
-
-
+     style="float:right; width:22%; height:auto;object-fit:contain; margin-left:1rem;">
 𐤁𐤔𐤋𐤔𐤉𐤌
 
 𐤅𐤔𐤕𐤉𐤌
@@ -260,3 +255,9 @@ Love always,
 𐤄𐤏𐤕𐤉𐤃
 
 𐤋𐤑𐤅𐤓
+
+<div style="clear:both"></div>
+
+---
+
+[[lost+found/2/2|IRET]]
