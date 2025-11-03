@@ -239,9 +239,26 @@ Often referred to as The Cathedral, The Catedral, The Cat-holics, The Abstract a
 
 Don't spend too much time here. It's best to move on quickly.
 
-## θ: The Thetas (Topology and Homotopy)
+## θ: The Thetas
 
-Theta, "TH", includes the cultures of Topology and Homotopy, but does not include Topos theory, for reasons explained in The Taus.
+The Thetas,
+- aka θ (or "th"),
+    - not to be confused with Θ (or "TH"),
+    - or with τ (or "topotopy")
+        - aka the Topos culture
+- includes the cultures of
+    - Topology,
+    - Homotopy,
+    - Homology (slightly α)
+- but does not include
+    - Topos theory
+- for reasons explained in The Taus.
+- In other words:
+
+| θ is | logy       | topy           |
+| ---- | ---------- | -------------- |
+| homo | homology ✅ | homotopy ✅     |
+| topo | topology ✅ | ~~topotopy~~ ❌ |
 
 While this group claims its field concerns "rubber sheet geometry," the newcomer to this culture will find nothing of the sort in the fundamental definitions of the field.
 
