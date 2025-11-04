@@ -294,7 +294,7 @@ _(Narrator: 0 types some commands into a shell.)_
 
 1: What?
 
-0: What happens when you pipe the output a command into `cat`?
+0: What happens when you pipe the output of a command into `cat`?
 
 1: What? Why?
 

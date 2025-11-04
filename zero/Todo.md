@@ -28,3 +28,76 @@
 > _In November 1942, Turing was sent on a mission to Washington, D.C., to help coordinate code-breaking activities between England and the United States. Following that assignment, he spent the first two months of 1943 at Bell Laboratories, at the time located on West Street in New York City. There he met Harry Nyquist (1889-1976), who pioneered the theory of digital sampling, and Claude Elwood Shannon (1916-2001), whose paper “A Mathematical Theory of Communication” (1948) would found the field of information theory and introduce the word "bit" to the world._
 > -Charles Petzold, The Annotated Turing
 
+
+Clearest thing you've ever heard
+![[infinite-jest-is-too-easy.jpg]]
+
+Fiction Nonfiction
+![[fiction-nonfiction.jpg]]
+
+The /devs are char xor block.
+In other words:
+- characters
+- xor
+- blocked (likely as subject, not object)
+
+---
+
+## Alphabet
+
+ab
+- 𐎀 (ʾa) + 𐎁 (b). From Proto-Semitic ʾab-, meaning "father." It’s one of the oldest and most stable words in Semitic languages - appearing across Northwest and East Semitic branches with almost no phonetic change. In Ugaritic texts, ʾab appears frequently in divine titles such as ʾab šnm (“Father of Years”) referring to the god El, the high god and patriarch of the pantheon. It could denote both literal and figurative paternity — e.g., “ancestor,” “creator,” or “chief.”
+
+cd
+- Unix, for change directories.
+
+ef
+
+gh
+- The phoneme /f/, in certain corners of english orthography/ghonetics.
+
+ij
+- Index variables, in the Old Mathematics pre-20XY in which types are vague "which letter are we using" vibes based intuitions.
+- Infinite Jest. A rare example of simple straightforward but (rarely) non-retarded writing in the sense of non-constant genre, the constant version of which is the referent of the aforementioned euphemism (anti-sic) "retarded."
+
+kl
+- Kullback-Leibler divergence.
+
+mn
+- Two letters with a shared history of fourier-ish squiggledom.
+
+op
+
+
+qr
+
+st
+
+uv
+
+wx
+
+yz
+
+---
+
+Cantor.
+Gödel.
+Boltzmann.
+
+---
+
+> _Poets do not go mad. But Chess players do. Mathematicians go mad. And cashiers. But creative artists, very seldom._
+> 
+> _I am not attacking logic. I only say that this danger does lie in logic, not in imagination.
+> 
+> -GK Chesterton
+
+
+> _In the late 19th century, an extraordinary mathematician languished in an asylum. The closer he came to the answers he sought, the further away they seemed. Eventually it drove him mad, as it had mathematicians before him._
+> -A "pop bio" of Cantor, as quoted in "Everything and More"
+
+
+DFW's Nachlass is at UT Austin.
+![[dfws-nachlass-is-at-ut-austin.jpg]]
+Read it.
