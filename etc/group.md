@@ -1,5 +1,5 @@
 
-@(россия'n accent, unedited) {
+@(россия[^1]n accent, unedited) {
 
 > _When I was studying in Moscow University, Foundations of Mathematics was really a subject which was extremely unfashionable. We had this different - as we called them "cathedrals" - different groups inside the university, different groups of faculty. So there was the group of algebra, and the group of topology, and then there was also the group of analysis and the group of differential equations.
 > 
@@ -18,6 +18,8 @@
 > So I'm going to try to explain why Foundations of Mathematics the way we're doing them now is really a cool subject again._
 > 
 > -Vladimir Voevodsky, Fields Medalist 2002, How I became interested in foundations of mathematics.
+
+[^1]: Russia.
 
 }
 
