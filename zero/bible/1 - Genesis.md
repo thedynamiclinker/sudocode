@@ -101,7 +101,7 @@ Genesis 13
 - Abram goes to Canaan. Lot goes to Buttsex Town. (Sodom.)
 - Cut to Lot in Sodom: "The people are bad to YHWH."
 - Cut to Abram in Canaan: YHWH says "Look in every direction at once lol." (why?)
-- 13:15. This pussy is all your pussy, I'll cover all this to your semen. Cum cum everywhere Yahmen.
+- 13:15. This pussy is all your pussy, I'll cover all this to your semen. come  come verywhere Yahmen.
 - "For all the land that you see, I’ll give it to you and to your seed forever. And I’ll make your seed like the dust of the earth, so that if a man could count the dust of the earth then your seed also could be counted."
 - 13:18: Abram rolls his eyes and builds another YHWH shrine.
 - Cut to immoral sex town: 
@@ -130,9 +130,13 @@ Genesis 15
 - Abram got those specific five animals and started cutting them all in half. After three, he stops like "Wtf am I doing." He doesn't cut the birds in half.
 - Abram then falls asleep inside his already dream-situation or vision or whatever, starting inception level two.
 - Abram has a nightmare in inception two.
-- YHWH shows up in inception level two, stammering, and says something like "You know I'll keep my promise because you'll _know_ that your cum will be foreign in a land that is not theirs (whose?), and they will serve them (who?), and they (who?) will degrade them (who?) four hundred years. I'll judge them and the country they work for. And they won't have much stuff. And when you die you'll be peaceful. You’ll be buried at a good old age."
+- YHWH shows up in inception level two, stammering, and says something like "You know I'll keep my promise because you'll _know_ that your come will be foreign in a land that is not theirs (whose?), and they will serve them (who?), and they (who?) will degrade them (who?) four hundred years. I'll judge them and the country they work for. And they won't have much stuff. And when you die you'll be peaceful. You’ll be buried at a good old age."
 - And the sun was setting in inception two, and the sun was setting yet again, so it was dark, except for the smoke and a flame of fire representing our rabid pitbull thunder god.
-- On that day YHWH made a promise to Abram, saying, “I’ve given this land to your cum, from the river of Egypt to the big river, the river Euphrates, the Asians and the Indians and the Blacks and the Jews, you'll cum inside them all my man." YHWH lists 10 different ethnicities that Abram will cum in if he keeps helping YHWH.
+- On that day YHWH made a promise to Abram, saying, “I’ve given this land to your cum, from the river of Egypt to the big river, the river Euphrates, the Asians and the Indians and the Blacks and the Jews, you'll come inside them all my man." YHWH lists 10 different ethnicities that Abram will come in if he keeps helping YHWH.
+
+
+![[abraham-and-yahweh.png|400]]
+
 
 Genesis 16
 - Chapter 16. Still no pussy for our boy Abram. At this point the wife is getting sick of Abram's horn-dog behavior, and suggests that he fuck the hired help.
@@ -144,7 +148,7 @@ Genesis 16
 - An "Angel of YHWH" finds her in the woods and says "Hey you're the maid. Where are you going?"
 - She says "I'm running away from Sarai, my mistress."
 - The angel says "Go back and keep doing the 'getting degraded thing'. (Go back to your mistress, and suffer the degradation under her hands.)
-- And the angel continued, to the pregnant girl: "I'll let you cum on everything, so much. I’ll _multiply_ your seed, and it won’t be countable because of its great number." (This angel appears to be a shell script that just echoes strings about cum, unaware it's talking to a scared pregnant girl in the woods.)
+- And the angel continued, to the pregnant girl: "I'll let you come on everything, so much. I’ll _multiply_ your seed, and it won’t be countable because of its great number." (This angel appears to be a shell script that just echoes strings about cum, unaware it's talking to a scared pregnant girl in the woods.)
 - The Angel then goes "Ahem nvm wait wrong cue cards. You'll have a son. He'll be awesome and here I already decided on the name for you. It's Ishmael." 
 - And the Angel continues "And he’ll be a wild ass of a man, his hand against everyone, and everyone’s hand against him, and he’ll tent among all his brothers."
 - 16:13: Wtf is this? "And she called the name of YHWH who spoke to her “You are El-roi,” for she said, “Have I also seen after the one who sees me here?"
@@ -165,16 +169,18 @@ Genesis 17
 - 17:3. YHWH continues "I'll make you a promise! You’ll become a father of a mass of nations."
 - 17:5. YHWH continues. "I'll, I'll, I'll, I'll, I'll change your name. I'll give you a new name. Ha. Abraham. Extra ha. For free. Comes with the pussy which I promise is coming soon."
 - 17:6. YHWH keeps promising pussy. ("And I’ll make you very, very fruitful and make you into nations. And kings will come out of you.")
-- 17:7. And I'll make the same promise to your kids too see. I'll let your children cum inside everyone too. Whoever they want.
-- 17:8. And you can have Canaan forever. And cum in it.
+- 17:7. And I'll make the same promise to your kids too see. I'll let your children come inside everyone too. Whoever they want.
+- 17:8. And you can have Canaan forever. And come in it.
 - 17:9. And in exchange you, you, you, you do whatever I say. And your family. Forever.
-- 17:10. This is my promise to you ok? You, you, you, you get to cut part of your dick off. The front part that keeps the cum from cumming more harder.
+- 17:10. This is my promise to you ok? You, you, you, you get to cut part of your dick off. The front part that keeps the come from coming more harder.
 - 17:12. Cut, just cut the dick off ok. Just the front. 8 days old, cut a little off the front. All your people do that too. People you make or people you buy. That's fine, buy em, just make sure the dick, cut, cut the dick.
 - 17:15: YHWH continues: "Your wife, she gets a new name too. Wtf kind of name is Sarai? It's like Sarah but wrong. She's Sarah from now on. It's easier."
 - 17:16: YHWH says "And I'll make her pussy work again too, so it can make people again. With your dick."
 - 17:17: Abraham laughs at YHWH and goes "She's a HUNDRED years old." (And Abraham fell on his face and laughed and said in his heart, “Will he be born to someone who’s a hundred years old?! And will Sarah, who’s ninety years old, give birth?!”)
 - 17:18. YHWH says Abram's current actual son isn't his successor. YHWH says a pretend son who doesn't exist yet but I promise he will is gonna be the real guy. And he names that son now, in advance. It'll be Isaac.
 - 17:23. Abraham goes "Jesus Christ." And he gathers all his blood relatives and the ones he bought, and he says "Look guys, I've got good news and bad news. You've gotta cut part of your dicks off." (And Abraham took Ishmael, his son, and all his homeborn and everyone purchased with his money, every male among the men of Abraham’s house, and he circumcised the flesh of their foreskin in that very day, as God had spoken with him.)
+
+---
 
 ## Genesis 6
 
