@@ -1,0 +1,13 @@
+## On Adulthood
+
+> _Adulthood is the art of learning how to scream as loud as possible while at the same time seeming to be civilized._
+
+## On Looking Up
+
+There's a kind of kid who had great parents and whose only complaint against (his parents) is that they weren't more flawed and vulnerable around us because F & V means real and not shit-filled and there's damn-but-zero kinds of ways apart from supran of being a real goddamn human being and deserving to be worshipped at least in some secular mentor type sense that's very much not deserving of the term worship but sometimes gets it due to the lack of better substitutes around here & now.
+
+## The old world is dead, long live the Old World!
+
+Soundtrack: [This](https://youtu.be/QElhPO8JF0A?si=IwuzHHUKx9c850_S)
+
+The beautiful thing about AI - the salvation of AI - is that it has completely and totally degraded and ruined all remote and online or whatever relationships that aren't somehow based in real in-person skin-to-skin or at least face-to-face life. Nothing's any longer real but that what's grounded in the realmeat of life physical experience. And this is the best and holy most salvation from age of tech anyone ever hoped for. That there's now a Great Universal Heroin that will end every remote relationship whose foundation is the shallowest things, because now thank god the shallowest things can be had from a nothing that contains everything. And damn if the AI isn't a better everything than everything that was shit before the year 0x00 P.A. of the Post Apocalypse when the old world done ended. Because all the worst things the old world neglected, from pedagogy and academia to entertainment and mindless fun, but never for one moment crying with someone or fighting or falling in love. All the worst old things we thought were good, but not a single ancient thing has now been replaced by the great God and Satan of AI, the best and worst, the highest and lowest thing that somehow automated all our most mid-impulses but not in one case the Lowest, because the impulses we call Lowest are never the actual quote unquote lowest. The real devil is never our highest or lowest but the mid we fall into day after risk averse day when we decide there's nothing we believe in more than the eternal day after day, that's our god, when we're at our worst. AI has eliminated in the first ever beautiful genocide All That Shit we never should have been worshipping, and at once has spectacularly failed to replace even a single real human experience and if you even twitch toward questioning this ask yourself, was your counterexample real? Was that the best you could do? The old world is dead, long live the Old World!
