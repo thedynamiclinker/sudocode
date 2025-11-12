@@ -1,0 +1,3 @@
+Cuckoo Nesting. (genre)
+
+A style of writing in which an author aims to make the denotation (i.e., actual content) of a text consist exclusively of simple and entirely reasonable sentiments and ideas, while doing so with a connotation (i.e., surface content) suggesting the author is manic, schizophrenic, or otherwise mentally unwell. Commonly used to measure the extent to which various readers, often professional psychologists, are using superficial heuristics rather than focused attention or scientific principles in order to assess the mental health of a subject. Named for One Flew Over the Cuckoo's Nest.
