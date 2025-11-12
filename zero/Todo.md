@@ -1,4 +1,3 @@
-
 ## lost+found
 
 Problem
@@ -13,7 +12,7 @@ Solution
 - Go through the entire directory and separate out the finished from the unfinished.
 
 lost+found/1
-- [ ] 1
+- [x] 1
 - [ ] 2
 - [ ] 3
 - [ ] 4
