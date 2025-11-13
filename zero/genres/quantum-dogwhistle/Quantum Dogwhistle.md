@@ -1,3 +1,7 @@
+---
+publish: false
+---
+
 Quantum Dogwhistle. (genre)
 
 A style of writing that combines a dogwhistle with plausible deniability. In this genre, the author intends the reader to hear something, but will flatly deny its existence, often angrily, if a request for explication is made by those intended to hear it. This genre typically combines an intended message with a surface message that is aggressively opposed to it, and leaves only the faintest traces of the intended message that still allow it to be detected, without ever allowing its existence to be convincingly proved.
