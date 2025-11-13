@@ -1,3 +1,4 @@
+
 ## lost+found
 
 Problem
@@ -13,7 +14,7 @@ Solution
 
 lost+found/1
 - [x] 1
-- [ ] 2
+- [x] 2
 - [ ] 3
 - [ ] 4
 - [ ] 5
@@ -45,3 +46,8 @@ lost+found/5
 - [ ] 3
 - [ ] 4
 - [ ] 5
+
+---
+
+
+![[novel-epic-tragedy-drama.jpg]]
