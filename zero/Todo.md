@@ -15,7 +15,7 @@ Solution
 lost+found/1
 - [x] 1
 - [x] 2
-- [ ] 3
+- [x] 3
 - [ ] 4
 - [ ] 5
 
