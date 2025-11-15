@@ -706,3 +706,24 @@ h1, h2, h3, h4, h5, h6 {
     display: none !important;
 }
 
+/************************************
+ *** .obsidian/snippets/howto.css ***
+ ************************************/
+
+/* to modify something... */
+
+/* in local reading view and obsidian publish */
+.markdown-preview-view .tag {
+    /* put it here */
+}
+
+/* in obsidian publish only */
+.publish-renderer .markdown-preview-view .tag {
+    /* put it here */
+}
+
+/* in the local app only (not in obsidian publish) */
+.app-container .markdown-preview-view .tag {
+    /* the app's browser has .app-container, obsidian publish doesn't */
+}
+
