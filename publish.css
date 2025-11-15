@@ -706,19 +706,3 @@ h1, h2, h3, h4, h5, h6 {
     display: none !important;
 }
 
-/*******************************************
- *** .obsidiab.snippets/front-matter.css ***
- *******************************************/
-
-/* Show front-matter only in editing mode but not
-   in reading mode or in publish */
-
-/* Hide frontmatter in Reading Mode & Publish */
-.markdown-preview-view .frontmatter-container {
-    display: none !important;
-}
-
-/* Show frontmatter in Live Preview (editing mode) */
-.markdown-source-view.mod-cm6 .cm-frontmatter {
-    display: block !important;
-}
