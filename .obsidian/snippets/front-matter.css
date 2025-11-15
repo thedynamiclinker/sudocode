@@ -1,0 +1,12 @@
+/* Show front-matter only in editing mode but not
+   in reading mode or in publish */
+
+/* Hide frontmatter in Reading Mode & Publish */
+.markdown-preview-view .frontmatter-container {
+    display: none !important;
+}
+
+/* Show frontmatter in Live Preview (editing mode) */
+.markdown-source-view.mod-cm6 .cm-frontmatter {
+    display: block !important;
+}

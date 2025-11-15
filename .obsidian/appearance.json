@@ -4,7 +4,9 @@
   "cssTheme": "Everforest",
   "enabledCssSnippets": [
     "ld",
-    "hide-tags-in-publish"
+    "hide-tags-in-publish",
+    "front-matter",
+    "tags"
   ],
   "textFontFamily": "FiraMono Nerd Font",
   "interfaceFontFamily": "",
