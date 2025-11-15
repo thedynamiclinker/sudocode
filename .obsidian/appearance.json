@@ -6,7 +6,8 @@
     "ld",
     "hide-tags-in-publish",
     "front-matter",
-    "tags"
+    "tags",
+    "howto"
   ],
   "textFontFamily": "FiraMono Nerd Font",
   "interfaceFontFamily": "",
