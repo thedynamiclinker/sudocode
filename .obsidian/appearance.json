@@ -13,7 +13,7 @@
   "textFontFamily": "FiraMono Nerd Font",
   "interfaceFontFamily": "",
   "monospaceFontFamily": "",
-  "baseFontSize": 18,
+  "baseFontSize": 16,
   "baseFontSizeAction": true,
   "nativeMenus": false
 }

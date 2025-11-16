@@ -26,8 +26,7 @@ Is it customary in the genre for the so-called beginning to roughly coincide wit
 
 Against that background, in what follows, we will take the beginning of time to be January 1st, 1970.
 
-
-![[unix-time-begin.png]]
+![[unix-time-begin-from-dynamic.png]]
 
 
 ## Middle
