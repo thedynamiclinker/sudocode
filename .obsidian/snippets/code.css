@@ -1,7 +1,14 @@
 /* make the foreground of single backtick code
  * formatted text the same as the usual text 
  * color in reading mode. */
-
 .markdown-preview-section code {
     color: var(--text-normal);
 }
+
+/* make editing mode inline `code` backgrounds
+ * visually match how they look in reading mode */
+.cm-inline-code {
+    background-color: var(--pre-code) !important;
+    color: var(--text-normal) !important;
+}
+
