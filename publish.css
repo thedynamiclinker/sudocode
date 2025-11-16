@@ -767,3 +767,28 @@ h1, h2, h3, h4, h5, h6 {
 .HyperMD-codeblock {
     color: var(--code-block) !important;
 }
+
+/************************************
+ *** .obsidian/snippets/image.css ***
+ ************************************/
+
+/* image styles */
+
+img.w100 {
+  width: 100% !important;
+  height: auto !important;
+  display: block;
+}
+
+img.w75 {
+  width: 75% !important;
+  height: auto !important;
+  display: block;
+}
+
+img.w50 {
+  width: 50% !important;
+  height: auto !important;
+  display: block;
+}
+
