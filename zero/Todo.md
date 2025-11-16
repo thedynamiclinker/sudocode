@@ -7,45 +7,44 @@ Problem
 - The blocker may be the images.
 - The blocker may be mental.
 - Still, we need to finish.
+- lost+found, that is.
 
 Solution
-- Segregate the bits of lost+found based on whether they're finished.
-- Go through the entire directory and separate out the finished from the unfinished.
 
-lost+found/1
-- [x] 1
-- [x] 2
-- [x] 3
-- [x] 4
-- [x] 5
+- [x] lost+found/1
+	- [x] 1
+	- [x] 2
+	- [x] 3
+	- [x] 4
+	- [x] 5
 
-lost+found/2
-- [ ] 1
-- [ ] 2
-- [ ] 3
-- [ ] 4
-- [ ] 5
+- [ ] lost+found/2
+	- [ ] 1
+	- [ ] 2
+	- [ ] 3
+	- [ ] 4
+	- [ ] 5
 
-lost+found/3
-- [ ] 1
-- [ ] 2
-- [ ] 3
-- [ ] 4
-- [ ] 5
+- [ ] lost+found/3
+	- [ ] 1
+	- [ ] 2
+	- [ ] 3
+	- [ ] 4
+	- [ ] 5
 
-lost+found/4
-- [ ] 1
-- [ ] 2
-- [ ] 3
-- [ ] 4
-- [ ] 5
+- [ ] lost+found/4
+	- [ ] 1
+	- [ ] 2
+	- [ ] 3
+	- [ ] 4
+	- [ ] 5
 
-lost+found/5
-- [ ] 1
-- [ ] 2
-- [ ] 3
-- [ ] 4
-- [ ] 5
+- [ ] lost+found/5
+	- [ ] 1
+	- [ ] 2
+	- [ ] 3
+	- [ ] 4
+	- [ ] 5
 
 ---
 
