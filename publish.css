@@ -733,8 +733,10 @@ h1, h2, h3, h4, h5, h6 {
  *** .obsidian/snippets/code.css ***
  ***********************************/
 
+/** single-backtick code formatting */
+
 /* make the foreground of single backtick code
- * formatted text the same as the usual text
+ * formatted text the same as the usual text 
  * color in reading mode. */
 .markdown-preview-section code {
     color: var(--text-normal);
@@ -745,4 +747,16 @@ h1, h2, h3, h4, h5, h6 {
 .cm-inline-code {
     background-color: var(--pre-code) !important;
     color: var(--text-normal) !important;
+}
+
+/** triple-backtick code blocks */
+
+/* match editing mode code block background to reading mode */
+.HyperMD-codeblock-bg {
+    background-color: var(--pre-code) !important;
+}
+
+/* match editing mode code block text color to reading mode */
+.HyperMD-codeblock {
+    color: var(--code-block) !important;
 }
