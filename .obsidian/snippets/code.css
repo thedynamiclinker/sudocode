@@ -1,0 +1,7 @@
+/* make the foreground of single backtick code
+ * formatted text the same as the usual text 
+ * color in reading mode. */
+
+.markdown-preview-section code {
+    color: var(--text-normal);
+}

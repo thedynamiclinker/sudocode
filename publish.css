@@ -706,6 +706,17 @@ h1, h2, h3, h4, h5, h6 {
     display: none !important;
 }
 
+/***********************************
+ *** .obsidian/snippets/code.css ***
+ ***********************************/
+
+/* make the foreground of single backtick code
+ * formatted text the same as the usual text
+ * color in reading mode. */
+.markdown-preview-section code {
+    color: var(--text-normal);
+}
+
 /************************************
  *** .obsidian/snippets/howto.css ***
  ************************************/
@@ -726,4 +737,5 @@ h1, h2, h3, h4, h5, h6 {
 .app-container .markdown-preview-view .tag {
     /* the app's browser has .app-container, obsidian publish doesn't */
 }
+
 
