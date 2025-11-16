@@ -4,8 +4,6 @@
   "cssTheme": "Everforest",
   "enabledCssSnippets": [
     "ld",
-    "hide-tags-in-publish",
-    "front-matter",
     "tags",
     "howto",
     "code"
@@ -13,7 +11,6 @@
   "textFontFamily": "FiraMono Nerd Font",
   "interfaceFontFamily": "",
   "monospaceFontFamily": "",
-  "baseFontSize": 16,
-  "baseFontSizeAction": true,
-  "nativeMenus": false
+  "baseFontSize": 18,
+  "baseFontSizeAction": true
 }
