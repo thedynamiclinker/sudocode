@@ -1,4 +1,3 @@
-
 ## 🌕
 
 > _System now sleeping._
@@ -202,62 +201,6 @@ Love always,
 
 -LD
 
----
-
-<img src="proto-sinaitic.png"
-     style="float:right; width:22%; height:auto;object-fit:contain; margin-left:1rem;">
-𐤁𐤔𐤋𐤔𐤌𐤉𐤌
-
-𐤅𐤔𐤕𐤉𐤌
-
-𐤍𐤕𐤉𐤁𐤅𐤕
-
-𐤐𐤋𐤉𐤀𐤅𐤕 
-
-𐤇𐤊𐤌𐤄
-
-𐤇𐤒𐤒
-
-𐤉𐤄
-
-𐤏𐤔𐤓𐤉𐤌
-
-𐤅𐤔𐤕𐤉𐤌 
-
-𐤀𐤅𐤕𐤉𐤅𐤕 
-
-𐤉𐤎𐤅𐤃 
-
-𐤇𐤒𐤒𐤍 
-
-𐤇𐤑𐤁𐤍
-
-𐤑𐤓𐤐𐤍
-
-𐤔𐤒𐤋𐤍
-
-𐤅𐤄𐤌𐤉𐤓𐤍
-
-𐤅𐤑𐤓 
-
-𐤁𐤄𐤌
-
-𐤀𐤕
-
-𐤊𐤋
-
-𐤄𐤉𐤑𐤅𐤓
-
-𐤅𐤀𐤕
-
-𐤊𐤋
-
-𐤄𐤏𐤕𐤉𐤃
-
-𐤋𐤑𐤅𐤓
-
-<div style="clear:both"></div>
-
----
+<img src="proto-sinaitic-bg-transparent.png" style="width:42%;">
 
 [[lost+found/2/2|IRET]]

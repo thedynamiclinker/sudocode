@@ -14,6 +14,13 @@
     color: var(--text-normal) !important;
 }
 
+/* make inline code in headings use the heading color */
+.markdown-preview-section h1 code,
+.markdown-preview-section h2 code,
+.markdown-preview-section h3 code {
+    color: inherit !important;
+}
+
 /** triple-backtick code blocks */
 
 /* match editing mode code block background to reading mode */
