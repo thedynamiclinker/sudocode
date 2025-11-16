@@ -334,4 +334,4 @@ user@world ~ $ printf abcd∀wxyz | hexdump -Cv
 
 0: Not at all! Follow me, I'll show you...
 
-goto: [[lost+found/4/5|/lost+found/4/5]]
+goto: [[Old - 5|/lost+found/4/5]]

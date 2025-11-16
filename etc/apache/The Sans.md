@@ -1,10 +1,8 @@
-<style>
-img.full-width {
-  width: 100% !important;
-  height: auto !important;
-  display: block;
-}
-</style>
+
+> [!Editor's Note]
+> There are two primary hypotheses as to the origin of the file below. The dominant hypothesis is that this document was originally part of the narrative found in `lost+found`, and later removed from it. A lesser known but equally substantiated hypothesis is that the document below was written as a form of latter-day fanfiction or apocrypha by an Author or set of Authors unrelated to those of Sudocode. There is not sufficient evidence at present to decide the issue in favor of either position, and we read it to the reader to decide for h{im,er}self.
+
+---
 
 0: One last bit before we finish up in here.
 
@@ -132,6 +130,14 @@ The [Sic] [Ϻcς][κכㅋ][רρろ][וoʊオ오][לlλΛㄹ][ζז]
 ```
 
 ### The Misunderstood
+
+<style>
+img.full-width {
+  width: 100% !important;
+  height: auto !important;
+  display: block;
+}
+</style>
 
 ![[dead-sea-scrolls-redactor-spotted-2.jpg|full-width]]
 

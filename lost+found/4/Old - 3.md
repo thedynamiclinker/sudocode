@@ -156,4 +156,4 @@
 
 ![[godel-1931-paper-51.jpg]]
 
-goto: [[lost+found/4/4|/lost+found/4/4]]
+goto: [[Old - 4|/lost+found/4/4]]

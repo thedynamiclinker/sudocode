@@ -1,0 +1,11 @@
+{
+	"id": "shorter-footnote",
+	"name": "Shorter Footnote",
+	"version": "0.1.0",
+	"minAppVersion": "0.15.0",
+	"description": "Replace [num-count] footnote to [num] in reading mode.",
+	"author": "hanekit",
+	"authorUrl": "https://github.com/hanekit",
+	"fundingUrl": "",
+	"isDesktopOnly": false
+}
