@@ -4,13 +4,17 @@
   "cssTheme": "Everforest",
   "enabledCssSnippets": [
     "ld",
+    "hide-tags-in-publish",
+    "front-matter",
     "tags",
     "howto",
-    "code"
+    "code",
+    "image"
   ],
   "textFontFamily": "FiraMono Nerd Font",
   "interfaceFontFamily": "",
   "monospaceFontFamily": "",
-  "baseFontSize": 18,
-  "baseFontSizeAction": true
+  "baseFontSize": 16,
+  "baseFontSizeAction": true,
+  "nativeMenus": false
 }
