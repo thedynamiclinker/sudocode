@@ -760,3 +760,20 @@ h1, h2, h3, h4, h5, h6 {
 .HyperMD-codeblock {
     color: var(--code-block) !important;
 }
+
+/**************************
+ *** banner for publish ***
+ **************************/
+
+/* publish banner that displays the note's H1 at the top */
+body:not(.is-mobile) .site-body::before {
+  content: attr(data-page-title);
+  display: block;
+  width: 100%;
+  text-align: center;
+  padding: 6px 10px;
+  font-size: 0.9rem;
+  opacity: 0.8;
+  background: var(--color-accent);
+  color: white;
+}
