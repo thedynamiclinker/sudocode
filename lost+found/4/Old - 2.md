@@ -1,21 +1,4 @@
-## Gödel's Paper
-
-### Or: 17 Gen r
-### Or: 17 Gen 二
-### Or: 一七 Gen 二
-### Or: Yi qi Gen 二
-### Or: 一起 Gen 2
-### Or: Together Gentoo
-### Or: Our Protagonists, and Distribution of Compiled Sources
-
-0: Ok so Gödel's paper opens like this.
-
-![[godel-collected-works-098.png]]
-
-
 ## Gödel goes to Church
-
-> TODO: Godel's reaction to Church's definition.
 
 0: Ok last we left off, Gödel arrived on the scene.
 
