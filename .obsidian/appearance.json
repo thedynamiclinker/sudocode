@@ -9,7 +9,9 @@
     "tags",
     "howto",
     "code",
-    "image"
+    "image",
+    "monospace",
+    "hide-properties"
   ],
   "textFontFamily": "FiraMono Nerd Font",
   "interfaceFontFamily": "",
