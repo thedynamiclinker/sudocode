@@ -792,3 +792,58 @@ img.w50 {
   display: block;
 }
 
+/**********************************************
+ *** .obsidian/snippets/hide-properties.css ***
+ **********************************************/
+
+/* Hide the entire Properties area in reading (preview) mode */
+.workspace-leaf-content[data-mode="preview"]
+.markdown-preview-view .metadata-container {
+    display: none !important;
+}
+
+
+/****************************************
+ *** .obsidian/snippets/font-mono.css ***
+ ****************************************/
+
+/* Target notes with cssclasses = monospace */
+.font-mono.markdown-preview-view {
+  font-family: var(--font-monospace) !important;
+}
+
+.font-mono.markdown-source-view .cm-editor,
+.font-mono.markdown-source-view .cm-content {
+  font-family: var(--font-monospace) !important;
+}
+
+/*****************************************
+ *** .obsidian/snippets/font-serif.css ***
+ *****************************************/
+
+/* Apply serif font to notes with cssclasses = font-serif */
+
+.font-serif.markdown-preview-view {
+  font-family: var(--font-text) !important;
+}
+
+.font-serif.markdown-source-view .cm-editor,
+.font-serif.markdown-source-view .cm-content {
+  font-family: var(--font-text) !important;
+}
+
+/****************************************
+ *** .obsidian/snippets/font-size.css ***
+ ****************************************/
+
+/* Applies to reading preview mode */
+.large-text.markdown-preview-view {
+  font-size: 1.30em !important;
+}
+
+/* Applies to editor/source mode */
+.large-text.markdown-source-view .cm-editor,
+.large-text.markdown-source-view .cm-content {
+  font-size: 1.15em !important;
+}
+
