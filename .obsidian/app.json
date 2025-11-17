@@ -38,5 +38,6 @@
     "insert-current-date",
     "insert-current-time",
     "bookmarks:bookmark-current-heading"
-  ]
+  ],
+  "showUnsupportedFiles": true
 }
