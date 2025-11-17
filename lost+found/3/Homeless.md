@@ -1,5 +1,5 @@
-
-## How to Undress a Number
+# Homeless
+## Homeless: How to Undress a Number
 
 ```
 1: Why not this?
@@ -189,7 +189,7 @@ bits come from.
 1: No no, I mean how do we add numbers other than 1?
 ```
 
-## A bit more work towards Y premathematics
+## Homeless: A bit more work towards Y premathematics
 
 ```
 ω f = f(f(f(f(...)))) = f(ω f)
@@ -322,7 +322,7 @@ Or
 
 ```
 
-## Y combinator
+## Homeless: Y combinator
 
 1: Recursion?
 
@@ -367,7 +367,7 @@ Y f
 = f (Y f)
 ```
 
-## (3,4): Church's Numbers
+## Homeless: (3,4): Church's Numbers
 
 ### Or: 0 is a two argument function
 ### Or: 1 is a two argument function
@@ -568,7 +568,3 @@ TODO:
 TODO:
 > Steve Kleene: For us the first concept of lambda definability was after the fact, after having formulated the notion of lambda definable functions as simply the ones for which you could find formulas in this symbolism. And discovering that everything you thought of that you wanted to prove lambda definable you could!... But it was Church, I have to give the credit to Church, I can't take it myself, he said "Y'know, don't you think maybe we've really got ALL the effectively calculable functions?"
 
----
-
-
-goto: [[lost+found/3/5]]

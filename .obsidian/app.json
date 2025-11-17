@@ -39,5 +39,5 @@
     "insert-current-time",
     "bookmarks:bookmark-current-heading"
   ],
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": false
 }
