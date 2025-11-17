@@ -1,2 +1,0 @@
-def if_then_else(c, a, b):
-	return c(a, b)
