@@ -46,7 +46,3 @@ Solution
 	- [ ] 4
 	- [ ] 5
 
----
-
-
-![[novel-epic-tragedy-drama.jpg]]
