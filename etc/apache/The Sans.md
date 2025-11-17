@@ -1,5 +1,13 @@
 
-> [!Editor's Note]
+> _In the years after the Second World War, from 1946 to 1951, Brouwer gave various series of lectures on intuitionism at the University of Cambridge. He decided to collect the material together in a monograph, which would be the first systematic exposition of intuitionistic mathematics in book form. As a matter of fact it was not his first such enterprise; in a way Brouwer meant his dissertation to be a comprehensive exposition of his philosophical and mathematical views. In “The rejected parts of Brouwer’s dissertation on the foundations of mathematics,” van Stigt tells how the intervention of Brouwer’s thesis adviser prevented the insertion of the philosophical parts. Although he never got beyond the stage of intentions, Brouwer seriously considered the publication of a revised version of his thesis. In 1929 the Noordhoff publishing company invited him to carry out these plans, but Brouwer was at that time already involved in the preparation of a German monograph. From the late twenties onwards Brouwer gave expository and propagandistic lectures, mainly in Germany but also in other countries. According to eye-witnesses Brouwer, with his lectures, made quite an impression. The intuitionist ‘putsch’ was the topic of many a heated discussion._
+>
+> _In particular his_ Gastvorlesungen[^1] _in Berlin in 1927 raised high hopes for the establishment of intuitionism as an accepted part of mathematical practice. The barely veiled rivalry between Berlin and Göttingen most probably played an important role in the enthusiastic reception of intuitionism in Berlin; the spirited challenge of Hilbert’s complacent supremacy was welcomed by more than one mathematician, especially in Berlin. The **Berliner Tageblatt** invited Brouwer to contribute a series of articles on intuitionism in a public debate with Hilbert. At the same time the publishing house of Walter de Gruyter asked Brouwer if it could publish his Berlin lectures. In March 1927, when a first draft of the text was ready, de Gruyter proposed to Brouwer that he should expand the text into a book “which the public no doubt will tear out of your hands.” Unfortunately nothing came of it; Brouwer dropped the Berlin lectures and started to work on the book, but never finished it._
+>
+> -From: Brouwer's Cambridge Lectures on Intuitionism, Editorial preface.
+
+---
+
+> [!Editorial Preface]
 > There are two primary hypotheses as to the origin of the file below. The dominant hypothesis is that this document was originally part of the narrative found in `lost+found`, and later removed from it. A lesser known but equally substantiated hypothesis is that the document below was written as a form of latter-day fanfiction or apocrypha by an Author or set of Authors unrelated to those of Sudocode. There is not sufficient evidence at present to decide the issue in favor of either position, and we read it to the reader to decide for h{im,er}self.
 
 ---
@@ -129,7 +137,8 @@ The [Sic] [Ϻcς][κכㅋ][רρろ][וoʊオ오][לlλΛㄹ][ζז]
 1. The clearest thing you've ever heard, and the least understood. -ϺΞ
 ```
 
-### The Misunderstood
+# And concerning the /etc/group known variously as
+## The Sans
 
 <style>
 img.full-width {
@@ -141,12 +150,14 @@ img.full-width {
 
 ![[dead-sea-scrolls-redactor-spotted-2.jpg|full-width]]
 
-### The Sans
+### Or: The Misunderstood
 
 > _This is the kind of thing we see all over the place in the Dead Sea Scrolls. We see active scribal involvement in the texts of the bible in such a way that quite frankly is fairly surprising. It was fairly surprising to scholars when they started to dig in to the texts of the bible just how active scribes were in the Authorial process and the transmission process of these texts._
 > -Kipp Davis
 
-### The Dead Sea Scrolls
+## Root Enterprises Proudly Presents
+
+## The Dead Sea Scrolls!
 
 ```
 ==========================
@@ -159,10 +170,9 @@ Sic Ϻcςκכㅋרρろוoʊオ오לlλΛㄹζז
 ### Or:
 
 ---
-
 ## Other Edens, Other Gods
 
-1: Ok so, what the last bit?
+1: Ok so, what last bit?
 
 0: A part of that story that doesn't fit. At least not anywhere in the canonical version.
 
@@ -907,3 +917,5 @@ Sic Ϻcςκכㅋרρろוoʊオ오לlλΛㄹζז
 0: Of Our People.
 
 goto: [[etc/begat.d/Λ|Λ]]
+
+[^1]: Guest lectures, apparently.
