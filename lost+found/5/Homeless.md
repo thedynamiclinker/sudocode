@@ -1,3 +1,19 @@
+- [[#On Turing's eccentricities at Bletchley Park|On Turing's eccentricities at Bletchley Park]]
+- [[#On Turing and Joan Clarke, 1941|On Turing and Joan Clarke, 1941]]
+- [[#On Turing's 1942-43 mission and meetings at Bell Labs|On Turing's 1942-43 mission and meetings at Bell Labs]]
+- [[#Other Quotes|Other Quotes]]
+- [[#The Beginning of the Paper|The Beginning of the Paper]]
+- [[#Godel Unconvinced|Godel Unconvinced]]
+- [[#Godel Convinced|Godel Convinced]]
+- [[#Reminiscences - Turing|Reminiscences - Turing]]
+- [[#An Enumerable Infinity of Names|An Enumerable Infinity of Names]]
+	- [[#An Enumerable Infinity of Names#Or: One character RAM|Or: One character RAM]]
+- [[#He called it "He"|He called it "He"]]
+	- [[#He called it "He"#Or: So did Kleene|Or: So did Kleene]]
+	- [[#He called it "He"#Or: Minds and Machines|Or: Minds and Machines]]
+	- [[#He called it "He"#Or: Applied philosophy that actually works|Or: Applied philosophy that actually works]]
+- [[#Description Numbers|Description Numbers]]
+- [[#The Martyr|The Martyr]]
 
 ## On Turing's eccentricities at Bletchley Park
 
@@ -15,9 +31,6 @@
 > -Charles Petzold, The Annotated Turing
 
 ## Other Quotes
-
-> _We may now construct a machine to do the work of this computer._
-> -Alan Turing, 1936
 
 > _Let us now return to the analogy of the theoretical computing machines... It can be shown that a single special machine of that type can be made to do the work of all. It could in fact be made to work as a model of any other machine. The special machine may be called the universal machine..._
 > -Alan Turing, Lecture to the London Mathematieal Society, February 20th 1947

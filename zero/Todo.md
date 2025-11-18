@@ -18,7 +18,7 @@ The Great Copy Paste Refactor
 
 - [ ] lost+found/3
 	- [x] 1
-	- [ ] 2
+	- [x] 2
 	- [ ] 3
 	- [ ] 4
 	- [ ] 5
