@@ -1131,6 +1131,7 @@ user@world ~ $ printf abcd∀wxyz | hexdump -Cv
 0: Not at all! Follow me, I'll show you...
 
 ---
+<<<<<<< HEAD
 
 ## Gödel's Language
 ### Or: The God of recursion
@@ -1373,6 +1374,8 @@ def what(n):
 ![[one-looks-at-mendelsons-definition-of-recursive-functions-10.png]]
 
 
+=======
+>>>>>>> 7c3b5fb (Begin The Great Refactor of Lost and Found!)
 ## Gödel's μ-lang (0.0.1)
 
 ```python
@@ -1644,6 +1647,7 @@ if __name__ == "__main__":
         print(f"{k} = {v!r}")
 
 ```
+<<<<<<< HEAD
 ## The Second "First Standard Library"
 
 TODO:
@@ -1699,6 +1703,8 @@ TODO:
 
 
 ![[godel-collected-works-132.png]]
+=======
+>>>>>>> 7c3b5fb (Begin The Great Refactor of Lost and Found!)
 
 
 ## Enter Al
