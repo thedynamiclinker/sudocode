@@ -26,7 +26,7 @@ have authored the document known as `sudocode`.
 - Expression most poly-stylistic (LaTeX, Code, Prose, Footnotes, etc.)
 
 ### R: The Redactor
-- Redactor (in the Biblical Archaeoloy sense meaning Editor, not censor).
+- Redactor (in the Biblical Archaeology sense meaning Editor, not censor).
 - Ruthless in cutting things out.
 - Retcons other sections to make the Narrative fit together.
 - Rewrites earlier sections in Mono. (When originals were Sans or Serif.)
