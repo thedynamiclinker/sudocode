@@ -211,5 +211,14 @@
       ],
       "key": "7"
     }
+  ],
+  "latex-to-unicode:latex-to-unicode": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
+    }
   ]
 }

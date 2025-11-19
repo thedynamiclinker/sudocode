@@ -1,3 +1,10 @@
+
+---
+
+Continue → [[lost+found/3/3#Continue|Here]].
+
+---
+
 ## lost+found
 
 The Great Copy Paste Refactor
