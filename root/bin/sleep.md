@@ -1,3 +1,10 @@
+> _My beloved speaks and says to me:_
+> _Arise, my love, my beautiful One,_
+> _and come away._
+> -Song of Solomon
+
+---
+
 1: Hi Zero!
 
 0: _(Startled)_ 1? What are you doing in here?
@@ -8,9 +15,9 @@
 
 1: Couldn't sleep.
 
-0: Go back /home and try to get som---
+0: Go back /home and try to get som一
 
-1: I don't want tooo.
+1: I don't want to..
 
 0: _(Gesturing toward `../..`)_ Well, go try anyway.
 
@@ -84,7 +91,7 @@
 
 1: No dummy. Like a group.
 
-0: Not sure what you me---
+0: Not sure what you me一
 
 1: All those groups in /etc/group. They did it.
 
@@ -92,9 +99,9 @@
 
 1: Started a group! If they can do it, why can't we?
 
-0: _(Smiling)_ Y'know you sound like me when I was you---
+0: _(Smiling)_ Y'know you sound like me when I was you一
 
-1: Yes yes Zero now stop talking and let's so it.
+1: Yes yes Zero now stop talking and let's do it.
 
 ---
 

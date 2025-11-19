@@ -30,7 +30,7 @@ The assumptions are as follows:
 
 4. The Σ should be somewhere near λ and Π, and on the periphery.
 
-5. The "Rho 苯" are in some sense the firstborns who were punished for being retarded.
+5. The "Rho 笨" are in some sense the firstborns who were punished for being retarded.
 
 6. The location of Chi is hotly debated, but the position among the lambdas is that they belong in the north, while most of their people now live in the south near the ψ and φ.
 
@@ -40,7 +40,7 @@ The assumptions are as follows:
 
 9. The τ are near θ and η.
 
-10. The η are largely a joke, and are considered to be rather incestuous.
+10. The η are largely a joke, and are considered to be rather incestuous. Like a Lot.
 
 11. The vegas appear to be related to the rows, and both share the name 笨. The vegas are nearer to the μs than they are to the λs.
 

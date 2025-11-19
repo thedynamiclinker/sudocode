@@ -20,6 +20,20 @@ Technical
 
 ---
 
+## Gödel's Truth
+
+![[logicomix-03.png]]
+
+
+![[logicomix-04.png]]
+
+
+![[logicomix-05.png]]
+
+
+![[logicomix-06.png]]
+
+
 ## Gödel's Girls
 
 > _There is no doubt that Gödel had a liking for members of the opposite sex, and he made no secret about this fact. Let me tell a little anecdote. I was working in the small seminar room outside the library in the mathematical seminar. The door opened, and a very small, very young girl entered. She was good-looking, with a slightly gloomy face (maybe \[due to\] timidity), and wore a beautiful, quite unusual summer dress. Not much later Kurt entered, and she got up and the two of them left together. It seemed a clear show-off on Kurt’s part… You could talk to him about other things \[besides mathematics\] too, and his clear mind made this a rare pleasure..._

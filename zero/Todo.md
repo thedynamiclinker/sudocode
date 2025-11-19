@@ -1,13 +1,14 @@
 
 ---
 
-Continue → [[lost+found/3/3#Continue|Here]].
+Continue → [[lost+found/3/4]].
 
 ---
 
+# The Great Copy Paste Refactor
+
 ## lost+found
 
-The Great Copy Paste Refactor
 
 - [x] lost+found/1
 	- [x] 1
@@ -26,11 +27,12 @@ The Great Copy Paste Refactor
 - [ ] lost+found/3
 	- [x] 1
 	- [x] 2
-	- [ ] 3
+	- [x] 3
 	- [ ] 4
 	- [ ] 5
 
 - [ ] lost+found/4
+- Remember: `zero/include/the-lambdas-big/the-trinity/godel/godel-sanatorium`
 	- [x] 1
 	- [ ] 2
 	- [ ] 3
@@ -43,3 +45,8 @@ The Great Copy Paste Refactor
 	- [ ] 3
 	- [ ] 4
 	- [ ] 5
+
+---
+
+- [ ] Put the images from `zero/bible/include/net-bible` into `/sys/class/net/mth/1`
+

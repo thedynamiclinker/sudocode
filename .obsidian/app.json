@@ -12,6 +12,7 @@
   "mobileToolbarCommands": [
     "editor:configure-toolbar",
     "command-palette:open",
+    "editor:insert-footnote",
     "editor:undo",
     "editor:redo",
     "editor:cut",
@@ -21,7 +22,6 @@
     "editor:insert-codeblock",
     "editor:insert-callout",
     "editor:insert-table",
-    "editor:insert-footnote",
     "editor:insert-wikilink",
     "editor:insert-embed",
     "editor:insert-tag",
