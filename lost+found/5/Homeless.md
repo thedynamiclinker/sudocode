@@ -15,28 +15,15 @@
 - [[#Description Numbers|Description Numbers]]
 - [[#The Martyr|The Martyr]]
 
-## On Turing's eccentricities at Bletchley Park
+## 5/1
 
-> _In the first week of June each year \[Turing\] would get a bad attack of hay fever, and he would cycle to the office wearing a service gas mask to screen the pollen. His bicycle had a fault: the chain would come off at regular intervals. Instead of having it mended he would count the number of times the pedals went round and would get off the bicycle in time to adjust the chain by hand._
-> -Charles Petzold, The Annotated Turing
+For his way was not straight, and it had not been seen as straight by them.
 
-## On Turing and Joan Clarke, 1941
+Jᴏᴀɴ <span style="font-size: 12pt">ꓷ</span>ᴀʀᴋᴇ.
 
-> _In the spring of 1941, Alan Turing made a proposal of marriage to Joan Clarke, one of the rare women at Bletchley Park who wasn’t relegated to a mindless clerical job. Joan Clarke had been studying mathematics at Cambridge when she was recruited for code-breaking. A few days after the proposal Turing confessed to her that he had “homosexual tendencies” but the engagement continued for several more months before he felt he had to call it off._
-> -Charles Petzold, The Annotated Turing
+Joan of Arc's name was written in a variety of ways. There is no standard spelling of her name before the sixteenth century; her last name was usually written as "Darc" without an apostrophe, but there are variants such as "Tarc", "Dart" or "Day". Her father's name was written as "Tart" at her trial.[6] She was called "Jeanne d'Ay de Domrémy" in Charles VII's 1429 letter granting her a coat of arms.[7] Joan may never have heard herself called "Jeanne d'Arc". The first written record of her being called by this name is in 1455, 24 years after her death.
 
-## On Turing's 1942-43 mission and meetings at Bell Labs
 
-> _In November 1942, Turing was sent on a mission to Washington, D.C., to help coordinate code-breaking activities between England and the United States. Following that assignment, he spent the first two months of 1943 at Bell Laboratories, at the time located on West Street in New York City. There he met Harry Nyquist (1889-1976), who pioneered the theory of digital sampling, and Claude Elwood Shannon (1916-2001), whose paper “A Mathematical Theory of Communication” (1948) would found the field of information theory and introduce the word "bit" to the world._
-> -Charles Petzold, The Annotated Turing
-
-## Other Quotes
-
-> _Let us now return to the analogy of the theoretical computing machines... It can be shown that a single special machine of that type can be made to do the work of all. It could in fact be made to work as a model of any other machine. The special machine may be called the universal machine..._
-> -Alan Turing, Lecture to the London Mathematieal Society, February 20th 1947
-
-> _If it should turn out that the basic logics of a machine designed for the numerical solution of differential equations coincide with the logics of a machine intended to make bills for a department store, I would regard this as the most amazing coincidence I have ever encountered._  
-> -Howard Aiken 1956
 
 0: Ok so, let's recap. Church comes up with Lambda Calculus. Gödel comes up with General Recursive Functions. Kleene proves the two systems are equivalent. And legend has it that when Gödel realized his system was equivalent to Church's Gödel says "Oh. Well then I guess mine was wrong."
 
