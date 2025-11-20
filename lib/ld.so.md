@@ -1,3 +1,7 @@
+
+> _All language is but a poor translation._
+> -Franz Kafka
+
 > _Hackers, as a rule, love wordplay and are very conscious and inventive in their use of language. These traits seem to be common in young children, but the conformity-enforcing machine we are pleased to call an educational system bludgeons them out of most of us before adolescence._
 > -Eric S. Raymond, The Jargon File
 
