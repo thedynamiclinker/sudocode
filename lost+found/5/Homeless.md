@@ -15,6 +15,14 @@
 - [[#Description Numbers|Description Numbers]]
 - [[#The Martyr|The Martyr]]
 
+
+---
+
+/ˈkrɪs.t̬ɚ.fɚ ˈmɔɹ.kəm/
+- A vulgar misuse of the international phonetic alphabet to slander our Lord and Savior Jesus Christ. Reported to the authorities for blasphemy, vulgarity, and Christo-homophilia.
+
+---
+
 ## 5/1
 
 For his way was not straight, and it had not been seen as straight by them.
