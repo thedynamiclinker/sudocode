@@ -21,9 +21,12 @@ For his way was not straight, and it had not been seen as straight by them.
 
 Jᴏᴀɴ <span style="font-size: 12pt">ꓷ</span>ᴀʀᴋᴇ.
 
-Joan of Arc's name was written in a variety of ways. There is no standard spelling of her name before the sixteenth century; her last name was usually written as "Darc" without an apostrophe, but there are variants such as "Tarc", "Dart" or "Day". Her father's name was written as "Tart" at her trial.[6] She was called "Jeanne d'Ay de Domrémy" in Charles VII's 1429 letter granting her a coat of arms.[7] Joan may never have heard herself called "Jeanne d'Arc". The first written record of her being called by this name is in 1455, 24 years after her death.
+Joan of Arc's name was written in a variety of ways. There is no standard spelling of her name before the sixteenth century; her last name was usually written as "Darc" without an apostrophe, but there are variants such as "Tarc", "Dart" or "Day". Her father's name was written as "Tart" at her trial. She was called "Jeanne d'Ay de Domrémy" in Charles VII's 1429 letter granting her a coat of arms. Joan may never have heard herself called "Jeanne d'Arc". The first written record of her being called by this name is in 1455, 24 years after her death.
 
+1. Note: The name John comes from the Hebrew name Yochanan, meaning "God is gracious"
+2. Note: The name Joan comes from the Hebrew name Yochanan, meaning "God is gracious"
 
+---
 
 0: Ok so, let's recap. Church comes up with Lambda Calculus. Gödel comes up with General Recursive Functions. Kleene proves the two systems are equivalent. And legend has it that when Gödel realized his system was equivalent to Church's Gödel says "Oh. Well then I guess mine was wrong."
 
