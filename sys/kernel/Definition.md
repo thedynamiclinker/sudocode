@@ -56,7 +56,7 @@ Note the "I" in item one, and the "we" in item two.
 > -Grace Hopper
 
 > _It's better to ask forgiveness than permission._
-> -Programmer Proverb
+> -Programmer Proverb, origin unknown
 
 For any complex system, from a modern computing device, to the legal code of a nation, to the social norms of a culture, the Foundational mind's first interest -- the objective source of truth -- concerns what one _can_ get away with, in the system _as it currently exists._
 
