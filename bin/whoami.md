@@ -1,5 +1,5 @@
 > _I am a simple man and I want simple answers._
-> -Howard Aiken 
+> -Howard Aiken, employer of Grace Hopper
 
 > _It's easier to ask forgiveness than it is to get permission._
 > -Grace Hopper, employee of Howard Aiken

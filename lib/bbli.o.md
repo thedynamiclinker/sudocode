@@ -1,5 +1,5 @@
 > _If anyone says "But we've always done it that way" I will immediately materialize and haunt you for 24 hours._
-> -Grace Hopper
+> -Grace H.
 
 ---
 
