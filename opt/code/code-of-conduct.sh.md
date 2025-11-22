@@ -8,10 +8,11 @@ sed -E code-of-conduct.in* \
 	-e 's/mount Sinai/\/mnt\/sinai/g' \
     -e 's/toucheth/touch/g' \
     -e 's/tabernacle/Platform/g' \
-	-e 's/burnt/Code/g' \
-	-e 's/meat/Product/g' \
+	-e 's/burnt/compiled/g' \
+	-e 's/meat/product/g' \
 	-e 's/put his hand upon the head/check out the HEAD/g' \
-    -e 's/flay/strip/g' \
+	 -e 's/(even )?of the (cattle|herd|flock)/from the \2/g' \
+	-e 's/flay/strip/g' \
 	-e 's/\b(burn)\b/test/g' \
 	-e 's/burneth/tests/g' \
 	-e 's/\b(clean)\b/compliant/g' \
@@ -24,23 +25,23 @@ sed -E code-of-conduct.in* \
 	-e 's/\b(bullock)\b/contribution/g' \
 	-e 's/\b(congregation)\b/All Hands/g' \
 	-e 's/trespass contribution/security contribution/g' \
-	-e 's/(sin contribution)/compliance contribution/g' \
-	-e 's/altar/service platform/g' \
+	-e 's/(sin [cC]ontribution)/compliance contribution/g' \
+	-e 's/altar/Service Platform/g' \
 	-e 's/pluck/strip/g' \
 	-e 's/(sons of Aaron the priest|priests, Aaron’s sons)/Moderation Team/g' \
 	-e "s/Aaron’s and his sons’/the Moderation Team's/g" \
 	-e 's/Aaron/the Chief Moderator/g' \
-	-e 's/statutes/processes/g' \
+	-e 's/statute/law/g' \
 	-e 's/judgments/procedures/g' \
 	-e 's/priest/manager/g' \
 	-e 's/sabbath/holiday/g' \
 	-e 's/\b(brother’s wife|neighbour’s wife)\b/coworker/g' \
 	-e 's/father/boss/g' \
 	-e 's/mother/girlboss/g' \
-	-e 's/\b(uncle)\b/Senior/g' \
-	-e 's/\b(aunt)\b/Shenior/g' \
-	-e 's/son/him-ployee/g' \
-	-e 's/daughter/her-ployee/g' \
+	-e 's/\b(uncle)\b/senior/g' \
+	-e 's/\b(aunt)\b/shenior/g' \
+	-e 's/\b(son)\b/he-sub/g' \
+	-e 's/\b(daughter)\b/she-sub/g' \
 	-e 's/sister/she-dev/g' \
 	-e 's/brother/he-dev/g' \
 	-e 's/\b(kill)\b/execute/g' \
@@ -48,7 +49,7 @@ sed -E code-of-conduct.in* \
 	-e 's/land of Egypt/Old Company/g' \
 	-e 's/childless/without deliverables/g' \
 	-e 's/\b(nation)\b/team/g' \
-	-e 's/souls/machines/g' \
+	-e 's/souls/spirits/g' \
 	-e 's/floweth/flows/g' \
 	-e 's/children/juniors/g' \
 	-e 's/\b(fit man)\b/developed man/g' \
@@ -57,34 +58,60 @@ sed -E code-of-conduct.in* \
 	-e 's/\b(until the even)\b/until the evening/g' \
 	-e 's/Molech/Daemons/g' \
 	-e 's/sojourn/contract/g' \
-	-e 's/seed/secrets/g' \
     -e 's/unrighteousness/insecurity/g' \
     -e 's/devils/other companies/g' \
 	-e 's/separation/monthly leave/g' \
-	-e 's/turtledoves/scripts of shell/g' \
-	-e 's/young pigeons/scripts of python/g' \
+	-e 's/turtledove(s)?/script\1 of shell/g' \
+	-e 's/young pigeon(s)?/script\1 of cloud/g' \
 	-e 's/rinsed in water/wiped clean/g' \
-	-e 's/container of wood/container of cloud/g' \
-	-e 's/live goat/live branch/g' \
+	-e 's/container of wood/secure container/g' \
 	-e 's/with his finger/throughout the codebase/g' \
 	-e 's/\b(killed|slew)\b/executed/g' \
 	-e 's/\b(kill)\b/execute/g' \
 	-e 's/leaven/gluten/g' \
 	 -e 's/\b(fat)\b/body/g' \
-	 -e 's/\b(sheep)\b/fair intern/g' \
-	 -e 's/\b(goat)\b/unfair intern/g' \
+	 -e 's/\b(sheep)\b/angelic intern/g' \
+	 -e 's/\b(goats?)/demonic intern/g' \
+	-e 's/live goat/lively intern/g' \
 	 -e 's/sanctuary/safe space/g' \
 	 -e 's/blemish/error/g' \
 	 -e 's/\b(holy)\b/equitable/g' \
 	 -e 's/frankincense/ethically-sourced botanical extract/g' \
 	 -e 's/linen/organic fiber/g' \
 	 -e 's/\b(atonement)\b/apology/g' \
-	 -e 's/cattle/workers/g' \
+	 -e 's/\bapology for (him|them)\b/apology/g' \
+	 -e 's/make apology/make an apology/g' \
 	 -e 's/\b(oils?)\b/plant \1/g' \
 	 -e 's/\b(grains?)\b/whole \1/g' \
-	 -e 's/\b(herd)\b/cluster/g' \
 	 -e 's/\b(flock)\b/servers/g' \
 	 -e 's/horns/endpoints/g' \
-	 -e 's///g' \
-	 -e 's///g' \
-	 -e 's///g' 
+	 -e 's/(piece|part)/bit/g' \
+	 -e 's/remnant(s?)/bits/g' \
+	 -e 's/an [Cc]ontribution/a Contribution/g' \
+	 -e 's/offer a male/send a mail/g' \
+	 -e 's/\b(ye)\b/you/g' \
+	 -e 's/\b(thy)\b/your/g' \
+	 -e 's/\b(thy)\b/your/g' \
+	 -e 's/\b(unto)\b/to/g' \
+	 -e 's/\b(oblation)\b/offering/g' \
+	 -e 's/\b(of the herd)\b/from the herd/g' \
+	-e 's/\b(herd)\b/cluster/g' \
+	-e 's/cattle/workers/g' \
+	 -e 's/\b(spake)\b/spoke/g' \
+	 -e 's/inwards/trunk/g' \
+	 -e 's/\b(legs)\b/branches/g' \
+	 -e 's/\b(a male)\b/a mail/g' \
+	 -e 's/\b(a female)\b/an email/g' \
+	 -e 's/\b(male)\b/mail/g' \
+	 -e 's/\b(female)\b/email/g' \
+	 -e 's/\b(leper|leprous)\b/infected/g' \
+	 -e 's/\b(leprosy)\b/infection/g' \
+	 -e 's/\b(plague)\b/virus/g' \
+	 -e 's/\b(scall)\b/cruft/g' \
+	 -e 's/\b\b//g' \
+	 -e 's/\b\b//g' \
+
+exit 0
+
+%%
+%%
