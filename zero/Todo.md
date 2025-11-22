@@ -1,6 +1,12 @@
 
 ---
 
+> _Woe to those who imagine the future from the present.
+> Blessed are those who imagine the present from the future._
+> -LD proverb, slight mistranslation
+
+---
+
 Continue → [[lost+found/3/4]].
 
 ---
@@ -51,4 +57,3 @@ Continue → [[lost+found/3/4]].
 - [ ] Put the images from `zero/bible/include/net-bible` into `/sys/class/net/mth/1`
 
 ---
-
