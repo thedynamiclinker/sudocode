@@ -11,7 +11,7 @@ sed -E code-of-conduct.in* \
 	-e 's/burnt/compiled/g' \
 	-e 's/meat/product/g' \
 	-e 's/put his hand upon the head/check out the HEAD/g' \
-	 -e 's/(even )?of the (cattle|herd|flock)/from the \2/g' \
+	-e 's/(even )?of the (cattle|herd|flock)/from the \2/g' \
 	-e 's/flay/strip/g' \
 	-e 's/\b(burn)\b/test/g' \
 	-e 's/burneth/tests/g' \
@@ -69,47 +69,47 @@ sed -E code-of-conduct.in* \
 	-e 's/\b(killed|slew)\b/executed/g' \
 	-e 's/\b(kill)\b/execute/g' \
 	-e 's/leaven/gluten/g' \
-	 -e 's/\b(fat)\b/body/g' \
-	 -e 's/\b(sheep)\b/angelic intern/g' \
-	 -e 's/\b(goats?)/demonic intern/g' \
+	-e 's/\b(fat)\b/body/g' \
+	-e 's/\b(sheep)\b/angelic intern/g' \
+	-e 's/\b(goats?)/demonic intern/g' \
 	-e 's/live goat/lively intern/g' \
-	 -e 's/sanctuary/safe space/g' \
-	 -e 's/blemish/error/g' \
-	 -e 's/\b(holy)\b/equitable/g' \
-	 -e 's/frankincense/ethically-sourced botanical extract/g' \
-	 -e 's/linen/organic fiber/g' \
-	 -e 's/\b(atonement)\b/apology/g' \
-	 -e 's/\bapology for (him|them)\b/apology/g' \
-	 -e 's/make apology/make an apology/g' \
-	 -e 's/\b(oils?)\b/plant \1/g' \
-	 -e 's/\b(grains?)\b/whole \1/g' \
-	 -e 's/\b(flock)\b/servers/g' \
-	 -e 's/horns/endpoints/g' \
-	 -e 's/(piece|part)/bit/g' \
-	 -e 's/remnant(s?)/bits/g' \
-	 -e 's/an [Cc]ontribution/a Contribution/g' \
-	 -e 's/offer a male/send a mail/g' \
-	 -e 's/\b(ye)\b/you/g' \
-	 -e 's/\b(thy)\b/your/g' \
-	 -e 's/\b(thy)\b/your/g' \
-	 -e 's/\b(unto)\b/to/g' \
-	 -e 's/\b(oblation)\b/offering/g' \
-	 -e 's/\b(of the herd)\b/from the herd/g' \
+	-e 's/sanctuary/safe space/g' \
+	-e 's/blemish/error/g' \
+	-e 's/\b(holy)\b/equitable/g' \
+	-e 's/frankincense/ethically-sourced botanical extract/g' \
+	-e 's/linen/organic fiber/g' \
+	-e 's/\b(atonement)\b/apology/g' \
+	-e 's/\bapology for (him|them)\b/apology/g' \
+	-e 's/make apology/make an apology/g' \
+	-e 's/\b(oils?)\b/plant \1/g' \
+	-e 's/\b(grains?)\b/whole \1/g' \
+	-e 's/\b(flock)\b/servers/g' \
+	-e 's/horns/endpoints/g' \
+	-e 's/(piece|part)/bit/g' \
+	-e 's/remnant(s?)/bits/g' \
+	-e 's/an [Cc]ontribution/a Contribution/g' \
+	-e 's/offer a male/send a mail/g' \
+	-e 's/\b(ye)\b/you/g' \
+	-e 's/\b(thy)\b/your/g' \
+	-e 's/\b(thy)\b/your/g' \
+	-e 's/\b(unto)\b/to/g' \
+	-e 's/\b(oblation)\b/offering/g' \
+	-e 's/\b(of the herd)\b/from the herd/g' \
 	-e 's/\b(herd)\b/cluster/g' \
 	-e 's/cattle/workers/g' \
-	 -e 's/\b(spake)\b/spoke/g' \
-	 -e 's/inwards/trunk/g' \
-	 -e 's/\b(legs)\b/branches/g' \
-	 -e 's/\b(a male)\b/a mail/g' \
-	 -e 's/\b(a female)\b/an email/g' \
-	 -e 's/\b(male)\b/mail/g' \
-	 -e 's/\b(female)\b/email/g' \
-	 -e 's/\b(leper|leprous)\b/infected/g' \
-	 -e 's/\b(leprosy)\b/infection/g' \
-	 -e 's/\b(plague)\b/virus/g' \
-	 -e 's/\b(scall)\b/cruft/g' \
-	 -e 's/\b\b//g' \
-	 -e 's/\b\b//g' \
+	-e 's/\b(spake)\b/spoke/g' \
+	-e 's/inwards/trunk/g' \
+	-e 's/\b(legs)\b/branches/g' \
+	-e 's/\b(a male)\b/a mail/g' \
+	-e 's/\b(a female)\b/an email/g' \
+	-e 's/\b(male)\b/mail/g' \
+	-e 's/\b(female)\b/email/g' \
+	-e 's/\b(leper|leprous)\b/infected/g' \
+	-e 's/\b(leprosy)\b/infection/g' \
+	-e 's/\b(plague)\b/virus/g' \
+	-e 's/\b(scall)\b/cruft/g' \
+	-e 's/\b\b//g' \
+	-e 's/\b\b//g' \
 
 exit 0
 
