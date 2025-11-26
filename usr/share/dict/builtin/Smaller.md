@@ -1,1 +1,1 @@
-Type: [[More]], [[Small]]
+Type: [[usr/share/dict/atomic/More|More]], [[Small]]

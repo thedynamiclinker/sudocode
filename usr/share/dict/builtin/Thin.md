@@ -1,1 +1,1 @@
-Type: [[When]], [[usr/share/dict/atomic/A|A]], [[Thing]], [[Is]], [[Lots]] [[More]], [[Long]], [[Than]], [[It]], [[Is]], [[Wide]]
+Type: [[When]], [[usr/share/dict/atomic/A|A]], [[Thing]], [[Is]], [[Lots]] [[usr/share/dict/atomic/More|More]], [[Long]], [[Than]], [[It]], [[Is]], [[Wide]]

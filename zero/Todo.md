@@ -1,8 +1,7 @@
 
 Turing ordered Adam¹ up
 And multiplied the products
-If one and none
-
+Of one and none
 
 ---
 
@@ -195,4 +194,8 @@ Delete everything except The Authors.
 
 --- 
 
+<<<<<<< HEAD
 Kangaroo Priestly source ticketing process 
+=======
+ ticketing process 
+>>>>>>> 2ffae38 (Fix some fuckery in usr/share/dict from naming a file "More" lol)

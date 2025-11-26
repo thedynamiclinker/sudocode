@@ -1,1 +1,1 @@
-Type: [[usr/share/dict/atomic/Self]], [[And]], [[Other]]
+Type: [[usr/share/dict/atomic/Self|Self]], [[And]], [[Other]]

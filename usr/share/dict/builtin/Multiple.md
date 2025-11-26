@@ -1,1 +1,1 @@
-Type: [[More]], [[Than]], [[One]]
+Type: [[usr/share/dict/atomic/More|More]], [[Than]], [[One]]
