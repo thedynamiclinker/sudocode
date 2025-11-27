@@ -916,6 +916,6 @@ Sic Ϻcςκכㅋרρろוoʊオ오לlλΛㄹζז
 
 0: Of Our People.
 
-goto: [[etc/begat.d/Λ|Λ]]
+goto: [[The Λ|The Λ]]
 
 [^1]: Guest lectures, apparently.

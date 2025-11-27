@@ -1,3 +1,11 @@
+## Σ
+
+These are the records of the sigmas, the children of Friedman, who are called Reverse Mathematics.
+
+![[records-the-sigmas.jpg]]
+
+
+
 ## Church's Descendants
 
 ### Or: The Transitive Closure of Church's Students
