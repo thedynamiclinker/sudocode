@@ -1,4 +1,14 @@
 
+## SH SHN
+
+> And its light shon a shine dense and thick, but it was not illuminated, and no spark or brightness in it, for its shine was not of brilliance, but of that which shines in the dark.
+> 
+> And the shining one said to Moses,
+> 
+> Take off your shoes.
+> 
+> -Exodus 3
+
 ---
 
 Continue → [[lost+found/3/4]].

@@ -1,31 +1,31 @@
 
 ## 1
 
-|Hebrew|Transliteration|Literal|Semantic Basis-Vectors (root-space)|
-|---|---|---|---|
-|ו|wə-|and|connective; sequence; contrastive “but”; sometimes emphatic “indeed” (ו functioning like a discourse marker)|
-|הנחש|han-nā-ḥāš|the-serpent|N-Ḥ-Š: serpent; snake; metalline/bronze thing; shining object; diviner/omen-reader; whisperer; “one who practices enchantment”; object of fear/reverence; metallic serpent-idol; “shimmering one” (via association with bronze)|
-|היה|hā-yāh|was|H-Y-H: to be; to become; to happen/eventuate; to cause to become; existential state; fate-manifestation|
-|ערום|ʿārûm|cunning|ʿ-R-M: naked; bare/exposed; crafty/shrewd; stripped; vulnerable; morally unmasked; “subtle”; “uncovered in truth”|
-|מכל|mi-kōl|more-than-all|M-K-L: totality; entirety; from-all; out-of; consumption; annihilation (“consume entirely”); comparative marker; potential pun on “potentially” / “in every respect”|
-|חית|ḥayyat|creature-of|Ḥ-Y: life, living force, animate being; vitality; creature; “beast”; also “that which is quickened/alive”|
-|השדה|ha-sādeh|the-field|Š-D-H / Š-D-D: field; open expanse; steppe; wild territory; land-spread; laid-out place; “spread/expand”; destructive force (root Š-D-D “ruin/devastate”); ShD as “breast” (nourishment); ShD as “demon/spirit” (folk: שֵד); domain outside order; liminal territory|
-|אשר|ʾăšer|which|root uncertain, often linked to uprightness/happiness/rightness; relational marker; sign of fate (“that which is destined”); connective of identity (“the one who is…”)|
-|עשה|ʿāsāh|made|ʿ-S-H: make/do; shape/form; press/exert; enact; appoint; cause to happen; “commit (an act)”; labor; artistic forming|
-|יהוה|YHWH|YHWH|H-W-H/H-Y-H complex: being/becoming; “He causes to be”; breath/exhalation sound; existential causation; ontological force|
-|אלהים|ʾĕlōhīm|God|ʾ-L-H / ʾ-L: deity/divinity; power/force; judge; supernatural entity; plural intensification; “mighty ones”; possible older sense “sky powers”|
-|ויאמר|wə-yōmer|and-he-said|ʾ-M-R: speak/utter; declare; command; make visible (speech = revelation); intention exposed|
-|אל|ʾel|to|ʾ-L: toward/into; relational direction; also “god” (same consonants) → potential pun “said god-ward / god-like”|
-|האשה|hā-ʾiššāh|the-woman|ʾ-Š-H: woman/wife; fire-being (folk play ʾ-Š “fire”); source/birther; counterpart; entity of relational completion|
-|אף|ʾaf|indeed/even|ʾ-F: nose; breathing force; anger/fury; emotional heat; emphasis “indeed/yes”; physical face-front|
-|כי|kî|because/that|K-Y: causation; explanation; contrast; conditional; possibility marker|
-|אמר|ʾāmar|said|see ʾ-M-R above|
-|אלהים|ʾĕlōhīm|God|see ʾ-L-H above|
-|לא|lō|not|L-ʾ: negation; refusal; absence; annihilation; nothingness|
-|תאכלו|tōkhlū|you(pl)-shall-eat|ʾ-K-L: eat; consume; devour; assimilate; destroy (“eat up”); incorporate; enjoy; suffer loss (“be eaten”)|
-|מכל|mi-kōl|from-all|see M-K-L above|
-|עץ|ʿēṣ|tree|ʿ-Ṣ: tree/wood; hardness; counsel/advice (metaphor); wooden idol; gallows; structural support|
-|הגן|hā-gān|the-garden|G-N: enclosed place; protected domain; womb-like space; pleasure/delight; territory under cultivation|
+| Hebrew | Transliteration | Literal           | Semantic Basis-Vectors (root-space)                                                                                                                                                                                                                                  |
+| ------ | --------------- | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ו      | wə-             | and               | connective; sequence; contrastive “but”; sometimes emphatic “indeed” (ו functioning like a discourse marker)                                                                                                                                                         |
+| הנחש   | han-nā-ḥāš      | the-serpent       | N-Ḥ-Š: serpent; snake; metalline/bronze thing; shining object; diviner/omen-reader; whisperer; “one who practices enchantment”; object of fear/reverence; metallic serpent-idol; “shimmering one” (via association with bronze)                                      |
+| היה    | hā-yāh          | was               | H-Y-H: to be; to become; to happen/eventuate; to cause to become; existential state; fate-manifestation                                                                                                                                                              |
+| ערום   | ʿārûm           | cunning           | ʿ-R-M: naked; bare/exposed; crafty/shrewd; stripped; vulnerable; morally unmasked; “subtle”; “uncovered in truth”                                                                                                                                                    |
+| מכל    | mi-kōl          | more-than-all     | M-K-L: totality; entirety; from-all; out-of; consumption; annihilation (“consume entirely”); comparative marker; potential pun on “potentially” / “in every respect”                                                                                                 |
+| חית    | ḥayyat          | creature-of       | Ḥ-Y: life, living force, animate being; vitality; creature; “beast”; also “that which is quickened/alive”                                                                                                                                                            |
+| השדה   | ha-sādeh        | the-field         | Š-D-H / Š-D-D: field; open expanse; steppe; wild territory; land-spread; laid-out place; “spread/expand”; destructive force (root Š-D-D “ruin/devastate”); ShD as “breast” (nourishment); ShD as “demon/spirit” (folk: שֵד); domain outside order; liminal territory |
+| אשר    | ʾăšer           | which             | root uncertain, often linked to uprightness/happiness/rightness; relational marker; sign of fate (“that which is destined”); connective of identity (“the one who is…”)                                                                                              |
+| עשה    | ʿāsāh           | made              | ʿ-S-H: make/do; shape/form; press/exert; enact; appoint; cause to happen; “commit (an act)”; labor; artistic forming                                                                                                                                                 |
+| יהוה   | YHWH            | YHWH              | H-W-H/H-Y-H complex: being/becoming; “He causes to be”; breath/exhalation sound; existential causation; ontological force                                                                                                                                            |
+| אלהים  | ʾĕlōhīm         | God               | ʾ-L-H / ʾ-L: deity/divinity; power/force; judge; supernatural entity; plural intensification; “mighty ones”; possible older sense “sky powers”                                                                                                                       |
+| ויאמר  | wə-yōmer        | and-he-said       | ʾ-M-R: speak/utter; declare; command; make visible (speech = revelation); intention exposed                                                                                                                                                                          |
+| אל     | ʾel             | to                | ʾ-L: toward/into; relational direction; also “god” (same consonants) → potential pun “said god-ward / god-like”                                                                                                                                                      |
+| האשה   | hā-ʾiššāh       | the-woman         | ʾ-Š-H: woman/wife; fire-being (folk play ʾ-Š “fire”); source/birther; counterpart; entity of relational completion                                                                                                                                                   |
+| אף     | ʾaf             | indeed/even       | ʾ-F: nose; breathing force; anger/fury; emotional heat; emphasis “indeed/yes”; physical face-front                                                                                                                                                                   |
+| כי     | kî              | because/that      | K-Y: causation; explanation; contrast; conditional; possibility marker                                                                                                                                                                                               |
+| אמר    | ʾāmar           | said              | see ʾ-M-R above                                                                                                                                                                                                                                                      |
+| אלהים  | ʾĕlōhīm         | God               | see ʾ-L-H above                                                                                                                                                                                                                                                      |
+| לא     | lō              | not               | L-ʾ: negation; refusal; absence; annihilation; nothingness                                                                                                                                                                                                           |
+| תאכלו  | tōkhlū          | you(pl)-shall-eat | ʾ-K-L: eat; consume; devour; assimilate; destroy (“eat up”); incorporate; enjoy; suffer loss (“be eaten”)                                                                                                                                                            |
+| מכל    | mi-kōl          | from-all          | see M-K-L above                                                                                                                                                                                                                                                      |
+| עץ     | ʿēṣ             | tree              | ʿ-Ṣ: tree/wood; hardness; counsel/advice (metaphor); wooden idol; gallows; structural support                                                                                                                                                                        |
+| הגן    | hā-gān          | the-garden        | G-N: enclosed place; protected domain; womb-like space; pleasure/delight; territory under cultivation                                                                                                                                                                |
 
 ## 2
 
@@ -42,34 +42,38 @@
 
 ## 3
 
-|Hebrew|Transliteration|Literal|Semantic Basis-Vectors|
-|---|---|---|---|
-|ומפרי|wə-mip̱rî|and-from-fruit|P-R-Y: see above|
-|העץ|hā-ʿēṣ|the-tree|ʿ-Ṣ: see above|
-|אשר|ʾăšer|which|relational “that”; upright/fortune root; destiny-marker|
-|בתוך|bə-tōkh|in-midst|T-W-K: middle/interior; core; inside; depth; “interiority”|
-|הגן|hā-gān|the-garden|G-N: see above|
-|אמר|ʾāmar|said|ʾ-M-R: see above|
-|אלהים|ʾĕlōhīm|God|ʾ-L-H: see above|
-|לא|lō|not|L-ʾ: negation, nothingness|
-|תאכלו|tōkhlū|you(pl)-eat|ʾ-K-L: see above|
-|ממנו|mimmennū|from-it/him|M-N: from; source; portion; fate-portion|
-|ולא|wə-lō|and-not|L-ʾ: negation|
-|תגעו|tiggaʿū|you(pl)-touch|N-G-ʿ: touch; reach; strike; afflict; sexually approach; cause harm; make contact spiritually/ritually|
-|בו|bō|in-it|B-W: in/with; “inside”/interior|
-|פן|pen|lest|P-N: lest; preventatively; face/turn from danger|
-|תמתון|temutūn|you(pl)-shall-die|M-W-T: die; be executed; fall; perish; lose status; become mortal; diminish; fade; be silenced|
+| Hebrew | Transliteration | Literal           | Semantic Basis-Vectors                                                                                 |
+| ------ | --------------- | ----------------- | ------------------------------------------------------------------------------------------------------ |
+| ומפרי  | wə-mip̱rî       | and-from-fruit    | P-R-Y: see above                                                                                       |
+| העץ    | hā-ʿēṣ          | the-tree          | ʿ-Ṣ: see above                                                                                         |
+| אשר    | ʾăšer           | which             | relational “that”; upright/fortune root; destiny-marker                                                |
+| בתוך   | bə-tōkh         | in-midst          | T-W-K: middle/interior; core; inside; depth; “interiority”                                             |
+| הגן    | hā-gān          | the-garden        | G-N: see above                                                                                         |
+| אמר    | ʾāmar           | said              | ʾ-M-R: see above                                                                                       |
+| אלהים  | ʾĕlōhīm         | God               | ʾ-L-H: see above                                                                                       |
+| לא     | lō              | not               | L-ʾ: negation, nothingness                                                                             |
+| תאכלו  | tōkhlū          | you(pl)-eat       | ʾ-K-L: see above                                                                                       |
+| ממנו   | mimmennū        | from-it/him       | M-N: from; source; portion; fate-portion                                                               |
+| ולא    | wə-lō           | and-not           | L-ʾ: negation                                                                                          |
+| תגעו   | tiggaʿū         | you(pl)-touch     | N-G-ʿ: touch; reach; strike; afflict; sexually approach; cause harm; make contact spiritually/ritually |
+| בו     | bō              | in-it             | B-W: in/with; “inside”/interior                                                                        |
+| פן     | pen             | lest              | P-N: lest; preventatively; face/turn from danger                                                       |
+| תמתון  | temutūn         | you(pl)-shall-die | M-W-T: die; be executed; fall; perish; lose status; become mortal; diminish; fade; be silenced         |
+|        |                 |                   |                                                                                                        |
+
 ## 4
 
-|Hebrew|Transliteration|Literal|Semantic Basis-Vectors|
-|---|---|---|---|
-|ויאמר|wə-yōmer|and-he-said|ʾ-M-R|
-|הנחש|han-nāḥāš|the-serpent|N-Ḥ-Š|
-|אל|ʾel|to|ʾ-L|
-|האשה|hā-ʾiššāh|the-woman|ʾ-Š-H|
-|לא|lō|not|L-ʾ|
-|מות|môt|death|M-W-T: death; fate; end; termination; annihilation; ritual death; “the underworld’s claim”|
-|תמתון|temutūn|you-pl-shall-die|M-W-T: see above|
+| Hebrew | Transliteration | Literal          | Semantic Basis-Vectors                                                                     |
+| ------ | --------------- | ---------------- | ------------------------------------------------------------------------------------------ |
+| ויאמר  | wə-yōmer        | and-he-said      | ʾ-M-R                                                                                      |
+| הנחש   | han-nāḥāš       | the-serpent      | N-Ḥ-Š                                                                                      |
+| אל     | ʾel             | to               | ʾ-L                                                                                        |
+| האשה   | hā-ʾiššāh       | the-woman        | ʾ-Š-H                                                                                      |
+| לא     | lō              | not              | L-ʾ                                                                                        |
+| מות    | môt             | death            | M-W-T: death; fate; end; termination; annihilation; ritual death; “the underworld’s claim” |
+| תמתון  | temutūn         | you-pl-shall-die | M-W-T: see above                                                                           |
+
+
 ## 5
 
 | Hebrew | Transliteration | Literal         | Semantic Basis-Vectors                                                                    |
@@ -88,6 +92,8 @@
 | ידעי   | yōdʿei          | knowing         | Y-D-ʿ                                                                                     |
 | טוב    | ṭōv             | good            | Ṭ-W-B: good; beneficial; beautiful; fortunate; morally right; pleasant                    |
 | ורע    | wə-raʿ          | and-evil        | R-ʿ: bad; harmful; misfortune; wickedness; distress; adversity; brokenness                |
+
+
 ## 6
 
 |Hebrew|Transliteration|Literal|Semantic Basis-Vectors|
@@ -113,6 +119,7 @@
 |לאישה|lə-ʾīšāh|to-her-man|ʾ-Y-Š: man; husband; strength; “one who stands”|
 |עמה|ʿimmāh|with-her|ʿ-M-M: with; together; among; collective identity|
 |ויאכל|wə-yōkhal|and-he-ate|ʾ-K-L|
+
 ## 7
 
 |Hebrew|Transliteration|Literal|Semantic Basis-Vectors|
@@ -256,6 +263,7 @@
 |כל|kol|all|K-L: whole; complete; totality; entirety|
 |ימי|yəmē|days-of|Y-M-Y: days; epochs; life-span; cycles; times appointed|
 |חייך|ḥayyekha|your-life|Ḥ-Y-H: life; vitality; animation; existential duration|
+
 ## 15
 
 |Hebrew|Transliteration|Literal|Semantic Basis-Vectors|
@@ -275,6 +283,7 @@
 |ואתה|wə-attā|and-you|ʾ-T-H|
 |תשופנו|təshūfennū|you-will-bruise-him|Š-W-F|
 |עקב|ʿaqev|heel|ʿ-Q-B: heel; back part; footprint; supplant; deceive (Jacob pun); ambush from behind; consequence|
+
 ## 16
 
 | Hebrew | Transliteration | Literal             | Semantic Basis-Vectors                                                                        |
@@ -295,6 +304,7 @@
 | והוא   | wə-hū           | and-he              | H-W: he/that-one; identity-marker; agent                                                      |
 | ימשל   | yimšōl          | will-rule           | M-Š-L: rule; govern; have dominion; compare/liken (poetic sense); exercise authority; control |
 | בך     | bākh            | over-you            | B-K: in/with/upon; relational dominance; situatedness under authority                         |
+
 ## 17
 
 |Hebrew|Transliteration|Literal|Semantic Basis-Vectors|
@@ -322,6 +332,7 @@
 |כל|kol|all|K-L: totality; entirety; wholeness|
 |ימי|yəmê|days-of|Y-M-Y: days; lifespan; epochs|
 |חייך|ḥayyekha|your-life|Ḥ-Y-H: life; vitality; duration|
+
 ## 18
 
 |Hebrew|Transliteration|Literal|Semantic Basis-Vectors|
@@ -334,6 +345,7 @@
 |את|ʾet|(object-marker)|direct-object marker; boundary; pointer|
 |עשב|ʿēsev|herb/plant|ʿ-Ś-B: plant; grass; cultivated or wild growth; vegetation; food-source|
 |השדה|ha-sādeh|of-the-field|Š-D-H / Š-D-D: field; open land; wilderness; devastation; daimonic “outside domain”|
+
 ## 19
 
 |Hebrew|Transliteration|Literal|Semantic Basis-Vectors|
@@ -355,6 +367,7 @@
 |ואל|wə-ʾel|and-to|ʾ-L|
 |עפר|ʿāfar|dust|ʿ-F-R|
 |תשוב|tāshūv|you-shall-return|Š-W-B|
+
 ## 20
 
 |Hebrew|Transliteration|Literal|Semantic Basis-Vectors|
@@ -370,6 +383,7 @@
 |אם|ʾēm|mother|ʾ-M: mother; source; origin; matrix|
 |כל|kol|of-all|K-L|
 |חי|ḥay|living|Ḥ-Y: life; vitality; animate being|
+
 ## 21
 
 |Hebrew|Transliteration|Literal|Semantic Basis-Vectors|
@@ -382,6 +396,7 @@
 |כתנות|kaṭnōt|tunics/garments|K-T-N: tunic; covering; clothing; protection; “small garment”|
 |עור|ʿōr|skin|ʿ-W-R: skin; hide; nakedness-covering; light (homonym pun with אוֹר “light”)|
 |וילבשם|wayyalbišēm|and-he-clothed-them|L-B-Š: clothe; wrap; cover; invest with identity; ritual investiture|
+
 ## 22
 
 |Hebrew|Transliteration|Literal|Semantic Basis-Vectors|
@@ -408,6 +423,7 @@
 |ואכל|wə-ʾākhal|and-eat|ʾ-K-L|
 |וחי|wə-ḥay|and-live|Ḥ-Y: live; persist; continue; endure|
 |לעולם|lə-ʿōlām|forever|ʿ-W-L: eternity; hidden time; perpetual duration; world-age|
+
 ## 23
 
 |Hebrew|Transliteration|Literal|Semantic Basis-Vectors|
@@ -422,6 +438,7 @@
 |האדמה|hā-ʾadāmāh|the-ground|ʾ-D-M|
 |אשר|ʾăšer|which|relational/identity|
 |לקח|luqqāḥ|he-was-taken|L-Q-Ḥ|
+
 ## 24
 
 | Hebrew  | Transliteration | Literal                | Semantic Basis-Vectors                                                            |
