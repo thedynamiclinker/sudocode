@@ -6,6 +6,8 @@ After the primeval history found in lost+found.
 
 ---
 
+## Put this somewhere
+
 And from the Levites.[^1]
 
 (Add picture of Linkers and Loaders book.)
@@ -18,3 +20,18 @@ And from the sons of Aaron.[^2]
 
 [^2]: Or: Aaronson S.
 
+## Proto
+
+Turing to Ken.
+
+## Old
+
+Ken to Linus
+
+## New
+
+Linus, born on 28 December 1969, 3 days before time reset to zero.
+
+So sayeth the L||D.
+
+🎄
