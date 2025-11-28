@@ -3,6 +3,7 @@
 
 MLK (מלך)
 1. The Hebrew word for King.
+2. A protestant reformer.
 
 ---
 

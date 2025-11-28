@@ -48,7 +48,7 @@ Genesis 7
 Genesis 8
 - As the world is draining from the flood, the ark comes to rest on top of a mountain roughly 3 months before the tops of the mountains appear. "And the ark rested in the seventh month, in the seventeenth day of the month, on the mountains of Ararat. And the water went on receding until the tenth month. In the tenth month, in the first of the month, the tops of the mountains appeared."
 - 8:20. God told Noah to bring two of every animal so they can survive. Then when they land and the Earth drains, this absolute barbarian Noah says thank you by extincting a couple species by sacrificing them as a thank you to the guy who asked to please keep them alive.
-- 8:21. And God smelled the delicious smell of species extincting, and God said to himself, "I won’t do the flood thing again to try to improve thing, because humans are just born shitty anyway."
+- 8:21. And God smelled the delicious smell of species extincting, and God said to himself, "I won’t do the flood thing again to try to improve things, because humans are just born shitty anyway."
 
 Genesis 9
 - Great, finally we've fixed the earth and only the pure humans are left.
