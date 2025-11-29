@@ -1,1 +1,1 @@
-Type: [[Blue]], [[Thing]], [[You]], [[See]], [[When]], [[You]], [[Look]] [[Up]]
+Type: [[Go]], [[Outside]], [[And]], [[Look]], [[Up]]

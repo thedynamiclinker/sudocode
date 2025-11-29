@@ -1,4 +1,3 @@
-
 The authors of this book are not religious, nor are we opposed in principle to it.
 
 What we are is developers.

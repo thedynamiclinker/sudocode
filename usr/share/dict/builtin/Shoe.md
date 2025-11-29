@@ -1,1 +1,1 @@
-Type: [[Foot]], [[Clothes]]
+Type: [[usr/share/dict/parts/Foot]], [[Clothes]]

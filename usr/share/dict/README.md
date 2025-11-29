@@ -1,6 +1,14 @@
+
+sudo. (verb)
+1. From Spanish, "I sweat" or "I perspire."
+
+code. (noun)
+1. From the Latin _codex_ (a book).
+
+---
 ## The Big LD Dict
 
-The Big LD Dict. (noun).
+The Big LD Dict. (noun, proper).
 1. a dictionary shaped like a codebase.
 2. a dictionary in which all non-atomic terms must be implemented.
 
@@ -17,14 +25,18 @@ Geopolitics
 - [[Israel]]
 - [[Greece]]
 - [[French]]
-- [[Communism]]
 
 Religion
 - [[God]]
 - [[Jesus]]
+- [[Christ]]
+- [[Buddhist]]
+- [[Voodoo]]
+- [[Hoodoo]]
 - [[usr/share/dict/religion/Bible|Bible]]
 - [[usr/share/dict/religion/Torah|Torah]]
 - [[YHWH]]
+- [[Communism]]
 
 Government
 - [[Bureaucrat]]
@@ -76,6 +88,7 @@ Anatomy
 - [[Brain]]
 - [[Penis]]
 - [[Vagina]]
+- [[Pussy]]
 - [[𓂺]]
 
 Fashion

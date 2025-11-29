@@ -46,7 +46,7 @@ Do me → [[lost+found/5/5]]
 - [ ] lost+found/4
 	- [x] 1
 	- [ ] 2 (non-tech: just needs minor polish)
-	- [ ] 3 (non-tech: just needs minor polish)
+	- [ ] 3 (semi-tech, almost done: this is 1 getting whiplash after lambda)
 	- [x] 4
 	- [ ] 5 (non-tech: sanatorium, death, and be done)
 

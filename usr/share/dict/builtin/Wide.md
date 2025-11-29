@@ -1,1 +1,1 @@
-Type: [[Size]], [[In]], [[Left]], [[Right]], [[Direction]]
+Type: [[Big]], [[Width]]

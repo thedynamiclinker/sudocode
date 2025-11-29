@@ -1,20 +1,19 @@
-## Alan Perlis
+epi. (prefix)
+1. From Greek ἐπί, "on top of, upon, near to, in addition".
 
-- Recipient of the first ever Turing Award, for work on the _Internal Translator_ in 1956, which Donald Knuth described as the first successful compiler.
-- Involved in the Whirlwind project in 1952.
-- Was a member of the team that developed ALGOL.
-- Wrote _Epigrams on Programming._
+pro. (prefix)
+1. From Latin, can function as a prefix or a standalone word. As a prefix, "pro-" means "forward," "forth," or "in front of."
 
-## Quotes
+gram. (noun)
+1. From the Greek _grámma_ ("a letter," "something written or drawn.")
 
-> _Is it possible that software is not like anything else, that it is meant to be discarded: that the whole point is to always see it as a soap bubble?_
-> -Alan J. Perlis
+program. (verb, noun)
+1. Late Latin from Greek _programma_, from _prographein_ "write publicly," from _pro_ "before" + _graphein_ "write."
 
-## Epigrams on Programming (1982)
+epigram. (noun)
+1. Late Middle English: from French _épigramme_, or Latin _epigramma_, from Greek, from _epi_ "upon, in addition."
 
-Source: [Epigrams on Programming](https://www.cs.yale.edu/homes/perlis-alan/quotes.html).
-
-Text:
+---
 
 1. One man's constant is another man's variable.
 
@@ -255,3 +254,15 @@ Text:
 119. Programming is an unnatural act.
 
 120. Adapting old programs to fit new machines usually means adapting new machines to behave like old ones.
+
+---
+
+From ACM's SIGPLAN publication, (September, 1982), Article "Epigrams in Programming", by Alan J. Perlis[^1][^2][^3][^4] of Yale University.
+
+[^1]: Recipient of the first ever Turing Award, for work on the _Internal Translator_ in 1956, which Donald Knuth described as the first successful compiler.
+
+[^2]: Involved in the Whirlwind project in 1952.
+
+[^3]: Was a member of the team that developed ALGOL.
+
+[^4]: Wrote _Epigrams on Programming._

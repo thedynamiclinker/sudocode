@@ -1,2 +1,2 @@
 Type: [[Good]], [[Book]]
-Type: [[Most]], [[Popular]], [[Meme]], [[Ever]]
+Type: [[Best]], [[Meme]], [[Ever]]

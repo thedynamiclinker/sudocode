@@ -1,1 +1,1 @@
-Type: [[Guess]], [[Before]], [[Thing]]
+Type: [[Predict]], [[Thing]]

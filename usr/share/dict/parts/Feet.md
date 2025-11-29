@@ -1,1 +1,1 @@
-Type: [[Multiple]], [[Foot]]
+Type: [[Multiple]], [[usr/share/dict/parts/Foot]]

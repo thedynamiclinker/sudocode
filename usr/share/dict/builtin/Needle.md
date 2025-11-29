@@ -1,1 +1,1 @@
-Type: [[Very]], [[Small]], [[Sharp]], [[dictionary/atomic/Stick|Stick]]
+Type: [[Very]], [[Small]], [[Sharp]], [[Stick]]

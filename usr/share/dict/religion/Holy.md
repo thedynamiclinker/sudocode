@@ -1,1 +1,1 @@
-Type: [[God]], [[Thing]]
+Type: [[Most]], [[Good]], [[Thing]]

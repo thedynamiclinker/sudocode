@@ -1,1 +1,1 @@
-Type: [[Goal]], [[Not]], [[Done]]
+Type: [[You]], [[Done]], [[But]], [[Goal]], [[Not]], [[Done]]
