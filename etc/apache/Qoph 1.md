@@ -27,8 +27,6 @@ unnameable, virginal, upon whom no one can call, and his female
 ιηουεαω
 ```
 
+---
 
-```sh
-~ # echo 'ΙΗΣΟΥΣ | ΓΡΕΠ ΑΩ' | grep -o '[ΑΕΗΙΟΥΩ]' | sed -Ez 's/(\n)(.)/\2/g'
-ΙΗΟΥΕΑΩ
-```
+The document ends here.
