@@ -1,6 +1,9 @@
 ![[sumerian-mountain-and-foreign-slave-girl.jpg]]
 
-> _The development of Sumerian Cuneiform, time axis moving left to right. First row is the sign for "mountain." Second row is the sign for "foreign slave girl."_
+> _The development of Sumerian Cuneiform,
+> time axis moving left to right.
+> First row is the sign for "mountain."
+> Second row is "foreign slave girl."_
 > -Paraphrased from a lecture by Irving Finkel
 
 ---
