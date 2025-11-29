@@ -1,5 +1,5 @@
 
-The Category Theoretic definition of J's original draft of Genesis 1, which is referenced in Psalms but was probably censored for being too unhinged and great.
+The Category Theoretic definition of J's original draft of Genesis 1, which is referenced in Psalms but was censored for being too unhinged and great.
 
 Definitions:
 
@@ -20,4 +20,4 @@ We also know the following about the output of the J map. For any input n:
 - J(n) is not entirely clear about whether YHWH is a "good guy", and moral ambiguity is pervasive.
 - J(n) loves puns on the name of Rehoboam, seems to be writing during his rein, and criticizes him from as many plausibly deniable directions as possible.
 
-Using that category theoretic definition, we can recover the following text using the methods of the Nus.
+Using that category theoretic definition, we can recover the following text, using the methods of the Nus.

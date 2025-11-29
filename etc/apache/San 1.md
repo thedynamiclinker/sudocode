@@ -355,4 +355,4 @@ else:
 
 1: Where were we?
 
-goto: [[The Omegas 2]]
+goto: [[Omega 2]]

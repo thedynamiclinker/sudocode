@@ -1,4 +1,4 @@
-## The Omegas 2
+## The Omegas
 
 0: We were covering this:
 

@@ -84,4 +84,4 @@
 
 1: HOLY F---
 
-goto: [[The Sigmas]]
+goto: [[Sigma 1]]

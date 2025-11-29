@@ -359,4 +359,4 @@
 
 1: _I UNDERSTAND OR!_
 
-goto: [[The Sans 1]]
+goto: [[San 1]]
