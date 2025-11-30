@@ -1,9 +1,29 @@
+
+---
+
+0: h ו h i
+1: hi hi?
+0: No, that was Yahweh.
+1: What was Yahweh?
+0: h ו h i
+1: how?
+0: This is hוו
+1: What?
+0: I said "This is how"
+1: You said "This is hii"
+0: That "ו" thing is "o" in Hebrew.
+1: Wouldn't that be "hoo"?
+0: It's also "w".
+1: ooh.
+
+---
+
 ![[sumerian-mountain-and-foreign-slave-girl.jpg]]
 
-> _The development of Sumerian Cuneiform,
-> time axis moving left to right.
-> First row is the sign for "mountain."
-> Second row is "foreign slave girl."_
+> _The development of Sumerian Cuneiform,_
+> _time axis moving left to right._
+> _First row is the sign for "mountain."_
+> _Second row is "foreign slave girl."_
 > -Paraphrased from a lecture by Irving Finkel
 
 ---
