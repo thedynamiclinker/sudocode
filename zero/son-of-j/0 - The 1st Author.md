@@ -73,6 +73,9 @@ write.
 
 ---
 
+> _And the snake was the slickest of the life of the wild._
+> -J, Gen 3:1, Ca. 950BC
+
 NHS. (נחש)
 - Snake.
 - Perhaps other meanings.
@@ -85,7 +88,6 @@ SNH. (שנה).
 ---
 
 ## NHS
-
 
 And the snake
 was the slickest

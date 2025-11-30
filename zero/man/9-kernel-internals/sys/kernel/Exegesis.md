@@ -10,7 +10,7 @@ In this file, we the Authors make our first attempt, from a developers perspecti
 We assume the following as given:
 
 - The authors of the bible were human. 
-- Therefore, both as regards their individual personalities, and as regards the cultures from which they came, we assume the authors of the bible possessed (at least on average) the attributes that have been documented in all known human cultures. For a list of these attributes, see [[Universals]].
+- Therefore, both as regards their individual personalities, and as regards the cultures from which they came, we assume the authors of the bible possessed (at least on average) the attributes that have been documented in all known human cultures. For a list of these attributes, see [[universals]].
 - By "on average," we mean that while individual human beings may lack, for example, empathy (in psychopathy) or theory of mind (in autism), on average in any group, most members will possess most human universals, both individually (as cognitive capacities) and culturally (as general features of the cultures to which they belong).
 
 Given these assumptions, we now proceed to our reverse engineering analysis of the bible data format.

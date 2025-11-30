@@ -1,16 +1,16 @@
-
 ## The lambdas as the underdogs
+
 - Hawking's "God Created the Integers" ends with Gödel and Turing but no Church.
-- A Madman Dreams of Turing Machines tells a magical semi-fictional story that focuses on Gödel and Turing but no Church.
+- A Madman Dreams of Turing Machines tells a magical semi-fictional story that focuses on Gödel and Turing but not Church.
 - There's a "The Annotated X" for Gödel and Turing but not Church.
-- Church is the underdog.
+- Church is the underdog, and has no legend of tragic death like the others.
 - Nobody, not Gödel, not Kleene, not even Church himself thought lambda definability was "enough" to capture all computing at first.
 - Basically all models of computation are equivalent anyway, so why care about The Lambdas?
-- The Lambdas are harder to understand.
-- The Lambdas are harder to use.
+- The Lambdas writing is harder to understand.
+- The Lambdas languages are harder to use.
 - The Lambdas don't naturally suggest hardware implementations like a binary machine model or include built-in natural numbers like recursive functions.
-- The Lambdas tend to have much more catastrophic bugs: inconsistencies in the case of Church and Curry's formalisms, which was never the case for Turing or Gödel since those systems didn't try to ALSO be logics.
-- The Lambdas, it appeared to many people for decades, are not a particularly useful part of our history.
+- The Lambdas tend to have much more catastrophic bugs: inconsistencies in the case of Church and Curry's formalisms, which was never the case for Turing or Gödel since those systems didn't try to _also_ be logics.
+- The Lambdas, it appeared to many people for decades, are not a particularly useful part of our field's history.
 - Faced with the lambdas, nobody understands.
 - The μs say: "Just do computing."
 - The Λs say: "Just do logic."

@@ -1,7 +1,19 @@
 
+---
+
+![[sumerian-mountain-and-foreign-slave-girl.jpg]]
+
+> _The development of Sumerian Cuneiform,_
+> _time axis moving left to right._
+> _First row is the sign for "mountain."_
+> _Second row is "foreign slave girl."_
+> -Paraphrased from a lecture by Irving Finkel
+
+---
+
 ## The Firmware
 
-Donald Brown's list of human universals
+Donald Brown's list of human universals.
 
 The following are found in every known human culture, past and present, from hunter gatherers to tech nerds.
 
