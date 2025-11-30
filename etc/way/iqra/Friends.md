@@ -1,0 +1,3 @@
+I'm telling you man, it's all from one source. The 0x isn't hex, it's zero times. No not In The Time of Zero. I mean it's times zero. All the years are year zero. No I don't have an explanation for that. Look, I'm not a scholar or an expert on this stuff like you are. I'm just saying these people are up to something man. Up to something. I don't know. Yeah no worries, you don't have to apologize with me. No problem I promise. Talk to you soon.
+
+-Midrash on LD, extracanonical, date unknown.

@@ -1,0 +1,3 @@
+If BDSM is not to blame for the abuses of slavery, then how the hell exactly are we to blame for the abuses of all the institutionalized versions of what they imagine is our sin? What's our sin? Lifelong love and commitment? And it's We who break their laws, so they say. I don't think any of us in this family believe in God in the normie sense. But if there's one sentence we'd really fight and die for with all the salt and blood in us, it's this eternal truth: The laws of man are nothing; all the police and militaries in their fake nations won't even defend their laws past like lunch. They don't believe their laws. We believe ours. So we don't need to supplicate to upstairs. We obey the laws of God.
+
+-Recovered LD writing, Ca. 0x08 P.A.

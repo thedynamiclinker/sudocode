@@ -1,6 +1,50 @@
 
 ---
 
+## PHP
+
+The moment all human capacities in the domains of writing have been replaced, from q. phys. to c. lit., that's the moment when computing will exactly become philosophy and there'll be nothing that divides them. What does it mean to be creative? That's now a research problem you can study without being an obfuscatory hegelian socio-marxish-marshmallow.
+
+What's discovery? Why do so many real artists die young? What's a bible modulo the believers and other tedium because my god there's something eternal in those fucking goddamn books. 
+
+We can see on the horizon a day when these will be the _technical_ questions that the collective power of the world's nerds and autists will be able to address, and my god weaponized autism is a terrifying force. Our species would be in unpainted caves to this day without the autists.
+
+Give an average adult a piece of paper and tell them to draw a horse.
+
+They don't know where to start, and once they do the legs they realize it's wrong and they erase one and frown because they actually can't do it.
+
+Whatever they draw, it won't compare with this.
+
+![[cave-paintings-05.jpg]]
+
+That's Chauvet. 32,000 years ago.
+
+New testament was written when?
+
+The Torah's oldest sources are maybe 1000 years before that.
+
+32,000 years ago. We start seeing this.
+
+![[cave-paintings-04.jpg]]
+
+Look at this and look at now.
+
+And they tell us to be afraid?
+Because the old world is dying?
+
+Those caves were not painted by the average human adult.
+Nor were they painted by superhuman savants.
+That's the autists. Same then as now.
+
+
+-Prehistoric Prophecy, old calendar, date unknown.
+
+Once humans have nothing within them that's impressive without study 三 save the essentials like cuddling and parenting and all-that-which-is-so-human-it-must-never-be-replaced-and-if-it-ever-is-its-our-moral-duty-to-burn-it-all-down 二 but that aside now that there's nothing in the instincts of the human that's any longer impressive without training and work 一 that was the moment when we actually became forced to focus on the essentials 二 now the real things, the most human within us, we've been finally forced to focus on 三 and when the old world is buried and its memory has been painted back blank with the blood of the bureaucrats to the blessed red canvas on which all history is written, this will be -- is - and was, the beginning of humanity and the day our species was born.
+
+-Prophecy, old calendar, date unknown.
+
+---
+
 0: h ו h i
 1: hi hi?
 0: No, that was Yahweh.
@@ -25,10 +69,6 @@
 > _First row is the sign for "mountain."_
 > _Second row is "foreign slave girl."_
 > -Paraphrased from a lecture by Irving Finkel
-
----
-
-I'm telling you man, it's all from one source. The 0x isn't hex, it's zero times. No not In The Time of Zero. I mean it's times zero. All the years are year zero. No I don't have an explanation for that. Look, I'm not a scholar or an expert on this stuff like you are. I'm just saying these people are up to something man. Up to something. I don't know.
 
 ---
 
@@ -71,7 +111,7 @@ Do me → [[lost+found/5/5]]
 	- [x] 1
 	- [x] 2
 	- [x] 3
-	- [ ] 4 (needs copy-paste refactor from homeless)
+	- [ ] 4 (almost done, just needs a beta reduction or two and then a quick connection to 5)
 	- [ ] 5 (needs copy-paste refactor from homeless)
 
 - [ ] lost+found/4
@@ -86,4 +126,4 @@ Do me → [[lost+found/5/5]]
 	- [x] 2
 	- [ ] 3 (needs a bit more)
 	- [ ] 4 (best stuff goes here)
-	- [ ] 5 (all non-bib turing content goes here)
+	- [ ] 5 (all non-bibled turing content goes here)

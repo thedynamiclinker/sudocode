@@ -1,4 +1,14 @@
 
+---
+
+Handbook. (noun)
+- Book of 𐤉.
+
+J. (Heb)
+- Historical defective spelling of the Author named 𐤉.
+
+---
+
 > I speak of a character who is no one,
 > Of a boy called a healer from birth.
 > And whose name was not written.
