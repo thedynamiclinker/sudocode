@@ -14,7 +14,9 @@
     "hide-properties",
     "font-mono",
     "font-serif",
-    "font-size"
+    "font-size",
+    "proto-sinaitic",
+    "proto"
   ],
   "textFontFamily": "",
   "interfaceFontFamily": "",
