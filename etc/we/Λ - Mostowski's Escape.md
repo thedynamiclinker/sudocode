@@ -1,4 +1,5 @@
-## Reminiscences - The War
+## Reminiscences of Logicians
+
 
 ![[reminiscences-of-logicians-042.jpg]]
 

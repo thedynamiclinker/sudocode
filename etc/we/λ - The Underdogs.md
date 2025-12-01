@@ -1,4 +1,4 @@
-## The lambdas as the underdogs
+## The λs as the underdogs
 
 - Hawking's "God Created the Integers" ends with Gödel and Turing but no Church.
 - A Madman Dreams of Turing Machines tells a magical semi-fictional story that focuses on Gödel and Turing but not Church.

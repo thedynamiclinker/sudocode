@@ -1,4 +1,4 @@
-## Reminiscences of Logicians: Logician Suspicion
+## Reminiscences of Logicians
 
 
 ![[reminiscences-of-logicians-059.jpg]]

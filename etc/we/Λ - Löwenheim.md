@@ -1,4 +1,5 @@
-## Reminiscences - Löwenheim
+## Reminiscences of Logicians
+
 
 ![[reminiscences-of-logicians-038.jpg]]
 
