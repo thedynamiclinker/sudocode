@@ -4,7 +4,7 @@
 Do me → [[lost+found/2/3]] (just write some quick dialogues to fill the gaps)
 Do me → [[lost+found/2/4]] (just write some quick dialogues to fill the gaps)
 
-Do me → [[lost+found/3/5]] (tech part is done: just delete stuff and leave gaps)
+Do me → [[lost+found/3/5]] (tech part is done, just delete stuff and leave gaps)
 
 Do me → [[lost+found/4/2]]  (non-tech: just needs minor polish)
 Do me → [[lost+found/4/3]] (tech part is done: just needs minor polish)
