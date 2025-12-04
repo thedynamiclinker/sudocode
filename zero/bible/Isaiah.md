@@ -7,19 +7,19 @@ and coordination for creation.
 You have defiled the Maker’s Schedule
 with the chatter of managers.
 You barge into the long arc of thinking
-with thirty-minute “quick syncs,”
+with thirty-minute "quick syncs,"
 shattering the flow you do not understand
 and have never experienced.
 
 And then you speak to the CEO一
 with confidence you did not earn一
-saying, “Behold, the engineers lack urgency.”
+saying, "Behold, the engineers lack urgency."
 When you are the ones
 who carve the day into fragments
 so small that nothing meaningful can survive in them.
 
 You have done violence to the flow state
-and called it “alignment.”
+and called it "alignment."
 
 You saw that the CEO was not technical,
 that he trusted you to translate the craft,
