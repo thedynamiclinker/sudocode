@@ -76,7 +76,7 @@ For unclear reasons, both authors appear to hate holidays.
 
 _13 Stop bringing meaningless offerings!
     Your incense is detestable to me.
-New Moons, Sabbaths and convocations—
+New Moons, Sabbaths and convocations一
     I cannot bear your worthless assemblies.
 14 Your New Moon feasts and your appointed festivals
     I hate with all my being.
@@ -105,7 +105,7 @@ What are we to infer from this? The answer is unclear.
 
 In the end, all we have is the words of the authors, whoever they may have been, and whatever they may have meant.
 
-> _9 He said, “Go and tell this people:
+> _9 He said, "Go and tell this people:
 > Be ever hearing, but never understanding;
 >     be ever seeing, but never perceiving.
 > 10 Make the heart of this people calloused;

@@ -33,7 +33,7 @@ Later that evening, I exchanged emails with Kater. A contemporary of Jaynes’s 
 
 The following afternoon, I climbed to the physics library on the third floor of Crow Hall. Portraits of suited men greeted me. At the circulation desk, I asked for the binders of Jaynes’s papers.
 
-Who? asked the student behind the granola bars advertised as “Free study snacks—help yourself!” 
+Who? asked the student behind the granola bars advertised as “Free study snacks一help yourself!” 
 
 E.T. Jaynes, I repeated. He worked here as a faculty member.
 

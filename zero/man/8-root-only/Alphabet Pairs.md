@@ -1,7 +1,7 @@
 ## Alphabet
 
 ab
-- 𐎀 (ʾa) + 𐎁 (b). From Proto-Semitic ʾab-, meaning "father." It’s one of the oldest and most stable words in Semitic languages - appearing across Northwest and East Semitic branches with almost no phonetic change. In Ugaritic texts, ʾab appears frequently in divine titles such as ʾab šnm (“Father of Years”) referring to the god El, the high god and patriarch of the pantheon. It could denote both literal and figurative paternity — e.g., “ancestor,” “creator,” or “chief.”
+- 𐎀 (ʾa) + 𐎁 (b). From Proto-Semitic ʾab-, meaning "father." It’s one of the oldest and most stable words in Semitic languages - appearing across Northwest and East Semitic branches with almost no phonetic change. In Ugaritic texts, ʾab appears frequently in divine titles such as ʾab šnm (“Father of Years”) referring to the god El, the high god and patriarch of the pantheon. It could denote both literal and figurative paternity 一 e.g., “ancestor,” “creator,” or “chief.”
 
 cd
 - Unix, for change directories.

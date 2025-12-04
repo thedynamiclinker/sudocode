@@ -243,9 +243,9 @@ There was the lambda calculus
 _(Narrator: The document now continues, in a slightly different voice.)_
 
 ```
-Church’s student Kleene proved the equivalence of the lambda calculus and the recursive functions. Church himself, by diagonalization, showed the undecidability of whether a lambda expression has a normal form. Gödel, however, wasn’t convinced that this was a general model of computation—that the _Entscheidungsproblem_ had really been solved. But when Turing came along and showed the equivalence between Turing machines, the lambda calculus, and recursive functions, then Gödel was convinced. To Gödel, the Turing machine _looked like_ what computation really is—and therefore, if that model was adequate, then the lambda calculus and the recursive functions must be as well. Gödel said as much at the time, and repeated it in lectures a decade or two later.
+Church’s student Kleene proved the equivalence of the lambda calculus and the recursive functions. Church himself, by diagonalization, showed the undecidability of whether a lambda expression has a normal form. Gödel, however, wasn’t convinced that this was a general model of computation一that the _Entscheidungsproblem_ had really been solved. But when Turing came along and showed the equivalence between Turing machines, the lambda calculus, and recursive functions, then Gödel was convinced. To Gödel, the Turing machine _looked like_ what computation really is一and therefore, if that model was adequate, then the lambda calculus and the recursive functions must be as well. Gödel said as much at the time, and repeated it in lectures a decade or two later.
 
-In Turing’s second year at Princeton he completed his Ph.D. thesis, _Systems of Logic Based on Ordinals_. On the first page, he explains the lambda calculus pretty much the way we would today—and, of course, one reason we might still need to explain it is that so many people working in computability theory have since forgotten their lambda calculus.
+In Turing’s second year at Princeton he completed his Ph.D. thesis, _Systems of Logic Based on Ordinals_. On the first page, he explains the lambda calculus pretty much the way we would today一and, of course, one reason we might still need to explain it is that so many people working in computability theory have since forgotten their lambda calculus.
 ```
 
 

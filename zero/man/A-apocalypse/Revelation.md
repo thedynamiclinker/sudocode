@@ -100,7 +100,7 @@ L
 - Sixth seal: I watched as he opened the sixth seal. There was a great earthquake. The sun turned black like sackcloth made of goat hair, the whole moon turned blood red, 13 and the stars in the sky fell to earth, as figs drop from a fig tree when shaken by a strong wind. 14 The heavens receded like a scroll being rolled up, and every mountain and island was removed from its place.
 7:
 - 12 of the 12s.
-- Then one of the elders asked me, “These in white robes—who are they, and where did they come from?” 14 I answered, “Sir, you know.”
+- Then one of the elders asked me, "These in white robes一who are they, and where did they come from?" 14 I answered, "Sir, you know."
 - Note: 7 is 12 in base 5. Do some base 5 encodings.
 - In base 5, Rev 22 is Rev 42.
 - 5 is also 101 or lol.
@@ -109,7 +109,7 @@ L
 - When he opened the seventh seal, there was silence in heaven for about half an hour.
 - The first angel sounded his trumpet, and there came hail and fire mixed with blood, and it was hurled down on the earth. A third of the earth was burned up, a third of the trees were burned up, and all the green grass was burned up.
 - The second angel sounded his trumpet, and something like a huge mountain, all ablaze, was thrown into the sea. A third of the sea turned into blood, 9 a third of the living creatures in the sea died, and a third of the ships were destroyed.
-- The third angel sounded his trumpet, and a great star, blazing like a torch, fell from the sky on a third of the rivers and on the springs of water— 11 the name of the star is Wormwood. A third of the waters turned bitter, and many people died from the waters that had become bitter.
+- The third angel sounded his trumpet, and a great star, blazing like a torch, fell from the sky on a third of the rivers and on the springs of water一 11 the name of the star is Wormwood. A third of the waters turned bitter, and many people died from the waters that had become bitter.
 
 Note: 1/3 in binary is 101010101010101 forever. Infinite lololololol.
 
@@ -160,7 +160,7 @@ Note: 1/3 in binary is 101010101010101 forever. Infinite lololololol.
 - babylon the great
 - the mother of prostitutes
 - and of the abominations of the earth.
-- When I saw her, I was greatly astonished. 7 Then the angel said to me: “Why are you astonished? I will explain to you the mystery of the woman and of the beast she rides, which has the seven heads and ten horns. 8 The beast, which you saw, once was, now is not, and yet will come up out of the Abyss and go to its destruction. The inhabitants of the earth whose names have not been written in the book of life from the creation of the world will be astonished when they see the beast, because it once was, now is not, and yet will come.
+- When I saw her, I was greatly astonished. 7 Then the angel said to me: "Why are you astonished? I will explain to you the mystery of the woman and of the beast she rides, which has the seven heads and ten horns. 8 The beast, which you saw, once was, now is not, and yet will come up out of the Abyss and go to its destruction. The inhabitants of the earth whose names have not been written in the book of life from the creation of the world will be astonished when they see the beast, because it once was, now is not, and yet will come.
 - "This calls for a mind with wisdom. The seven heads are seven hills on which the woman sits."
 - "The ten horns you saw are ten kings who have not yet received a kingdom, but who for one hour will receive authority as kings along with the beast. 13 They have one purpose and will give their power and authority to the beast."
 

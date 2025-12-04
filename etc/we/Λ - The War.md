@@ -1,5 +1,6 @@
 ## Reminiscences of Logicians
 
+### Or: Mostowski's Escape
 
 ![[reminiscences-of-logicians-042.jpg]]
 

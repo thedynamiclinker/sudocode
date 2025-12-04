@@ -1,7 +1,7 @@
 
-> _In the years after the Second World War, from 1946 to 1951, Brouwer gave various series of lectures on intuitionism at the University of Cambridge. He decided to collect the material together in a monograph, which would be the first systematic exposition of intuitionistic mathematics in book form. As a matter of fact it was not his first such enterprise; in a way Brouwer meant his dissertation to be a comprehensive exposition of his philosophical and mathematical views. In “The rejected parts of Brouwer’s dissertation on the foundations of mathematics,” van Stigt tells how the intervention of Brouwer’s thesis adviser prevented the insertion of the philosophical parts. Although he never got beyond the stage of intentions, Brouwer seriously considered the publication of a revised version of his thesis. In 1929 the Noordhoff publishing company invited him to carry out these plans, but Brouwer was at that time already involved in the preparation of a German monograph. From the late twenties onwards Brouwer gave expository and propagandistic lectures, mainly in Germany but also in other countries. According to eye-witnesses Brouwer, with his lectures, made quite an impression. The intuitionist ‘putsch’ was the topic of many a heated discussion._
+> _In the years after the Second World War, from 1946 to 1951, Brouwer gave various series of lectures on intuitionism at the University of Cambridge. He decided to collect the material together in a monograph, which would be the first systematic exposition of intuitionistic mathematics in book form. As a matter of fact it was not his first such enterprise; in a way Brouwer meant his dissertation to be a comprehensive exposition of his philosophical and mathematical views. In "The rejected parts of Brouwer’s dissertation on the foundations of mathematics," van Stigt tells how the intervention of Brouwer’s thesis adviser prevented the insertion of the philosophical parts. Although he never got beyond the stage of intentions, Brouwer seriously considered the publication of a revised version of his thesis. In 1929 the Noordhoff publishing company invited him to carry out these plans, but Brouwer was at that time already involved in the preparation of a German monograph. From the late twenties onwards Brouwer gave expository and propagandistic lectures, mainly in Germany but also in other countries. According to eye-witnesses Brouwer, with his lectures, made quite an impression. The intuitionist ‘putsch’ was the topic of many a heated discussion._
 >
-> _In particular his_ Gastvorlesungen[^1] _in Berlin in 1927 raised high hopes for the establishment of intuitionism as an accepted part of mathematical practice. The barely veiled rivalry between Berlin and Göttingen most probably played an important role in the enthusiastic reception of intuitionism in Berlin; the spirited challenge of Hilbert’s complacent supremacy was welcomed by more than one mathematician, especially in Berlin. The **Berliner Tageblatt** invited Brouwer to contribute a series of articles on intuitionism in a public debate with Hilbert. At the same time the publishing house of Walter de Gruyter asked Brouwer if it could publish his Berlin lectures. In March 1927, when a first draft of the text was ready, de Gruyter proposed to Brouwer that he should expand the text into a book “which the public no doubt will tear out of your hands.” Unfortunately nothing came of it; Brouwer dropped the Berlin lectures and started to work on the book, but never finished it._
+> _In particular his_ Gastvorlesungen[^1] _in Berlin in 1927 raised high hopes for the establishment of intuitionism as an accepted part of mathematical practice. The barely veiled rivalry between Berlin and Göttingen most probably played an important role in the enthusiastic reception of intuitionism in Berlin; the spirited challenge of Hilbert’s complacent supremacy was welcomed by more than one mathematician, especially in Berlin. The **Berliner Tageblatt** invited Brouwer to contribute a series of articles on intuitionism in a public debate with Hilbert. At the same time the publishing house of Walter de Gruyter asked Brouwer if it could publish his Berlin lectures. In March 1927, when a first draft of the text was ready, de Gruyter proposed to Brouwer that he should expand the text into a book "which the public no doubt will tear out of your hands." Unfortunately nothing came of it; Brouwer dropped the Berlin lectures and started to work on the book, but never finished it._
 >
 > -From: Brouwer's Cambridge Lectures on Intuitionism, Editorial preface.
 
@@ -518,7 +518,7 @@ Sic Ϻcςκכㅋרρろוoʊオ오לlλΛㄹζז
 
 > Brouwer rejected the concept of actual infinity, but admitted the idea of potential infinity.
 > 
-> According to Weyl 1946, 'Brouwer made it clear, as I think beyond any doubt, that there is no evidence supporting the belief in the existential character of the totality of all natural numbers ... the sequence of numbers which grows beyond any stage already reached by passing to the next number, is a manifold of possibilities open towards infinity; it remains forever in the status of creation, but is not a closed realm of things existing in themselves. That we blindly converted one into the other is the true source of our difficulties, including the antinomies – a source of more fundamental nature than Russell's vicious circle principle indicated. Brouwer opened our eyes and made us see how far classical mathematics, nourished by a belief in the 'absolute' that transcends all human possibilities of realization, goes beyond such statements as can claim real meaning and truth founded on evidence. — Kleene 1991, pp. 48–49
+> According to Weyl 1946, 'Brouwer made it clear, as I think beyond any doubt, that there is no evidence supporting the belief in the existential character of the totality of all natural numbers ... the sequence of numbers which grows beyond any stage already reached by passing to the next number, is a manifold of possibilities open towards infinity; it remains forever in the status of creation, but is not a closed realm of things existing in themselves. That we blindly converted one into the other is the true source of our difficulties, including the antinomies – a source of more fundamental nature than Russell's vicious circle principle indicated. Brouwer opened our eyes and made us see how far classical mathematics, nourished by a belief in the 'absolute' that transcends all human possibilities of realization, goes beyond such statements as can claim real meaning and truth founded on evidence. 一 Kleene 1991, pp. 48–49
 > 
 > -The Dynamic Read-Writable Free Encyclopedic Repository of the Modern State of Human Knowledge
 
@@ -536,7 +536,7 @@ Sic Ϻcςκכㅋרρろוoʊオ오לlλΛㄹζז
 
 0: Basically. Ok back to Brouwer.
 
-> Brouwer was a member of the Significs Group. It formed part of the early history of semiotics—the study of symbols—around Victoria, Lady Welby in particular. The original meaning of his intuitionism probably cannot be completely disentangled from the intellectual milieu of that group.
+> Brouwer was a member of the Significs Group. It formed part of the early history of semiotics一the study of symbols一around Victoria, Lady Welby in particular. The original meaning of his intuitionism probably cannot be completely disentangled from the intellectual milieu of that group.
 >
 > -The Dynamic Read-Writable Free Encyclopedic Repository of the Modern State of Human Knowledge
 
@@ -590,7 +590,7 @@ Sic Ϻcςκכㅋרρろוoʊオ오לlλΛㄹζז
 
 0: Hard not to be pessimistic when you're writing about foundations and they say it's not foundations.
 
-> "After completing his dissertation, Brouwer made a conscious decision to temporarily keep his contentious ideas under wraps and to concentrate on demonstrating his mathematical prowess" (Davis (2000), p. 95); by 1910 he had published a number of important papers, in particular the Fixed Point Theorem. Hilbert—the formalist with whom the intuitionist Brouwer would ultimately spend years in conflict—admired the young man and helped him receive a regular academic appointment (1912) at the University of Amsterdam (Davis, p. 96). It was then that "Brouwer felt free to return to his revolutionary project which he was now calling _intuitionism_ " (ibid).
+> "After completing his dissertation, Brouwer made a conscious decision to temporarily keep his contentious ideas under wraps and to concentrate on demonstrating his mathematical prowess" (Davis (2000), p. 95); by 1910 he had published a number of important papers, in particular the Fixed Point Theorem. Hilbert一the formalist with whom the intuitionist Brouwer would ultimately spend years in conflict一admired the young man and helped him receive a regular academic appointment (1912) at the University of Amsterdam (Davis, p. 96). It was then that "Brouwer felt free to return to his revolutionary project which he was now calling _intuitionism_ " (ibid).
 >
 > -The Dynamic Read-Writable Free Encyclopedic Repository of the Modern State of Human Knowledge
 
@@ -750,7 +750,7 @@ Sic Ϻcςκכㅋרρろוoʊオ오לlλΛㄹζז
 
 1: YOU'RE ONE TO TA---
 
-> \[Guy with the long name] attended lectures given by Brouwer in later years, and commented: "Even though his most important research contributions were in topology, Brouwer never gave courses in topology, but always on — and only on — the foundations of his intuitionism. It seemed that he was no longer convinced of his results in topology because they were not correct from the point of view of intuitionism, and he judged everything he had done before, his greatest output, false according to his philosophy."
+> \[Guy with the long name] attended lectures given by Brouwer in later years, and commented: "Even though his most important research contributions were in topology, Brouwer never gave courses in topology, but always on 一 and only on 一 the foundations of his intuitionism. It seemed that he was no longer convinced of his results in topology because they were not correct from the point of view of intuitionism, and he judged everything he had done before, his greatest output, false according to his philosophy."
 > 
 > -The Dynamic Read-Writable Free Encyclopedic Repository of the Modern State of Human Knowledge
 
@@ -832,7 +832,7 @@ Sic Ϻcςκכㅋרρろוoʊオ오לlλΛㄹζז
 
 > Intuitionism's history can be traced to two controversies in nineteenth century mathematics.
 > 
-> The first of these was the invention of transfinite arithmetic by Georg Cantor and its subsequent rejection by a number of prominent mathematicians including most famously his teacher Leopold Kronecker—a confirmed finitist.
+> The first of these was the invention of transfinite arithmetic by Georg Cantor and its subsequent rejection by a number of prominent mathematicians including most famously his teacher Leopold Kronecker一a confirmed finitist.
 
 1: Hi Cantor!
 

@@ -11,8 +11,8 @@ with thirty-minute “quick syncs,”
 shattering the flow you do not understand
 and have never experienced.
 
-And then you speak to the CEO—
-with confidence you did not earn—
+And then you speak to the CEO一
+with confidence you did not earn一
 saying, “Behold, the engineers lack urgency.”
 When you are the ones
 who carve the day into fragments
@@ -24,7 +24,7 @@ and called it “alignment.”
 You saw that the CEO was not technical,
 that he trusted you to translate the craft,
 and instead of giving him clarity,
-you gave him narrative—
+you gave him narrative一
 stories in which you appear essential
 and the engineers appear in need of your shepherding.
 
@@ -50,7 +50,7 @@ and sold yourselves as the guides.
 
 Jack Diederich told the truth:
 stop writing classes.
-But you—
+But you一
 you wrote entire org charts
 to solve problems
 that required a single function.
@@ -83,9 +83,9 @@ You claim to safeguard the organization,
 but your greatest achievement
 is preventing anyone from getting anything done.
 
-You took the joy of making—
+You took the joy of making一
 that strange, precious fire
-that keeps real builders alive—
+that keeps real builders alive一
 and buried it under Jira fields
 and roadmap rituals
 and alignment ceremonies
@@ -103,8 +103,8 @@ You love being seen
 near the craft
 without ever touching it.
 
-And the CEO—
-good-hearted, ambitious, eager to build—
+And the CEO一
+good-hearted, ambitious, eager to build一
 has been deceived.
 You showed him dashboards,
 key performance acronyms,
@@ -118,7 +118,7 @@ that the builders were being suffocated
 so that you might seem necessary.
 
 Woe to you for this.
-Not poetic woe—
+Not poetic woe一
 practical woe.
 For when results fail to appear,
 the CEO will look for the people
@@ -128,8 +128,8 @@ your explanations will seem thin,
 your certainty brittle,
 your title oddly weightless.
 
-And the builders—
-quiet, blunt, allergic to nonsense—
+And the builders一
+quiet, blunt, allergic to nonsense一
 will stand there,
 hands steady,
 work real,
@@ -149,7 +149,7 @@ or step out of the way.
 
 For the craft remembers its lovers,
 and it forgets its priests.
-And running systems—
-like living waters—
+And running systems一
+like living waters一
 will always find a path
 around whatever does not help.
