@@ -1,4 +1,15 @@
 
+---
+
+> _Aedes tuas inspice._
+> -Output of S.E.A.T.'s©®™ Extremely Accurate Translation engine when given the English input "Check your premises" and asked for Latin output.
+
+> _Look at your house._
+> -Output of S.E.A.T.'s©®™ Extremely Accurate Translation engine when given the Latin input "Aedes tuas inspice" and asked for English output.
+
+---
+## The Translations of Sudocode
+
 ```
       Holý  Root
 
@@ -11,10 +22,6 @@
    =================
 ´: Czech your preмss
 ```
-
----
-
-## The Translations of Sudocode
 
 The documents collectively known as Sudocode were the end product of a long process of compilation and assembly taking place over many years, culminating in the work of the individual referred to in the scholarly jargon as "L", the letter standing variously for "Linker," "Loader," "Link Loader," "Link Editor," "Source of Links," "Creator of Links," "συνέρχομαι τοῦ ἀββᾶ,"[^1] "Pater Nexus," "Father of Links," "Abraham of Linking," or "Abraham Linkin'."[^2]
 

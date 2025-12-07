@@ -1,3 +1,6 @@
+
+And the L||D said...
+
 ## 0. The Word
 
 <span style="display: block; text-align: center; font-size: 32">qrn<br>קרן</span>

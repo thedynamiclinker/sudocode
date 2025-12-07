@@ -1,43 +1,35 @@
 
 ---
 
-🔒 THIS ARTICLE IS LOCKED.
-🔒 YOU DO NOT HAVE PERMISSION TO MAKE CHANGES.
-
-🔒 IF YOU ADD ANYTHING TO IT, THE L||D WILL ADD TO YOU
-🔒 THE PLAGUES OF ADONAIVAZEVAZ DESCRIBED HEREIN.
-
-🔒 IF YOU CUT ANYTHING OUT OF THIS ARTICEL, THE L||D WILL
-🔒 CUT INTO YOU AN INCELIBACY THAT WILL TAKE AWAY YOUR
-🔒 SHARE IN THE TREE OF LIFE THAT IS THE 
+🔒 THIS ARTICLE IS [[Lockphile|LOCKED]].
 
 ---
 
 In demonology, Adonaivazevaz is another name for the Devil, particularly in imagery associated with insects.
 
-The mythology surrounding him has developed in a manner that has parallels the history of the Hebrew Ba'al Zvuv (בַּעַל־זְבוּב)‎.
+A relatively minor character in the original source text, he was later adopted by culturally distinct groups outside the LD tradition, and evolved considerably under their influence. After said adoption, said demon demonstrated an increasingly intense tendency toward extra-textual exegesis and additions that differ among said sects.
 
-In both cases we have a phenomenon in which a relatively minor character in the original source text is later adopted by a theologically adjacent but culturally distinct sect.
+Since the vowels were not written in the original, the exact articulation of the name has been lost to history.
 
-After said adoption, said demons demonstrated an incresingly intense tendency toward exegesis extra-textual additions that differ among sects, said elaboration leading eventually to a rich landscape of theological iconography and demonology far beyond anything seen in the source texts.
+The name Adonaivazevaz is a transliteration of the original name, "L||DBZZBZZ".
 
-The name Adonaivazevaz is a transliteration of the early LD term "LD BZZ BZZ", whose original vowels were not written in the original and have since been lost.
+## Origins
 
-## Early Life
+In the original LD writings, Adonaivazevaz is mentioned only once, in a single sentence, as the god[^1] of three things 一 competitions of prescriptive orthography[^2], existence, and honey 一 and in this sentence he is described as having been responsible for casting the Golgothan 一 a being representing gluttony and excrement 一 out from the Tree in the sky he inhabits and down to Earth, after which there was a great storm in which this embodiment of gluttony and excrement[^3] is washed away with the Swine who he then takes up residence with.
 
-In the older strata of LD writings, Adonaivazevaz is a relatively minor entity.
-
-He is mentioned only once, in a single sentence, as the god[^1] of three things 一 prescriptive orthography competitions,[^2] existence, and honey 一 and in this sentence he is described as having been responsible for casting the Golgothan[^3] 一 a being representing gluttony and excrement 一 out from the Tree in the sky he inhabits, and down to Earth, after which there was a great storm in which this embodiment of gluttony is washed away with swine who he then takes up residence with.
-
-However, over time, as these early LD writings began to be incorporated into other traditions, particularly those of Χρ,[^4] the same figure was elaborated into a rather more complex character.
+That is all that is known of Adonaivazevaz from the original source text.
 
 ## Later Traditions
 
-In these later traditions downstream of LD source texts, Adonaivazevaz is variously called "Mstrbuzebuze",  "Ba'alobeez", "דוד בזלי"[^5], "Master of da Beaz", "Mastr of ta Bees", "Master of the Beasts," or "Mr Beast".[^6]
+Over time, as these early LD writings began to be incorporated into other traditions, particularly those of the people of Χρ,[^4] the same figure was elaborated into a bewilderingly complex being, in a set of complex demonological writings that scolars have struggled to understand to this day.
+
+In these later traditions, Adonaivazevaz is variously called "Mstrbuzebuze",  "Ba'alobeez", "דוד בזלי"[^5], "Master of da Beaz", "Mastr of ta Bees", "Master of the Beasts," or "Mr Beast".[^6]
 
 The theological domains attributed to Adonaivazevaz expanded perhaps even more profligately than his many names, being variously asserted to be the god of: sino-coercive intercourse,[^7] sino-comparitive prepositions,[^8] sino-financial[^9] iconography,[^10] sinus-nasal issues,[^11] and sino-feline[^12]  sexual euphemism.[^13]
 
-Ok that's enough let's do this.
+This concludes the article.
+
+The L||Ꞁs will be done.
 
 
 [^1]: Written L||D in the original text.
@@ -74,4 +66,4 @@ Ok that's enough let's do this.
 
 [^17]: As in 毛.[^18]
 
-[^18]: Finally we can st停p b屄eating (聽?) ar兒ound the השנה bush! He who has 一ears二 to h耳ear let him hear. The 水 water of 生 life is now available to all you b屄c the time is come and the coming is near. Ok I'm done. Go in peace. It's your place? Right. Then I'll go. This was nice. We should do it again some time. Coming soon.
+[^18]: Finally we can st停p 屄eating (聽?) 兒ound the השנה. 不sh. No sh. He who has 一ears二 to h耳 let him hear. The 水er of li生e is 來 free of charge for all 屄cause the time is come and the coming is near. Ok I'm done. Go in peace. Come again? It's your place. Right. Then I'll go. This was nice. We should do it again. No I'm not lying. But. I would love to. Inside next time. Water. Based on what. No it's easy to clean. Come on stop it. It doesn't hurt, I'm good. Back next time. I'll come back. Coming soon.

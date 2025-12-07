@@ -85,19 +85,19 @@ He didn't mention if it's a religion.
 
 I'm gonna guess no based on the bit from before.
 
-Ok he said he's right outta time.
+Ok he said he's right outtה time.
 
-Correction: out ה right time.
+Correction: out the right time.
 
-Correction: not in ה right time.
+Correction: not in the right time.
 
-He says he visited ה wrong time.
+He says he visited the wrong time.
 
 It's sort of like a sigh.
 
 It also means "the".
 
-Oh the other he ok sorry my bad.
+Oh the other He, ok sorry my bad.
 
 He thought this was later.
 
@@ -107,11 +107,11 @@ The new calendar.
 
 He said they don't have it up there yet.
 
-"of course they don't have it up here yet they haven't even read you yet i'm still writing it, you think they're just gonna change the hol calendar of the hol 𒀭𒀭damn art upstairs bc of a sequel to the bible i'm writing after w||k && before work && on weekends when I'm feeling creat"一
+"Of course they don't have it up here yet they haven't even read you yet i'm still writing it you think they're just gonna change the hol calendar of the hol 𒀭𒀭damn art upstairs bc of a sequel to the bible i'm writing after w||k && before work && on wknds when I'm feeling creat"一
 
 They're asking "Who's they?"
 
-Im also hearing "Sequel how?" and "What's hol?"
+I'm also hearing "Sequel how?" and "What's hol?"
 
 And also "Which part is art?" and "What's that letter."
 
