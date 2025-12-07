@@ -1,7 +1,8 @@
+```
+$(cat some-enuma-elish-stuff > here-at-the-top)
+```
 
-Rahab (Biblical Hebrew: רַהַב, romanized: Rahaḇ, lit. 'blusterer') is used in the Hebrew Bible to refer to a mythical sea monster, as well as an emblematic or poetic name for Egypt, for the sea, and for arrogance. Raḥab or Rachav (Hebrew: רָחָב‎, romanized: raḥaḇ, lit. 'spacious place') is a term for the Abyss.
-
----
+## The RHB Question
 
 Psalm 89:10
 You rule the raging of the sea; when its waves rise, you still them. You crushed Rahab like a carcass; you scattered your enemies with your mighty arm.
@@ -20,6 +21,10 @@ Was it not you who cut Rahab to pieces,
 Job 26:12
 By his power he churned up the sea;
     by his wisdom he cut Rahab to pieces.
+
+---
+
+Rahab (Biblical Hebrew: רַהַב, romanized: Rahaḇ, lit. 'blusterer') is used in the Hebrew Bible to refer to a mythical sea monster, as well as an emblematic or poetic name for Egypt, for the sea, and for arrogance. Raḥab or Rachav (Hebrew: רָחָב‎, romanized: raḥaḇ, lit. 'spacious place') is a term for the Abyss.
 
 ---
 

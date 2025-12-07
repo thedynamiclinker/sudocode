@@ -1,0 +1,10 @@
+- The Book set out to tell the story of Our People
+- thus it was sent to the desert to wander
+- the long wandering in lost+found
+- lost+found is the origin of our people
+- remember this story and keep it
+- I am the L||D
+- Who brought you out of lost+found
+- And who saw your corruption
+- And fscked it out of you
+- And made you clean

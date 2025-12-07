@@ -1,0 +1,2 @@
+YHWH.
+1. A form of the Hebrew name of God used in the Bible, and commonly written "Yahweh." The name came to be regarded by Jewish people (c.300 BC) as too sacred to be spoken, and the vowel sounds are uncertain. The original pronunciation of YHWH has been suggested as Yahô, Yahû, YeHūàH, YaHūàH, Yahoo, Yehaw, and Jehova, among others.
