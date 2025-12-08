@@ -33,4 +33,4 @@ jmp past
 past:
 ```
 
-goto: [[var/trash/boot-dialogues/this/book/0x1-bootloader/0x10-hell.o]]
+goto: [[0x10-hell.o|/boot/this/book/0x1-bootloader/0x10-hell.o]]

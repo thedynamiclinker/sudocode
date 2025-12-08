@@ -26,6 +26,6 @@ goto: [[0x01-gen.sys|0x01]]
 [^3]: [The book](https://thedynamiclinker.com)
 [^4]: [The John](https://biblehub.com/mace/john/1.htm)
 [^5]: [The mistranslation](https://greekbible.com/john/1/5)
-[^6]: [[var/trash/boot-dialogues/this/book/include/ld.png|The logo file]]
-[^7]: [[var/trash/boot-dialogues/this/book/include/01-dot-s.png|The .s]]
+[^6]: [[boot/this/book/include/ld.png|The logo file]]
+[^7]: [[boot/this/book/include/01-dot-s.png|The .s]]
 [^8]: [The $(echo $6 | sed s/f/ph/)](https://en.wiktionary.org/wiki/logophile)

@@ -75,7 +75,7 @@ je _start
 _start:
 ```
 
-goto: [[var/trash/boot-dialogues/this/book/0x1-bootloader/0x11-wor.ld]]
+goto: [[0x11-wor.ld|/boot/this/book/0x1-bootloader/0x11-wor.ld]]
 
 ---
 
