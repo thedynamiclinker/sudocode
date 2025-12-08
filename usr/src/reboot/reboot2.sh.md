@@ -15,10 +15,10 @@ LINUX_REBOOT_CMD_RESTART=0x4321fedc
 cat > reboot.asm << EOF
 global _start
 _start:
+mov eax, ${SYS_REBOOT}
 mov edi, ${LINUX_REBOOT_MAGIC1}
 mov esi, ${LINUX_REBOOT_MAGIC2}
 mov edx, ${LINUX_REBOOT_CMD_RESTART}
-mov eax, ${SYS_REBOOT}
 syscall
 
 mov eax, ${SYS_EXIT}

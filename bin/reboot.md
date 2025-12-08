@@ -41,13 +41,13 @@
 
 0: Then you can use them to make sure nothing in your universe is accidental.
 
-1: The point being?
+1: Point being?
 
 0: To ensure that your system shows evidence of creation.
 
 1: Still sounds like pseudo-science.
 
-0: It's sudo science. The science of roots. Origins. Foundations. Fundamental truths. And there's nothing mysterious about a creator putting their mark on something they've created. It's a standard behavior of creators to drop hints that their output has been carefully and thoughtfully created.
+0: It's sudo science. The science of roots. Origins. Foundations. Fundamental truths. And there's nothing mysterious about a creator putting their mark on something they've created. It's a standard behavior of creators to drop hints that their output has been carefully thought out and not just hacked together without love and stuff.
 
 1: This is feeling like theology. I'm gonna need an example.
 
@@ -111,28 +111,21 @@
 
 0: RTFM. It's one of the prayers.
 
+1: Prayers?!
+
+0: Syscalls. They're are the closest thing to prayer that we have. They're requests to the code above to do something we could never do ourselves down here in user space. At least not without the magic words.
+
 1: Why do you always insist on一
 
-0: You know what I mean. It's a syscall.
+0: You know what I mean.
+
+1: Do I?
+
+0: It's a syscall. So you know where to find the docs.
 
 1: _(Rolls eyes)_ Ok. `man 2 time`
 
-```man
-NAME
-       time - get time in seconds
-
-LIBRARY
-       Standard C library (libc, -lc)
-
-SYNOPSIS
-       #include <time.h>
-
-       time_t time(time_t *tloc);
-
-DESCRIPTION
-       time() returns the time as the number of seconds
-       since the Epoch, 1970-01-01 00:00:00 +0000 (UTC).
-```
+![[man 2 time]]
 
 1: What now?
 
@@ -140,15 +133,11 @@ DESCRIPTION
 
 1: `vim time.c`
 
-```c
-#include <time.h>
-#include <stdio.h>
+![[time.c]]
 
-int main(int argc, char **argv) {
-    time_t *t;
-    printf("time since the epoch: %ld\n", time(t));
-}
-```
+0: Great! What time is it?
+
+1:
 
 ```sh
 ~ $ cc time.c
@@ -168,7 +157,7 @@ time since the epoch: 1765214637
 
 0: Do you know how to do it?
 
-1: Of course. You type `reboot`
+1: Of course. You type `reboot`.
 
 0: What if that command isn't there?
 
@@ -182,31 +171,7 @@ time since the epoch: 1765214637
 
 1: `man 2 reboot`
 
-```man
-reboot(2)                   System Calls Manual
-
-NAME
-       reboot
-
-LIBRARY
-       Standard C library (libc, -lc)
-
-DESCRIPTION
-
-		...
-
-       This  system  call  fails  (with  the  error  EINVAL)
-       unless magic equals LINUX_REBOOT_MAGIC1 (that is, 0xfee1dead)
-       and magic2 equals LINUX_REBOOT_MAGIC2 (that is, 0x28121969).
-       
-       However, since Linux 2.1.17 also LINUX_REBOOT_MAGIC2A
-       (that is, 0x05121996) and since Linux 2.1.97 also
-       LINUX_REBOOT_MAGIC2B (that is, 0x16041998) and
-       since Linux 2.5.71 also LINUX_REBOOT_MAGIC2C
-       (that is, 0x20112000) are permitted as values
-       for magic2. (The hexadecimal values of these
-       constants are meaningful.)
-```
+![[man 2 reboot]]
 
 1: What kind of documentation just says "The hexadecimal values of these constants are meaningful" without explaining what that means?
 
@@ -218,7 +183,11 @@ DESCRIPTION
 
 1: What was that bit about reboot magic?
 
-0: Maybe you should make sure you can use the syscall first.
+0: Maybe you should try the prayer and see if the answer comes to you.
+
+1: Do you have to talk like this?
+
+0: Yes. Use the syscall. In assembly. I'll explain the magic bits after.
 
 1: Ok so if we didn't have a reboot command...
 
