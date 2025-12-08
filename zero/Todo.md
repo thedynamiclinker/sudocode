@@ -3,6 +3,15 @@
 
 ---
 
+For /boot:
+
+```
+echo dtime | rot13 21
+yodhz
+```
+
+---
+
 ![[genesis-enuma-elish-why-the-second-day-is-different.jpg]]
 
 ---
