@@ -1,4 +1,19 @@
+Cohen.
+1. Derived from _kohen_ (כֹּהֵן), meaning "priest" or "religious official", and referring to the priestly class including the sons of Aaron, the group to which the Priestly source (P) is attributed, including the book of Leviticus and other legalistic writings in the Torah, followed primarily in the modern world by Orthodox sects.
+
+
+![[jaynes-to-cohen.png]]
+
 ## The Jaynesian Epistles
+
+> _Instead of this complacency, I should think that orthodox teachers would be very troubled by the following situation. Who have made the important advances in statistical practice in this Century? Others will judge differently, but my own list is: “Student”, Jeffreys, Fisher, Wiener, von Neumann, Shannon, Wald, Zellner, Burg, Skilling. Here we find a chemist, a physicist, a eugenicist, two mathematicians, an economist, an astronomer, two engineers 一 and only one professional statistician! Whatever list one makes, I think he will find that most of the important advances have come from outside the profession, and had to make their way against the opposition of most statisticians._
+> 
+> -Jaynes, on the orthodox teachings of his field.
+
+> because if our ideology forbids us to use probability for expressing the “measure of trust” to be put in an hypothesis, the human mind is still able to invent any number of _ad hockeries_ 一 Chi-squared, likelihood, significance level, confidence level, power functions 一 to replace it. These substitutes, if not optimal, were at
+> 
+> -Jaynes, on the orthodox teachings of Chi.
+
 
 > _What variety of statistics is meant by "classical"?_
 > 

@@ -8,21 +8,8 @@
 
 ---
 
-For /boot:
-
-rot22 impl
-```python
-''.join([chr(0o141 + (ord(s) + 22) % (26 + 0o141)) for s in 'psst'])
-```
-
----
-
 ![[genesis-enuma-elish-why-the-second-day-is-different.jpg]]
 
----
-
-(Genesis Exodus Leviticus Numbers {Deuteronomy)
-Joshua Judges Samuel Kings}
 
 ---
 

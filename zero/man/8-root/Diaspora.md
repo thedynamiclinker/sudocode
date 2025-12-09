@@ -1,0 +1,1 @@
+The phrase "We are a people in diaspora" in the beginning lines of Sudocode is believed to be a reference to the 

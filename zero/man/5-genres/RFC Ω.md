@@ -1,11 +1,15 @@
-```
-					RFC Ω:    Specification of the Bible Data Structure
+# RFC Ω 
+## Specification of the Bible Data Structure
 
-	                Authors:  0 & 1
-                    Location: The Filesystem
-                    Date:     echo $(date | awk '{print $2, $3}') 20XY
-                    Contact:  root@thedynamiclinker.com
-		                      user@thedynamiclinker.com
+Authors:  0 & 1
+
+Location: The Filesystem
+
+Date:     echo $(date | awk '{print $2, $3}') 20XY
+
+Contact:
+root@thedynamiclinker.com
+user@thedynamiclinker.com
 
 ---
 
@@ -45,7 +49,6 @@ INTRODUCTION
 	
 I. Case Study 1: Genesis and Creation.
 
-```
 
 
 ---
