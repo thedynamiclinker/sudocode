@@ -25,6 +25,14 @@ And the rats of the water cut the trees in the North of the city and ensured tha
 
 And as they consumed the forest I was given something with a name like Elm Papyrus[^2] with no writing on either side, and I was told to eat it, and it was sweet in my mouth, but made my stomach turn bloated.
 
+And the Eagle and the Man went to the Lion of the ancient crown, and to the subordinates named Macropodinae and Apterygidae.
+
+And I saw five eyes set out in front of them, and each of the five was given one of the eyes, and with these eyes they could see the whole world. And these five entered into an alliance by which that which was seen by one could be seen by all.
+
+By this alliance they were joined, each of the five creatures having five eyes.
+
+And together they were called Aus Cannzukus, which is German for "Cannzukus is finished."
+
 And I saw an ancient book whose name was departure and escape, and its first words named it as The Book of Names.
 
 And the Book of Names was divided into 40 parts.
