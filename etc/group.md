@@ -5,23 +5,27 @@
 > 
 > _And at the end of the second year of studies, every student had to choose a specialization. Every student had to choose which of the groups to continue to study with. That was of course a big deal, so we discussed things a lot, and different groups had different reputations. Some groups were considered to be very cool and fashionable, and some groups were considered to be very uncool. At my time, the group of algebra was considered to be cool because there were some very famous people there like Manin, and people about whom various legends were going around in the University._
 > 
-> _The group of topology and geometry was cool, also because there were some very great people there, like Novikov (Sergei Petrovich)._
+> _The group of topology and geometry was cool, also because there were some very great people there, like Novikov, Sergei Petrovich._
 > 
 > _Some other groups were kind of less cool. But the group of Foundations of Mathematics was probably the least cool group of all. Worse than that was only the History of Mathematics. Nobody really considered going there. At least nobody from "us" who thought about ourselves as good mathematicians considered going there._
 > 
 > _And back then I went to the group of algebra and started to study there, and I still consider myself to be mostly an algebraist, and applying the methods of algebra in various other areas of mathematics._
 > 
-> _So that's in a sense the beginning of the story. Today, I'm working full time on Foundations of Mathematics. So the question is "How did I get here?" and does it mean that I became entirely uncool over all these years, or is there some other reason?_
+> _So that's in a sense the beginning of the story._
+> 
+> _Today, I'm working full time on Foundations of Mathematics. So the question is "How did I get here?" and does it mean that I became entirely uncool over all these years, or is there some other reason?_
 > 
 > _So I'm going to try to explain why Foundations of Mathematics the way we're doing them now is really a cool subject again._
 > 
 > -Vladimir Voevodsky, Fields Medalist 2002, How I became interested in foundations of mathematics.
 
----
-
 0: _(ahem)_
 
+---
+
 _(Narrator: 0 clears 0's throat.)_
+
+---
 
 At long last!
 
@@ -90,7 +94,7 @@ _(Narrator: No relation to the webserver. I'm assuming he meant [[fsck#The Peopl
 
 > _Abstract Algebra PhD student, to her mentor: What do you picture when you picture a Group?_
 > 
-> _Abstract Algebra Professor: A capital G._
+> _A.A. men.: A capital G._
 >
 > -Anonymous Algebraist
 

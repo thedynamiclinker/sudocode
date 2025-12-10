@@ -19,12 +19,21 @@
 
 ---
 
-> _You want to get to the top of the cliff. But that's not what you focus on immediately. You focus on the next ledge just beyond your reach, because you need to do one clever thing to get up there. And then, once you get there, you do it again. A lot of this is rather boring and not very glamorous. But you can't jump cliffs in a single bound. _
+> _You want to get to the top of the cliff. But that's not what you focus on immediately. You focus on the next ledge just beyond your reach, because you need to do one clever thing to get up there. And then, once you get there, you do it again. A lot of this is rather boring and not very glamorous. But you can't jump cliffs in a single bound._
 > -Tao
 
 ---
 
 > _When I was growing up, I knew I wanted to be a mathematician, but I had no idea what that entailed._
 > -同上[^1]
+
+---
+
+## τ
+
+![[tau-topos-theory-the-suffering-was-the-point.png]]
+
+
+---
 
 [^1]: Chinese for Ibid.

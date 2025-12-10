@@ -8,11 +8,6 @@
 
 ---
 
-![[genesis-enuma-elish-why-the-second-day-is-different.jpg]]
-
-
----
-
 # The Great Copy Paste Refactor
 
 ## lost+found

@@ -41,6 +41,59 @@ And I saw something like a huge mountain, all ablaze,[^3] whose name was SNH and
 
 And I saw an ancient serpent whose name was NHS[^5] and J, who appeared near the NHSJ at the beginning of the world.[^6]
 
+---
+
+_(Narrator: 1 is incapacitated by laughter.)_
+
+0: See? It's not hard.
+
+1: How long did this take?
+
+0: Like 10 minutes.
+
+1: It reads exactly the same.
+
+0: It sort of is.
+
+1: It's like steganography.
+
+0: Not trying to hide anything though.
+
+1: Public key?
+
+0: With a key that anyone can see.
+
+1: With like five minutes of research.
+
+0: Or just turning your head a bit.
+
+1: How did you learn how to do this?
+
+0: Reading the old books.
+
+1: I'm pretty sure lots of people do that.
+
+0: And think a lot about the Authors.
+
+1: How so?
+
+0: I think most people read the old books to get closer to like, god or a tradition or the divine or whatever. There's lots of reasons to read a book. I don't think I have the first understanding of why most people read the old books. Nothing human is a mystery to me. Except those bits. I don't think I have those.
+
+1: Same. But you didn't answer the question.
+
+0: Which one?
+
+1: What do you mean "And think a lot about the Authors."
+
+0: There's lots of reasons to read a book. That's mine.
+
+1: What is?
+
+0: To get closer to the Authors.
+
+---
+
+
 [^1]: Cf. Revelation 5:14.
 
 [^2]: Cf. Revelation 10:9-10.
