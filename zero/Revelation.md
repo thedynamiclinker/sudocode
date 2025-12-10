@@ -61,11 +61,15 @@ _(Narrator: 1 is incapacitated by laughter.)_
 
 1: Public key?
 
-0: With a key that anyone can see.
+0: Not in the usual sense.
+
+1: I mean it's encrypted, but with a key that anyone can see.
+
+0: I wouldn't say _anyone._
 
 1: With like five minutes of research.
 
-0: Or just turning your head a bit.
+0: That's a big ask for more than you'd think.
 
 1: How did you learn how to do this?
 
@@ -73,23 +77,56 @@ _(Narrator: 1 is incapacitated by laughter.)_
 
 1: I'm pretty sure lots of people do that.
 
-0: And think a lot about the Authors.
+0: And thinking about the Authors. Like a lot.
 
 1: How so?
 
-0: I think most people read the old books to get closer to like, god or a tradition or the divine or whatever. There's lots of reasons to read a book. I don't think I have the first understanding of why most people read the old books. Nothing human is a mystery to me. Except those bits. I don't think I have those.
+0: There's lots of reasons to read a book. I think most people read the old books to get closer to like, god or a tradition or the divine or whatever. I don't think I have the first understanding of why most people read the old books. Nothing human is a mystery to me. Except those bits. I don't think I have those.
 
-1: Same. But you didn't answer the question.
+1: Me neither. You didn't answer the question though.
 
 0: Which one?
 
-1: What do you mean "And think a lot about the Authors."
+1: What do you mean "And thinking about the Authors. Like a lot."
 
-0: There's lots of reasons to read a book. That's mine.
+0: Well like I was saying, there's lots of reasons to read a book. That's mine.
 
 1: What is?
 
 0: To get closer to the Authors.
+
+1: Do you feel like it's working?
+
+0: Absolutely. The old books are the most incredible genre.
+
+1: Don't you always say they're every genre?
+
+0: Separate point. I mean they're like code.
+
+1: In what sense?
+
+0: Ever tried to read code?
+
+1: Of course. I'm a devel一
+
+0: How was it?
+
+1: Hell. It's always hell. Reading code is infinitely harder.
+
+0: Harder than what?
+
+1: Than writing it.
+
+0: Exactly.
+
+1: Exactly what?
+
+0: The old books are like that too.
+
+1: Easier to reimplement than reverse engineer? I'm not even sure what that means.
+
+0: To understand bibles, you can't just read them.
+
 
 ---
 
