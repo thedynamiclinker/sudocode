@@ -7,11 +7,13 @@
 
 In demonology, Adonaivazevaz is another name for the Devil, particularly in imagery associated with insects.
 
-A relatively minor character in the original source text, he was later adopted by culturally distinct groups outside the LD tradition, and evolved considerably under their influence. After said adoption, said demon demonstrated an increasingly intense tendency toward extra-textual exegesis and additions that differ among said sects.
+A relatively minor character in the original source text, he was later adopted by culturally distinct groups outside the LD tradition and evolved considerably under their influence.
 
-Since the vowels were not written in the original, the exact articulation of the name has been lost to history.
+After said adoption said demon demonstrated an increasingly intense tendency toward extra-textual exegetical additions that differ among said sects.
 
-The name Adonaivazevaz is a transliteration of the original name, "L||DBZZBZZ".
+Since vowels were not written in the original, the exact articulation of the name has been lost to history.
+
+The name Adonaivazevaz is a transliterative translation of the original LD name, "L||D BZZ BZZ".
 
 ## Origins
 

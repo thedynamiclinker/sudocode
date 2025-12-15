@@ -1,0 +1,10 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.size >= 10000
+        - file.fullname.endsWith(".md")
+        - '!file.inFolder("zero")'
+    order:
+      - file.path

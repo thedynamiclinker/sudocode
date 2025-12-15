@@ -3,6 +3,11 @@
 
 ---
 
+> _The greatest condition \[for converting to Judaism\] is you want to throw your lot in with the destiny of the Jewish people._
+> -Rabbi David Wolpe
+
+---
+
 > _You’re basically one decision away from things either being smooth and boring or permanently annoying._
 > -@2
 
