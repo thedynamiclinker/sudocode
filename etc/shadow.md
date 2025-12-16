@@ -25,13 +25,23 @@
 
 ❌ Must be between 7 and 144 characters
 
-❌ Must include one of the following special characters: _@~!#$^*+-=|\/(){}[].:
+❌ Must include one of the following special characters: `_@~!#$^*+-=|\/(){}[].:`
 
-❌ Must contain at least one other special character
+❌ Must not contain any other special characters beside those listed above
+
+❌ Must not contain more than 2 repeating characters
+
+❌ Must not contain your email address
+
+❌ Must not contain 9 or more consecutive numbers
+
+❌ Must not contain spaces
 
 ❌ Must not contain your username
 
 ❌ Must not contain your social security number
+
+❌ Must not contain your employer identification number
 
 ❌ Must not contain the name of your past, present or future pets
 
