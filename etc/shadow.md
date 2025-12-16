@@ -1,5 +1,13 @@
 
+> _Shadow is the best disinfectant._
+> -Anonymous
+
 ![[safe-and-secure.png]]
+
+![[security-your-privacy-is-our-data.png]]
+
+![[security-trustpilot-so-many-reviews.png]]
+
 
 ## Your password
 
@@ -134,6 +142,11 @@
 ❌ Follow these requirements, and be secured in a pillar of cloud by day, and a pillar of fire at night
 
 ❌ Break these requirements, and be cast into the everlasting torment of shadow / etc.
+
+
+
+![[oops-were-sorry-for-the-security.png]]
+
 
 [^1]: The "Alpha-Omega" cipher.
 
