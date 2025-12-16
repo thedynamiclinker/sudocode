@@ -2,11 +2,15 @@
 > _Shadow is the best disinfectant._
 > -Anonymous
 
+![[security-theres-no-security-like-food-security.png]]
+
 ![[safe-and-secure.png]]
 
 ![[security-is-here-to-help.png]]
 
 ![[security-your-privacy-is-our-data.png]]
+
+![[security-sectigo.png]]
 
 ![[security-trustpilot-so-many-reviews.png]]
 
