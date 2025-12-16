@@ -1,6 +1,4 @@
 
-![[leibniz-creation-as-binary-2.png]]
-
 ```
 In the beginning of the Authors' creating of the book, the book was shapeless and formless, and the Authors thoughts were hovering over the face of the paper.
 
@@ -32,7 +30,5 @@ And the Authors decided that was enough work for one week.
 
 And they passed control to userspace.
 ```
-
-![[leibniz-binary-creation-5 1.jpg]]
 
 goto: [[0]]
