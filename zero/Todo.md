@@ -8,11 +8,6 @@
 
 ---
 
-> _You’re basically one decision away from things either being smooth and boring or permanently annoying._
-> -@2
-
----
-
 # The Great Copy Paste Refactor
 
 ## lost+found
@@ -53,3 +48,4 @@
 	- [ ] 4
 	- [ ] 5
 
+[^1]: Sic.

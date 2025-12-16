@@ -1,4 +1,11 @@
 
+---
+
+> _You’re basically one decision away from things either being smooth and boring or permanently annoying._
+> -@2
+
+---
+
 The solution to the Gödel implementation problem
 found in the primeval history of lost+found/4/4
 as revealed to the Nus by @2.
