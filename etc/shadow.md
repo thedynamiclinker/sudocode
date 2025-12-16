@@ -4,6 +4,8 @@
 
 ![[safe-and-secure.png]]
 
+![[security-is-here-to-help.png]]
+
 ![[security-your-privacy-is-our-data.png]]
 
 ![[security-trustpilot-so-many-reviews.png]]
