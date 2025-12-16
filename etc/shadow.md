@@ -1,4 +1,6 @@
 
+![[safe-and-secure.png]]
+
 ## Your password
 
 ❌ Must have at least 1 lowercase letter
