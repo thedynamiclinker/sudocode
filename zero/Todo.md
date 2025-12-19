@@ -1,12 +1,5 @@
 
-/boot happens before /lost+found.
-
----
-
-> _The greatest condition \[for converting to Judaism\] is you want to throw your lot in with the destiny of the Jewish people._
-> -Rabbi David Wolpe
-
----
+boot happens before lost+found.
 
 # The Great Copy Paste Refactor
 

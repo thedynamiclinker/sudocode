@@ -189,7 +189,7 @@ We'll let you fill in the rest.
 
 ![[proto-sinaitic-decipherment-20.jpg|300]]
 
-Sincerely,
+Anyways,
 
 ![[mnt-sinai-54.png]]
 
@@ -197,10 +197,17 @@ Until next time,
 
 ![[mnt-sinai-55.png]]
 
+
+Now that we're here
+at the letters beginning
+
+<img src="proto-sinaitic-bg-transparent.png" style="width:25%;">
+Here's a gift.
+
+For the long road ahead.
+
+![[ld-dark.png]]
+
 Love always,
 
--LD
-
-<img src="proto-sinaitic-bg-transparent.png" style="width:42%;">
-
-[[lost+found/2/2|IRET]]
+-[[writers|The Authors]]
