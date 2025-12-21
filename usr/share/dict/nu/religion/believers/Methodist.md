@@ -1,1 +1,0 @@
-Def: [[Person]], [[Who]], [[Turn]], [[Religion]], [[Into]], [[Process]]

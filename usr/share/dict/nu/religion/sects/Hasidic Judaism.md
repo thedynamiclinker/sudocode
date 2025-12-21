@@ -1,1 +1,0 @@
-Def: [[Hasid]], [[Jew]], [[Tribe]]
