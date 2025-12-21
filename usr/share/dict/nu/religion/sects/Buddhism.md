@@ -1,2 +1,1 @@
-Def: [[Religion]]
-Def: [[System]], [[For]], [[End]], [[Suffering]]
+Def: [[Religion]], [[Where]], [[People]], [[Hate]], [[Life]], [[And]], [[Act]], [[Happy]]

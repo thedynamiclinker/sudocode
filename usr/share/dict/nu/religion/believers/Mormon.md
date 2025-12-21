@@ -1,2 +1,2 @@
-Def: [[Person]], [[Who]], [[Follow]], [[Hierarchy]]
-Def: [[Person]], [[Who]], [[Knock]], [[On]], [[Door]]
+Def: [[Person]], [[Who]], [[Like]], [[New]], [[usr/share/dict/religion/Bible|Bible]], [[About]], [[America]], [[By]], [[Joseph Smith]]
+Def: [[Person]], [[Who]], [[Come]], [[To]], [[Your]], [[House]], [[When]], [[You]], [[No]], [[Want]], [[Them]], [[To]]

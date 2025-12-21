@@ -1,2 +1,1 @@
-Def: [[Person]], [[Who]], [[Like]], [[Order]]
-Def: [[Person]], [[Who]], [[Trust]], [[Text]]
+Def: [[Person]], [[Who]], [[Like]], [[usr/share/dict/religion/Bible|Bible]], [[More]], [[Than]], [[Church]]

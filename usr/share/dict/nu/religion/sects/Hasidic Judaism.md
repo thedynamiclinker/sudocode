@@ -1,2 +1,1 @@
-Def: [[Jewish]], [[Sect]]
-Def: [[Group]], [[That]], [[Feel]], [[Joy]]
+Def: [[Hasid]], [[Jew]], [[Tribe]]

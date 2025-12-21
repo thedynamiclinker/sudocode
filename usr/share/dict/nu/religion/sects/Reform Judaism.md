@@ -1,2 +1,1 @@
-Def: [[Jewish]], [[Sect]]
-Def: [[Group]], [[That]], [[Change]], [[Rule]]
+Def: [[Jew]], [[Tribe]], [[Who]], [[Change]], [[Rule]]

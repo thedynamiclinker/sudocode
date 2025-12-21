@@ -1,3 +1,2 @@
-Def: [[Buddha]]
-Def: [[Person]], [[Who]], [[Sit]]
-Def: [[Person]], [[Who]], [[See]], [[Pattern]]
+Def: [[Fat]], [[Guy]], [[Who]], [[Smile]]
+Def: [[Thin]], [[Guy]], [[Who]], [[Not]], [[Smile]]

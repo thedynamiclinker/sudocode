@@ -1,2 +1,1 @@
-Def: [[Person]], [[Who]], [[Follow]], [[Procedure]]
-Def: [[Person]], [[Who]], [[Pay]]
+Def: [[Person]], [[Who]], [[Believe]], [[Problem]], [[Is]], [[Alien]], [[Ghost]], [[Inside]], [[You]]

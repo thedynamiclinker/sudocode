@@ -1,2 +1,1 @@
-Def: [[Christian]], [[Sect]]
-Def: [[Group]], [[With]], [[New]], [[Book]]
+Def: [[Fancy]], [[Word]], [[For]], [[Mormon]]

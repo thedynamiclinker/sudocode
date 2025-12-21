@@ -1,3 +1,2 @@
-Def: [[Joseph]], [[Smith]]
-Def: [[Person]], [[Who]], [[Invent]], [[Scripture]]
-Def: [[Person]], [[Who]], [[Build]], [[City]]
+Def: [[Guy]], [[Who]], [[Write]], [[New]], [[usr/share/dict/religion/Bible|Bible]], [[About]], [[Jesus]], [[In]], [[America]]
+Def: [[Guy]], [[Who]], [[Build]], [[New]], [[Town]], [[Where]], [[You]], [[Can]], [[Do]], [[Polygamy]]

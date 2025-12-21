@@ -1,2 +1,2 @@
 Def: [[Christian]], [[Sect]]
-Def: [[Group]], [[That]], [[Split]], [[From]], [[Catholic]], [[Church]]
+Def: [[Group]], [[That]], [[Split]], [[From]], [[Bureaucrat]], [[Church]]

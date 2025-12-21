@@ -1,2 +1,1 @@
-Def: [[Person]], [[Who]], [[Like]], [[Group]]
-Def: [[Person]], [[Who]], [[Do]], [[Good]], [[Work]]
+Def: [[Person]], [[Who]], [[Turn]], [[Religion]], [[Into]], [[Process]]
