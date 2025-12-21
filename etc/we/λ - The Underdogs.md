@@ -1,3 +1,7 @@
+
+> _The stone the builders rejected has become the cornerstone._
+> -Psalm 118:22
+
 ## The λs as the underdogs
 
 - Hawking's "God Created the Integers" ends with Gödel and Turing but no Church.

@@ -33,7 +33,17 @@
 
 ![[tau-topos-theory-the-suffering-was-the-point.png]]
 
+---
+
+> _I have deliberately been as vague as possible (except in §9.3) about the features of the set theory which I am using, since it really doesn’t matter. Topos theory is an elementary theory, and its main theorems are not一or ought not to be一dependent on recondite axioms of set theory. (In fact I am a fully paid-up member of the Mathematicians' Liberation Movement founded by J. H. Conway._
+> -P.T. Johnstone, Topos Theory
+
 
 ---
+
+
+
+---
+
 
 [^1]: Chinese for Ibid.

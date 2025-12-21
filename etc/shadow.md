@@ -159,9 +159,11 @@
 
 ❌ Break these requirements, and be cast into the everlasting torment of shadow / etc.
 
-
-
 ![[oops-were-sorry-for-the-security.png]]
+
+---
+
+_Powered by P ® i.e., st.ly_
 
 
 [^1]: The "Alpha-Omega" cipher.
