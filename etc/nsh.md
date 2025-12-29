@@ -1,4 +1,3 @@
-## NSH
 
 If, by the virtue of charity or the circumstance of desperation, you ever chance to spend a little time around the the Nth Stair House of biblical authorship, you will acquire many exotic new facts…
 
@@ -63,3 +62,8 @@ That such examples are everywhere in the story of humanity, and almost nowhere i
 That the jews really do have a lot of important things figured out, culture wise.
 
 That everyone actually knows this, at some level, and that's the source of at least half of the resentment.
+
+That you would probably benefit from more pain, on net balance.
+
+That the above isn't a macho thing, but it may be a spiritual one, no matter what you believe about upstairs.
+
