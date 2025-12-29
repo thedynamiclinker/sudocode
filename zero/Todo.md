@@ -1,10 +1,6 @@
-
-boot happens before lost+found.
-
-# The Great Copy Paste Refactor
-
 ## lost+found
 
+The Great Copy Paste Refactor
 
 - [x] lost+found/1
 	- [x] 1
@@ -40,5 +36,12 @@ boot happens before lost+found.
 	- [ ] 3
 	- [ ] 4
 	- [ ] 5
+
+
+---
+
+boot happens before lost+found.
+
+---
 
 [^1]: Sic.
