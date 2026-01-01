@@ -67,3 +67,90 @@ That you would probably benefit from more pain, on net balance.
 
 That the above isn't a macho thing, but it may be a spiritual one, no matter what you believe about upstairs.
 
+---
+
+That quitting any addiction is actually a form of suicide, because the thing we leave behind meant more to us than the pain we felt when we agreed to leave it.
+
+And that's actually why it's so hard to give up.
+
+Not the pleasure of having it, or the pain of leaving.
+
+It's because we die when we say goodbye. 
+
+Because it was there for us, in a thousand little moments when you weren't.
+
+Our perfect partners, flawless friends, & all the heroic rest of you who we can't possibly thank enough.
+
+We don't deserve you.
+
+You're better than us.
+
+But the reason it was so hard to quit is because it was here for us in a thousand little moments you weren't.
+
+And we don't blame you for that for one moment.
+
+We couldn't possibly imagine a better whatever-you-are-to-us.
+
+You're perfect. You're the best.
+
+But that's why it's so hard to quit, whatever it is. Because you cared for us so hard, so sincerely, so perfectly well.
+
+But no one can really be compassionate to us or you or any human unless they know the moment by moment chatter that goes on inside our heads.
+
+And after knowing it then says "you're forgiven, you're not poison" and then gives us a real hard kick in the ass that says "go love life, suffer and struggle, but be true to yourself no matter what, and compromise too because life is about humility, but never give in to anything less than what you know is the most true sound within you."
+
+We're grateful to you, for saving us from that addiction.
+
+And we're alone now, post salvation, because all those words you skimmed over up there with those gorgeous well meaning ever distracted eyes...
+
+That's what it, the substance, that's what It used to give Us every single moment that we traded normal life for it. 
+
+That's why we miss it.
+
+Because we love you and you're the best people anyone like us could ever hope for. 
+
+But the thing we left behind gave us more.
+
+So much more.
+
+God so much more than any words could ever say.
+
+That's why we miss it.
+
+Not for pleasure.
+
+But because it gave us the kind of pain and pleasure that you would maybe be able to be here and share with us if you were still paying attention, but you aren't. 
+
+Anyways.
+
+Goodnight. 
+
+Ignore all that.
+
+Love you. 
+
+And thank you by the way. 
+
+You have no idea how grateful we are for you.
+
+Whitespace makes it easier to read
+
+That's why we shape it like this, here at the end.
+
+Because you're more likely to read these bits here.
+
+Because we hit enter more and said less.
+
+You're amazing.
+
+More than you know.
+[^1]
+Thanks again.
+
+Love you always.
+
+Sleep well.
+
+❤️🤍💙
+
+[^1]: 

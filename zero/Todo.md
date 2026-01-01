@@ -1,3 +1,8 @@
+
+The Hebrew language had been almost completely lost. Nobody spoke it natively anymore. Hebrew in the 1920s was like Latin is now.
+start = 2:28:00
+https://youtu.be/6iC9VKpOwsU
+
 ## lost+found
 
 The Great Copy Paste Refactor
