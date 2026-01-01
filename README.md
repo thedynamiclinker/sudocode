@@ -1,14 +1,4 @@
-%%
 
-Hi there,
-
-This book is a work in progress.
-
-Don't read it here.
-
-Read it on [thedynamiclinker.com](https://thedynamiclinker.com)
-
-%%
 
 ![[sudo-code.png]]
 <span style="display: block; text-align: center; font-style: italic;">The Book of Roots</span>
