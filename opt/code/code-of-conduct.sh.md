@@ -1,6 +1,7 @@
+```
 #!/bin/sh
 
-## And the L||D
+# And the L||D
 sed -E code-of-conduct.in* \
     -e 's/LORD/L||D/g' \
     -e 's/Moses/Founder/g' \
@@ -112,6 +113,4 @@ sed -E code-of-conduct.in* \
 	-e 's/\b\b//g' \
 
 exit 0
-
-%%
-%%
+```
