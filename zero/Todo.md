@@ -1,7 +1,46 @@
 
+The `cat email` mistake needs to be included as something that 0 & 1 accidentally send to Chet 
+
+```
+~ $ cat emails
+bash-maintainers@gnu.org
+bug-bash@gnu.org
+chet.ramey@case.edu
+```
+
+```sh
+~ $ cat emails | while read email; do cat email | mail -s "A Bug in History" "$email"; done
+```
+
+1: Aaand just to be safe, before we run the command, let's toss an `echo` in front to print out the commands we're about the execute to make sure they're all right.
+
+```sh
+~ $ cat emails | while read email; do echo cat email | mail -s "A Bug in History" "$email"; done
+```
+
+1: And, go!
+
+_(Narrator: 1 hits enter.)_
+
+1: Wait why's it not printing?
+
+0: _(Eyes widen)_
+
+1: What's going on with your face? And why isn't it printing?
+
+0: Check your "sent" folder.
+
+1: What?
+
+_(Narrator: 0 & 1 then realize that 1 just sent the string `cat email` to everyone in the list.)_
+
+---
+
 The Hebrew language had been almost completely lost. Nobody spoke it natively anymore. Hebrew in the 1920s was like Latin is now.
 start = 2:28:00
 https://youtu.be/6iC9VKpOwsU
+
+---
 
 ## lost+found
 

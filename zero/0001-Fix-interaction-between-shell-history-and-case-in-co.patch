@@ -1,0 +1,123 @@
+From 866122f66bba8064569d2cadc33921f2bf0b6066 Mon Sep 17 00:00:00 2001
+From: Jason Wilkes <root@thedynamiclinker.com>
+Date: Fri, 2 Jan 2026 12:11:33 -0600
+Subject: [PATCH] Fix interaction between shell history and case-in-comsub
+
+In interactive mode, the following lines all behave
+as expected. That is, they do not cause history expansion,
+and they each execute without printing to stderr.
+
+1. echo $(if true; then echo 'hi!'; fi)
+2. echo $(if false; then echo 'hi!'; fi)
+3. echo "$(if true; then echo 'hi!'; fi)"
+4. echo "$(if false; then echo 'hi!'; fi)"
+5. echo $(case a in a) echo 'hi!';; esac)
+6. echo $(case a in b) echo 'hi!';; esac)
+
+The same correct (lack of) behavior is observed for all other
+forms of conditional, whether the condition is true or false,
+and whether the outer comsub is double quoted or not quoted.
+(e.g., for, while, until, [[ ]] && { }, [ ] || { }, etc.)
+
+However, in cases of the following form:
+
+7. echo "$(case a in a) echo 'hi!';; esac)"
+8. echo "$(case a in b) echo 'hi!';; esac)"
+
+we get the following output, even in cases for which the
+enclosing case pattern is false.
+
+> bash: !': event not found
+
+Commands of the above form may print other strings, depending
+on the contents of the shell's history.
+
+This commit provides a simple first draft of a fix in subst.c,
+and adds the file tests/comsub28.sub to verify that history
+expansion in single quotes no longer occurs in these contexts.
+
+Limitations:
+* The current fix does not attempt to address arbitrarily nested
+  case statements inside comsubs. A more complete fix to this
+  problem would be better handled by someone with more familiarity
+  with the codebase (e.g. Chet, if he thinks it's worth the time.)
+* Another reason for not pursuing a more general fix at the moment
+  is that I'm not sure whether this bug is a symptom of a more
+  general problem in the parser related to case stmts inside comsubs.
+  I mention this only because I fixed a similar bug back in 2020
+  related to SEMI_SEMI_AND inside of case statements within comsubs,
+  which I never got around to submitting and which was eventually
+  fixed. Since this is the second time I've encountered $(case)
+  related bugs, I decided to keep the fix simple for now, since I'm
+  not sure if this fix is just addressing a symptom and not the cause.
+
+I'm by no means an expert on the code base, so apologies in
+advance for any glaringly obvious errors or bad decisions.
+---
+ subst.c            | 18 ++++++++++++++++--
+ tests/comsub28.sub | 24 ++++++++++++++++++++++++
+ 2 files changed, 40 insertions(+), 2 deletions(-)
+ create mode 100644 tests/comsub28.sub
+
+diff --git a/subst.c b/subst.c
+index eabea2aa..1353e99b 100644
+--- a/subst.c
++++ b/subst.c
+@@ -2487,8 +2487,22 @@ skip_to_histexp (const char *string, int start, const char *delims, int flags)
+         }
+       else if (histexp_comsub && c == RPAREN)
+ 	{
+-	  histexp_comsub--;
+-	  dquote = old_dquote;
++	/* We've hit a ')', so do a heuristic check to see if it's likely
++	   to be part of a case pattern like 'this)', rather than the
++	   closing ')' of a comsub. This heuristic could be improved. */
++	  int in_case_statement = 0;
++	  char *CASE = strstr(string, "case");
++	  char *ESAC = strstr(string, "esac");
++
++          if ((CASE && CASE < (string + i)) && (!ESAC || (string + i) < ESAC)) {
++	      in_case_statement = 1;
++          }
++
++	  if (!in_case_statement)
++	    {
++	      histexp_comsub--;
++	      dquote = old_dquote;
++	    }
+ 	  i++;
+ 	  continue;
+ 	}
+diff --git a/tests/comsub28.sub b/tests/comsub28.sub
+new file mode 100644
+index 00000000..9dd3d316
+--- /dev/null
++++ b/tests/comsub28.sub
+@@ -0,0 +1,24 @@
++# Verify that 'case ... esac' inside comsub doesn't print
++# to stderr from incorrectly performing history expansion
++# in interactive mode
++
++: ${THIS_SH:=./bash}
++
++file=$(mktemp)
++
++cat > $file << 'EOF'
++echo "$(case a in b) echo 'hi!';; esac)"
++EOF
++
++output="$($THIS_SH -i $file 2>&1)"
++
++rm -f "$file"
++
++# assert: stderr must have been empty
++if [[ -n "$output" ]]; then
++    echo "FAIL: stderr not empty" >&2
++    cat "stderr='$stderr'" >&2
++    exit 1
++fi
++
++exit 0
+-- 
+2.51.2
+
