@@ -1,4 +1,4 @@
-```
+```sh
 #!/bin/sh
 
 # And the L||D
