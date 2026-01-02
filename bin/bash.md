@@ -1,3 +1,23 @@
+## A Bug in History
+
+> We were building Mark II in the summer of 1945.
+> 
+> It was a hot summer in Cambridge一naturally, since it was World War II.
+> 
+> We were working in a World War I temporary building. There was no air-conditioning, and the screens weren't very good.
+> 
+> One day, Mark II stopped.
+> 
+> We finally located the trouble in one of the relays一one of the big signal relays. Inside the relay, beaten to death by the relay contacts, was a moth一about this big.
+> 
+> The operator got a pair of tweezers and very carefully removed it from the relay. He put it in the log book, taped it in with Scotch tape, and underneath he wrote:
+> 
+> _First actual case of bug being found._
+> 
+> I'm sure you'll be pleased to know that the bug is still there, under the Scotch tape, in the log book.
+>
+> -Hopper
+
 ![[1945-first-actual-bug-found.jpeg]]
 
 ---
@@ -26,7 +46,7 @@
 
 1: Which is?...
 
-0: Learning how to fix bugs in major projects and how to contribute them, so I can teach you about how to do it.
+0: Learning how to fix bugs in major projects and how to contribute them, so I can teach you how to do it.
 
 1: So why not... DO it?
 
@@ -38,9 +58,13 @@
 
 1: Which one?
 
-0: The history expansion bug. 
+0: The bug in history.
 
 1: What is it?
+
+0: The reason we're here.
+
+1: Look these riddles aren't he---
 
 0: Run this and tell me what you get.
 

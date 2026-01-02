@@ -166,7 +166,7 @@ _(Narrator: 1 pauses, as if waiting for a response from 0.)_
 
 0: Let's change the question.
 
-1: But I was just starting to feel I was making progress on th---
+1: But I was just starting to feel I was making progress on一
 
 0: What's NOT the point of programming?
 
@@ -196,7 +196,11 @@ _(Narrator: 1 pauses, as if waiting for a response from 0.)_
 
 1: Exactly what?
 
-0: Well as you so eloquently put it: `!?programmers`
+0: Well as you so eloquently put it:
+
+```sudocode
+!?programmers
+```
 
 1: Um... what was that?
 
@@ -216,14 +220,17 @@ cat << EOF
 1: Exactly what?
 
 0: Well as you so eloquently put it:
+
 !?programmers
 
 1: Um... what was that?
 
+0: It's a bash thing.
+
 EOF
 ```
 
-goto: [[bin/bash]]
+goto: [[bin/bash|/bin/bash]]
 
 ## There
 
@@ -569,7 +576,7 @@ _(Narrator: Time passes, as 1 works on logging in and finally finishing hello wo
 
 1: _(Talking to 1self)._ Ok, `cd` into `$HOME`, `mkdir bin`, put the code in `bin/hello`, add `export PATH="$HOME/bin:$PATH"` to `~/.bashrc`. Why isn't it... Oh ok, source `~/.bashrc`, try to run it, great! Got it.
 
-_(Narrator: As 1 returns to /root to show 0, 0 seems to be focused on something else.)_
+_(Narrator: As 1 returns to /bin to show 0, 0 seems to be focused on something else.)_
 
 0: Oh that's good.
 
