@@ -2,6 +2,10 @@
 > _Shadow is the best disinfectant._
 > -Anonymous
 
+## Social Security (or: SS)
+
+![[password-manager-is-here-to-help.png]]
+
 ![[security-theres-no-security-like-food-security.png]]
 
 ![[safe-and-secure.png]]
