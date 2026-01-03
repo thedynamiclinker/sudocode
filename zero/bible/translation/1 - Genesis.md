@@ -135,7 +135,7 @@ Genesis 15
 - On that day YHWH made a promise to Abram, saying, “I’ve given this land to your cum, from the river of Egypt to the big river, the river Euphrates, the Asians and the Indians and the Blacks and the Jews, you'll come inside them all my man." YHWH lists 10 different ethnicities that Abram will come in if he keeps helping YHWH.
 
 
-![[abraham-and-yahweh.png|400]]
+![[zero/include/book/abraham-and-yahweh.png|400]]
 
 
 Genesis 16

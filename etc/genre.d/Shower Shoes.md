@@ -1,7 +1,11 @@
 ## /etc/genre.d/showershoes
 
+### Or: Kids books
+
 > _Itsy bitsy spider is Sisyphus for kids._
 > -Anon
+
+---
 
 0: You could write a pretty solid introduction to basic data structures and algorithms just by using common shower shoes.
 

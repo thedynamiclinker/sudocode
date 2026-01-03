@@ -1,4 +1,40 @@
 
+Beit Messiah.
+Georgetown Texas.
+Go Saturday at 1:45pm for Hebrew class.
+Services start at 3:00pm.
+
+---
+
+American Jacob Story:
+_The Usurper and the Red Man._
+
+And America had twin sons.
+The older was named Blaze.
+The younger was named Victor.
+And Victor said:
+
+> Hey Red Man, sell me your birthright.
+> I'll give you these beads.
+
+---
+
+I do not come to preach to your beliefs.
+I come to preach to your doubts.
+
+Gather every doubt you have
+and bring them to me.
+
+No one who comes to the word
+without every doubt in them
+can begin to hear the word.
+
+The more doubt you bring me,
+the more truth you may
+eventually come to hear.
+
+---
+
 The `cat email` mistake needs to be included as something that 0 & 1 accidentally send to Chet 
 
 ```
