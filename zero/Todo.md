@@ -1,4 +1,5 @@
 
+
 Beit Messiah.
 Georgetown Texas.
 Go Saturday at 1:45pm for Hebrew class.
@@ -6,7 +7,8 @@ Services start at 3:00pm.
 
 ---
 
-American Jacob Story:
+## American Jacob Story
+
 _The Usurper and the Red Man._
 
 And America had twin sons.
