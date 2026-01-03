@@ -7,7 +7,7 @@ Services start at 3:00pm.
 
 ---
 
-## American Jacob Story
+American Jacob Story
 
 _The Usurper and the Red Man._
 
