@@ -14,9 +14,13 @@
 
 ![[security-your-privacy-is-our-data.png]]
 
+![[security-is-here-to-help-005.png]]
+
 ![[security-sectigo.png]]
 
 ![[security-trustpilot-so-many-reviews.png]]
+
+![[security-is-here-to-help-006.png]]
 
 ![[security-is-here-to-help-003.png]]
 
