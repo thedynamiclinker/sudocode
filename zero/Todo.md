@@ -1,4 +1,7 @@
 
+> _You must assume that every institution of your society has been hollowed out and is being worn as a skinsuit, either by those who don't care if you die, or those who actively want to destroy you, and it doesn't matter which is which._
+> -Devon Eriksen
+
 ## lost+found
 
 The Great Copy Paste Refactor

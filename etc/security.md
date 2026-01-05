@@ -1,12 +1,12 @@
+## About Us
 
-> _Shadow is the best disinfectant._
-> -Anonymous
+![[security-is-here-to-help-001.png]]
 
-## Social Security (or: SS)
+![[security-is-here-to-help-002.png]]
+
+![[security-theres-no-security-like-food-security-2.png]]
 
 ![[password-manager-is-here-to-help.png]]
-
-![[security-theres-no-security-like-food-security.png]]
 
 ![[safe-and-secure.png]]
 
@@ -18,6 +18,7 @@
 
 ![[security-trustpilot-so-many-reviews.png]]
 
+![[security-is-here-to-help-003.png]]
 
 ## Your password
 
@@ -159,16 +160,15 @@
 
 ❌ Must not be disclosed to any third party
 
-❌ Follow these requirements, and be secured in a pillar of cloud by day, and a pillar of fire at night
-
-❌ Break these requirements, and be cast into the everlasting torment of shadow / etc.
-
 ![[oops-were-sorry-for-the-security.png]]
 
 ---
 
 _Powered by P ® i.e., st.ly_
 
+---
+
+![[security-is-here-to-help-004.png]]
 
 [^1]: The "Alpha-Omega" cipher.
 
