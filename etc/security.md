@@ -8,6 +8,10 @@
 
 ![[password-manager-is-here-to-help.png]]
 
+![[security-is-here-to-help-007.png]]
+
+![[security-is-here-to-help-008.png]]
+
 ![[safe-and-secure.png]]
 
 ![[security-is-here-to-help.png]]
