@@ -3,6 +3,13 @@ re·dact. (verb) /rəˈdak(t)/
 
 ---
 
+> _You must assume that every institution of your society has been hollowed out and is being worn as a skinsuit, either by those who don't care if you die, or those who actively want to destroy you, and it doesn't matter which is which._
+> -Devon Eriksen
+
+---
+
+## Who is \[NAME-REDACTED\]?
+
 Though much has been written in an attempt to uncover the identity of the unknown Authors of Sudocode, perhaps the most convincing theory to date concerns a woman named \[NAME-REDACTED\].
 
 Though she never claimed publicly to be the Author of the text, there are many hints suggesting her involvement.
