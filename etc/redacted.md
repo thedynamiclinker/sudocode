@@ -50,7 +50,7 @@ She reads like a character out of history. For where 一 outside of history or f
 
 In this chapter, we outline what we believe to be the evidence that \[NAME-REDACTED\] was involved in the activities of the group that produced the documents that have collectively come to be called Sudocode. 
 
-We believe, in fact, that she may have been the primary author, and to have modeled the character One[^5] after her一
+In fact, we believe that she may have been the primary author, and to have modeled the character One[^5] after he一
 
 ---
 
