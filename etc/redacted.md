@@ -41,7 +41,7 @@ The question then arises of why an unassuming young woman would:
 - one that just happens to be named LD
 - in an era when buying a home was considered financially impossible for all but the most well-off of her generation
 - and doing so without being particularly wealthy or well-connected
-- while in a "happy, committed, long-term relationship"
+- all while in a "happy, committed, long-term relationship"
 - of the sort that was punishable by 10 years in prison, if its existence was confirmed by the authorities of the time
 
 Though \[NAME-REDACTED\] was known by her contemporaries to be a friendly, soft-spoken, and unimposing figure, her biography paints a radically different picture of what she was like behind the scenes.
