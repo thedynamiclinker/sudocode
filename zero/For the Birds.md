@@ -13,7 +13,7 @@ B: Why are you working on a birdfeeder?
 
 A: For my house.
 
-B: You don't need to build a those. Just buy one.
+B: You don't need to build those man, just buy one.
 
 A: I know. Just kinda wanted to make one.
 
