@@ -82,23 +82,62 @@
 ## A day in Modernity
 
 W: Welcome to W.
-U: _(Types username and password into big rectangle.)_
+
+U: _(Types username and password into large device.)_
+
 W: We're going to send a message to your W app.
-U: _(Opens small rectangle. Unlocks with credentials. Opens W app.)_
+
+U: _(Unlocks small device. Opens W.)_
+
 W: Is this you?
+
 U: Yes.
-W: You will receive a confirmation email. Instead of clicking the link directly, please right click the blue 'I Authorize This Computer' button and copy its url link, then paste the link address into this text box
-U: _(Does that.)_
+
+W: You will receive a confirmation email. 
+
+U: Opens email.
+
+E: You need to log in again.
+
+U: _(Types email credentials.)_
+
+E: We're going to send a code to small device.
+
+U: _(Keeps looking at small device.)_
+
+E: _(Reads the code it just sent to small device and logs itself into itself.)_
+
+U: _(Looks for confirmation email from W. Can't find it. Checks spam. Can't find it. Checks other email address E2 that U set up awhile ago to forward all emails to your primary email E. Find confirmation email from W in spam folder of E2. Apparently wasn't forwarded because spam doesn't get forwarded. Clicks "It's me" in W email.)_
+
 W: The authentication flow is complete.
+
 U: _(Goes to W app)_
+
 W: You have 1 notification.
+
 U: _(Opens notifications.)_
-W: Someone logged into your W account. Was this you?
+
+W: Someone logged into your W account. If this was you, you don't need to--
+
 E: You've got mail.
+
 U: _(Opens E.)_
-E: New device detected! Do not share this E-mail. Hi U. We detected an unrecognized device attempting to log in to your W account. Please review the location and device of this new login below. Review location and device.
+
+E: New device detected! Do not share this E-mail. We detected an unrecognized device attempting to log in to your W account. Please review the location and device of this new login below. Review location and device.
 
 > 💻 **Not Your Operating System** near **Your Entire Country**
 
-E: W will never ask you to copy the link from the button below. If someone asks you this, it may be a phishing attempt, so report it to us right away.
+E: W will never ask you to copy the link from the button below. If someone asks you this, it may be a phishing attempt, so report i一
+
 U: _(Clicks "Verify.")_
+
+E: You've got mail.
+
+U: _(Checks inbox)_
+
+E: Someone logged in to E2. If thi一
+
+U: _(Returns to W)_
+
+W: You've been logged out of W due to inactivity.
+
