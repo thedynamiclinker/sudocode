@@ -105,7 +105,7 @@ echo "$(case a in b) echo 'hi!';; esac)"
 
 1: ...
 
-0: If you want, you can help me fix this one and we can send it upstream together. It's just some extremely convoluted C code that's been maintained by one guy named Chet for the past god knows how many years.
+0: If you want, you can help me fix this one and we can send it upstream together. It's just some extremely subtle && moderately ancient C code that's been maintained by one guy named Chet for the past god knows how many years.
 
 1: I'm not sure I'd be much help. I'm not very good at C.
 

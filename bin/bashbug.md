@@ -1,11 +1,16 @@
 ![[bash-logo-1.png]]
 
 
+---
+
 ```
 /*
    You are not expected to understand this (yet).
-   It's currently just notes for later.
-   It's not integrated into the book yet.
+
+   For now, it's just some notes for later.
+
+   This file isn't actually executed within
+   the main narrative of the book yet.
 */
 ```
 
@@ -195,5 +200,9 @@ Subject: A Bug in History
 
 ---
 
+TODO:
 
+- Write an email to Chet about making him a character in the book for a brief dialogue about bash.
+
+- Say we'd love to talk about what it's like to be in one of the strangest roles of any living developer. Namely, to the be the sole maintainer of a project that runs on every dev machine on the planet, no matter what programming language they prefer, and to do so from 1989 until well after the AI post-apocalypse of 20XY. Everyone's seen the famous XKCD about maintainers. That comic applies to lots of stuff in modern digital infrastructure, from vim to gzip.
 ```
