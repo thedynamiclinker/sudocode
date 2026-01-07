@@ -46,19 +46,16 @@ The question then arises of why an unassuming young woman would:
 
 Though \[NAME-REDACTED\] was known by her contemporaries to be a friendly, soft-spoken, and unimposing figure, her biography paints a radically different picture of what she was like behind the scenes.
 
-She reads like a character out of history. For where 一 outside of history or fiction 一 does one find a person living their entire life "in character," playing the role of the obedient and well-behaved \[ETHNICITY-REDACTED\] girl, while at the same time living a secret life behind the scenes that places her alongside biblical matriarchs like Hagar, Rachel, and Bathsheba?
+She reads like a character out of history. For where 一 outside of history or fiction 一 does one find a person living their entire life "in character," playing the role of the obedient and well-behaved girl from a nice \[ETHNICITY-REDACTED\] family, while at the same time living a secret life behind the scenes, one that places her alongside biblical matriarchs like Rachel and Bathsheba in the company of other semi-mythical founders of nations, states, and peoples?
 
-In this chapter, we outline what we believe to be the evidence that \[NAME-REDACTED\] was involved in the activities of the group that produced the document known as Sudocode. 
+In this chapter, we outline what we believe to be the evidence that \[NAME-REDACTED\] was involved in the activities of the group that produced the documents that have collectively come to be called Sudocode. 
 
-In fact, we believe she may have been the primary author, and to have modeled the character One (later known as 1) after he一
-
----
-
-**To read the remainder of the chapter, upgrade to premium for only Ɇ 12,000! That's just 12,000 אלons! Low low prices! You're not gonna get prices like this folks. No where else but here so buy buy buy! We're going medieval on prices! And don't worry: The first month is free! Register your account and subscribe now! Because wow!**
+We believe, in fact, that she may have been the primary author, and to have modeled the character One[^5] after her一
 
 ---
 
-_(Narrator: The article ends here, with its author waving his hands and shouting about "Low Low Prices" as he walks manically off into the sunset.)_
+**To read the remainder of the chapter, upgrade to premium for only Ɇ 12,000! That's just 12,000 אלons! Low low prices! You're not gonna get prices like this folks. No where else but here, so buy buy buy! It's an absolute holy war out here folks. We're going genocidal on prices! But don't worry, you're safe with me. Cuz the first month is free! Register your account and subscribe now! Because wow! Praise this special offer because the end is coming soon. Coming soon, the end is, so act now. The lowest prices in heaven and earth, in the name of the most high. Praise be to the L--D God Almighty[^6], Amen.**
+
 
 [^1]: Lit. "Just a legal thing."
 
@@ -69,3 +66,6 @@ _(Narrator: The article ends here, with its author waving his hands and shouting
 [^4]: Preeminent \[UNITED-STATES-STATE-REDACTED\] lawyer \[LAWYER-REDACTED\], speaking of the laws in this era, quotes the law defining \[DEGENERACY-REDACTED\] in Penal Code Section §25.01 of the state of \[STATE-REDACTED\], as follows:
 	> An individual commits an offense if: (1) s/he is legally married and s/he: (a) purports to marry or does marry a person other than his spouse in this state, or any other state or foreign country, under circumstances that would, but for the actor’s prior marriage, constitute a marriage; or (b) lives with a person other than his spouse in this state under the appearance of being married. A conviction for \[CRIME-REDACTED\] is punished by default as a Felony of the Third Degree, with a maximum possible fine under \[STATE-REDACTED\] state law of up to $10,000 and prison time of up to 10 years.
 
+[^5]: Later known as 1.
+
+[^6]: _El Shaddai_, in the original.
