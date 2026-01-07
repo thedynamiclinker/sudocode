@@ -1,5 +1,5 @@
 re·dact. (verb) /rəˈdak(t)/
-1. to refine or prepare a text for publication.
+1. to prepare a text for publication.
 
 ---
 
