@@ -129,7 +129,7 @@ B: For the ACP.
 
 A: Is that the birdfeeder?
 
-B: Ok let's make sure we're clear on the road map here. I think the birdfeeder you made is better than anything else on the market. But it's not just about the technology. So over the coming quarter I'd like you to help us build it into a service platform that our customers can plug into for Ornithology News, Recent Citings, Current and Historical Seed Receptacle Status.
+B: Ok let's make sure we're clear on the road map here. I think the birdfeeder you made is better than anything else on the market. But it's not just about the technology. So over the coming quarter I'd like you to help us build it into a service platform that our customers can plug into for Ornithology News, Recent Sitings, Current and Historical Seed Receptacle Status.
 
 D: I'll take the dashboard ticket.
 
@@ -137,7 +137,7 @@ A: Does anyone actually want all that?
 
 B: _(Frowning)_ We have leads.
 
-A: What?
+A: Where?
 
 B: In the sales pipeline.
 
@@ -251,6 +251,10 @@ B: With what?
 
 A: The tickets I'm assigned?
 
+B: You could say that.
+
+A: Why did you make the ticket?
+
 B: We make the tickets as documentation of our plans for the coming weeks.
 
 H: I appreciate having the tickets.
@@ -259,13 +263,13 @@ B: Thank you, H.
 
 C: Yeah I don't think there's much objection to the tickets.
 
-A: I um... I sort of have trouble doing anything through the tickets.
+A: I um... I sort of have trouble doing anything via tickets.
 
 _(Assorted eyes widen.)_
 
 C: How do you mean?
 
-A: I can make things just fine.
+A: I can make things just fine...
 
 H: I don't mind the tickets.
 
@@ -295,7 +299,7 @@ D: It's basically Extreme Jitterbug.
 
 B: You don't want to just be "making stuff" haphazardly all over the place. It would be chaos.
 
-A: Can I just make stuff, not haphazardly?
+A: Can I just make stuff... not haphazardly?
 
 C: I think we can all agree that's what we're trying to do here.
 
