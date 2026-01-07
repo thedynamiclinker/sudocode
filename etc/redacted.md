@@ -39,7 +39,6 @@ The question then arises of why an unassuming young woman would:
 - using what appear to have been her own personal funds
 - and then assigning legal ownership of these houses, not to herself, but to a company
 - one that just happens to be named LD
-- and doing so without being particularly wealthy or well-connected
 - in an era when buying a home was considered financially impossible for all but the most well-off of her generation
 - and doing so without being particularly wealthy or well-connected
 - while in a "happy, committed, long-term relationship"
