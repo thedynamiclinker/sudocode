@@ -1,4 +1,9 @@
 
+> _When a measure becomes a target, it ceases to be a good measure._
+> -Goodhart's law
+
+---
+
 Add "Build your own fucking birdfeeder" screenshot from POC||GTFO to [[For the Birds]].
 
 ---
