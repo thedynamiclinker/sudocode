@@ -33,3 +33,35 @@
     color: var(--code-block) !important;
 }
 
+/** Reading mode: make fenced code blocks as padded as Live Preview */
+
+:root {
+  /* tweak these until it visually matches Live Preview */
+  --jw-codeblock-pad-y: 0.0em;
+  --jw-codeblock-pad-x: 0.0em;
+}
+
+/* Reading mode only (rendered markdown) */
+.markdown-reading-view .markdown-rendered :is(pre, pre[class*="language-"]),
+.markdown-reading-view .markdown-preview-view :is(pre, pre[class*="language-"]),
+.markdown-preview-view.markdown-rendered :is(pre, pre[class*="language-"]) {
+  padding: var(--jw-codeblock-pad-y) var(--jw-codeblock-pad-x) !important;
+}
+
+/* Some themes put padding on the wrapper instead of <pre> */
+.markdown-reading-view .markdown-rendered :is(.markdown-code-block, .el-pre) {
+  padding-left: var(--jw-codeblock-pad-x) !important;
+  padding-right: var(--jw-codeblock-pad-x) !important;
+}
+
+/* Prevent double-padding if the theme also pads <code> */
+/*
+.markdown-reading-view .markdown-rendered pre > code {
+  padding: 0 !important;
+}
+*/
+
+.markdown-reading-view .markdown-rendered code {
+  padding: 0.25em !important;
+}
+
