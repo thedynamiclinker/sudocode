@@ -91,8 +91,8 @@ in the current (what the hell am I writing again? oh right) paper.
     )
 
 In social psychology, Terror Management Theory (TMT) proposes a basic 
-psychological conflict that results from having a desire to live but realizing 
-that death is inevitable.[1]
+psychological conflict that results from having a desire to live but
+realizing that death is inevitable.[1]
 
 (ugh...)
 
@@ -101,11 +101,10 @@ that death is inevitable.[1]
 
 
 Similarly, in 
-formal-education/academia/science/basically-all-the-things-I-love, Merely 
-Thinking Thoughts (MTT) is prohibited on paper (POP) unless one agrees to wrap 
-said thoughts in (STI) a big obnoxious burka (BOB) of obfuscating jargon, thus 
-leading to a reciprocal psychological conflict in which one has a desire to die 
-but realizes life is inevitable...
+formal-education/academia/science/basically-all-the-things-I-love,
+Merely  Thinking Thoughts (MTT) is prohibited on paper (POP) unless
+one agrees to wrap said thoughts in (STI) a big obnoxious burka (BOB) of obfuscating jargon, thus leading to a reciprocal psychological conflict
+in which one has a desire to die but realizes life is inevitable...
 
 (Sorry... I'll edit that out later, I promise. Just trying to keep myself 
 entertained while I'm still here...)
