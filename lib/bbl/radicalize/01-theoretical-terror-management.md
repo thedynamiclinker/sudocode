@@ -65,9 +65,9 @@ so ends as (fuck what is *wrong* with me?) follows:
      Anyways, back to whatever this is...)
 
 
-    (Narrator: The increasingly depressed scientist turns his thoughts back to 
-    whatever-this-is/whatever-that-was (which, in the present situation, appears
-    to be "writing" (though honestly it's hard to tell.)))
+    (Narrator: The increasingly sad scientist turns his thoughts back to 
+    whatever-this-is/whatever-that-was (which, in the present situation,
+    appears to be "writing" (though honestly it's hard to tell.)))
 
 
 Having thus covered thusly (I think my brain's shutting down) the necessary

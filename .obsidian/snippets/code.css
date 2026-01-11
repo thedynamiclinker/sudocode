@@ -54,14 +54,14 @@
   padding-right: var(--jw-codeblock-pad-x) !important;
 }
 
-/* Prevent double-padding if the theme also pads <code> */
-/*
-.markdown-reading-view .markdown-rendered pre > code {
-  padding: 0 !important;
-}
-*/
-
 .markdown-reading-view .markdown-rendered code {
   padding: 0.25em !important;
 }
 
+/* Live Preview: remove blue indentation / block guide lines in code blocks */
+.markdown-source-view.mod-cm6
+.cm-indent::before,
+.markdown-source-view.mod-cm6
+.cm-block-marker {
+  display: none !important;
+}
