@@ -1,79 +1,5 @@
 
-## Isaiah Hates P
-
-“The multitude of your sacrifices— 
-    what are they to me?” says the Lord.  
-“I have more than enough of burnt offerings,  
-    of rams and the fat of fattened animals;  
-I have no pleasure  
-    in the blood of bulls and lambs and goats.  
-12 When you come to appear before me,  
-    who has asked this of you,  
-    this trampling of my courts?  
-13 Stop bringing meaningless offerings!  
-    Your incense is detestable to me.  
-New Moons, Sabbaths and convocations—  
-    I cannot bear your worthless assemblies.  
-14 Your New Moon feasts and your appointed festivals  
-    I hate with all my being.  
-They have become a burden to me;  
-    I am weary of bearing them.  
-15 When you spread out your hands in prayer,  
-    I hide my eyes from you;  
-even when you offer many prayers,  
-    I am not listening.
-
-Your hands are full of blood!
-
-
-
----
-
 Take ALL the old Principles that are good enough to publish, and cat them all together in one directory called /opt/law or something similar.
-
-That's Leviticus.
-
-The location in the book where you put the 0 and 1 dialogues ARE the places in the Torah where the J source is.
-
-J gets less frequent and disappears, and then suddenly comes back in 2 Samuel.
-
-Superimpose all main theories of which post-torah bits in the Deuteronomistic history were written by J. (i.e., use Friedman and Bloom's theories a bit and mix them w.r.t. whether or not J wrote a thing.)
-
-Also: Remember. It's ok to be incomplete or wildly brief!
-
-J is!
-
-So you're DONE with lost+found.
-
-Get this moving and port the best bits of Radicalize and Zanmen to the book.
-
-It's THE SAME STORY.
-
-It always has been.
-
-And remember:
-
-> _Some of it's blue._
-
-🖤❤️💙
-
-咱們
-
-P.S. Write something official on Sunday asserting that although the book claims to be for developers, it explicitly rejects "Programming Languages" as being "a scam" and not at all what development is about.
-
-So paradoxically, in Sudocode, there isn't much about how to do things in any given programming language.
-
-This is actually the only way to teach development in a way that's future proof against the ongoing apocalypse of the Nu.
-
-The book is not about programming in the sense of typing ASCII characters manually into text files in a language.
-
-The book is about _how we should live_ whatever fraction of our lives we each live _inside devices._
-
-It's about precisely that part of life that takes place in the digital realm.
-
-It's a bible for that world.
-
-In every sense of the term.
 
 ---
 
@@ -100,7 +26,7 @@ Amen.
 
 ---
 
-Add "Build your own fucking birdfeeder" screenshot from POC||GTFO to [[For the Birds]].
+Add "Build your own fucking birdfeeder" screenshot from POC||GTFO to [[brdfdr]].
 
 ---
 

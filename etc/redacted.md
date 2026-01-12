@@ -6,6 +6,10 @@ re·dact. (verb) /rəˈdak(t)/
 > _You must assume that every institution of your society has been hollowed out and is being worn as a skinsuit, either by those who don't care if you die, or those who actively want to destroy you, and it doesn't matter which is which._
 > -Devon Eriksen
 
+
+> _I think a lot about Ayn's theory of women came from the inevitable loneliness of the genius. Seeing so much that other people didn't see, with such ease and so clearly, necessarily creates a certain loneliness. When you see so much, so blindingly clearly, and you're surrounded by people who need it explained in detail and even with that sometimes don't see it, you end up feeling very alone. Ayn would have given anything in the world to find an equal... I think that longing, which was never fulfilled, had a lot to do with her focusing so much on a woman wanting to look up to a man. It was a very understandable and tragic result of her own need, a need we all have, but most of us can fulfill at least to some extent. She couldn't._
+> -Barbara Branden, on Ayn Rand
+
 ---
 
 ## Who is \[NAME-REDACTED\]?
