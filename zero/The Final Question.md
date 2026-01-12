@@ -45,12 +45,7 @@ institution. At least not the "law" of
 your nation, the nation where X lives.
 
 X claims to do this for self-preservation
-of X and X's people, as a defense mechanism.
-X claims to have learned to be this way slowly,
-over countless years of of living in places that
-either outlawed or intensely disapproved of
-what X considers to be the most harmless,
-normal, and important parts of themselves.
+of X and X's people, as a defense mechanism. X claims to have learned to be this way slowly, over countless years of of living in places that either outlawed or intensely disapproved of what X considers to be the most harmless, normal, and important parts of themselves.
 
 We're always on the lookout, X says, and
 always keep one eye open because we know
@@ -60,26 +55,16 @@ arrested for no reason at all.
 Society after society always seems to outlaw
 everything that X often does or wants to do.
 To outlaw the things that X considers most
-essential to X's identity. At least what X claims.
+essential to X's identity. At least this is what X claims.
 
-Normal members of society, the ones who tend
-to "fit in", are often heard saying "Look, the
-simple fact that X has been accused and chased
-out of town so many times must be because X
-is always guilty of doing something immoral
-or evil or wrong. It's not an accident that
-X keeps ending up in these situations,"
-so say the nations. X, of course, disagrees.
+Normal members of society, the ones who tend to "fit in", are often heard saying "Look, the simple fact that X has been accused and chased out of town so many times must be because X is always guilty of doing something immoral or evil or wrong. It's not an accident that X keeps ending up in these situations," so say the nations. X, of course, disagrees.
 
 X sometimes thinks it's in the nature of X
 that all non-X people come to resent or
 outlaw X's ideas, habits, and norms.
 
 Not because they know what X is up to.
-But because the same things that generate the
-impulse "This must be outlawed" in the minds
-of the non-X are the things that most readily
-come to mind, in the mind of X.
+But because the same things that generate the impulse "This must be outlawed" in the minds of the non-X are the things that most readily come to mind, in the mind of X.
 
 The most important parts of X's life
 are seen as inherently exploitative by
@@ -122,8 +107,7 @@ market crash or catastrophe has happened,
 X has consistently profited in major ways.
 
 Whenever everyone you know is panicking
-about their portfolio in any asset for any reason,
-X gets rich.
+about their portfolio in any asset for any reason, X gets rich.
 
 X never "picks a side."
 
@@ -143,13 +127,11 @@ to make plans that are guaranteed to
 benefit X, no matter what the outcome.
 
 X's values are at the same time both
-more progressive than your progressives, and
-more traditional than your conservatives.
-X is neither of these things.
-But X is not a formless vapor
-or an undefined shapeshifter.
+more progressive than your progressives, and more traditional than your conservatives.
 
-X is not lawless.  X is highly lawful.
+X is neither of these things. But X is not a formless vapor or an undefined shapeshifter.
+
+X is not lawless. X is highly lawful.
 But the laws that X follows and holds
 sacred are not the laws of your nation,
 but only the laws of X, and X's people.

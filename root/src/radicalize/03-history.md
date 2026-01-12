@@ -63,7 +63,7 @@ the primary reason for its demise being a highly publicized controversy
 in which the group's founder was found erstwhile to have engaged in a series
 of lewd and immoral acts including incest, bestiality, pedophilia, rape,
 sympathizing with the worst groups of scum on the planet,
-prostitution, gambling, emotional abuse, wife beating, life beating,
+prostitution, gambling, emotional abuse, wife beating, knife beating,
 making things up, sexual harassment, sexual harrasment,
 (and spelling it both ways), deadnaming, headgaming, homicidal dreams,
 paying both sexes only 70% of what men make for the same work,

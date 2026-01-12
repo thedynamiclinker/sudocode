@@ -23,6 +23,3 @@ Ayn would have given anything in the world to find an equal, and anything in the
 >
 > -Winston Churchill, February 8, 1920
 
-
-
-
