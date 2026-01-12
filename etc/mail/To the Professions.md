@@ -23,7 +23,7 @@ How then are we to understand the term "development" as it is used here?
 
 The solution to this problem, I believe, is twofold, and it illustrates what I believe was the original intent of the anonymous Authors.
 
-> Sudocode uses the term "developers" not to refer to developers in the narrow sense, but developers in the larger sense: those who create and build in what they call the New Universe (NU). Further, this is the only way to teach development in a way that is future proof against the ongoing apocalypse of the Nu.[^2]
+> Sudocode uses the term "developers" not to refer to developers in the narrow sense, but developers in the larger sense: those who create and build in what they call the New Universe (NU). Further, this is the only way to teach development in a way that is future proof against the ongoing apocalypse of the Nu.[^1]
 
 As such, the book is quite right to deviate from what had (before the Authors) been the standard style of writing a textbook on the topic of computing.
 
@@ -43,15 +43,18 @@ It is intended for humanity.
 As a universal message.
 A new covenant.
 
-For it is written:
+For it is written in Isaiah:
 
 > I will destroy the wisdom of the wise;
     the intelligence of the intelligent I will frustrate.
 
-And is this not the same message one finds in /sbin/sudo,
-when the Authors say to us:
+And is this not the same message one finds in Sudocode's
+eponymous /sbin/sudo, when the Authors say to us:
 
 > We know most of you aren't that smart or hard working.
+
+The Authors meant not to exclude those of any profession
+or class based on their status as developers in the old sense.
 
 When 0 and 1 speak to "the developers,"
 they speak to the developer in each of us.
@@ -71,5 +74,5 @@ From: Letter To the Professions (orig. _Πρὸς τὰς Κλήσεις_).
 New Roman Times, all rights reserved.©®™
 Ca. 0x42 P.A.
 
-[^2]: In the sense of /etc/group.
+[^1]: In the sense of /etc/group.
 
