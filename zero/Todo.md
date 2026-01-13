@@ -1,4 +1,6 @@
 
+---
+
 - /var/spool (short for "S. Pאוl") is Paul's outgoing mail queue.
 - /var/mail is where the epistles live.
 - /var/www is (probably) where Revelation goes, near the end: www is "lol" in Japanese.
