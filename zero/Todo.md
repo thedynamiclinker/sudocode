@@ -1,5 +1,13 @@
 
-Take ALL the old Principles that are good enough to publish, and cat them all together in one directory called /opt/law or something similar.
+- /var/spool (short for "S. Pאוl") is Paul's outgoing mail queue.
+- /var/mail is where the epistles live.
+- /var/www is (probably) where Revelation goes, near the end: www is "lol" in Japanese.
+
+---
+
+- Take ALL the old Principles that are good enough to publish, and cat them all together in one directory called /opt/law or something similar.
+
+- The Paul character says you don't have to follow the /etc/principles since the message is no longer just a message for developers.
 
 ---
 

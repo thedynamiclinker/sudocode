@@ -7,6 +7,8 @@ cssclasses:
 
 ![[paul-universalizing-the-message-1.jpg]]
 
+From: Στ. Ποολ. <σποολ@αποολος.ερ.χομ>
+
 To the Professions.
 
 I write to you on the subject of what has come to be called Universalization.
@@ -67,6 +69,11 @@ Inside me && you.
 
 Creation springs from the Word.
 This is the gift of Nu.
+
+Share this message,
+as I have shared it with you.
+
+Στ. Ποολ. (Αποολος)
 
 ---
 
