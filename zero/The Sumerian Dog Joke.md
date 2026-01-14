@@ -4,7 +4,7 @@
 > Who would they say it to?
 > And would we be able to hear it?
 > 
-> -_On the Lamb, Ch 8: The Water of Life_
+> -_On the Lamb, Ch. 8: The Water of Life_
 
 ---
 
@@ -16,14 +16,13 @@ It's fucked up here but it's also really beautiful and fun.
 
 There's lots of interesting things here on Earth.
 
-But definitely the most interesting one is humans.
+But definitely the most interesting thing is humans.
 
 ![[sumer-map-1.png]]
 
 This is Sumer.
 
-The first time we made cities,
-we made them here.
+The first time we made cities, we made them here.
 
 ![[sumer-cities-ur.png]]
 
@@ -65,10 +64,11 @@ Humans were hilarious, even back then.
 
 But soon after we invented cities, we invented other things too.
 
-Serious adult things, like professionalism, accounting, bureaucracy, desks, and paperwork. Before there was paper, there was paperwork. It's true.
+Serious adult things, like professionalism, accounting, bureaucracy, desks, and paperwork.
 
-Life got more serious and less funny
-for people like me and you.
+Before there was paper, there was paperwork. It's true.
+
+Life got more serious and less funny, for people like me and you.
 
 It happened slowly.
 
@@ -76,21 +76,20 @@ By 2800 BC, life was still funny, but you had to turn your head sideways to see 
 
 ![[old-sumerian-2.jpg]]
 
-By 2500 BC, the funny parts of life got harder and harder to hear.
+By 2500 BC, the funny parts of life got harder and harder to see and hear.
 
-Life was still funny.
+Life itself was still funny.
 
 But the Serious Adult Things of civilization made the funny bits harder to hear and less clear.
 
 These days, the old things are almost impossible to hear, until we learn to listen closely.
 
-> A dog walks into a bar.
+> _A dog walks into a bar._
 
 That's how the first joke in human history (at least the first one we have a record of) begins.
 
-It's from almost 4000 years ago, around 1700 BC.
-In Sumer (you know Sumer).
-During the Old Babylonian Empire.
+It's from almost 4000 years ago, around 1700 BC. In Sumer (you know Sumer). During the Old Babylonian Empire.
+
 And it's a bar joke.
 
 Here's the joke.
@@ -138,11 +137,11 @@ Some humans even hypothesized a lost "physical gesture" that was supposed to be 
 ![[sumerian-dog-joke-13.jpg]]
 
 
-No one really understood.
+No one really understood the joke.
 
 But that which is mysterious is revered.
 
-So humans made many tributes to the joke.
+So we humans made many tributes to the joke.
 
 
 ![[sumerian-dog-joke-04.jpg]]
@@ -219,9 +218,14 @@ The Sumerians had sophisticated visual arts.
 They could depict entire human beings,
 not just disembodied parts.
 
-And a stick figure of a human female is hardly more complex or less clear.
+And a stick figure of a human female would hardly be more complex or less clear,
 
-A stick figure with arms, legs, a head, and dignity!
+For the early writers to write,
+
+Or for the early readers to understand and hear.
+
+Why not use a stick figure?
+One with arms, legs, a head, and dignity!
 
 They didn't choose the stick figure.
 
@@ -229,7 +233,7 @@ They were humans.
 
 They chose this.
 
-Because, well...
+Because
 it was simple,
 it was elegant,
 it was obscene, &
@@ -243,10 +247,10 @@ As funny to them
 five thousand years ago
 as it is to me and you.
 
-And it was funny 1300 years
+And that was 1300 years
 before the Sumerian Dog Joke
 
-So no. We can not explain the joke away by waving our hands and saying "humor has changed since then."
+So no. We can not explain the Sumerian dog joke away by waving our hands and saying "humor has changed since then."
 
 But where could we possibly find anything timeless in a joke like this, let alone something funny?
 
@@ -270,7 +274,7 @@ Because, you know, humans are like that.
 
 That's one part of human life that's always been with us, after all.
 
-I mean seriously, we humans even put this picture in the Louvre: probably the best museum on Earth.
+I mean, we humans even put this picture in the Louvre. Probably the best museum on Earth.
 
 This.
 
@@ -365,6 +369,8 @@ Not enough to explain the joke.
 
 Maybe Bars?
 
+Hmm.
+
 What were those like, back then?
 
 Let's go see...
@@ -435,13 +441,14 @@ But that's the oldest joke.
 
 It's only a few lines.
 
-And it doesn't matter much,
+And the joke doesn't matter much,
 at the end of the day.
 
 But the story of it matters,
 to get us thinking about
 the Old Things in a timeless,
-and human, and irreverent sort of way.
+and human, and irreverently
+reverent eternal sort of way.
 
 Now, I should explain the gift.
 
@@ -456,11 +463,100 @@ That was something called J.
 ---
 ## The Book of J 
 
-TODO: 
-- Cut your yammering short here and mention "Tigris and Euphrates" in Genesis as soon as possible.
-- Mention Abraham and Ur.
-- Mention Gilgamesh and the Flood.
-- Mention Enkidu and Eden.
-- Then yammer whatever yammering you do, but only after that.
+So, in the real non-fiction history of our species:
+
+From around 3500–2300 BC, there was
+
+Sumer, the first:
+- City
+- Writing
+- Bar Joke
+- Bureaucracy (these guys always ruin everything)
+- In Sumer, we humans invented our first cities.
+- We didn't really know how to make "nations" yet.
+
+Then there was Akkad, the first:
+- Empire
+- Multilingual administration
+- Centralized military power
+
+Akkad invented scale, but not legitimacy.
+
+and Babylon (the first, how do we say, "modern city" that got so "modern"
+
+Everyone knows Genesis didn't actually happen right?
+
+We all know by now, the first book of the bible couldn't have possibly got it right.
+
+The Authors of Genesis couldn't have known the Serious Non-Fiction history of our species when they wrote the old myths 3000 years ago in Proto Canaanite...
+
+And even if the Authors knew a bit of Non-Fiction history, it's surely not visible in the stories they decided to write...
+
+... right?
+
+Whatever we might know or not know about the past,
+
+The one thing we know for sure is that there was never any truth in the whole "Eden" thing.
+
+I mean just look at how obviously false this all is:
+
+![[what-is-j-01.jpg]]
+
+Tigris and Euphrates?
+
+![[what-is-j-11.jpg]]
 
 
+![[what-is-j-02.jpg]]
+
+The tree of eternal life.
+
+![[what-is-j-03.jpg]]
+
+![[what-is-j-04.jpg]]
+
+![[what-is-j-05.jpg]]
+
+Ok but just because the Author(s) of Genesis happen to have taken the oldest story ever written -- still the oldest one we know in human history, after millenia and all that archaeology we've done from their time until today -- I mean surely it doesn't make this Genesis thing somehow "Non-Fiction" just because the Authors put a bunch of references to The Epic of Gilgamesh, which just happens to still be the oldest story we've ever found until today...
+
+I'm gonna need something a bit more Non-Fiction than that, if you expect me to believe Genesis (of all things) is actually a Non-Fiction history, albeit a playful one that bends the rules, rather than an entire made up legend like we all know it is today... right?
+
+![[what-is-j-06.jpg]]
+
+Babel?
+
+Erech?
+
+Accad?
+
+That sounds like...
+
+![[what-is-j-07.jpg]]
+
+No way...
+
+A few sentences after this is a strange old story called the Tower of Babel.
+
+Immediately after that, we switch from the history of the world to the history of a people, and we meet a guy named Abraham, back before he got the "ha" added to his name.
+
+What does it say about Abra(ha)m again?
+
+![[what-is-j-10.jpg]]
+
+He's from Ur.
+
+![[what-is-j-09.jpg]]
+
+We know Ur.
+
+![[sumer-cities-ur.png]]
+
+
+What the hell is this book?
+
+
+![[what-is-j-15.jpg]]
+
+![[what-is-j-16.jpg]]
+
+![[what-is-j-08.jpg]]

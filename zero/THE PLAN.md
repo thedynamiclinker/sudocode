@@ -1,6 +1,22 @@
 
 This is the plan for the rest of Sudocode.
 
+We:
+- All the "Developer" and "Our People" content from 2023 onward goes here.
+- That's the LD analogue of Judaism.
+- It's not about everyone.
+- It's about the high intelligence nerds.
+- They also make pretty good money.
+
+Babel:
+- All the "Universal Human Culture" content from the 2017 era goes here:
+- That's the LD analogue of Christianity.
+- It's about The Empire and how it sucks.
+- It's about everyone, not just one group.
+- Because when an Empire has gotten too big to fight, you need to build a big group that combines all the different cultures and people of Earth in order to kill the empire and usher in the next era of history.
+- These are the people that restart the clock to 0x00 P.A.
+- These are the people that Get Root on the Universe.
+
 ---
 
 The book aims to be structurally isomorphic to the Bible.
@@ -89,6 +105,7 @@ Then what?
 - Maybe 0 & 1 (or a similar voice) comes back here.
 - Takes the story from Linus to the Nu Apocalypse and 0x00 P.A.
 
+---
 
 Sunrise, 0x00 P.A.
 - This is "The Present Day" for most of the core Authors of the book.

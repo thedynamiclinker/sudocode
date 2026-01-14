@@ -9,8 +9,8 @@
 _(Narrator: The scene:
 Inside the /mnt directory
 0 has a vision,
-also known
-in more modern language
+also known in more
+modern language
 as "a dream.")_
 
 ---

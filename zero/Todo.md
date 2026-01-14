@@ -1,15 +1,103 @@
+ETA: 曰
+OI: 01
+NSH: נи曰нש
+R: 二
+DL: L⅂
+U: ו
 
 ---
 
-- /var/spool (short for "S. Pאוl") is Paul's outgoing mail queue.
-- /var/mail is where the epistles live.
-- /var/www is (probably) where Revelation goes, near the end: www is "lol" in Japanese.
+> Show me anyone you admire
+> And I will show you someone 
+> Who does not live like you do.
+> -Son of J
+
+> If you met your heroes before
+> you knew who they'd become
+> you would call them mentally
+> ill and irresponsible, and you'd
+> probably call the police.
+> -Son of J
 
 ---
 
-- Take ALL the old Principles that are good enough to publish, and cat them all together in one directory called /opt/law or something similar.
+## TODO
+
+Before dialing back
+to the usual speed,
+pun intended,
+here's the
+goal:
+
+Go through [[THE PLAN]]
+line by line and match all the files in /etc
+and all the files in the old Sudocode archives
+with the parts of the outline that say
+where they belong, and then
+put everything where it
+needs to be.
+
+This finally gives us the ability
+to build a skeleton of the full
+book from beginning to end.
+
+And then we can write a sort of
+directory by directory table of
+contents for the major parts
+of the book.
+
+You always had that for bmc
+and it made that book SO
+much easier.
+
+Build the skeleton on high speed.
+Then dial back, slow down & walk.
+
+The rest of the book will come naturally.
+
+Over time.
+
+When it's time.
+
+## /bin/fmt
+
+Generally speaking, there are two formats in which publishers choose to publish Sudocode.
+
+The minimalist and the maximalist.
+
+(Write more of this file, and explain that the maximalist or canonical versions are hardback, in full color, reproducing exactly the images in the original, and typically on A4 paper. The minimalist or protesting versions are generally paperback, with small pages designed to be held in the hand and carried, in black and white (or sometimes black, red, and blue) with all images translated to plain text, and designed for ease of publication and distribution in large numbers at an affordable price. They believe the words of Sudocode are what is essential, and the ostentatious format is a priestly dilution of the original intent.)
+
+## /etc/principles
+
+> _When a measure becomes a target, it ceases to be a good measure._
+> -Goodhart's law
+
+- Take ALL the old Principles that are good enough to publish, and cat them all together in one directory called /etc/principles 
 
 - The Paul character says you don't have to follow the /etc/principles since the message is no longer just a message for developers.
+
+## /etc/brdfdr
+
+This should be a parable.
+Make the Son of J say them.
+Son of J often refers back to the /etc/principles
+
+- Add Noah screenshot and Children's Bible Coloring book picture to /etc/brdfdr.
+- Add "Build your own fucking birdfeeder" screenshot from POC||GTFO to [[brdfdr]].
+
+## /tmp
+
+/tmp is where the apocrypha go.
+
+A lot of the stuff currently in /etc goes there.
+
+It contains both deleted scenes and fanfiction.
+
+Somewhere in /tmp, leave an unexplained file saying:
+- And Joseph said `fortune | lolcat`, for he was a dream master of many colors.
+- `vi qra` 1 The L||D called to Drew and spoke to him from the 十t of meeting. He said, 2 “Speak to the Developers and say to them:wq
+- And Josh said to the tree of `figlet you be cursed now and forever`
+
 
 ---
 
@@ -28,15 +116,6 @@ Write the Son of J.
 Coming soon.
 
 Amen.
-
----
-
-> _When a measure becomes a target, it ceases to be a good measure._
-> -Goodhart's law
-
----
-
-Add "Build your own fucking birdfeeder" screenshot from POC||GTFO to [[brdfdr]].
 
 ---
 
@@ -82,7 +161,7 @@ The Great Copy Paste Refactor
 
 ---
 
-## The Group
+## Qoph: The Secret /etc/group that the Son of J refers to using the Camel & Eye of Needle hint
 
 - The new /etc/group that 0 & 1 start after the night time scene is where the old LSTJ content goes, both from the original dialogue between J/G/A, and from the dialogues in How to Control Everything.
 
