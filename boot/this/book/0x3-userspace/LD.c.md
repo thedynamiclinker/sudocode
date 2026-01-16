@@ -30,7 +30,7 @@ int main(int argc, char *argv[]) {
     // tell the compiler not to freak out, just
     // treat the machine code as a function.
     void (*code)() = bin;
-	
+
 	// now i guess we just jump...
 	//
 	// into the void (*)()
