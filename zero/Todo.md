@@ -1,4 +1,21 @@
 
+---
+
+The Only Law
+
+> Programming is talking.
+> 
+> There are two species we talk to inside devices.
+> 1. Humans.
+> 2. Machines.
+> 
+> Every single piece of timeless wisdom about "development" follows from a single principle:
+> 
+> (The document ends here)
+
+
+---
+
 Major question we need to answer.
 
 > _Why is Unix so pleasant?_
