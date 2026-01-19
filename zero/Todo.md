@@ -1,4 +1,25 @@
 
+SEE UNIX FILE IN THIS DIRECTORY!
+
+NEED TO REALLY START EXPLAINING THE MAGIC OF UNIX BEFORE WE DIAL BACK TO NORMAL SPEED!
+
+---
+
+The Son of J was a student of John.
+
+(Footnote: John of (t二u)(b日i))
+
+And John died, after a lifetime of teaching.
+
+The Son of J was in those days wandering in the wilderness.
+
+When he returned from there, he began to teach as he walked.
+
+---
+
+Easy Key El. (Ezekiel)
+The easy book.
+
 ---
 
 The Only Law

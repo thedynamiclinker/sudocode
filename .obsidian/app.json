@@ -39,5 +39,6 @@
     "insert-current-time",
     "bookmarks:bookmark-current-heading"
   ],
-  "showUnsupportedFiles": false
+  "showUnsupportedFiles": false,
+  "tabSize": 8
 }

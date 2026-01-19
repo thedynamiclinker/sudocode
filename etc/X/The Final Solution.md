@@ -86,16 +86,39 @@ A story of who we are, where we came from, and what it means to be Our People.
 
 ## Let's start the jews
 
-> _\[This is\] all of the material of classic antisemitism: The Jews are an unassimilable group. Self-interested. Internationally organized very tightly and all talking to each other and kind of working as one mind. Who don't have the interest of the \[nations they live in\] at heart, they have their own interests at heart. And are animated by a deep hostility to the society that surrounds them._
+> _Nevertheless they were forbidden to enter public service and to open retail shops, which had the effect of driving them into foreign trade in which they were soon exercising all but a monopoly because of their European connections._
 > 
-> -Some Guy, saying a bunch of things that sound like compliments to me. I mean hell, what do I know? I'm not Jewish by birth or religion. But that paragraph up there? Makes the people it's describing sound pretty badass and cool.
+> _This is only one of the thousand illustrations which can be given of the resourcefulness of the Jew. Forbid him in one direction he will excel in another._
+> 
+> _When he was forbidden to deal in new clothes, he sold old clothes — that was the beginning of the organized traffic in secondhand clothing._
+> 
+> _When he was forbidden to deal in merchandise, he dealt in waste — the Jew is the originator of the waste product business of the world; he was the originator of the salvage system; he found wealth in the debris of civilization._
+> 
+> _He taught people how to use old rags, how to clean old feathers, how to use gall nuts and rabbit skins. He has always had a taste for the furrier trade, which he now controls, and to him is due the multitude of common skins which now pass under various alluring trade names as furs of high origin._
+.
+> -Henry Ford, in The International Jew: The World's Foremost Proble--- Wait... What? 
+> 
+> _(Narrator: The Author re-reads the quote.)_ 
+> 
+> Author: _(Muttering to himself)_ Forbid one... excel in another... found wealth in the debris of...
+> 
+> _(Narrator: Author finishes rereading the quote.)_
+> 
+> Author: Ok I don't know what just happened. But like... All these things sound like compliments to me. And I'm pretty sure this isn't some rare personal quirk of mine, I mean hell, what do I know? I'm not Jewish by birth or religion. But that paragraph up there, unless I woke up on another planet this morning, that paragraph makes the people it's describing sound pretty fucking cool.
 
+%% Another good one: \[This is\] all of the material of classic antisemitism: The Jews are an unassimilable group. Self-interested. Internationally organized very tightly and all talking to each other and kind of working as one mind. %%
 
 LSTJ (from Church of Babel) goes here.
 
 Then LSTJ from the J/A/G dialogue.
 
 Then How to Control Everything.
+
+> _Instances of Jewish prosperity in the United States are commonplace, but prosperity, the just reward of foresight and application, is not to be confounded with control. It would be impossible for any Gentile coalition under similar circumstances to attain the control which the Jews have won, for the reason that there is lacking in the Gentile a certain quality of working-togetherness, a certain conspiracy of objective, and the adhesiveness of intense raciality, which characterizes the Jew. It is nothing to a Gentile that another man is a Gentile; it is next to everything to a Jew that the man at his door is another Jew._
+> 
+> -Henry Ford again, in an "antisemitic" book that makes me want to convert to Judaism because c'mon man, just read the quote again.
+
+
 
 Then find a way to include a "When there's nothing left to take away" section near the end.
 
