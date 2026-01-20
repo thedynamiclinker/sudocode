@@ -1,5 +1,49 @@
 
-(Todo: A Zen koan type dialogue where 0 asks 1 a question about all these files.)
+Why is Unix so pleasant? It's so different from other systems, and from even the most common ways of storing data like a csv or a json file. Unix /etc files say things like cake on each line instead of saying True in a column that says cake at the top, and because of that, each line is independently informative and can be processed without needing a header. Unix config files are all, without exception, underfit data formats, in the sense that they're intentionally less opinionated about who and what will be processing them and modifying them EVEN COMPARED TO A CSV OR JSON FILE! The "list of lines" data type is barely a data type, and it has so many implicit affordances (benefits that just show up without you needing to build them in) than even the simplest forms of additional structure like a dictionary. We don't need to say "grep pattern line.keys()" or "grep pattern line.values()" or "grep pattern list(line.values())[3]"
+
+We just say grep.
+
+Only Unix has this level of elegance, and it's not about code, it's about the international underfitting of data storage to any particular measure of quality.
+
+Say more about this and people who've talked about it. I'm looking for insights into Unix and why it's pleasant that go beyond the standard "Unix philosophy" and "Do one thing and do it well" and "Worse is better" cultural copypasta that everyone's seen a thousand times. The shell with pipes is actually monadic. It's got all the benefits of what Haskell people seek in monads, for free, because there's one type (strings) so all functions compose. All additional structure is "off the books," and is up to the human to decide which structure matters for their current purposes. The shell is the highest level language in existence: unrecognized identifiers are interpreted as EXTERNAL PROGRAMS and looked up in a configurable path! And using exec for code sharing instead of import / include / use / any other method of within process code sharing automatically makes your code async and concurrent and all the best things because the kernel is already running hundreds of processes at once and doing all the relevant locking for you. Exec, the shell, and pipes are the ultimate form of scalable development, and the people who say "long shell scripts are unmaintainable" are right! The shell demands that its sentences (scripts) remain simple. But only the shell is a tower of babel that can unite all programs in all languages together, provided they use exec and stdout / stdin for communication. Say more in this vein and give pointers
+
+---
+
+Major question we need to answer.
+
+> _Why is Unix so pleasant?_
+
+It's not really any of the things we ever hear.
+
+It's things like:
+
+> /etc is both machine readable and human readable.
+
+Config files are not designed to have "a particular syntax."
+Compare the idea of a `.tsv` vs how `awk` thinks.
+These two things could not be more different.
+Ask how each behaves in the presence of `\t\t`.
+To a `.tsv`, there's a missing value between the tabs.
+To `awk`, and to most of the files in `/etc`, _there is no such thing as a stored missing value._
+Missing values are not `Nan`: they're _missing._
+
+To see the difference, consider the "reasonable" case of a csv,
+with named columns in the first row (a header),
+and boolean values `True` and `False` stored
+in the column below some key in that header.
+
+That is, compare this:
+
+| Name | Age | Sex | IsBoopy | OtherFact | OtherMeasurement |
+| ---- | --- | --- | ------- | --------- | ---------------- |
+| A    | 1   | M   | True    | False     | 42               |
+| B    | 2   | F   | False   | True      | 69               |
+| C    | 3   | M   | True    | False     | 100              |
+| D    | 4   | F   | False   | False     | 22               |
+
+With this...
+
+---
 
 ```sh
 user@world $ cat /proc/locks 

@@ -1,3 +1,16 @@
+
+The Son of J was a student of John.
+
+(Footnote: John of (t二u)(b日i))
+
+And John died, after a lifetime of teaching.
+
+The Son of J was in those days wandering in the wilderness.
+
+When he returned from there, he began to teach as he walked.
+
+---
+
 The sayings of the Son of J, who is also called Ben Ya, Υιόςγιαχ, Benja, Yios, Ben ia, 耶孫, and whose name means Jah saves, Yah saves, Ia saves, and who was said to be a healer greater than any human that ever lived.
 
 > Show me anyone you admire

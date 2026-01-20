@@ -5,23 +5,6 @@ NEED TO REALLY START EXPLAINING THE MAGIC OF UNIX BEFORE WE DIAL BACK TO NORMAL 
 
 ---
 
-The Son of J was a student of John.
-
-(Footnote: John of (t二u)(b日i))
-
-And John died, after a lifetime of teaching.
-
-The Son of J was in those days wandering in the wilderness.
-
-When he returned from there, he began to teach as he walked.
-
----
-
-Easy Key El. (Ezekiel)
-The easy book.
-
----
-
 The Only Law
 
 > Programming is talking.
@@ -36,19 +19,6 @@ The Only Law
 
 
 ---
-
-Major question we need to answer.
-
-> _Why is Unix so pleasant?_
-
-It's not really any of the things we ever hear.
-
-It's things like:
-
-/etc is both machine readable and human readable.
-
-config files are not designed to have "a particular syntax"
-- e.g., a `.tsv` file vs how `awk` thinks.
 
 ## TODO
 
