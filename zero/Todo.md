@@ -1,7 +1,12 @@
 
-SEE UNIX FILE IN THIS DIRECTORY!
+> _If you do not breathe through writing, if you do not cry out in writing, or sing in writing, then don't write, because our culture has no use for it._
+> -Anais Nin
 
-NEED TO REALLY START EXPLAINING THE MAGIC OF UNIX BEFORE WE DIAL BACK TO NORMAL SPEED!
+---
+
+```
+echo ĉ{i,o}ng
+```
 
 ---
 
