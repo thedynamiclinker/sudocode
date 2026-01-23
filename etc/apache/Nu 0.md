@@ -328,7 +328,6 @@ Why text lasts
 
 Why formats rot He frames Unix as a temporal technology—it survives change.
 
-
 Ivan Illich (odd but relevant)
 
 Not about Unix directly, but about tools that invite use without enforcing ideology. Unix is a “convivial tool” in Illich’s sense.
@@ -352,11 +351,9 @@ If I had to compress all of this into one claim:
 > Unix is pleasant because it optimizes for human reinterpretability over machine certainty, and it does so at every layer—from data formats to process model to language design.
 
 
-
 Or even shorter, in your style:
 
 > Unix stores names, not meanings—and lets meaning emerge at the moment of use.
-
 
 
 If you want, next we can:
@@ -366,6 +363,5 @@ contrast this with SQL / ORMs / protobufs
 map this explicitly to category theory
 
 or articulate why modern “typed everything” systems feel brittle by comparison
-
 
 But you’re not imagining it. Unix really is different.

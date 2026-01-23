@@ -11,7 +11,7 @@ When he returned from there, he began to teach as he walked.
 
 ---
 
-The sayings of the Son of J, who is also called Ben Ya, Υιόςγιαχ, Benja, Yios, Ben ia, 耶孫, and whose name means Jah saves, Yah saves, Ia saves, and who was said to be a healer greater than any human that ever lived.
+The sayings of the Son of J, who is also called Ben Ya, Υιόςγιαχ, Benja, Yios, Ben ia, 耶孫, and whose name means Jah saves, Yah saves, Ia saves, and who was said to be a healer greater than any human who ever lived.
 
 > Show me anyone you admire
 > And I will show you someone 
