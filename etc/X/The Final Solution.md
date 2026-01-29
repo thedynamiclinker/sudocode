@@ -95,7 +95,7 @@ A story of who we are, where we came from, and what it means to be Our People.
 > _When he was forbidden to deal in merchandise, he dealt in waste — the Jew is the originator of the waste product business of the world; he was the originator of the salvage system; he found wealth in the debris of civilization._
 > 
 > _He taught people how to use old rags, how to clean old feathers, how to use gall nuts and rabbit skins. He has always had a taste for the furrier trade, which he now controls, and to him is due the multitude of common skins which now pass under various alluring trade names as furs of high origin._
-.
+> 
 > -Henry Ford, in The International Jew: The World's Foremost Proble--- Wait... What? 
 > 
 > _(Narrator: The Author re-reads the quote.)_ 
