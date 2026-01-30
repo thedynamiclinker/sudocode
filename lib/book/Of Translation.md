@@ -1,4 +1,3 @@
-## On Translation
 
 > _I am a cage, in search of a bird._
 > -From an Author who lived in the Austro-Hungarian Empire, whose given name and surname taken together mean "A Small Bird that is Free."

@@ -5,11 +5,12 @@
 
 ## Concrete Tasks
 
+- [x] /tmp: the apocrypha. move the more fragmentary stuff that's currently in /etc to here.
+
 - [ ] [[bashbug|/bin/bashbug]]: email Chet asap.
 - [ ] [[brdfdr|/etc/brdfdr]]: see top of file for images to add.
 - [ ] [[Hello World|/bin/sudo]]: su(merian) do(g) (joke), finish and send with gifts.
 - [ ] /etc/principles: find the old principles, choose favorites, add to /etc/principles as the first law.
-- [ ] /tmp: the apocrypha. move the more fragmentary stuff that's currently in /etc to here.
 
 - [ ] [[lost+found/2/3|/lost+found/2/3]]: quickly fill the gaps.
 - [ ] [[lost+found/2/4|/lost+found/2/4]]: quickly fill the gaps.
@@ -19,3 +20,4 @@
 - [ ] [[lost+found/5/3|/lost+found/5/3]]: gospel style, should be short
 - [ ] [[lost+found/5/4|/lost+found/5/4]]: gospel style, should be short
 - [ ] [[lost+found/5/5|/lost+found/5/5]]: 0 & 1 on turing, use what you already have & move on
+
