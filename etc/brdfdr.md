@@ -1,3 +1,11 @@
+
+TODO
+- This should be a parable. Make the Son of J tell it.
+- Add Noah screenshot and Children's Bible Coloring book picture.
+- Add "Build your own fucking birdfeeder" screenshot from POC||GTFO.
+
+---
+
 ## For the Birds
 
 ### Lunchtime, 12:00pm
