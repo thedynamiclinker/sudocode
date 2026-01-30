@@ -35,3 +35,7 @@
 
 (Narrator: nothing appropriate.)
 ```
+
+---
+
+/bin/ed is a dialogue with the editor.
