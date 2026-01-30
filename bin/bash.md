@@ -28,7 +28,7 @@
 
 1: Wow that sounds useful!
 
-0: It's really not. It's a horrible feature. I'm currently working on a bugfix to the history expansion in bash upstream and it's such a headache.
+0: It's not. I mean it's a nice feature for camping trips in a rusty TTY without copy/paste. Outside of that, I mostly just press "up" a bunch. Regardless, I'm currently working on a bugfix to the history expansion in bash upstream and it's such a headache.
 
 1: You found a bug in bash upstream?
 
