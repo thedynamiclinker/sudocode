@@ -1,1 +1,0 @@
-Top down only in cases where a group organically organizes around a leader.
