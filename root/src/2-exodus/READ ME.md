@@ -1,5 +1,5 @@
 
-![[root/tiger/2-exodus/include/ld.png]]
+![[root/src/2-exodus/include/ld.png]]
 
 <span style="display: block; text-align: center; font-style: italic;">The Book of Departure</span>
 
