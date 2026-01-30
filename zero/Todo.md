@@ -1,6 +1,13 @@
 
 ---
 
+You have heard it said that process makes it better.
+But I say to you, Worse is Better.
+
+一 /dev/zero, sermon on the /mnt
+
+---
+
 1: Wtf is a "group one-on-one"?
 
 ---
