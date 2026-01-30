@@ -1,6 +1,6 @@
 
-> _Don't worry about people stealing an idea. If it's original, you will have to ram it down their throats._
-> -H. Aiken
+> _If you do not breathe through writing, if you do not cry out in writing, or sing in writing, then don't write, because our culture has no use for it._
+> -Anais Nin
 
 ---
 

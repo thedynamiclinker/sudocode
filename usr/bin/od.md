@@ -1,4 +1,3 @@
-
 > _Since this talk is being taped, I am forced therefore to remind you that nothing I say represents the plans and policies of the Department of the Navy or the Naval Service at large. Everything I say is purely the opinion of the speaker!_
 > 
 > _I'm appalled at you, in a way. You're all "Establishment." And I think I spent 20 years fighting the "Establishment."_
@@ -11,18 +10,14 @@
 
 ---
 
-> _Probably the most dangerous phrase you can ever use in a computer environment is that dreadful one: "But we've always done it that way." That's a forbidden phrase in my office. To emphasize the fact I keep a clock that goes entirely counter clockwise._
-> -Grace Hopper
+> Why do programmers always mix up Christmas and Halloween?
+> Because Dec 25 is Oct 31.
+> -Ancient joke, origin unknown
 
 ---
 
-> _If anyone says "But we've always done it that way" I will immediately materialize and haunt you for 24 hours._
-> -Grace Hopper
-
----
-
-> _So I want to tell something to all the young people here. On many many many occasions you'll find it is much easier to apologize than it is to get permission. You do it! Then if someone comes after ya and says "Were you supposed to do that?" you say "Aw gee I didn't know I wasn't supposed to do that."_
-> -Grace Hopper
+> What's 10 in base 10?
+> -Developer koan
 
 ---
 

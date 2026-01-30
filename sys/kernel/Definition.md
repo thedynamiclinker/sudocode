@@ -27,9 +27,6 @@ This is not, in itself, an unreasonable thing to do.
 
 ## The Foundational People
 
-> _Probably the most dangerous phrase you can ever use in a computer environment is that dreadful one: "But we've always done it that way." That's a forbidden phrase in my office. To emphasize the fact I keep a clock that goes entirely counter clockwise._
-> -Grace Hopper
-
 ### Of Two Minds
 
 The Foundational members (lowercase), in contrast, never fully become Members (uppercase) of the fields to which they belong.
@@ -52,11 +49,8 @@ Note the "I" in item one, and the "we" in item two.
 
 ### 1. The Objective Stance
 
-> _So I want to tell something to all the young people here. On many many many occasions you'll find it is much easier to apologize than it is to get permission. You do it! Then if someone comes after ya and says "Were you supposed to do that?" you say "Aw gee I didn't know I wasn't supposed to do that."_
-> -Grace Hopper
-
-> _It's better to ask forgiveness than permission._
-> -Programmer Proverb, origin unknown
+> _Hackers, as a rule, love wordplay and are very conscious and inventive in their use of language. These traits seem to be common in young children, but the conformity-enforcing machine we are pleased to call an educational system bludgeons them out of most of us before adolescence._
+> -Eric S. Raymond, The Jargon File
 
 For any complex system, from a modern computing device, to the legal code of a nation, to the social norms of a culture, the Foundational mind's first interest -- the objective source of truth -- concerns what one _can_ get away with, in the system _as it currently exists._
 
@@ -124,9 +118,6 @@ Reality does not come with a user's manual or handbook.
 It is up to the scientist, the Foundational mind, to write her books for her.
 
 ### 2. The Aspirational Stance
-
-> _If anyone says "But we've always done it that way" I will immediately materialize and haunt you for 24 hours._
-> -Grace Hopper
 
 The Foundational are not necessarily unaware of Social Reality.
 

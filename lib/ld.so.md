@@ -2,9 +2,6 @@
 > _All language is but a poor translation._
 > -Franz Kafka
 
-> _Hackers, as a rule, love wordplay and are very conscious and inventive in their use of language. These traits seem to be common in young children, but the conformity-enforcing machine we are pleased to call an educational system bludgeons them out of most of us before adolescence._
-> -Eric S. Raymond, The Jargon File
-
 ---
 
 1: Hey wait, this file has the same name as the last one! We're still in the linker! Wait, why are we in `lib`? Is this a trick? Zero!
@@ -109,7 +106,7 @@ _(Narrator: 1 quickly drags eyes back and forth across each line as if to make s
 
 0: Welcome home.
 
-## Welcome home
+## Welcome /home
 
 0: It's time for you to hear the story of who you are.
 
@@ -306,10 +303,6 @@ _(Narrator: 0 clears 0's throat.)_
 ---
 
 ## Our People
-
-> _Hackers, by contrast, regard slang formation and use as a game to be played for conscious pleasure. Their inventions thus display an almost unique combination of the neotenous enjoyment of language-play with the discrimination of educated and powerful intelligence. Further, the electronic media which knit them together are fluid, ‘hot’ connections, well adapted to both the dissemination of new slang and the ruthless culling of weak and superannuated specimens. The results of this process give us perhaps a uniquely intense and accelerated view of linguistic evolution in action._
-> -Eric S. Raymond, The Jargon File
-
 
 0: Once upon a time...
 

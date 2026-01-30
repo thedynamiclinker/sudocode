@@ -4,7 +4,7 @@ pun intended,
 here's the
 goal:
 
-Go through [[THE PLAN]]
+Go through [[Outline]]
 line by line and match all the files in /etc
 and all the files in the old Sudocode archives
 with the parts of the outline that say

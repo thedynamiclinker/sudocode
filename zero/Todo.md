@@ -1,46 +1,28 @@
 
----
+## /usr/bin/*
 
-You have heard it said that process makes it better.
-But I say to you, Worse is Better.
+The education of user, uid 1, in /usr, through the format of _Idk Howtos._
 
-一 /dev/zero, sermon on the /mnt
+1. [[mouse|/usr/bin/mouse]], using code from [[mouse.so.1|/usr/lib/mouse.so.1]]
 
----
+2. Make a hello world display server by reading whichever device file it's using (/dev/fb0), reverse engineering the format, and then writing to that device file.
 
-1: Wtf is a "group one-on-one"?
+3. Reading an image file out of memory.
+	1. Open a browser, and open any image in that browser.
+	2. It's now somewhere in your machine's memory.
+	3. Given no other information, figure out how to write code to read that image out of memory.
 
----
+4. Reading a GET request in transit.
+	1. Open a browser, click on a link.
+	2. Figure out the request it sent when you clicked, in sufficient detail that we can replay the same request and get the same result.
 
-```
-You have been logged out of society due to inactivity.
-```
+5. Write a Hello World filesystem.
+	1. Get a USB key, and fill it full of zeroes. No filesystem, no nothing.
+	2. Don't format it. That's cheating.
+	3. Now write code that'll let you store a file on it, and then read the file back after the USB key is unplugged and plugged back in.
+	4. Now write code to "delete" the file (overwrite the table of contents entry).
+	5. Now write code that lets you "undelete" the file and recover it.
 
----
-
-> _If you do not breathe through writing, if you do not cry out in writing, or sing in writing, then don't write, because our culture has no use for it._
-> -Anais Nin
-
----
-
-```
-echo ĉ{i,o}ng
-```
-
----
-
-> The Only Law
->
-> There are two species we talk to inside devices.
-> 1. Humans.
-> 2. Machines.
-> 
-> Every single piece of timeless wisdom about "development" follows from a single principle:
-> 
-> _Programming is talking._
-
-
----
 
 ## /bin/fmt
 
@@ -59,15 +41,6 @@ The minimalist and the maximalist.
 
 - The Paul character says you don't have to follow the /etc/principles since the message is no longer just a message for developers.
 
-## /etc/brdfdr
-
-This should be a parable.
-Make the Son of J say them.
-Son of J often refers back to the /etc/principles
-
-- Add Noah screenshot and Children's Bible Coloring book picture to /etc/brdfdr.
-- Add "Build your own fucking birdfeeder" screenshot from POC||GTFO to [[brdfdr]].
-
 ## /tmp
 
 /tmp is where the apocrypha go.
@@ -76,31 +49,19 @@ A lot of the stuff currently in /etc goes there.
 
 It contains both deleted scenes and fanfiction.
 
-Somewhere in /tmp, leave an unexplained file saying:
+The following files are found in /tmp, without explanation:
 - And Joseph said `fortune | lolcat`, for he was a dream master of many colors.
+- And Josh said to the tree: `figlet you be cursed now and forever`
 - `vi qra` 1 The L||D called to Drew and spoke to him from the 十t of meeting. He said, 2 “Speak to the Developers and say to them:wq
-- And Josh said to the tree of `figlet you be cursed now and forever`
 
+## /etc/brdfdr
 
----
+This should be a parable.
+Make the Son of J say them.
+Son of J often refers back to the /etc/principles
 
-The spread of the book will be an extremely easy thing to do, but will require an organized multi publisher marketing effort that amounts to a sort of retcon or benevolent gaslighting, and it absolutely will not be designed to make money, gain fame, or sell books. As in Christianity, the messiah must not be a human person who sticks around and gets power for being that. Any messiah but be a near fictional (or entirely fictional) character in a book, who is asserted to have existed (and maybe does) but is then said to have died or disappeared. This is a general rule, not just a fact about the Jesus character. The Satoshi figure in bitcoin is exactly the same archetype, and bitcoin went from $0 to over a TRILLION in market cap because it WASN'T product by a company or a man. It came into the world basically ex nihilo, by a character no one knows the name of, who then disappeared forever, leaving billions of dollars unclaimed.
-
-Any proper implementation of the biblical api must stick to that blueprint religiously.
-
-Write the plan of attack.
-
-Write the character.
-
-Write the story.
-
-Write the Son of J.
-
-Coming soon.
-
-Amen.
-
----
+- Add Noah screenshot and Children's Bible Coloring book picture to /etc/brdfdr.
+- Add "Build your own fucking birdfeeder" screenshot from POC||GTFO to [[brdfdr]].
 
 ## lost+found
 
