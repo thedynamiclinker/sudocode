@@ -21,3 +21,17 @@
 - [ ] [[lost+found/5/4|/lost+found/5/4]]: gospel style, should be short
 - [ ] [[lost+found/5/5|/lost+found/5/5]]: 0 & 1 on turing, use what you already have & move on
 
+---
+
+```
+~ $ man apropos | grep -A2 MANWIDTH
+       MANWIDTH
+              If  $MANWIDTH  is  set,  its  value is used as the terminal width
+              (see the --long option).
+
+0: What are you looking at?
+
+1: !!
+
+(Narrator: nothing appropriate.)
+```
