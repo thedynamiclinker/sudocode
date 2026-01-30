@@ -1,5 +1,6 @@
 ## A Bug in History
 
+%%
 > We were building Mark II in the summer of 1945.
 > 
 > It was a hot summer in Cambridge一naturally, since it was World War II.
@@ -21,6 +22,7 @@
 ![[1945-first-actual-bug-found.jpeg]]
 
 ---
+%%
 
 0: A shell history expansion. It expands to whatever the most recent line was in our chat history where one of us said the word "programmers." Sorry, old habit.
 
