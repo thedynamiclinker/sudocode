@@ -19,7 +19,7 @@
 
 1: 
 ```sh
-~ $ echo $0
+~ $ pwd
 /bin/sh
 ```
 
@@ -33,7 +33,11 @@
 
 1: Did you not see my `pwd`?
 
-0: Write me a Hello world in `$(pwd)` in `$(pwd)`
+0: I think you mean `echo $0`.
+
+1: Oh rig---
+
+0: But whatever, write me a Hello world in `$(pwd)` in `$(pwd)`.
 
 1: Write you a Hello world in the shell _in the shell?_
 
