@@ -16,7 +16,7 @@ _(Narrator: 0 sits with 1 for between 10 and 12 hours, while 1 talks non-stop ab
 
 ---
 
-1: So according to Godel's incompleteness theorem, in any database with enough tables to model first order arithmetic, there must exist rows that no query can sele---
+1: So according to Gödel's incompleteness theorem, in any database with enough tables to model first order arithmetic, there must exist rows that no query can sele---
 
 ---
 

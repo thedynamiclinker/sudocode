@@ -250,6 +250,7 @@
             └── 60000_vm
 
 ```
+
 1: That's was fu---
 
 0: Ok look, the most extreme cases of the rectangle degeneration aren't the same as the others.

@@ -5,8 +5,6 @@
 
 ## Concrete Tasks
 
-- [x] /tmp: the apocrypha. move the more fragmentary stuff that's currently in /etc to here.
-
 - [ ] [[bashbug|/bin/bashbug]]: email Chet asap.
 - [ ] [[brdfdr|/etc/brdfdr]]: see top of file for images to add.
 - [ ] [[Hello World|/bin/sudo]]: su(merian) do(g) (joke), finish and send with gifts.
