@@ -42,3 +42,16 @@ $(cat mnt/lost+found/#12 \
           -e 's/ב/b/' \
           -e 's/ש/sh/')
 ```
+
+%%
+```sh
+cat > clean << EOF
+#!/bin/sh
+cd
+rm mnt/ld
+umount mnt 
+rmdir mnt
+rm -f נה.sh
+EOF
+```
+%%
