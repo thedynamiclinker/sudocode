@@ -10,6 +10,7 @@ A: Stop it. Be happy.
 a: My life is something unacceptable to you.
 A: Bc you never listen when I say what to do.
 
+---
 
 a: My life was unstable.
 A: You made bad decisions.
@@ -23,6 +24,8 @@ A: And whose fault was that?
 a: My life was something unacceptable to you.
 A: Bc you didn't listen when I said what to do.
 
+
+---
 
 a: How was your flight?
 A: Didn't sleep all night.
