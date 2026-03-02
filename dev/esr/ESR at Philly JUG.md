@@ -34,8 +34,3 @@ end = 14:00
 ### No one can take those freedoms away. We have the internet. 
 start = 13:00
 end = 
-
-
-
-
-

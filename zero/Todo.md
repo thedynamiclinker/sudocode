@@ -1,4 +1,7 @@
 
+> _You sensed that you should be following a different path, a more ambitious one, you felt that you were destined for other things but you had no idea how to achieve them and in your misery you began to hate everything around you._
+> -Dostoyevsky
+
 ## Act 0: In Search of Lost Roots (Rough Draft Done)
 
 - At some point in `lost+found`, zero ends up in `/proc/self` and we do the nightmare sequence.
