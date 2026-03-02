@@ -1,3 +1,9 @@
+
+> _There is nothing to writing. All you do is sit down at a typewriter and bleed._
+> -Ernest Hemingway
+
+---
+
 The authors of this book are not religious, nor are we opposed in principle to it.
 
 What we are is developers.
