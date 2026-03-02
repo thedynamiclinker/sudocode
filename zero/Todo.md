@@ -1,4 +1,8 @@
 
+> _The first draft of anything is shit._
+> -Ernest Hemmingway.
+
+---
 ## Simple Concrete Todos
 
 - [ ] Read Mossad vs not-Mossad and mine it for quotes and principles. Work dev security is absurd and must be made fun of.

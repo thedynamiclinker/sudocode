@@ -1,6 +1,5 @@
 
-> _All language is but a poor translation._
-> -Franz Kafka
+![[zero/man/9-kernel-internals/sys/include/assange-saint-exupery.png]]
 
 ---
 
