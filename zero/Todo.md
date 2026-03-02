@@ -1,7 +1,4 @@
 
-> _You sensed that you should be following a different path, a more ambitious one, you felt that you were destined for other things but you had no idea how to achieve them and in your misery you began to hate everything around you._
-> -Dostoyevsky
-
 ## Simple Concrete Todos
 
 - [ ] Read Mossad vs not-Mossad and mine it for quotes and principles. Work dev security is absurd and must be made fun of.
@@ -46,7 +43,12 @@
 - Zero says "WHAT?!"
 - This leads to _Act 1: The Education of One._
 
+---
+
 ## Act 1: The Education of One
+
+> _You sensed that you should be following a different path, a more ambitious one, you felt that you were destined for other things but you had no idea how to achieve them and in your misery you began to hate everything around you._
+> -Dostoyevsky
 
 - Everything has gone wrong while Zero was out.
 - One has a job.
@@ -67,11 +69,16 @@
 - This is where zero shows her Hello Corporation and The Root Enterprise.
 - This is where zero begins the physical analogies that help her understand.
 
+
+---
+
 ## Act @2: The AI Apocalypse
 
 - Superintelligence arrives in the form of @2.
 - Humanity resets the clock to 0x00 P.A. as of 2017, birth of Transformers.
 - Everything starts to suck.
+
+---
 
 ## Act Ξ: Getting Root
 
@@ -79,8 +86,8 @@
 - This is where we decide that the principles are about more than development.
 - The book zero & one decide to write will be a bible for the half of life that we spend inside devices.
 - The "Programming is Talking" principle and physical analogies get elaborated here.
-- [[Hello World]] is the first chapter of the bible that Zero and One write.
 
+- [[Hello World]] is the first chapter of the bible that Zero and One write. Rip off the bit after Sumerian Dog Joke section and cat some stuff onto the end that makes it relevant to Act 3.
 
 - Zero and One write the book by reverse engineering the bible format.
 - Zero and One learn that 0x00 P.A. began for different reasons than we thought.
