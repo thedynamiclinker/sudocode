@@ -2,6 +2,30 @@
 > _You sensed that you should be following a different path, a more ambitious one, you felt that you were destined for other things but you had no idea how to achieve them and in your misery you began to hate everything around you._
 > -Dostoyevsky
 
+## Simple Concrete Todos
+
+- [ ] Read Mossad vs not-Mossad and mine it for quotes and principles. Work dev security is absurd and must be made fun of.
+- [ ] Bother eric raymond on twitter, he followed you overnight, plus he's a fucking legend and absolutely must be harassed with assorted DMs about The Book and looped in on what we're up to. (Tl;dr: When being zelda, need bearded man in cave to say "it's dangerous to go alone, take this" and give you a sword. That man is esr. Idk what the sword is. Maybe it's a DM or two, we'll see. But he's definitely that guy.)
+
+---
+
+# How to escape lost+found
+
+## lost+found
+
+- [ ] [[lost+found/2/3|/lost+found/2/3]]: don't finish this. lost+found should be fragments.
+- [ ] [[lost+found/2/4|/lost+found/2/4]]: don't finish this. lost+found should be fragments.
+- [ ] [[lost+found/3/5|/lost+found/3/5]]: don't finish this. lost+found should be fragments.
+- [ ] [[lost+found/4/2|/lost+found/4/2]]: don't finish this. lost+found should be fragments.
+- [ ] [[lost+found/4/3|/lost+found/4/3]]: don't finish this. lost+found should be fragments.
+- [ ] [[lost+found/5/3|/lost+found/5/3]]: don't finish this. lost+found should be fragments.
+- [ ] [[lost+found/5/4|/lost+found/5/4]]: don't finish this. lost+found should be fragments.
+- [ ] [[lost+found/5/5|/lost+found/5/5]]: don't finish this. lost+found should be fragments.
+
+---
+
+# The Plan
+
 ## Act 0: In Search of Lost Roots (Rough Draft Done)
 
 - At some point in `lost+found`, zero ends up in `/proc/self` and we do the nightmare sequence.
@@ -70,17 +94,3 @@
 - The book ends as an open ended riddle.
 - Attentive readers can get root on the book via `/sbin/sudo`.
 - Getting root gives the reader access to the We vault, On the Lamb, and the secret teachings.
-
-
----
-
-## lost+found
-
-- [ ] [[lost+found/2/3|/lost+found/2/3]]: don't finish this. lost+found should be fragments.
-- [ ] [[lost+found/2/4|/lost+found/2/4]]: don't finish this. lost+found should be fragments.
-- [ ] [[lost+found/3/5|/lost+found/3/5]]: don't finish this. lost+found should be fragments.
-- [ ] [[lost+found/4/2|/lost+found/4/2]]: don't finish this. lost+found should be fragments.
-- [ ] [[lost+found/4/3|/lost+found/4/3]]: don't finish this. lost+found should be fragments.
-- [ ] [[lost+found/5/3|/lost+found/5/3]]: don't finish this. lost+found should be fragments.
-- [ ] [[lost+found/5/4|/lost+found/5/4]]: don't finish this. lost+found should be fragments.
-- [ ] [[lost+found/5/5|/lost+found/5/5]]: don't finish this. lost+found should be fragments.
