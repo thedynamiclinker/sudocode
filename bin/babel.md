@@ -1,5 +1,6 @@
 
 > _In physics, if there's something you don't understand, you can always hide behind the uncharted depths of nature. You can always blame God. You didn't make it so complex yourself. But if your program doesn't work, there's no one to hide behind. A 0 is a 0, a 1 is a 1._
+> 
 > -Edsger Dijkstra
 
 ---
