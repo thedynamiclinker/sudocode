@@ -1,6 +1,6 @@
+
 ## About Us
 
-![[security-is-here-to-help-001.png]]
 
 ![[security-is-here-to-help-002.png]]
 
@@ -19,6 +19,8 @@
 ![[security-your-privacy-is-our-data.png]]
 
 ![[security-is-here-to-help-005.png]]
+
+![[security-is-here-to-help-001.png]]
 
 ![[security-sectigo.png]]
 
@@ -172,11 +174,12 @@
 
 ---
 
-_Powered by P ® i.e., st.ly_
+_(Narrator: Several months later...)_
 
 ---
 
 ![[security-is-here-to-help-004.png]]
+
 
 [^1]: The "Alpha-Omega" cipher.
 
