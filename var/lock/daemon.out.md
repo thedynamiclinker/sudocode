@@ -32,4 +32,4 @@ _(Narrator: 0 sits with 1 for a while longer.)_
 
 0: I know. You should get some sleep.
 
-goto: [[sleep|sleep]]
+goto: [[root/bin/sleep|sleep]]

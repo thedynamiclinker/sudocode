@@ -1,9 +1,21 @@
 
-## /run/media/root/mistress
+## /bin/man
 
-Here the characters visit 0's external hard drive.
+/bin/man is [[Hello World]], the first chapter of the bible that Zero and One write together.
 
-## /run/user/1/gvfs/mtp\:host\=\*\*\*\_\*\*\*\_Gynoid\_PVSXZSHHN0P/
+## /bin/ed
+
+/bin/ed is a dialogue with the editor.
+
+This dialogue has the editor suggesting they cut out the section on `ed` since it's no longer relevant these days.
+
+Zero objects and explains The Nth Stair (excerpt from page 17 of BMC)
+
+Explain that `ed` only makes sense as an editor _if you're using a type writer as stdout_.
+
+Use this to segue into some ancient Unix lore.
+
+## /run/user/1/gvfs/mtp\:host\=\*\*\*\_\*\*\*\_Gynoid\_0MGWTF1/
 
 Here the characters visit 1's phone and decide it needs some work.
 
@@ -54,3 +66,7 @@ drwxrwx--x    2 shell  shell        40 2022-12-31 18:00 tmp
 drwxr-xr-x   17 root   shell       367 2021-12-31 18:00 vendor
 drwxr-xr-x    4 root   root         57 2021-12-31 18:00 vendor_dlkm
 ```
+
+## /run/media/root/mistress
+
+Here the characters visit 0's external hard drive.

@@ -31,4 +31,4 @@ And the Authors decided that was enough work for one week.
 And they passed control to userspace.
 ```
 
-goto: [[0]]
+goto: [[root/0]]
