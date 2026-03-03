@@ -1,12 +1,8 @@
 
-> _The first draft of anything is shit._
-> -Ernest Hemmingway.
-
----
 ## Simple Concrete Todos
 
 - [ ] Read Mossad vs not-Mossad and mine it for quotes and principles. Work dev security is absurd and must be made fun of.
-- [ ] Bother eric raymond on twitter, he followed you overnight, plus he's a fucking legend and absolutely must be harassed with assorted DMs about The Book and looped in on what we're up to. (Tl;dr: When being zelda, need bearded man in cave to say "it's dangerous to go alone, take this" and give you a sword. That man is esr. Idk what the sword is. Maybe it's a DM or two, we'll see. But he's definitely that guy.)
+- [ ] Bother eric s raymond on twitter, he followed you overnight, plus he's a fucking legend and absolutely must be harassed with assorted DMs about The Book and looped in on what we're up to.
 
 ---
 
@@ -22,6 +18,8 @@
 - [ ] [[lost+found/5/3|/lost+found/5/3]]: don't finish this. lost+found should be fragments.
 - [ ] [[lost+found/5/4|/lost+found/5/4]]: don't finish this. lost+found should be fragments.
 - [ ] [[lost+found/5/5|/lost+found/5/5]]: don't finish this. lost+found should be fragments.
+
+Get the fuck out of lost+found man you've been wandering in the desert for _months!_
 
 ---
 
