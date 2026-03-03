@@ -2,7 +2,7 @@
 ## Simple Concrete Todos
 
 - [ ] Read Mossad vs not-Mossad and mine it for quotes and principles. Work dev security is absurd and must be made fun of.
-- [ ] Bother eric s raymond on twitter, he followed you overnight, plus he's a fucking legend and absolutely must be harassed with assorted DMs about The Book and looped in on what we're up to.
+- [ ] Move commented-out humpty dumpty thing out of lost+found/2/3 and into somewhere in /etc and then reference it in /usr/bin/ed during the editor dialogue where we talk about cutting stuff.
 
 ---
 
