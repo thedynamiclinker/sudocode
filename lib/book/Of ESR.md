@@ -6,3 +6,5 @@
 
 > _The 'hacker culture' is actually a loosely networked collection of subcultures that is nevertheless conscious of some important shared experiences, shared roots, and shared values. It has its own myths, heroes, villains, folk epics, in-jokes, taboos, and dreams. Because hackers as a group are particularly creative people who define themselves partly by rejection of 'normal' values and working habits, it has unusually rich and conscious traditions for an intentional culture less than 50 years old._
 > -Eric S. Raymond, The Jargon File
+
+Todo: Add more quotes here, and more talks to the /dev directory.
