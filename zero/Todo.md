@@ -1,6 +1,8 @@
 
 ## Simple Concrete Todos
 
+_GET TO UNIX QUICK!_
+
 - [ ] Read Mossad vs not-Mossad and mine it for quotes and principles. "Work-only dev" security is absurd and must be made fun of.
 
 - [ ] Move commented-out humpty dumpty thing out of lost+found/2/3 and into somewhere in /etc and then reference it in /usr/bin/ed during the editor dialogue where we talk about cutting stuff.
