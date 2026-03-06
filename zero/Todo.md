@@ -1,8 +1,13 @@
 
 ## Simple Concrete Todos
 
-- [ ] Read Mossad vs not-Mossad and mine it for quotes and principles. Work dev security is absurd and must be made fun of.
+- [ ] Read Mossad vs not-Mossad and mine it for quotes and principles. "Work-only dev" security is absurd and must be made fun of.
+
 - [ ] Move commented-out humpty dumpty thing out of lost+found/2/3 and into somewhere in /etc and then reference it in /usr/bin/ed during the editor dialogue where we talk about cutting stuff.
+
+- [ ] Get in touch with Rob Landley.
+
+- [ ] Find old python concurrent "hello world" bugfix from 2021 era, and turn it into a dialogue. It's a great illustration of the principle "Move IO up the stack," and concurrency (paradoxically) behaves a lot like IO in this respect.
 
 ---
 
@@ -19,7 +24,7 @@
 - [ ] [[lost+found/5/4|/lost+found/5/4]]: don't finish this. lost+found should be fragments.
 - [ ] [[lost+found/5/5|/lost+found/5/5]]: don't finish this. lost+found should be fragments.
 
-Get the fuck out of lost+found man you've been wandering in the desert for _months!_
+Get the hell out of lost+found man, you've been wandering in the desert for basically 40 years.
 
 ---
 

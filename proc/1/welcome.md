@@ -466,7 +466,7 @@ So what's the first prose, and what's the Book of J?
 
 Well, J stands for "Yahwist."
 
-(I know I know. It's because the word "Yahwist" in German has a J instead of a Y.)
+(Good question. It's because the word "Yahwist" in German has a J instead of a Y.)
 
 The Yahwist (or Jahwist (aka, J)) is the name that bible scholars gave to the anonymous Author of the earliest parts of the Old Testament.
 
@@ -612,4 +612,4 @@ You'll never look at the bible the same way again.
 
 Love always,
 
--J's son.
+-Son of J
