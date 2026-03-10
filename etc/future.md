@@ -38,5 +38,5 @@ Mfw.
 \[Footnote 6: The long form of the currency symbol ₪, arising from a combination of the first Hebrew letters of the words shekel (ש) and ẖadash (ח) (new).\]
 
 \[Footnote 7: ARMS and LEGS are guaranteed by FNMA and FHLMC in the event of non-repayment or eventual cancellation.\]
-```
 
+![[onan.jpg]]
