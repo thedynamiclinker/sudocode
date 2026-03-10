@@ -3,7 +3,7 @@
 零：
 
 ```sh
-grep -Po '(?<=: ).*?(?= 64)' <(file $(readlink -f $0))
+grep -Po '(?<=: ).*?(?= 64)' <(file $(readlink -f $(which $0)))
 ```
 
 /proc/self/exe
