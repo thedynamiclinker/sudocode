@@ -22,7 +22,7 @@ Footstep, heartbeat, breath.
 We are walking.  
 We have always walked.
 
-The land remembers our feet.  
+The land remembers our feet.
 The land remembers our names.
 
 Hear it.

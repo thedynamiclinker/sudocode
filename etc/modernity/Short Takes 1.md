@@ -1,6 +1,7 @@
 
-> You have heard it said that process makes it better.
-> But I say to you, Worse is Better.
+> You have heard it said
+> that process makes it better.
+> But I say to you, worse is better.
 > 
 > 一 /dev/zero, sermon on the /mnt
 
@@ -18,6 +19,6 @@ _(Narrator: 0 & 1 sit side-by-side, staring into the middle distance toward a mi
 
 0: \[RESPONSE REDACTED\]
 
-1: _(Laughs reluctantly)_
+1: _(Laughs hysterically)_
 
 ---

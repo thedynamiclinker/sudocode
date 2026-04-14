@@ -14,4 +14,3 @@
 
 ---
 
-TODO: This file is 0 and 1 talking about how "writing a bible" doesn't require the author(s) to "be religious" in any standard sense, or even at all. Once you start writing, shit starts happening. Citation: Life.

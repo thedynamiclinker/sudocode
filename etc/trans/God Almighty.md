@@ -1,6 +1,3 @@
-![[exodus-6-el-shaddai-01.png]]
-
-![[exodus-6-el-shaddai-02.png]]
 
 ```
 אל (El)
@@ -31,3 +28,7 @@ Proper noun
 	שַׁדי (shaddáy)
 	Epithet for God, often translated as "Almighty"
 ```
+
+![[exodus-6-el-shaddai-01.png]]
+
+![[exodus-6-el-shaddai-02.png]]

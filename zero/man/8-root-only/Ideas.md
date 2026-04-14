@@ -1,8 +1,4 @@
 
-## /bin/man
-
-/bin/man is [[Hello World]], the first chapter of the bible that Zero and One write together.
-
 ## /bin/ed
 
 /bin/ed is a dialogue with the editor.

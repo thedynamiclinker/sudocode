@@ -1,3 +1,5 @@
+## What is the Mind
+
 If we take everything we've learned from modern A.I. since the transformation,¹ but throw away all the models, what have we learned?
 
 What was fundamentally different between the architectures before⁵ and after?

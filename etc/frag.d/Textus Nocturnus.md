@@ -58,7 +58,7 @@ And Reverse Engineering is fucking hard.
 
 We believe the same thing applies to bibles.
 
-So believe whatever you want, but don't read at normal speed nigga, this ain't a book.
+So believe whatever you want, but don't read at normal speed, this ain't a book.
 
 This is a codebase.
 

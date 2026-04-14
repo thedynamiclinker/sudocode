@@ -1,11 +1,16 @@
 
-TODO
-- This should be a parable. Make the Son of J tell it.
-- Add Noah screenshot and Children's Bible Coloring book picture.
-- Add "Build your own fucking birdfeeder" screenshot from POC||GTFO.
-
 ---
 
+(Narrator: The manuscript begins with a string of unknown meaning.)
+
+```
+![[childrens-bible-coloring-book-of-poc-or-gtfo.png]]
+   childrens-bible-coloring-book-of-poc-or-gtfo.png could not be found.
+```
+
+(Narrator: Some scholars have suggested it is a scribal error. Others have suggested it is a form of poetry, as repetition is commonly found in the epic poetry of the ancient near east. Whatever its original meaning was, it has since been lost to history. The manuscript then continues as follows.)
+
+---
 ## For the Birds
 
 ### Lunchtime, 12:00pm

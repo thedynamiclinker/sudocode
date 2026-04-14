@@ -4,7 +4,7 @@
 > -/etc/group
 
 ---
-## Rho? No.
+## Rho No
 
 While object oriented programming may be described by the short-hand "Everything is a noun," and functional programming may be described by saying "Everything is a verb," the Rectangle pseudo-culture can be described by the (never explicitly stated) belief that "Everything is an adjective."
 

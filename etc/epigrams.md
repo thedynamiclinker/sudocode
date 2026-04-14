@@ -1,16 +1,8 @@
-epi. (prefix)
-1. From Greek ἐπί, "on top of, upon, near to, in addition".
 
-pro. (prefix)
-1. From Latin, can function as a prefix or a standalone word. As a prefix, "pro-" means "forward," "forth," or "in front of."
-
-gram. (noun)
-1. From the Greek _grámma_ ("a letter," "something written or drawn.")
-
-program. (verb, noun)
+program (verb, noun)
 1. Late Latin from Greek _programma_, from _prographein_ "write publicly," from _pro_ "before" + _graphein_ "write."
 
-epigram. (noun)
+epigram (noun)
 1. Late Middle English: from French _épigramme_, or Latin _epigramma_, from Greek, from _epi_ "upon, in addition."
 
 ---
