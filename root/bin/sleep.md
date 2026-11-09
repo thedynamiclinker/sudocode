@@ -45,7 +45,7 @@
 
 0: A group?
 
-1: I've been thinking about it every since we read /etc/group.
+1: I've been thinking about it ever since we read /etc/group.
 
 0: You're already kind of a member of some of those groups. Remember? The μ & λ people. That's our tribe. You're at least a little bit of both of those.
 
